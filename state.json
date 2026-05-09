@@ -57,7 +57,16 @@
     "2b584c98e4b0bcfd": "2026-05-09T14:07:27.906604+00:00",
     "c865c4a265835ecf": "2026-05-09T14:07:27.906604+00:00",
     "d8760d2da04d8b3d": "2026-05-09T14:07:27.906604+00:00",
-    "c52c5824b6641cfe": "2026-05-09T14:07:27.906604+00:00"
+    "c52c5824b6641cfe": "2026-05-09T14:07:27.906604+00:00",
+    "7c7c51d9df6b0eec": "2026-05-09T14:21:10.201510+00:00",
+    "3995f91eeab583dd": "2026-05-09T14:21:10.201510+00:00",
+    "b74e8a1125c57648": "2026-05-09T14:21:10.201510+00:00",
+    "dc63139cb3e33c38": "2026-05-09T14:21:10.201510+00:00",
+    "b5dd19ab7f0c6e01": "2026-05-09T14:21:10.201510+00:00",
+    "ea519b9c7ed4912c": "2026-05-09T14:21:10.201510+00:00",
+    "16a8920ee8e86a8b": "2026-05-09T14:21:10.201510+00:00",
+    "a5d728e749396690": "2026-05-09T14:21:10.201510+00:00",
+    "2cf0e3d9601a1103": "2026-05-09T14:21:10.201510+00:00"
   },
   "yesterday_items": [
     {
@@ -101,6 +110,46 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uQmJka1pjUm5QMExVYlRRTF9POVZsZ21UYzVyazVfcm1tX3R3Z0tOSEpXdjFwWGhQSjZoZFZDeS1kYlBHWnRqTnlXTE9ILUJGa0lV?oc=5",
       "pub": "2026-05-09T05:48:00+00:00",
       "id": "c52c5824b6641cfe"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Indian apparel exporters have 10 weeks before the EU's unsold goods ban hits — is anyone actually prepared?",
+      "link": "https://www.reddit.com/r/IndiaBusiness/comments/1t7u9kq/indian_apparel_exporters_have_10_weeks_before_the/",
+      "pub": "2026-05-09T04:08:08+00:00",
+      "id": "b5dd19ab7f0c6e01"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Hard ice cream. Theres only 2 flavors available.",
+      "link": "https://www.reddit.com/r/notinteresting/comments/1t7pumg/hard_ice_cream_theres_only_2_flavors_available/",
+      "pub": "2026-05-09T00:40:03+00:00",
+      "id": "ea519b9c7ed4912c"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Technical indicators suggest a structural copper deficit",
+      "link": "https://www.reddit.com/r/GreenWicks/comments/1t7asn9/technical_indicators_suggest_a_structural_copper/",
+      "pub": "2026-05-08T15:11:06+00:00",
+      "id": "16a8920ee8e86a8b"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "New advisory board appointment at British Columbia copper project",
+      "link": "https://www.reddit.com/r/TickerTalkByLiam/comments/1t7aeuf/new_advisory_board_appointment_at_british/",
+      "pub": "2026-05-08T14:57:55+00:00",
+      "id": "a5d728e749396690"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Copper inventories fall as major mine delays continue",
+      "link": "https://www.reddit.com/r/GreenWicks/comments/1t79oom/copper_inventories_fall_as_major_mine_delays/",
+      "pub": "2026-05-08T14:31:34+00:00",
+      "id": "2cf0e3d9601a1103"
     }
   ]
 }
