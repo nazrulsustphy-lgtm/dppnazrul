@@ -4,8 +4,7 @@ on:
   schedule:
     # Instant alerts: 8am, 2pm, 8pm Bangladesh time = 02, 08, 14 UTC
     - cron: '0 2,8,14 * * *'
-    # Daily summary: 8am Bangladesh time = 02:00 UTC
-    # Note: this runs alongside the 02 UTC instant; summary uses --summary flag via env detection
+    # Daily summary: 8:05am Bangladesh time = 02:05 UTC
     - cron: '5 2 * * *'
   workflow_dispatch:
     inputs:
@@ -41,7 +40,11 @@ jobs:
         id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "flag=${{ inputs.mode == 'summary' && '--summary' || '' }}" >> $GITHUB_OUTPUT
+            if [ "${{ inputs.mode }}" = "summary" ]; then
+              echo "flag=--summary" >> $GITHUB_OUTPUT
+            else
+              echo "flag=" >> $GITHUB_OUTPUT
+            fi
           elif [ "${{ github.event.schedule }}" = "5 2 * * *" ]; then
             echo "flag=--summary" >> $GITHUB_OUTPUT
           else
