@@ -2,8 +2,21 @@ name: DPP News Monitor
 
 on:
   schedule:
+    # Instant alerts: 8am, 2pm, 8pm Bangladesh time = 02, 08, 14 UTC
     - cron: '0 2,8,14 * * *'
+    # Daily summary: 8am Bangladesh time = 02:00 UTC
+    # Note: this runs alongside the 02 UTC instant; summary uses --summary flag via env detection
+    - cron: '5 2 * * *'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: true
+        default: 'instant'
+        type: choice
+        options:
+          - instant
+          - summary
 
 jobs:
   monitor:
@@ -24,11 +37,22 @@ jobs:
         run: |
           pip install feedparser requests
 
+      - name: Determine run mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "flag=${{ inputs.mode == 'summary' && '--summary' || '' }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "5 2 * * *" ]; then
+            echo "flag=--summary" >> $GITHUB_OUTPUT
+          else
+            echo "flag=" >> $GITHUB_OUTPUT
+          fi
+
       - name: Run scraper
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scraper.py
+        run: python scraper.py ${{ steps.mode.outputs.flag }}
 
       - name: Commit updated state
         run: |
