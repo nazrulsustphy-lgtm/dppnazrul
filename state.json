@@ -282,7 +282,305 @@
     "99df1027771653a2": "2026-05-11T16:34:30.433718+00:00",
     "353e4144f113ee10": "2026-05-11T16:34:30.433718+00:00",
     "2fb47ec4b700a3ff": "2026-05-11T16:34:30.433718+00:00",
-    "897c54a6bc15fd92": "2026-05-11T16:34:30.433718+00:00"
+    "897c54a6bc15fd92": "2026-05-11T16:34:30.433718+00:00",
+    "af86fad0c3dbcf9f": "2026-05-12T10:34:44.878813+00:00",
+    "fdb41866632afa69": "2026-05-12T10:34:44.878813+00:00",
+    "7da66b38c4c5e677": "2026-05-12T10:34:44.878813+00:00",
+    "40561739b54a2e46": "2026-05-12T10:34:44.878813+00:00",
+    "7b10b65aaf78e99f": "2026-05-12T10:34:44.878813+00:00",
+    "f7c2c769cb2bf3bb": "2026-05-12T10:34:44.878813+00:00",
+    "956663ee6e7e4918": "2026-05-12T10:34:44.878813+00:00",
+    "e5e6fa6d2f5c0edb": "2026-05-12T10:34:44.878813+00:00",
+    "64ac640d9972d800": "2026-05-12T10:34:44.878813+00:00",
+    "d3820fbf91c1a145": "2026-05-12T10:34:44.878813+00:00",
+    "20d366f7ef37783a": "2026-05-12T10:34:44.878813+00:00",
+    "9b68035fe9e34a29": "2026-05-12T10:34:44.878813+00:00",
+    "2a1ef959c4ee128d": "2026-05-12T10:34:44.878813+00:00",
+    "f308fd87260ad525": "2026-05-12T10:34:44.878813+00:00",
+    "ab7cefa58a3c2d30": "2026-05-12T10:34:44.878813+00:00",
+    "4e10599963bb28ce": "2026-05-12T10:34:44.878813+00:00",
+    "8bab68c8ebf8d46c": "2026-05-12T10:34:44.878813+00:00",
+    "812cc44b299b2633": "2026-05-12T10:34:44.878813+00:00",
+    "0250c880efe722a3": "2026-05-12T10:34:44.878813+00:00",
+    "09c322d939a7b30f": "2026-05-12T10:34:44.878813+00:00",
+    "5f5d3b3a8b7e2f93": "2026-05-12T10:34:44.878813+00:00",
+    "1447ecd247170f10": "2026-05-12T10:34:44.878813+00:00",
+    "c4062185f8fd35d9": "2026-05-12T10:34:44.878813+00:00",
+    "ad4fc1fe2639a142": "2026-05-12T10:34:44.878813+00:00",
+    "5fd4e9ad1eb5572a": "2026-05-12T10:34:44.878813+00:00",
+    "67f185a48c808c20": "2026-05-12T10:34:44.878813+00:00",
+    "142938d9b2889c92": "2026-05-12T10:34:44.878813+00:00",
+    "5957c6ef21d62a15": "2026-05-12T10:34:44.878813+00:00",
+    "548cd8d9d6ba37e9": "2026-05-12T10:34:44.878813+00:00",
+    "532b8761fab06656": "2026-05-12T10:34:44.878813+00:00",
+    "408551f5e69ae930": "2026-05-12T10:34:44.878813+00:00",
+    "3dfb4f09b1eb9b7e": "2026-05-12T10:34:44.878813+00:00",
+    "0d74f1306f6113c3": "2026-05-12T10:34:44.878813+00:00",
+    "a66753b442802a17": "2026-05-12T10:34:44.878813+00:00",
+    "0885dbdac85df07c": "2026-05-12T10:34:44.878813+00:00",
+    "54e4d73048e7aa89": "2026-05-12T10:34:44.878813+00:00",
+    "3214e0c886c8a235": "2026-05-12T10:34:44.878813+00:00",
+    "49a1d56dae64d995": "2026-05-12T10:34:44.878813+00:00",
+    "74a42fb53f824806": "2026-05-12T10:34:44.878813+00:00",
+    "50c658162fcdec35": "2026-05-12T10:34:44.878813+00:00",
+    "48f9afe46931ecfb": "2026-05-12T10:34:44.878813+00:00",
+    "8207f672dd469c83": "2026-05-12T10:34:44.878813+00:00",
+    "bc5c1fdfd851c732": "2026-05-12T10:34:44.878813+00:00",
+    "08f9c3c1af875a59": "2026-05-12T10:34:44.878813+00:00",
+    "60e97b9646b48251": "2026-05-12T10:34:44.878813+00:00",
+    "826336128de100d5": "2026-05-12T10:34:44.878813+00:00",
+    "e07cbe2f5c7204c4": "2026-05-12T10:34:44.878813+00:00",
+    "f1888cf1f1c5baeb": "2026-05-12T10:34:44.878813+00:00",
+    "d5620a022975ad71": "2026-05-12T10:34:44.878813+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Europe turns compliance into a global trade weapon - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXk4eWY4SmVJQlgzY3dsOWRmMUhPVHNzYllYRWZZaEJDVWJBZWc3Y3lsaVpqem45dmRVeWlzVE1DSDZNYVkxTkh3bld1MnFOUFFoRll5OWtwVTdXQzlHSEtoWFR0ek1xZW50STgtNVJxa2lwQURiSDNFLXRvenNYWVNQR3dSanZ2bktyV0pMTGVyV2FLaWlFOTRTOFl2YTF0bm16Y1NERlVZWEVyUXNIVHJqcnJNYTVIbUppNk53?oc=5",
+      "pub": "2026-05-12T06:41:25+00:00",
+      "id": "1447ecd247170f10"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Europe Baby Hooded Towel Set - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEtVcmZjTmdzeFZaVDZWNFZMRmJYWk9tT3dmR1h0NXNlVjE4WVZvT0R0dUsyYmxDMEJwb0JBa1FWd2lIbkd6OG9tdWIwQW5DYXhCV0FfREVIaEdZV2xnNU5tV1lDUk1tRnpyMHNjQ0VBS1Etako0c3lHa2RNTzFvdGJSRXFyMm0teFRETldDSFZVTTlNVUZEVVZvQld0VTZ0NDZCNmZIQmJUcE9sWlYxTnVMZGF0N2c?oc=5",
+      "pub": "2026-05-12T02:16:56+00:00",
+      "id": "c4062185f8fd35d9"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Europe Baby Hooded Towel Set - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEtVcmZjTmdzeFZaVDZWNFZMRmJYWk9tT3dmR1h0NXNlVjE4WVZvT0R0dUsyYmxDMEJwb0JBa1FWd2lIbkd6OG9tdWIwQW5DYXhCV0FfREVIaEdZV2xnNU5tV1lDUk1tRnpyMHNjQ0VBS1Etako0c3lHa2RNTzFvdGJSRXFyMm0teFRETldDSFZVTTlNVUZEVVZvQld0VTZ0NDZCNmZIQmJUcE9sWlYxTnVMZGF0N2c?oc=5",
+      "pub": "2026-05-12T02:16:56+00:00",
+      "id": "c4062185f8fd35d9"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Dreibeiniger Hocker wackelt nicht (oder so)",
+      "link": "https://www.reddit.com/r/DINgore/comments/1taw659/dreibeiniger_hocker_wackelt_nicht_oder_so/",
+      "pub": "2026-05-12T09:15:20+00:00",
+      "id": "ad4fc1fe2639a142"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Who am I?",
+      "link": "https://www.reddit.com/r/FridgeDetective/comments/1takbvy/who_am_i/",
+      "pub": "2026-05-11T23:35:51+00:00",
+      "id": "5fd4e9ad1eb5572a"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Digitaal product passport (DPP)",
+      "link": "https://www.reddit.com/r/SurveyCircle/comments/1tagmea/digitaal_product_passport_dpp/",
+      "pub": "2026-05-11T21:10:08+00:00",
+      "id": "67f185a48c808c20"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "what i think L/N and MMJ represent",
+      "link": "https://www.reddit.com/r/ProjectSekai/comments/1ta9tnd/what_i_think_ln_and_mmj_represent/",
+      "pub": "2026-05-11T17:16:53+00:00",
+      "id": "142938d9b2889c92"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Maharashtra, Karnataka, Delhi, Haryana, TN host 85% of EU firms - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHpwcE9ZX25welQ1eFVEZTdkNmV5S1NhSE1mM2t0VHNYaW1yNFNTWVpaUHRVR24tclVaTndPM21nSFl2Z19yczJnOHpyUVZJLTlHeW5fM0E2TFJTNVN3cTQySUl2bUtveHpESWVwWWVGZ0pQMDhaYy1mNFlxWVljVGM5TG83enNDNjdSTEE3a1A4VGJTRElOMGZrN0pUeGl6YjAzSktUUERZOWhGbW1ZTk5TczJZV3pwdjNxN01JdmV1dWpVenVqdw?oc=5",
+      "pub": "2026-05-11T11:51:21+00:00",
+      "id": "5957c6ef21d62a15"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA signs twin supply chain deals - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzJteWVhYlVUU0k2NWh4MGN3cDlOcnR5aEtzb2N5X0pTbkZmV3MyTDdHczZlU3ppbmhBUFJpbmUxX1BVMjRPN3dEbVBuU0xHbElkSHc1OXFtRjhReXpCR2l6bU8wVGdQQ29zcHdYY056cmtTSUFKM1V6TG1zaGZuNUpWakd0X0FvRTFRbHZvZWZpV25WdndUSlRrQ0FyT1FsMlNZRmJXbTZKcUgw?oc=5",
+      "pub": "2026-05-12T09:58:54+00:00",
+      "id": "548cd8d9d6ba37e9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Bangladesh BGMEA, Germany's GIZ sign MoU for green RMG transformation - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU9wcHluTzB6UEMwWEY5dS1Tcm4xd2FNN09JU2l5V0g1T3JhYXlwVHJ3alE1U0NWaXZqN1Joc2hiMGk5aVlZVGpZLVp2UU1hWTRpd1dfYlpEdTRnbGJPTDRZRHQ2dHR3LS05MWtsYjRxVWg1V0ZyZUFsR2FxUUptU3ZaTnBOOGtvcGdnOTd1RG9fUzJGd1M1THJtd0ppajd6eTNtZ1FQaElVS1laMUliOFRRSmlKdllNSUE1dDFmMTY1ajNKWjFmS21OeWlMbE5VTFYwYXJnVzcyMlBnajhFNkV3?oc=5",
+      "pub": "2026-05-12T07:26:07+00:00",
+      "id": "532b8761fab06656"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA signs MoU with Open Supply Hub to boost supply chain transparency - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVU51a0RDVnF0TXA3Z3loUmtnTHA3MnhsSmtCbjVsb0UzRlBYbjhXVEQtODVRZElSUDRuWEJnYlpKMzJFZEJieUFhVVlpMERSYVcyOTkxcWh5MlUxSktZTGl4aDA2bU5GMkoyRUVIUlF5RjZSUlBWb3VYREozNUswOUtuUksySDU0WmNoX0ViQ3RxX3VWMVpvVzdXa3lhMGZ3a3VzVDdB?oc=5",
+      "pub": "2026-05-12T09:35:40+00:00",
+      "id": "408551f5e69ae930"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, GIZ forge strategic partnership to accelerate green transformation of apparel sector - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWVRYW9SdnRxRE80M05QX3hXY3NIalpIZzBrazVGYWJvQ3dqQU5lZ2U2VnB6TFloRWhiZ3gwRkpJSmxjWVNza1h5RkZ0RDdNRU9WOWwxbnlJdWNUQXUySHp5VU9UVnRIMjVZcl84OUxqYUJBRnBqWlRJeWV0NW5SMW9TMnFodDBiWjZ4MzMwUmZOemdlR29oUnkxWkc0V3JiWnI5R0w0b0YxaUh0WWpuaXpYdWQ0RUlRYnpqaQ?oc=5",
+      "pub": "2026-05-11T11:45:31+00:00",
+      "id": "3dfb4f09b1eb9b7e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপ ও অপ্রচলিত বাজারে পোশাক রপ্তানিতে বড় ধাক্কা - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CMEdMemc4Mnd3VEZtc2QzWDNpRzBjWm9qaWFHa0NuOUxSd3c2d2RnTG1WVG5qU1NBM1RiVklOcWswZHh6aG9aWEV1WDc4YU1qeHc?oc=5",
+      "pub": "2026-05-12T09:00:57+00:00",
+      "id": "0d74f1306f6113c3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউতে পোশাক রপ্তানিতে ধাক্কা, সামান্য বেড়েছে যুক্তরাষ্ট্রে - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMixAVBVV95cUxNenF0SEFtWWM4bEZ4R2VsVDFvY3hPSEZ4RklkSWdFLUN3Vkl6UlhVcjJjMi01RVptUElGaHlzUEtyRGt2bkk3R2JaV1Y2ajFiTzFXcW1WcDFkcVlFUG1OU3l0T0d3SFE5TnYwT2dkb2VNY19MZ3JrY3B4RDZTVjh4Vm1nbzY0UVpNSEdrWlR5ZFI0ekZKWmM5Rkx5WTdBX1haXzJzcnNLU0ljanpvdUVrRnNpRGp1TVlDWWJKb1FHVllHcVlOUmZ1bDBOYjV3Njd1cnB0U2JVNEJoUHcwUkhqQlF4MzZ6Vl9ZdE1SSUh3ZE93YWxic09xY2VWcjl2d3JERW1YMjhMYVluT2lIeWNrdVd3TFVHeHoxeTZrTGI4QS1TcHEwaFFDS0ZINnNtUGpROWlxQVFKVk10ZVNZekJLcC1tM2xieG03eGh4aVVRS292WU5lNEstb3NldGVmUnRUM2hDc3FCaGFuVzdfNXBxLUtPbU9BMkcwc2ZCZGs4WG1pOHI0OUtzaUxVZTduOWRERjl5TnRlcW9YVWE5MnlGdHVmeTlSbHA1WGpPMnlfdFNGb1N6Y016aTdfaHAzQ0hEdWZ2d0lacWtjVXBUUkFnUGNITERIN2JFNDl0c3FNQkVKRU5TMmpIcnhSVHZZa21rRXNObldjcHhRQ0lab2Fvb2R4aWw5NTlYWEFncnRSZHN5cFZSNmZOLTRoOEFWRDhGU1M1SG9CNnJCcG5raFhlQ2pJcjVyMjBPQVFWdG9zZG04Q05yTVNIbW1oTkh3YTY5QkR1cjB5RG1yVjJxYmpNVUFNUi1nNTNZVlBrQlppQnRpZEpaMDktTTRtZl8tTG9senhCSGd6WUtQRWVUWHB6NTJ6OHY4UkVPU09SYTdzcEQtUy1JMWhkMmNILWNOODVkSU95REJEYUx3ZU1IMTFTYzRvV3E?oc=5",
+      "pub": "2026-05-12T07:35:11+00:00",
+      "id": "a66753b442802a17"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপ ও অপ্রচলিত বাজারে পোশাক রপ্তানিতে বড় ধাক্কা - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CMEdMemc4Mnd3VEZtc2QzWDNpRzBjWm9qaWFHa0NuOUxSd3c2d2RnTG1WVG5qU1NBM1RiVklOcWswZHh6aG9aWEV1WDc4YU1qeHc?oc=5",
+      "pub": "2026-05-12T09:00:57+00:00",
+      "id": "0d74f1306f6113c3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে পোশাক রপ্তানিতে ধাক্কা, সামান্য বেড়েছে যুক্তরাষ্ট্রে - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMixAVBVV95cUxNenF0SEFtWWM4bEZ4R2VsVDFvY3hPSEZ4RklkSWdFLUN3Vkl6UlhVcjJjMi01RVptUElGaHlzUEtyRGt2bkk3R2JaV1Y2ajFiTzFXcW1WcDFkcVlFUG1OU3l0T0d3SFE5TnYwT2dkb2VNY19MZ3JrY3B4RDZTVjh4Vm1nbzY0UVpNSEdrWlR5ZFI0ekZKWmM5Rkx5WTdBX1haXzJzcnNLU0ljanpvdUVrRnNpRGp1TVlDWWJKb1FHVllHcVlOUmZ1bDBOYjV3Njd1cnB0U2JVNEJoUHcwUkhqQlF4MzZ6Vl9ZdE1SSUh3ZE93YWxic09xY2VWcjl2d3JERW1YMjhMYVluT2lIeWNrdVd3TFVHeHoxeTZrTGI4QS1TcHEwaFFDS0ZINnNtUGpROWlxQVFKVk10ZVNZekJLcC1tM2xieG03eGh4aVVRS292WU5lNEstb3NldGVmUnRUM2hDc3FCaGFuVzdfNXBxLUtPbU9BMkcwc2ZCZGs4WG1pOHI0OUtzaUxVZTduOWRERjl5TnRlcW9YVWE5MnlGdHVmeTlSbHA1WGpPMnlfdFNGb1N6Y016aTdfaHAzQ0hEdWZ2d0lacWtjVXBUUkFnUGNITERIN2JFNDl0c3FNQkVKRU5TMmpIcnhSVHZZa21rRXNObldjcHhRQ0lab2Fvb2R4aWw5NTlYWEFncnRSZHN5cFZSNmZOLTRoOEFWRDhGU1M1SG9CNnJCcG5raFhlQ2pJcjVyMjBPQVFWdG9zZG04Q05yTVNIbW1oTkh3YTY5QkR1cjB5RG1yVjJxYmpNVUFNUi1nNTNZVlBrQlppQnRpZEpaMDktTTRtZl8tTG9senhCSGd6WUtQRWVUWHB6NTJ6OHY4UkVPU09SYTdzcEQtUy1JMWhkMmNILWNOODVkSU95REJEYUx3ZU1IMTFTYzRvV3E?oc=5",
+      "pub": "2026-05-12T07:35:11+00:00",
+      "id": "a66753b442802a17"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "কারখানা চালু রাখতে সহায়তা চেয়েছে বিকেএমইএ - channeleurope.tv",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVlOVmJQenRUM0N2R3VxbERvY2VKTmJtUHc0ZWlneWE4S2F4UDBmT3ZuNlRPNWJDbUNOZ21SOFQ4SjQzNG03TVF4Z1c1NUdzci1jSG5YSVotWTlUS2lQWEVIeEI4bjN4VWFmNzlqSGtRSXdDNXVwWGxUZ3B0Z3R2UVRTMA?oc=5",
+      "pub": "2026-05-12T02:32:46+00:00",
+      "id": "0885dbdac85df07c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "শুল্ক নীতি ও নতুন বাস্তবতা - কালবেলা",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IYTNNVmVrd0RySDlQSWQ0VV92VnRiUmVaNmZrSjdxdEN3QWtlSVViWEpibVlybGR3ZjlwQ284bEtrOGwzcWd5aHRoM3hyeER1a0Q2SzFNWDRWaHFGY0hsR1AyOHpUWWR1T1lMQ1k4Zw?oc=5",
+      "pub": "2026-05-11T18:00:00+00:00",
+      "id": "54e4d73048e7aa89"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ ও বিকেএমইএর প্রতিনিধিদলের সাক্ষাৎ - এখন টিভি",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UNlpZRVNob0x0ZzhyWmsyTFpQZ0JlX0ZGWGs3dC1LV3kzNzh5d1NERXBfb0c3TU1rdmF2SUdJbFo5ZVhUd3lURkdOTHBaQjFTVXVoQVAtd0NGWmVQdlE?oc=5",
+      "pub": "2026-05-12T02:12:55+00:00",
+      "id": "3214e0c886c8a235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ ও বিকেএমইএ নেতৃবৃন্দের সাক্ষাৎ - Ntvbd",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkTDdlYmtPUjhlMklCWTk0ZkRvYzNQSW5Yd0htdXZKVUFyNF9tcGE2cHp2SjFSUFhnNFdUYWViM1U3cUlLaTJKSmdlUlRGQnhkbXcySjFYeGI?oc=5",
+      "pub": "2026-05-12T02:58:35+00:00",
+      "id": "49a1d56dae64d995"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের সংকট মোকাবিলায় প্রধানমন্ত্রীর সহায়তা চাইল বিজিএমইএ - Bangla Stream",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMNTFmTDVjcHZpLVdvLXJyNWItQlRaNjY3VUlQM3VlSWZ2UFlrdW1KNlU0U0ExNGlRcnUxcmVGdnRXaHZ0bUdOMnJ5R0sxNGs3dE03MFZPc0w?oc=5",
+      "pub": "2026-05-12T02:31:01+00:00",
+      "id": "74a42fb53f824806"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ প্রতিনিধিদলের বৈঠক - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MLTMxcVBZSXJQN2JUR1pscC1vWW9lNkVUT2R5bEsyM1I2bEpnUlJVVEZxeUJCUWhuakViZTEwMHVFNk01WFYxZXpLZnExTFc4UEow?oc=5",
+      "pub": "2026-05-11T16:14:46+00:00",
+      "id": "50c658162fcdec35"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে বিজিএমইএ’র বৈঠক - কালবেলা",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41cFZMUDNrcEVSR2xGa3lORVBKSVkyYml5OVZFNFh5aVNSVFVxQVk0QW1NV0tycGJKc04xdTFnUEROUlhlLU5LZDNFNXg0WXF6Q0xpbWwzQQ?oc=5",
+      "pub": "2026-05-11T16:47:48+00:00",
+      "id": "48f9afe46931ecfb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সংকটে থাকা কারখানাকে\nসহায়তা দেবে সরকার - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96aTRqMFkydk56V2Q2WGVkN3d5OE1MczQ3Y3BuZ2Z6NmR3ek1OUEtCanFhQUF5dnNPWlJzOUtmM0w0cG5vWEJ4STVzTXpfeDJjQzNNRTBObFJDb2haUGR0MTJJcGVKZ9IBc0FVX3lxTE1HRVBtR2kwUXVqNFd4eHdFNXQ3UHY5ZWp0dTlmZk1vSmRBWkhDWkdKRHlGY3hrYmExeXROd0U0NVJGbWVfeUs0SnYzOERtZGc3eFFQNXJCX3ZjVUp6dEJkMXVrUHJyVFA0T2JzaVQyWDgwMzQ?oc=5",
+      "pub": "2026-05-11T17:00:00+00:00",
+      "id": "8207f672dd469c83"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ কারখানা খোলার আগে বন্ধের উপক্রম কারখানায় সহায়তা জরুরি - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQWFp6VGpST3pwbERBMXZRWXppYTctVzIzREZiTFNCUEMxWWhydFlOMUhnb1BRem40VllQUllZdm1qeVFoOWZqWmpFOGt1Yl9jbUNZb1REbGEyZ3NZNURCMXZqWVBna2lYTzJsMGNxSnhiSmhVcVhFYURGczVLMHNGYmtnMU0ydFplNkpSc1ZIQXpldTJxalVNNHlfWV9DM2dVYzc3VXlkRVUyb1dNQmg2YnhvWnhFd3k3Y25zQzdpSnZVaVZycHBSLWVYVWNIVE5kblVQVnFJbVRaelpnVUc2eXV1YVRyM3U5UmdIajZMNVUyTHZ4VGE4MXZOSVZRWDlLeV9pRERpNDJOV2IwUExHWW1tWGsyelRJdGhMMWNEc3Uzdkx5SFRrS0Faa3hLcHFvV0xVd2lOR1FtNnozaUU1cElPNG15bWVpS2t2eGItaElfVFB4MmpHbkU4ZzdCYm1vdnA3V21POExaN1RjT2FBeDZvd1FmcW5SZmc0RF9EWXptekN1R1N1eTVsN0tfaVlpc01RcXVtMHl4WGFIMDB2eXRrSDlOV0pnejlYWlpHRkFUMVE4ODJ3akw0U3JIaEQzSUpBUkd6VXFMX2pZbU5Kc2VCMVIwVEl5WE5BWG5YbWs2d0pSOUhsM290S1Nta3lGV2xYb1BOQ0I4NWNyLVhVdlphVGs1M1RtSGVRclRHTUpSXzlYQnlnRTJjY2hISjRfejM4d1BvbEl1Q3V3SHfSAa4EQVVfeXFMUFhaelRqUk96cGxEQTF2UVl6aWE3LVcyM0RGYkxTQlBDMVlocnRZTjFIZ29QUXpuNFZZUFJZWXZtanlRaDlmalpqRThrdWJfY21DWW9URGxhMmdzWTVEQjF2allQZ2tpWE8ybDBjcUp4YkpoVXFYRWFERnM1SzBzRmJrZzFNMnRaZTZKUnNWSEF6ZXUycWpVTTR5X1lfQzNnVWM3N1V5ZEVVMm9XTUJoNmJ4b1p4RXd5N2Nuc0M3aUp2VWlWcnBwUi1lWFVjSFROZG5VUFZxSW1UWnpaZ1VHNnl1dWFUcjN1OVJnSGo2TDVVMkx2eFRhODF2TklWUVg5S3lfaUREaTQyTldiMFBMR1ltbVhrMnpUSXRoTDFjRHN1M3ZMeUhUa0tBWmt4S3Bxb1dMVXdpTkdRbTZ6M2lFNXBJTzRteW1laUtrdnhiLWhJX1RQeDJqR25FOGc3QmJtb3ZwN1dtTzhMWjdUY09hQXg2b3dRZnFuUmZnNERfRFl6bXpDdUdTdXk1bDdLX2lZaXNNUXF1bTB5eFhhSDAwdnl0a0g5TldKZ3o5WFpaR0ZBVDFRODgyd2pMNFNySGhEM0lKQVJHelVxTF9qWW1OSnNlQjFSMFRJeVhOQVhuWG1rNndKUjlIbDNvdEtTbWt5RldsWG9QTkNCODVjci1YVXZaYVRrNTNUbUhlUXJUR01KUl85WEJ5Z0UyY2NoSEo0X3ozOHdQb2xJdUN1d0h3?oc=5",
+      "pub": "2026-05-12T01:12:34+00:00",
+      "id": "bc5c1fdfd851c732"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কারখানা সচল রাখতে বিশেষ নীতিসহায়তা চান উদ্যোক্তারা - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNUmkwQThTZFhPeFduakpkcnZULVpvVzlhMXRYZWZIbG5yS0NZLWRKOUJibnpsQkJfWXJsQ2hScGNLcWtoVlBrYjF0elFkRm5BTzk2amxjYlQ3eUJyZFlqTVoxR2ZueWcyMHk2T0gtcE81eDdJTU50am9ENnZCZHhiZmlaemNVNU51VHJEb1VSVmc4TVFiUmZTNVNNODFOVWxCazV0SmFRU2IwbnNVN1FKYUpnRVo0N0JsRGtxZ1QwMkpjTjRlZTZZZDdkZXNnVms2Z2kxR0kwQ0dYMk5RMHoyeTE3R0VKd3gwZXQ4QUJScFhtblEyNzRsbnpyY0U4LUIxRXFRNDBkdVBnZUVsdE54WnNHM1RuV3RBUGI0QUE5cmZTaHFhQTNqU0FIbTVwaVFtdDhNdjlQUDg2SEtfTGJpLS1xeC1yN0RJTnBuYVhWcTdPUEFJZHB5SVIyNlRsZlRSck1kWnY5RVdiM2RTNjhyNW1RX0dWVFNxaWpXQTkwMms1UmFMSUwtZ0JGWkdydW13U1JSaTBLalZUQ005eTlTNjZxNnk2Z1RaUHNHRXk1bnJtUXNCZ0x1WDIyTXA5UUpqWFRVVmx6alJDc3ZpdEhJSEhKVUQwMFB6QV9MMFRDa1pybVpYbHFuYzlvN0NVT212M2J3czhNSWJoOG1yMjFva3BPQm5uUmtCUGZ0eHZhbzNhOGhwMmc3SlpZUGh2RWhWcXYwZ1NHbDJBRDZFN3ItWTlsSzhDU2N2ZzllbkNiU3pnVHVjcU9USzU2bE1OT0pMZVFWNDlIdUFGTW54Q015cWdhRkhoa2dzQUU0Z3UyZFY?oc=5",
+      "pub": "2026-05-12T01:09:30+00:00",
+      "id": "08f9c3c1af875a59"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ ও বিকেএমইএ নেতাদের তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ - iNews Zoombangla",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01U1NacGNieGx6ZTdvbkY0d0J0UXhudzhiSERWRmJsOUhJT0QxeTRULUNmM3A1cXNkT2s0ZEZNTE40QnBnNDNNelRKMDZoLTlSUml0T3JjVjRGREJ3Q1RmRi1VMA?oc=5",
+      "pub": "2026-05-12T02:52:48+00:00",
+      "id": "60e97b9646b48251"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ ও বিকেএমইএ নেতাদের সাক্ষাৎ - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NHVWTk5QMHZRaFhQdWZ4R1g3cDFlQ0ZUVTZDZkdXb280ajVWMHdZSldUcUtDYjJrSjZZZnU5aUQyQjVSdld2S0JXdFFPTGdZTUE?oc=5",
+      "pub": "2026-05-11T12:44:18+00:00",
+      "id": "826336128de100d5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ কারখানার তালিকা চেয়েছেন প্রধানমন্ত্রী - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SeS1fMlBPamtVTTdHd3dSa29vdk9pdTU1T0xlUG90aUJLSGt5WVNxZWc1YlA5SjBhdnJDOVpkQ1dsVF9mYm9tMGxxWXdFZXJMY19HMw?oc=5",
+      "pub": "2026-05-11T18:00:00+00:00",
+      "id": "e07cbe2f5c7204c4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কারখানা সচল রাখতে নীতিগত সহায়তা চান পোশাকশিল্পের মালিকরা - channel24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxOQjlLZko4MVF5aDZCVzNRNjFvVks0Q2dtTVBzMW1GWTZ6U3YyUEFwR214cUdVM1ZwSlk3VFFldF9CSVZQOW1JRW9Va3FUd0pESXlXT1RQelQ0U2NmLTk1MGhuOVJydUlDdWplTXlmVnZXaTZtMGhZNTMwUUVGR1ZMZV9WWVVHYnZEbm5wUm1RRXFNV0NTbWRyMjNtVk9HM09FeDRNUzY3T1pqVF9ZTTZjMEhGYkY1MllFYmk1cFEwWWZDOE5tNTRkcjZMWXNjMW9vV3k1LXlnN1NZMXh2OUcyTlZ2b2s1bDRDRnhJQlRfSDVFbVAwRHRsMDFKSU9NTjJabWFmdmIwWVpFMDhkc21LUWtpWF9fbkNMSU5ySXJPc1dQTmVSbHE1bGU1TXE4OFI1TEw0OUZyaldyZm93SGpPcG03WEJraWVMZlVsSWNNWDJKWllmbHVoZDFXN3o5OElFT3B0Zms4aVlrdzBndGJkOGMtdkNSaTRfcVNpQUxSTmoteW9lUUFFOG5TSVJXVnB5ODdjYkxCYTVUenVORVNkbC1Fd0x1TURJQk83WEk4b3YzaFM5M1pXdzlRQVBtYmtkOU5JRHlUQTd2dGhjMENfb2c2ZDBMZktwRUZBdDcwX0ZGMmZoRE02OFlNOEx4Yjd4QThYczBRVkpaaTZTS2pKVXgwa0xEVmREeDdxNm9Dc1A2cF9aSEs3X3kwYlAwMnhvU2cxcTFHLUp0Qkpnd283NVA3WTA3QkhrOXhQSTloOWE5SjY2M2dMNlBoNGlBbnM5Q0xhT0NBQXNKOXdxV0VQWmhMall5a1Z1YTNrcHNkaWRmVWRKZGl0ZUY3OUJZWWRneGlTTTZyTWlZajU4dUl3VC1Pc21CYjRiOUw5N3BYTHhZVmN4YUdZclE4WnU5ejRZcFoxSlk2NzVqS0NreGdLTlF3?oc=5",
+      "pub": "2026-05-11T16:48:00+00:00",
+      "id": "f1888cf1f1c5baeb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ধুঁকে চলা কারখানায় প্রণোদনা দেবে সরকার - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFd1RlVycEZzX0JlNDlqQ3duZTFBaUx3UkhkWFN3ZWRSV1NPajFUUmxsVDhtXzBtQWw1UkRmckJ2U1NiRzdmLVhpbkJPa1ozcUtDOEFZSGU2NkduRDdHX0YzNFh4dGlocjFoT3psVlBEOHdPbVkzLUFWQkF3TzBSbjliY2wzQnVPNE5WYkdTLU14R2hiVzFRaG96SHQ0cUNRTzlYbWd30gGmAUFVX3lxTE1UV3VGVXJwRnNfQmU0OWpDd25lMUFpTHdSSGRYU3dlZFJXU09qMVRSbGxUOG1fMG1BbDVSRGZyQnZTU2JHN2YtWGluQk9rWjNxS0M4QVlIZTY2R25EN0dfRjM0WHh0aWhyMWhPemxWUEQ4d09tWTMtQVZCQXdPMFJuOWJjbDNCdU80TlZiR1MtTXhHaGJXMVFob3pIdDRxQ1FPOVhtZ3c?oc=5",
+      "pub": "2026-05-11T17:44:02+00:00",
+      "id": "d5620a022975ad71"
+    }
+  ]
 }
