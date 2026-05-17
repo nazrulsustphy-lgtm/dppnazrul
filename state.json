@@ -819,49 +819,33 @@
     "a9859e44f7a7ac18": "2026-05-17T05:51:26.975548+00:00",
     "ea0aadf0ec2df726": "2026-05-17T05:51:26.975548+00:00",
     "b9415423031bc0a0": "2026-05-17T05:51:26.975548+00:00",
-    "ba74cfd538686fca": "2026-05-17T05:51:26.975548+00:00"
+    "ba74cfd538686fca": "2026-05-17T05:51:26.975548+00:00",
+    "8978944e250db180": "2026-05-17T09:49:11.820639+00:00",
+    "9de92449bc91f972": "2026-05-17T09:49:11.820639+00:00",
+    "b8cf856fb3540c2e": "2026-05-17T09:49:11.820639+00:00",
+    "d3de7bb130e42e72": "2026-05-17T09:49:11.820639+00:00",
+    "a4cf4c9c88711294": "2026-05-17T09:49:11.820639+00:00",
+    "1b3decc2b0584708": "2026-05-17T09:49:11.820639+00:00",
+    "15c65b7cf09fc1b2": "2026-05-17T09:49:11.820639+00:00",
+    "100a00c6be4ea502": "2026-05-17T09:49:11.820639+00:00",
+    "e2d7882015296334": "2026-05-17T09:49:11.820639+00:00",
+    "e247b78c1aab3bb8": "2026-05-17T09:49:11.820639+00:00",
+    "a83b1a3300450b31": "2026-05-17T09:49:11.820639+00:00",
+    "9b04d68da9a65352": "2026-05-17T09:49:11.820639+00:00",
+    "9e00b896e89a9f77": "2026-05-17T09:49:11.820639+00:00",
+    "c0455e172668b089": "2026-05-17T09:49:11.820639+00:00",
+    "a5eab376762af867": "2026-05-17T09:49:11.820639+00:00",
+    "a21aeea674fb08b3": "2026-05-17T09:49:11.820639+00:00",
+    "d2d8fac758036cfb": "2026-05-17T09:49:11.820639+00:00",
+    "c913017eb306cdad": "2026-05-17T09:49:11.820639+00:00",
+    "b9ff583712a80d4d": "2026-05-17T09:49:11.820639+00:00",
+    "50134be2a22c820d": "2026-05-17T09:49:11.820639+00:00",
+    "f300f82a1b43dd24": "2026-05-17T09:49:11.820639+00:00",
+    "f6b82764c716fd57": "2026-05-17T09:49:11.820639+00:00",
+    "9878283c8078b782": "2026-05-17T09:49:11.820639+00:00",
+    "bb6804adb9b12268": "2026-05-17T09:49:11.820639+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "BEZA launches its first 140MW pilot solar project in Sonagazi under PPP model - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk1uaWlwNVN2ZG9aTEFSOWw1bEFzYzc4RTUxRllCWDl0WktmMUgxYXB4bDFpUl84alk3eVBPcWFiczhvSmY3cGhPZGJYelUtcXd1RkoxOHFRU3dYTjM4Q0xpd2FCSmF5V2FSSkYwOVVhcjdpWGpGSFBndUtZakstZjctc2p6UWRFamh5TUtmaC00OWE2S3FvcGh4QUFrdk81UURwdUQ5MGc1Snp5LUE?oc=5",
-      "pub": "2026-05-15T05:52:43+00:00",
-      "id": "aca8ab46fedc6639"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Envoy Textiles building circular denim production through waste to fiber recycling - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2lMWTJwU2lyeGNJaVBaWFF3b1pZUW9XcWlMY2pTSDlick9pNm8zWlhrTDdONEZPdWtEWFRmMkpJRHl2WmFlcHFKUC1mT2dBZUxfazhYVnZLUnozckE4ekRHa1ljRjEyQmF5Vm92dUtqZ1FMb1NhUlVLZjUtUUJkMGd4M0U5VzhtYVIyVmZERnNMZ0RaSHRqU1NtaFpQdnd4d3MyTTlwdDRtX1ZqUW1SeUhKSjc?oc=5",
-      "pub": "2026-05-15T08:57:43+00:00",
-      "id": "40bfdcdfac89d532"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Chinese investment key to sustainable transformation of Bangladesh textile sector: Commerce minister - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjFzVXpEUm1iZmRMUTk5X3IxRVNONjU1MHVZT0JSckZhZVY4UXhGZmpOSGI3VDI1WUdjaUgwM1ZjSlJkVFFtTjdBMV9Fb18xbGlzTE1LYnJlNXBHTHpBMmpISnNiZXNORkI1YWVfRUh1V2puRVk4OW1oVHQzR21iTjdtLUE2UGo4SW04U0R2RTI5N2pPNjRvcDlmUXNZRng3YnlYYTU5TFNWblNYQWZWcWY5S2Z6S0FQVGtHemcxQm5rSE8wNXJkb0FuQQ?oc=5",
-      "pub": "2026-05-15T07:43:17+00:00",
-      "id": "56c7547aeeeffc4c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Labour minister directs factories to pay Eid bonuses by May 21 - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm5JNTFFTDRUS3VCajdBbWhSYTRhVVdiSGhwbEdxZFg0amIybS1oQ1JhbVpGeEpMLUQyczJPYm5BMGZyeUIwckZRVW1iLTBXYnFuU1F3Vk5rRVNSWE9nRDdfeGJhdDc0U1dLY1dkTUcwYk1FNzFabFVQVWlTTWlESVZxVmJlckRCQzlFNDA2SGtYUERibGVGQS1n?oc=5",
-      "pub": "2026-05-15T08:22:43+00:00",
-      "id": "b46ea841390d978b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Chinese investment key to sustainable transformation of Bangladesh textile sector: Commerce minister - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjFzVXpEUm1iZmRMUTk5X3IxRVNONjU1MHVZT0JSckZhZVY4UXhGZmpOSGI3VDI1WUdjaUgwM1ZjSlJkVFFtTjdBMV9Fb18xbGlzTE1LYnJlNXBHTHpBMmpISnNiZXNORkI1YWVfRUh1V2puRVk4OW1oVHQzR21iTjdtLUE2UGo4SW04U0R2RTI5N2pPNjRvcDlmUXNZRng3YnlYYTU5TFNWblNYQWZWcWY5S2Z6S0FQVGtHemcxQm5rSE8wNXJkb0FuQQ?oc=5",
-      "pub": "2026-05-15T07:43:17+00:00",
-      "id": "56c7547aeeeffc4c"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews: BGMEA/BKMEA EU",
@@ -869,22 +853,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4elV4bC1Hb2hLdjFOQlVqcDEyV0dvcTBQQkVYX04tTzNQVzhBYUo2MmVNSTVzcTBlaDl6VWoyek1yUTZ3eXpSS2VVelh3VXRNT1pUNEJiVGFlVWI0c3hEdlNMQnU?oc=5",
       "pub": "2026-05-15T10:13:16+00:00",
       "id": "c26da789b3868e2d"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Chinese investment key to sustainable transformation of Bangladesh textile sector: Commerce minister - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjFzVXpEUm1iZmRMUTk5X3IxRVNONjU1MHVZT0JSckZhZVY4UXhGZmpOSGI3VDI1WUdjaUgwM1ZjSlJkVFFtTjdBMV9Fb18xbGlzTE1LYnJlNXBHTHpBMmpISnNiZXNORkI1YWVfRUh1V2puRVk4OW1oVHQzR21iTjdtLUE2UGo4SW04U0R2RTI5N2pPNjRvcDlmUXNZRng3YnlYYTU5TFNWblNYQWZWcWY5S2Z6S0FQVGtHemcxQm5rSE8wNXJkb0FuQQ?oc=5",
-      "pub": "2026-05-15T07:43:17+00:00",
-      "id": "56c7547aeeeffc4c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Labour minister directs factories to pay Eid bonuses by May 21 - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm5JNTFFTDRUS3VCajdBbWhSYTRhVVdiSGhwbEdxZFg0amIybS1oQ1JhbVpGeEpMLUQyczJPYm5BMGZyeUIwckZRVW1iLTBXYnFuU1F3Vk5rRVNSWE9nRDdfeGJhdDc0U1dLY1dkTUcwYk1FNzFabFVQVWlTTWlESVZxVmJlckRCQzlFNDA2SGtYUERibGVGQS1n?oc=5",
-      "pub": "2026-05-15T08:22:43+00:00",
-      "id": "b46ea841390d978b"
     },
     {
       "section": "social",
@@ -944,14 +912,6 @@
     },
     {
       "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "BEZA launches its first 140MW pilot solar project in Sonagazi under PPP model - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDJlUHFJZFc3bHB3T1BsalRKXy15MjVBazljamRhRDVLaV82dzh0MjFNOUtiR3VRTXd1STQ0amVMOVZaTjdKOVpQTDN6YVp0WVNBbTJMeHBkWndGX184bGdqT1FOeWNGQ1paeDN1eTlKSFdiLTNpVW5lQ2cxMjlHc0daUUFEaXZ5b0tOUnhWUC1JckJtMThzY0UxQWtXYmN1WnRjdUtSbHc?oc=5",
-      "pub": "2026-05-15T05:52:43+00:00",
-      "id": "703c08881db0baa8"
-    },
-    {
-      "section": "international",
       "source": "GoogleNews: EU textile strategy",
       "title": "Germany Baby Hooded Towel - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2VoNnNNNnZrd2NWWF9yc2QwemRZcUphVG1taHRJbmxtVGU2UXJxVWZCMjJBSEpMZE5xQjgwd3pOc19xSm1teU9PelM5QjlESmdEa0lHSWRyeGluaUhRV0dsQklrd3JhY3p3T2JYbm9FendMeV9hc3Q0QlBNYlh3MDdPVlJoZktDZmktNjN5ci1MM21kNUo1X1FZenRYbnFxaDQ4UXJJMm52ZXJXbUtDUTRpRQ?oc=5",
@@ -989,14 +949,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFlpQzNiQjg3Nk9hMW5OaTNBRnlsUDBwNWpqVzE3ZGRTWmxtdmR1VjFpdVdRRVRsRXltcFB2ak5oZDVrc1NJTkd0QUpoSWJVVlFDc25rbnhnaS1CYU5ndDE1NDY4MjJkU1ozTm1NUDg4cjl4M1RLY3FGWHVGZkRWRkN0eVpJR29HZ1hJd3djZGtfY2tjcG85UmZFSHpFd3hUQkRjVGdCTHJrWU9GTU8zcw?oc=5",
       "pub": "2026-05-16T04:22:43+00:00",
       "id": "bb509c236199427f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "BEZA launches its first 140MW pilot solar project in Sonagazi under PPP model - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDJlUHFJZFc3bHB3T1BsalRKXy15MjVBazljamRhRDVLaV82dzh0MjFNOUtiR3VRTXd1STQ0amVMOVZaTjdKOVpQTDN6YVp0WVNBbTJMeHBkWndGX184bGdqT1FOeWNGQ1paeDN1eTlKSFdiLTNpVW5lQ2cxMjlHc0daUUFEaXZ5b0tOUnhWUC1JckJtMThzY0UxQWtXYmN1WnRjdUtSbHc?oc=5",
-      "pub": "2026-05-15T05:52:43+00:00",
-      "id": "703c08881db0baa8"
     },
     {
       "section": "bangladesh",
@@ -1461,6 +1413,46 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRMlk4SklxbURHQVpkb05McVAxOHp3SkRZOHZMaG1oTXh3bERFTkpjY3VTMXMzVm1QTDNiUnpsZjBaYVBqaWZWOXU3ZDlsQ1pFU2VPcXJZNFFaZ2IwZERLX21Yck4wR2xtOC1Ma25MaWlwLW9QcHhKY2NzMA?oc=5",
       "pub": "2026-05-16T13:51:52+00:00",
       "id": "ba74cfd538686fca"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "DPP Enabled Smart Labels and Inlays for FMCG Packaging Market Demand to Accelerate by 2035 on Regulatory and Brand Engagement Drivers - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMFVmVFZxSC1uZGJVb2w3RzNabU1kb1p6Z1B0b1Z4QUNZckJxeG45QnlpNVcwbzRWYnZLaVNlM3psTGcwVE1aVGdnV3ZOUHhJLUtMYVJRZUNDd0gzaGRJWVUzSnFNejRvVzRiZVUwWlJ0X2VZMFFMUmN2RGNQYUs4UTBGVEU0U0s5M21pcDY1cDg1QmZiNE4yQzlRS1pXdGI3aVk3c05sVG13VDd2MEZONzN2eExDMzFuLUhlTk16N1ozVk9lZUlHYUNDWVdQMVd2cnhqOW1SbDl6bVlXQVZKMW9XcHNsSVIyMEhETlhUdjVac2JhQ0E?oc=5",
+      "pub": "2026-05-17T00:01:05+00:00",
+      "id": "50134be2a22c820d"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "France Farmhouse Pillow Covers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFRLS2xnOWU2RTdzU2RZb25LZ3dCRDQxb3BFRjkyTENHZTRfaWJfVGFVMll3eWpWNVpBQnQxN1dwdlgtYTY3dE5YbmdqejNEUHFPNVZnS2tSRGNfNGEzT0xBR1NGRnB1MldqbGI2OFlfYTdkTkpRZ2lsaGNvUWJyOE05Zk1FVEtmb3YzT0ZiVmFxNDY1N3Z4TXZyWWtoTURiakQwdDkzUXRRRjBXemEwcGR3MmM0SnFpQ1E?oc=5",
+      "pub": "2026-05-17T01:37:25+00:00",
+      "id": "f300f82a1b43dd24"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Textile Innovation Exchange (TIE) officially launched to accelerate innovation in Bangladesh’s textile and apparel industry - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOS1RNHhSeXc1djlqaFBsaEZMcTcxUC1fblA0czlOcFpQcEQ1QmtTN2dwMkM3b1hKRnp2V25NTF9sX3R3Q3UwaFAwb3FDaTlwWnhHZW5lQmZKTWdxQjVMVmFpN1FPQ3ZjN1pHMnNDY2VkMkM4Z0k3bE1Ic2E3LXhXOHlENms1SEQ2dlBoVWFFb3lpci1pTGNSZ2RTMmtOdUhNcmJfeHd6OW5IdnNRN19HZ1VaM2dfSDdlVXpFbWl1UTkwTk4xM1Y2aGJyWEZOd0gwUGpGOGhMVGlsR2dWdDBVcmJja2YzZnc?oc=5",
+      "pub": "2026-05-16T16:32:02+00:00",
+      "id": "f6b82764c716fd57"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, GIZ sign first development MoU for garment sector - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNNUdjYW5lb2x2VW1BVGxxaXJYWmxuLWF2eFdNU283SkNIcktBRzh2R0ZqM2t6N20xTkxnM2gybXNUUTRsZmxJZlRpQWh4NTNXbk5RQkEyVDBtVjM1TGtEUW5IdXBhZ0hXQUpHWThjYzNfdWkyVHdrV2F6MXNMaXFPRGk1UW5tRGN0VFd6dkczamMzVXBNbmNjeWRCZldaTGhIbkpFUTc5cWtlMndNOUdudEpBVUNKaDFkOTM3ekVkU3Z0OVhWaVFiSnpiaUNWLTRva1FVRU1oR2pmanJJYUo2SXFBTGJ6MFBVVG9Wa2lBVWpQbGxoZ01UOW1ENURfcWw3SkZHSjZ1a3dsMzFGcExXbkNuN0lSX0hXMXQwdHktQWNzTjNvOEFFWjdyQ2ZaMHNsLVY5ZHVrSElyckY1SWloblhocU80ZEQ2b1Y5ckRtN1NpRzN4aDB1N1dKQXZTeFQtZlZDcElTUGVseWRneVZKM2c0T1RWUQ?oc=5",
+      "pub": "2026-05-16T18:01:01+00:00",
+      "id": "9878283c8078b782"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "টেক্সটাইল ইনোভেশন এক্সচেঞ্জের যাত্রা শুরু - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYUG5NNVNXd3h2X192bHZHeEJXMmp5UUpWLTk2R1Y5S19BRzUxakx3US1SZ2o4clFwdU4zakpZV255ODFFUzFiQWJhUVBmMXfSAU9BVV95cUxQWFBuTTVTV3d4dl9fdmx2R3hCVzJqeVFKVi05NkdWOUtfQUc1MWpMd1EtUmdqOHJRcHVOM2pKWVdueTgxRVMxYkFiYVFQZjF3?oc=5",
+      "pub": "2026-05-17T04:52:00+00:00",
+      "id": "bb6804adb9b12268"
     }
   ]
 }
