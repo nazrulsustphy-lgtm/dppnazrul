@@ -870,7 +870,255 @@
     "10ec4c54dd14a188": "2026-05-17T14:59:29.647400+00:00",
     "f5de3c11a88649a4": "2026-05-17T14:59:29.647400+00:00",
     "7bee100e7b11258d": "2026-05-17T14:59:29.647400+00:00",
-    "3cb0d0129afbf702": "2026-05-17T14:59:29.647400+00:00"
+    "3cb0d0129afbf702": "2026-05-17T14:59:29.647400+00:00",
+    "7f68c99d9ec40b19": "2026-05-18T11:46:42.667701+00:00",
+    "9d5b8a9f103660e6": "2026-05-18T11:46:42.667701+00:00",
+    "31e60c2ae2bf5001": "2026-05-18T11:46:42.667701+00:00",
+    "1d2dbf283cf60368": "2026-05-18T11:46:42.667701+00:00",
+    "0a2b9e2831a2046a": "2026-05-18T11:46:42.667701+00:00",
+    "f301a9ef54ffc7af": "2026-05-18T11:46:42.667701+00:00",
+    "8cacd870a69d1a75": "2026-05-18T11:46:42.667701+00:00",
+    "5b4d1182d86b9949": "2026-05-18T11:46:42.667701+00:00",
+    "deb23369e990075f": "2026-05-18T11:46:42.667701+00:00",
+    "6249e4bbe711d608": "2026-05-18T11:46:42.667701+00:00",
+    "f444ee4e9f0dd9eb": "2026-05-18T11:46:42.667701+00:00",
+    "71b56b9259a7e48e": "2026-05-18T11:46:42.667701+00:00",
+    "8fe6fb25082c12a1": "2026-05-18T11:46:42.667701+00:00",
+    "fb71dd7b2fc8a417": "2026-05-18T11:46:42.667701+00:00",
+    "39aec92f0a4f5830": "2026-05-18T11:46:42.667701+00:00",
+    "c7c7b95b8788633b": "2026-05-18T11:46:42.667701+00:00",
+    "3efa777f0637edbc": "2026-05-18T11:46:42.667701+00:00",
+    "14471bfb7d94255f": "2026-05-18T11:46:42.667701+00:00",
+    "b01c05c75a9938a0": "2026-05-18T11:46:42.667701+00:00",
+    "c274f035cef0f477": "2026-05-18T11:46:42.667701+00:00",
+    "399ba28fa4932b4b": "2026-05-18T11:46:42.667701+00:00",
+    "af2d477af15ad0fe": "2026-05-18T11:46:42.667701+00:00",
+    "9494a52267e85885": "2026-05-18T11:46:42.667701+00:00",
+    "1e69eacfb0481dc0": "2026-05-18T11:46:42.667701+00:00",
+    "daf46d4e799a355a": "2026-05-18T11:46:42.667701+00:00",
+    "872fccf9d5f7fc78": "2026-05-18T11:46:42.667701+00:00",
+    "c4a234ca34e960e8": "2026-05-18T11:46:42.667701+00:00",
+    "ade4e1b0720b495c": "2026-05-18T11:46:42.667701+00:00",
+    "a6dd6529b2acbbaa": "2026-05-18T11:46:42.667701+00:00",
+    "738bb368a69c4f42": "2026-05-18T11:46:42.667701+00:00",
+    "6e3f62986c76f56a": "2026-05-18T11:46:42.667701+00:00",
+    "198dba7d54e166d2": "2026-05-18T11:46:42.667701+00:00",
+    "2eaffb7315da2b0e": "2026-05-18T11:46:42.667701+00:00",
+    "4d62601c2512eb61": "2026-05-18T11:46:42.667701+00:00",
+    "41e25eaed1cbbee1": "2026-05-18T11:46:42.667701+00:00",
+    "d7064ee745150539": "2026-05-18T11:46:42.667701+00:00",
+    "8e01daa197e53852": "2026-05-18T11:46:42.667701+00:00",
+    "af5581e5b9bf0f92": "2026-05-18T11:46:42.667701+00:00",
+    "8d780b75616fe9aa": "2026-05-18T11:46:42.667701+00:00",
+    "c388b619440a1f71": "2026-05-18T11:46:42.667701+00:00",
+    "e35bc8f93a3e7530": "2026-05-18T11:46:42.667701+00:00",
+    "e8915ec6bc1d021e": "2026-05-18T11:46:42.667701+00:00",
+    "62e0bc3a5fb29a49": "2026-05-18T11:46:42.667701+00:00",
+    "09a9f920fd8e3a06": "2026-05-18T11:46:42.667701+00:00",
+    "318cf7d22423313c": "2026-05-18T11:46:42.667701+00:00",
+    "dc7956b0e99be518": "2026-05-18T11:46:42.667701+00:00",
+    "f8a1a0d2b9d332bc": "2026-05-18T11:46:42.667701+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Germany Soft Fitted Sheet - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3k2TUZlX0lBZ0dnZHE1Um1KVllRd3czRmxwSF9PUGJaUUdxcy1YMWNiUkdmTFB5ZUNxajZEUzhvNmtzS2U3Z3h6RFk3UmhIaENCTkt4UkhQQ19qb3dqdW5wNmlKcUJmVDJWODRHR3p3MHpNU0dGdUFqc2FvVXdfVnQ0aEFPOU02VG1NLUpta1NFUUpkVHB6Y0lvX25veXM2MGlFM2xhYjZOYk92TU5yaEdmOA?oc=5",
+      "pub": "2026-05-18T11:19:28+00:00",
+      "id": "c4a234ca34e960e8"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Germany Muslin Swaddle Bundle - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVVRNV91MjY3TGNZZ0RWTFhvOXBJRnNidzRZRFNlNnBfS1BqaXVUR2hDelUzSnBlLWM0Y1BhQ01XQlMyY3F6eERUOVlGMzlhdWdMbDc5cllhcWJ0bmF1TGdFeXFmS2gzeEp6R095bWVjVnpqQ0JFSE16UEpvY0kwd01wdUtBc1FHbXNCNUI2RzZWLUFGV3lCTXV3V3hfLVkxTUM5TEd3Nld6b3k0djMzeTh3MnpGTUlP?oc=5",
+      "pub": "2026-05-18T10:21:13+00:00",
+      "id": "ade4e1b0720b495c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "DBL Lifestyles launches first ASICS store in Bangladesh - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGpHbUtYRkNfcXZ2b1pMLWp0U01iZnZBNDBuMDBkbTU3dktyUHFpemRQXzhaMFJ4dWw5ZDFxSkRXNzZFMEdkbEN3VnE4WVBjTVpqRVhieGZDeExpVTdYNzBqMlpFVUctZzRxR0kyVWFaaFI4NTZMdGlwdXlFRnlONk1oYlRUa09uMjVtaHZvaTU?oc=5",
+      "pub": "2026-05-17T18:52:43+00:00",
+      "id": "a6dd6529b2acbbaa"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "HSBC highlights BSEZ’s role in attracting global investment to Bangladesh - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVE0Xzl2TUlvZEstNXhKYzBrR0Y1UFJxNjhVR3BvTVNod1hOXzJIcGtWdm44RGpUZVZucEtoZFZxY2gwYnpFSWlzMVVEcFM2WE5EMDl0MGlaQl8zOVRrWTVBNHFSajUzTEZGX2p0bmh6eWJGMEppNUhJYmJ2V3VlVDByckY2ZlFfek9JVGlZczRkQVo4c3ZFNm5QbG9sNEwzWGl5Q0xVZw?oc=5",
+      "pub": "2026-05-18T03:27:44+00:00",
+      "id": "738bb368a69c4f42"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Germany Soft Fitted Sheet - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3k2TUZlX0lBZ0dnZHE1Um1KVllRd3czRmxwSF9PUGJaUUdxcy1YMWNiUkdmTFB5ZUNxajZEUzhvNmtzS2U3Z3h6RFk3UmhIaENCTkt4UkhQQ19qb3dqdW5wNmlKcUJmVDJWODRHR3p3MHpNU0dGdUFqc2FvVXdfVnQ0aEFPOU02VG1NLUpta1NFUUpkVHB6Y0lvX25veXM2MGlFM2xhYjZOYk92TU5yaEdmOA?oc=5",
+      "pub": "2026-05-18T11:19:28+00:00",
+      "id": "c4a234ca34e960e8"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Spain Muslin Swaddle Bundle - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGdic2lSclluWlF3d1RwTGNYODR1MUZESkU3M3k4b3NQckU3SWtJT0VhMkMtc25Mdk45b0ZwdUZ2TVR2T0RSTW0xS3dnbVJIVnZ1aGdFZy1QZFBmbEJfdDByUU9xSzlpRUNyaW5XZFRwZldqTlB4YXJYYWR5cTV0dmt2UkJjNzRMNmlseWFIekwxLS1GdmQxYkRjdEM2THN3VGVxRVNLb05zalljUFhOMDFfVUI5dw?oc=5",
+      "pub": "2026-05-18T09:55:06+00:00",
+      "id": "6e3f62986c76f56a"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Germany Hypoallergenic Down Alternative Comforter - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVlBtOUl3SFlpZlBUVUp0SV96dG5uM1E1UXhxYlFVNDNRRjdnQmhNMFk3M0t1SklkZWJyOWdvc1pTSXg2aTMzMEVGSS1rQzRKRXkydnBYVUU4OXBBTlU4ZzRDSjM4LWZ3bzdkWXZMczhBY185R21QdVUzU0tFM1lNakl5NWlrdGN5cU9Nb0R3aTVaZnloRVdQRE5rclNhTmsxTERiV2pHb2tCa21XTGkyVThQNFU4cDhDcHpsTUtSWXQ2ZXFjc3RHWVdWNkgxRWhSaHBF?oc=5",
+      "pub": "2026-05-18T01:33:08+00:00",
+      "id": "198dba7d54e166d2"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Why did they mark \"Soli\" on a 2 clarinet staff with 2 note chords in Strauss' \"Künstlerleben\"?",
+      "link": "https://www.reddit.com/r/musictheory/comments/1tge6gq/why_did_they_mark_soli_on_a_2_clarinet_staff_with/",
+      "pub": "2026-05-18T06:28:29+00:00",
+      "id": "2eaffb7315da2b0e"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "This board is under rated.",
+      "link": "https://www.reddit.com/r/Darts/comments/1tfyysm/this_board_is_under_rated/",
+      "pub": "2026-05-17T19:18:54+00:00",
+      "id": "4d62601c2512eb61"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "The Brabus Bodo is a newly released, ultra-exclusive 1,000-horsepower V12 hyper-grand tourer built as a tribute to the company’s late founder, Bodo Buschmann.",
+      "link": "https://www.reddit.com/r/WeirdWheels/comments/1tfvtl1/the_brabus_bodo_is_a_newly_released/",
+      "pub": "2026-05-17T17:24:38+00:00",
+      "id": "41e25eaed1cbbee1"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "A single options trade generated a return of 478% in less than four days.",
+      "link": "https://www.reddit.com/r/Raceto50000/comments/1tfv975/a_single_options_trade_generated_a_return_of_478/",
+      "pub": "2026-05-17T17:03:54+00:00",
+      "id": "d7064ee745150539"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "HSBC highlights BSEZ’s role in attracting global investment to Bangladesh - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVE0Xzl2TUlvZEstNXhKYzBrR0Y1UFJxNjhVR3BvTVNod1hOXzJIcGtWdm44RGpUZVZucEtoZFZxY2gwYnpFSWlzMVVEcFM2WE5EMDl0MGlaQl8zOVRrWTVBNHFSajUzTEZGX2p0bmh6eWJGMEppNUhJYmJ2V3VlVDByckY2ZlFfek9JVGlZczRkQVo4c3ZFNm5QbG9sNEwzWGl5Q0xVZw?oc=5",
+      "pub": "2026-05-18T03:27:44+00:00",
+      "id": "738bb368a69c4f42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "DBL Lifestyles launches first ASICS store in Bangladesh - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGpHbUtYRkNfcXZ2b1pMLWp0U01iZnZBNDBuMDBkbTU3dktyUHFpemRQXzhaMFJ4dWw5ZDFxSkRXNzZFMEdkbEN3VnE4WVBjTVpqRVhieGZDeExpVTdYNzBqMlpFVUctZzRxR0kyVWFaaFI4NTZMdGlwdXlFRnlONk1oYlRUa09uMjVtaHZvaTU?oc=5",
+      "pub": "2026-05-17T18:52:43+00:00",
+      "id": "a6dd6529b2acbbaa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Buyer pressure, lower electricity costs drive small entrepreneurs to solar - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUhQcnZOZUlMM0p5SmFKSUt4LUFVT09qMEFvMHVQQTJZWTRKam5mdnJiM19WX29jRTd5TlNCdDg1TFFyUlhEOHRSQVlfRHR2Y0l0dXNTS21IdHFMZG8zQkFyMngzTEdyelIwZTBTaFVsdS1kek51ZnV5R0J6Ynl2RlpIcW5sLUVhVldIdzBsN0ltZExhdFVRM3BhVWdlalRSZjRGbTJtbHc1T29ScU9iOURtMVlIZXpFTUNRWEhtRGExUdIBwgFBVV95cUxPRUhQcnZOZUlMM0p5SmFKSUt4LUFVT09qMEFvMHVQQTJZWTRKam5mdnJiM19WX29jRTd5TlNCdDg1TFFyUlhEOHRSQVlfRHR2Y0l0dXNTS21IdHFMZG8zQkFyMngzTEdyelIwZTBTaFVsdS1kek51ZnV5R0J6Ynl2RlpIcW5sLUVhVldIdzBsN0ltZExhdFVRM3BhVWdlalRSZjRGbTJtbHc1T29ScU9iOURtMVlIZXpFTUNRWEhtRGExUQ?oc=5",
+      "pub": "2026-05-18T04:00:00+00:00",
+      "id": "8e01daa197e53852"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh and New Zealand discuss post-LDC trade cooperation - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcV9zbm05V3FGcl93ZHJTQTNNZnJiRjNiNk1pa2NZMkdNSEhfRzdUeS0zSHFjem5TNk1DRTk5ZXpSWGRJcms4d25zMUNfeTlWVWl0LXNjZmxUS2w0SmpjbU9mQkwzT0c1VlRqaU80ZnRFUDltTC1nVzZDX2dfeDY0OGUwVVNtZ1JtSDdybS1tNXJfNlZhU0oxUg?oc=5",
+      "pub": "2026-05-18T03:22:44+00:00",
+      "id": "af5581e5b9bf0f92"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "নীরবতা, নেতৃত্ব, রোগ আর রাজনীতির অদ্ভুত সময় - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV25GaDhuUl9fQlY3MFpuQmxONlFVVEw3cUpzNVJnOG9rQjQ3b2VBZHVwSzh1aDgtMEEwb0M1THNBakxIdXpPZkNVcGRYa0V0S3ZCMUhBWE8yUV9fY2V5cGU5eTl3ampUNGtRNUln?oc=5",
+      "pub": "2026-05-18T02:34:03+00:00",
+      "id": "8d780b75616fe9aa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "নীরবতা, নেতৃত্ব, রোগ আর রাজনীতির অদ্ভুত সময় - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV25GaDhuUl9fQlY3MFpuQmxONlFVVEw3cUpzNVJnOG9rQjQ3b2VBZHVwSzh1aDgtMEEwb0M1THNBakxIdXpPZkNVcGRYa0V0S3ZCMUhBWE8yUV9fY2V5cGU5eTl3ampUNGtRNUln?oc=5",
+      "pub": "2026-05-18T02:34:03+00:00",
+      "id": "8d780b75616fe9aa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সদস্যদের জন্য সিঙ্গাপুরের হাসপাতালে মিলবে অগ্রাধিকার সেবা - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwVBVV95cUxQS2M5Q0hxT3g0YnZfaEN0ZnM0NXEwMzlpdW10bWhDUkE1RTF2bWV4QlBrZUdXNWsyU2UwbDd5Y0Y3bXhEallyUlZnQVNQZmxqdTFuVnFabldjNE0xSVBSeGgweWdtbzhxaldJRUw5d1FnOVFUR2NxV0RMTFNpWU1oWjdjWDYzLUpDVzdSSGxEZHFmWXNwVkFEdVhzelQzQjZ2ZnoxRWNac2dqdlpBdnBJdGF6S0RCZzh5bUZ2NU1HZjNPSVk2TkJDSDR4ZHNtd2hsLWs1c2dDTzkxQXVSMzZMU0ZzRjdhY0xLcmJ5a2VyWllITUlSSDVNNlFBWTZ1bTAwUVZJLUpSQXVQaUJTcUczb1QwbW9IRFFaQWtXdDZ0aE00OURhdHk1M0l0RElzMHVxZTlaY05jOXY4Vk9GMmZyOUFNQlp5Vm1ld0toYXozMGtqS1VfRzAycVM0TDRxbEJVRUV2c09KeEs1YlJTakVnNGdvYTBZTERlclN1S0FtS0RKcGxtU21iNmQzdzBnQXpHNExGTGdlSzg5dnJRYUZWSGpjYVo3UjN1U2VLNGVJaEp4LTF5cU10dlFZZXJxdmthTHFubW9DSzJ0bmlqenFMRmlGT21tbmk3WTRBLTlCdThmeGZmd25hMk1PVVhFU2JvY0V2WS0wU1BfS01oSkZ3dE5uMlNmUVFjbDdiX1NkaE02NzJZZTI2Q0xQMnpDTE9uOGJNb2RoRFBHeE9QcDlva014VzVnRzVaVUsxWWllcWRaSU5hZDU3MUhybHFWZE9DR0hhbzZ4ZjR4MFF5NERGNmFsTENsaU9ONUpwa1RQcU0tUXB1RUcxcUdZRlJTTUtObWZF?oc=5",
+      "pub": "2026-05-18T11:06:59+00:00",
+      "id": "c388b619440a1f71"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সদস্যরা পাবেন মাউন্ট এলিজাবেথ হাসপাতালের সেবা - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOVU5oNFJhOV80NDlIc01FMm5UVWtqWHNjMWVQTHdaYmxKSG53SERnUl9QdHdCcnM0bG9TdkVEMkRMbXNtQnpSaFRKYmZ6U2xwU01WZGc4Z2RCQU9wckQwQzAwaTVDUXVjclQzREJLUGlVTVFrTDhqVHpIZVVlVWZBNk52b3dqenpLbHJSeXdIYnVfcVRLTmhfQ2YwV29RaHBuNjFseHRKR1VZMExXcXVOUzVzWGdCNWdMYWhnTG1UY3dSTGtXd3NQVl9XTFMtazNaeFIxTTBINFAzVDktZ1BZTDJfTVBRN3F0eS1uS292bVJZZWs5Nm1mSHMzUWQyZVk3bTJRWlFKeGx6NllzdTJuTjZOa1ZaRDFNVGpseHNXc3lHQ2lmX0dMT2NaeUM3cHBnTUpubnNiaWhWNFVaYnJLMEJ0WVRPRDVzVG0xUEw1ZGJ2RERheExKREd5OUNFR2FOeGRWMC1aQnc5ZGRwdVJIVFBHSERKUGRmNkNZU0wtSHk5VTFCQWM3aUxVSDhsSVlWcU1wLXozckNnWm5IQl9LWl8yVklRU1RWZlAzRVNOQV94QjBtT182bHJLU0xzbFdjYUthMjBRcmNVSUc2alU0QjF2UXVvRUFNNkhjN1NPbVdsR1VPMFZ4T0ZFQnFGWkJBdVBkWDY3MVB0SWpiekZ0VnRNYUZwQ3ZwWUl4dDFLOG9NMGVYTUs4V1Y1ZUtiUUVzQkRxVEtPZXZNVmhHTDJmcEp4RXhPN2pCTUFxaHk4S09XUzZvTFZFUUF3SktJaTJUUHAtb3VvWEx2NWhnT2MwQjdSUnZoeW9m0gHoBEFVX3lxTE5VTmg0UmE5XzQ0OUhzTUUyblRVa2pYc2MxZVBMd1pibEpIbndIRGdSX1B0d0JyczRsb1N2RUQyRExtc21CelJoVEpiZnpTbHBTTVZkZzhnZEJBT3ByRDBDMDBpNUNRdWNyVDNEQktQaVVNUWtMOGpUekhlVWVVZkE2TnZvd2p6ektsclJ5d0hidV9xVEtOaF9DZjBXb1FocG42MWx4dEpHVVkwTFdxdU5TNXNYZ0I1Z0xhaGdMbVRjd1JMa1d3c1BWX1dMUy1rM1p4UjFNMEg0UDNUOS1nUFlMMl9NUFE3cXR5LW5Lb3ZtUlllazk2bWZIczNRZDJlWTdtMlFaUUp4bHo2WXN1Mm5ONk5rVlpEMU1Uamx4c1dzeUdDaWZfR0xPY1p5QzdwcGdNSm5uc2JpaFY0VVpickswQnRZVE9ENXNUbTFQTDVkYnZERGF4TEpER3k5Q0VHYU54ZFYwLVpCdzlkZHB1UkhUUEdIREpQZGY2Q1lTTC1IeTlVMUJBYzdpTFVIOGxJWVZxTXAtejNyQ2dabkhCX0taXzJWSVFTVFZmUDNFU05BX3hCMG1PXzZscktTTHNsV2NhS2EyMFFyY1VJRzZqVTRCMXZRdW9FQU02SGM3U09tV2xHVU8wVnhPRkVCcUZaQkF1UGRYNjcxUHRJamJ6RnRWdE1hRnBDdnBZSXh0MUs4b00wZVhNSzhXVjVlS2JRRXNCRHFUS09ldk1WaEdMMmZwSnhFeE83akJNQXFoeThLT1dTNm9MVkVRQXdKS0lpMlRQcC1vdW9YTHY1aGdPYzBCN1JSdmh5b2Y?oc=5",
+      "pub": "2026-05-18T09:43:03+00:00",
+      "id": "e35bc8f93a3e7530"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সদস্যদের বিশ্বমানের স্বাস্থ্যসেবা নিশ্চিতে মাউন্ট এলিজাবেথ হাসপাতালের বিশেষ 'প্রিভিলেজ কার্ড' চালু - bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QaGJFNHBPbVBBWnVDTzVaZHNLSjV5M2lWbU40aHN1MnVJalRXaWhUOHBqbDA3dHJpUmd6cy1CRWViMWMxNWRJdk1nLWFjcVNrYU80RTVlMGx3Q0x4S1ZqcVpIOGg?oc=5",
+      "pub": "2026-05-18T11:31:17+00:00",
+      "id": "e8915ec6bc1d021e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "টানা ৭ দিন ব্যাংক বন্ধ, কিছু শাখা খোলা সোম–মঙ্গলবার - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQXVXSThzN2RYcGRpWkt2VVc5NUlvcmRveUZkekZjRlhjcElGbzJxLVk1YzQ5ZGpyMEdiamU5ektBUXM1N2tYM3lQM0VPUlNFNVNMOGhDemF6S1NzNVN6TkU2SzdJRE5fOTE4QUtMUEVEdw?oc=5",
+      "pub": "2026-05-18T09:46:58+00:00",
+      "id": "62e0bc3a5fb29a49"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদের দিন ছাড়া প্রতিদিন খোলা থাকবে সব কাস্টম হাউস ও শুল্ক স্টেশন - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSmNqTGNjdnNaNmE5ZGlmTHhjRHlUVUNyUW42RTBYWDUtTjByU0hONlR3ci1idGpVUkNndXlwekRNYm9FMjdPMUJTVGVueXpUQ21nandpOEM5LWloZ3UxemNBWWtLZUZFLUHSAWpBVV95cUxQaUpjakxjY3ZzWjZhOWRpZkx4Y0R5VFVDclFuNkUwWFg1LU4wclNITjZUd3ItYnRqVVJDZ3V5cHpETWJvRTI3TzFCU1Rlbnl6VENtZ2p3aThDOS1paGd1MXpjQVlrS2VGRS1B?oc=5",
+      "pub": "2026-05-18T07:18:00+00:00",
+      "id": "09a9f920fd8e3a06"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ছুটি কক্সবাজারের উদ্যোগে পডকাস্ট শো ‘ছুটির গল্প’ - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPeGxYUUxMOUVXWDBrZHN3M3NPTGVkTU5VQ3diVzdVNVFRUjdzQm84M3hGWWx3UVVXSTEzZkwwN2lkMnluZE9scDZpdWtqOGJ4Uy1aazRsR0VQNWozdURlQ1cxVXU5S0lpMEN3ZENadEtHVzVuWFNZYUFUa3ptSHcyUF9HWHFNeEpWbTYyaTlndE91Q0U2bEMwUG11TDVXQUktTTI4VUVqUG5nNzdPNHlzak9FVWtIU0Y2WkxKUXdyMExidGFkeXJfbGhGVGx5MjBLTlZYUlBrZkhtOUpuZnFvRk1LYzhHSnd0T3BlcF9JZDZXSmhaa3VZQXZxUHo0b1pPc3BmSXhKUktoQ0tUQXQtQ1FDN2NXUWg4QUNtMUdEZGxEYm1JRzlFdW1zbGQtSFN6aEpsMjdaNFZJUmxrd2ZpRTh6VWQ5QnU2NnJPbE9LdzBDMWRESXpUT1FGNVdQR3AyYk9VcExzU1huS25za19aQlVWODFpVzhkYTY4T3haTUVCb3pHSUF5eXBqanpRdEx4WncyYldXaVdyeGxYeDZINlJKSEpfbDdQczRmcGtGczdwTWV3Z1daQUVQNFlFUmtSTEZ2NGtfYmJNU1ZRVEl0WVM4VWpELWhFM00xcGgxcF94SlA0X2F4eG4yWktwTC1hU2NPRlBRZUQ4QkRraUJmTUJ6aGRPejRaSzNfYkR1elhnUTVaVmdMMmlaRXUxMXk2czFZNnBSM1RrTHlwb1hhYzNrZjJXMDhCSzRnbkN2ZTZ3UWl5VHkwbmNsZGZmclhVNVHSAdIEQVVfeXFMT3hsWFFMTDlFV1gwa2RzdzNzT0xlZE1OVUN3Ylc3VTVRUVI3c0JvODN4Rllsd1FVV0kxM2ZMMDdpZDJ5bmRPbHA2aXVrajhieFMtWms0bEdFUDVqM3VEZUNXMVV1OUtJaTBDd2RDWnRLR1c1blhTWWFBVGt6bUh3MlBfR1hxTXhKVm02Mmk5Z3RPdUNFNmxDMFBtdUw1V0FJLU0yOFVFalBuZzc3TzR5c2pPRVVrSFNGNlpMSlF3cjBMYnRhZHlyX2xoRlRseTIwS05WWFJQa2ZIbTlKbmZxb0ZNS2M4R0p3dE9wZXBfSWQ2V0poWmt1WUF2cVB6NG9aT3NwZkl4SlJLaENLVEF0LUNRQzdjV1FoOEFDbTFHRGRsRGJtSUc5RXVtc2xkLUhTemhKbDI3WjRWSVJsa3dmaUU4elVkOUJ1NjZyT2xPS3cwQzFkREl6VE9RRjVXUEdwMmJPVXBMc1NYbktuc2tfWkJVVjgxaVc4ZGE2OE94Wk1FQm96R0lBeXlwamp6UXRMeFp3MmJXV2lXcnhsWHg2SDZSSkhKX2w3UHM0ZnBrRnM3cE1ld2dXWkFFUDRZRVJrUkxGdjRrX2JiTVNWUVRJdFlTOFVqRC1oRTNNMXBoMXBfeEpQNF9heHhuMlpLcEwtYVNjT0ZQUWVEOEJEa2lCZk1CemhkT3o0WkszX2JEdXpYZ1E1WlZnTDJpWkV1MTF5NnMxWTZwUjNUa0x5cG9YYWMza2YyVzA4Qks0Z25DdmU2d1FpeVR5MG5jbGRmZnJYVTVR?oc=5",
+      "pub": "2026-05-18T09:49:10+00:00",
+      "id": "318cf7d22423313c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিইউএফটিতে ফল সেমিস্টারে ভর্তি মেলা শুরু - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zNm1paFNCRlZuZ2dibTI1ZlhqVlZUMktRZ0w3bTJ2SlpxOWVvZlhwWHFhUlBvLVllNmlRTjdIcHRFU2d3VXdkVmhQQ2xlVnBGUTVZaWV5UzVwdUh4Rmw1NlNjTEVnWUZYTTl6Sko4UzYtQdIBckFVX3lxTE4zNm1paFNCRlZuZ2dibTI1ZlhqVlZUMktRZ0w3bTJ2SlpxOWVvZlhwWHFhUlBvLVllNmlRTjdIcHRFU2d3VXdkVmhQQ2xlVnBGUTVZaWV5UzVwdUh4Rmw1NlNjTEVnWUZYTTl6Sko4UzYtQQ?oc=5",
+      "pub": "2026-05-18T06:20:00+00:00",
+      "id": "dc7956b0e99be518"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চার খাতে বাংলাদেশী কর্মী নিতে আগ্রহী কাতার - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNamJ0cUNqV3VIYnFKOS1hMHYycTdDRHZSamRtdDkyM1JZbzNkV1pUdjBlRTBxaUJrQnpVeHR1TFRkUy1LcUEtRzEyNE9ZaHRMOThFRGRoNUxDNC1TT0U2OG5xSjFrWWpZX1plUXlES0hGWVlmWE14ZXM4eHh4V3VaaWllb1hGaFZOQXZYSnFSRUNLZmtVMUV5X0dhbllCeDAwZEZaQWtSbmhJaVp2UjFNWEhQRlRfTWwySUFnX21maHdFQXZZM29TUHpuSDlTS1ktYVBGYVZpdk1xZ1pjNWZjOV9ZaEhqSGpGRWFfaVl4a2dyYUhYUlp4b094aUduSkZkWWNhbkNhN0JMV04xdkttc0tUa2dpOTNjUlV2Q3lWWm9hVjMtazhQaXZ1dU16TFB1M2ZpQ0dpVUVjLTVZOFptbzBRTXR1MVdmMDNYNFpleWFwUElEd2Q2RWo2MEJDVlllNDJpWGxiT2lFaUZ1bWxXZm15QzU1dUlqYmROLVRvV0hCSDFyeThMRXhtUmEtclFzTUNGZk5LSFA0M2M0eTBnQjlhaTZDc0paMkNRUDdfNDV2UG56OE5UelNFTVpZYkoxVDd2WGFfaDlrYktVUW1DWWJ3dF9EUFczUk1VZktqal9McmVIRHczSGk2dllVaHktdDg1aGxSLUtsa3dPZUxxVzlOdzZDM1pxdFHSAYoEQVVfeXFMTWpidHFDald1SGJxSjktYTB2MnE3Q0R2UmpkbXQ5MjNSWW8zZFdaVHYwZUUwcWlCa0J6VXh0dUxUZFMtS3FBLUcxMjRPWWh0TDk4RURkaDVMQzQtU09FNjhucUoxa1lqWV9aZVF5REtIRllZZlhNeGVzOHh4eFd1WmlpZW9YRmhWTkF2WEpxUkVDS2ZrVTFFeV9HYW5ZQngwMGRGWkFrUm5oSWladlIxTVhIUEZUX01sMklBZ19tZmh3RUF2WTNvU1B6bkg5U0tZLWFQRmFWaXZNcWdaYzVmYzlfWWhIakhqRkVhX2lZeGtncmFIWFJaeG9PeGlHbkpGZFljYW5DYTdCTFdOMXZLbXNLVGtnaTkzY1JVdkN5VlpvYVYzLWs4UGl2dXVNekxQdTNmaUNHaVVFYy01WThabW8wUU10dTFXZjAzWDRaZXlhcFBJRHdkNkVqNjBCQ1ZZZTQyaVhsYk9pRWlGdW1sV2ZteUM1NXVJamJkTi1Ub1dIQkgxcnk4TEV4bVJhLXJRc01DRmZOS0hQNDNjNHkwZ0I5YWk2Q3NKWjJDUVA3XzQ1dlBuejhOVHpTRU1aWWJKMVQ3dlhhX2g5a2JLVVFtQ1lid3RfRFBXM1JNVWZLampfTHJlSER3M0hpNnZZVWh5LXQ4NWhsUi1LbGt3T2VMcVc5Tnc2QzNacXRR?oc=5",
+      "pub": "2026-05-18T10:10:57+00:00",
+      "id": "f8a1a0d2b9d332bc"
+    }
+  ]
 }
