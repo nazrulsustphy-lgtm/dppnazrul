@@ -1525,7 +1525,366 @@
     "af9f33709489c3ed": "2026-05-25T16:24:08.182082+00:00",
     "83d174a0e62365e7": "2026-05-25T16:24:08.182082+00:00",
     "977825b45b7b91cb": "2026-05-25T16:24:08.182082+00:00",
-    "8fc6777c0c724dfb": "2026-05-25T16:24:08.182082+00:00"
+    "8fc6777c0c724dfb": "2026-05-25T16:24:08.182082+00:00",
+    "28d275dfe2d428a6": "2026-05-26T17:28:12.677327+00:00",
+    "015a3fd67bf8467f": "2026-05-26T17:28:12.677327+00:00",
+    "daaf74ca86718e09": "2026-05-26T17:28:12.677327+00:00",
+    "5831a370e3dba7f6": "2026-05-26T17:28:12.677327+00:00",
+    "c610e9fb040a3e2e": "2026-05-26T17:28:12.677327+00:00",
+    "ac1539463d79a2df": "2026-05-26T17:28:12.677327+00:00",
+    "a44ed271539d0e31": "2026-05-26T17:28:12.677327+00:00",
+    "5efaed7d027f91e2": "2026-05-26T17:28:12.677327+00:00",
+    "1c2e5f93a4ce9ee8": "2026-05-26T17:28:12.677327+00:00",
+    "be1ff0a4cd6f4f5a": "2026-05-26T17:28:12.677327+00:00",
+    "056d3f1f18335384": "2026-05-26T17:28:12.677327+00:00",
+    "c7c3e5b15fbd3f2f": "2026-05-26T17:28:12.677327+00:00",
+    "14dd420fbb445ddc": "2026-05-26T17:28:12.677327+00:00",
+    "137d129042ed9349": "2026-05-26T17:28:12.677327+00:00",
+    "ae96886b4959d70f": "2026-05-26T17:28:12.677327+00:00",
+    "67edcbf48c3000d2": "2026-05-26T17:28:12.677327+00:00",
+    "f3413ce451aa3d14": "2026-05-26T17:28:12.677327+00:00",
+    "9699f1803fc536fd": "2026-05-26T17:28:12.677327+00:00",
+    "4a5b4529a46de115": "2026-05-26T17:28:12.677327+00:00",
+    "40f8c41386c4a07c": "2026-05-26T17:28:12.677327+00:00",
+    "048caee35af9617e": "2026-05-26T17:28:12.677327+00:00",
+    "05f9118fd03942c7": "2026-05-26T17:28:12.677327+00:00",
+    "f8c76e8a9555f94f": "2026-05-26T17:28:12.677327+00:00",
+    "f1b093670d728be8": "2026-05-26T17:28:12.677327+00:00",
+    "f9f7edab7a6acb8e": "2026-05-26T17:28:12.677327+00:00",
+    "403284f15684abeb": "2026-05-26T17:28:12.677327+00:00",
+    "e65f3b7317d17507": "2026-05-26T17:28:12.677327+00:00",
+    "87b0129299df21cf": "2026-05-26T17:28:12.677327+00:00",
+    "1570c621f65a8f13": "2026-05-26T17:28:12.677327+00:00",
+    "0e0ca49c352e29b9": "2026-05-26T17:28:12.677327+00:00",
+    "baef2b2c1727e8e6": "2026-05-26T17:28:12.677327+00:00",
+    "fc49f4cc55051d52": "2026-05-26T17:28:12.677327+00:00",
+    "c1ff89f5fbaac200": "2026-05-26T17:28:12.677327+00:00",
+    "99a00ca51c29e445": "2026-05-26T17:28:12.677327+00:00",
+    "daf96144d03a2570": "2026-05-26T17:28:12.677327+00:00",
+    "94803a2707488563": "2026-05-26T17:28:12.677327+00:00",
+    "09784eacf50b5049": "2026-05-26T17:28:12.677327+00:00",
+    "f3a3159a2402e8d5": "2026-05-26T17:28:12.677327+00:00",
+    "7a82e72c84080634": "2026-05-26T17:28:12.677327+00:00",
+    "404337cba9bac866": "2026-05-26T17:28:12.677327+00:00",
+    "b2804901febe31fc": "2026-05-26T17:28:12.677327+00:00",
+    "76e04d12ccd41b45": "2026-05-26T17:28:12.677327+00:00",
+    "8cbc82c33e694380": "2026-05-26T17:28:12.677327+00:00",
+    "129232c189904986": "2026-05-26T17:28:12.677327+00:00",
+    "47bdeeee9e27f66c": "2026-05-26T17:28:12.677327+00:00",
+    "519bd2ec73ec0b01": "2026-05-26T17:28:12.677327+00:00",
+    "1b155f5cca0ada1d": "2026-05-26T17:28:12.677327+00:00",
+    "09cbbd057b571d2c": "2026-05-26T17:28:12.677327+00:00",
+    "be5f8dc4a48b9350": "2026-05-26T17:28:12.677327+00:00",
+    "e8f645714cb022cb": "2026-05-26T17:28:12.677327+00:00",
+    "bf9644d320ce009d": "2026-05-26T17:28:12.677327+00:00",
+    "9aa205bafcf389ce": "2026-05-26T17:28:12.677327+00:00",
+    "c4212c502b664c5d": "2026-05-26T17:28:12.677327+00:00",
+    "2d1e436d628f89d1": "2026-05-26T17:28:12.677327+00:00",
+    "b6870257bbab91d4": "2026-05-26T17:28:12.677327+00:00",
+    "5802a182ec0631a0": "2026-05-26T17:28:12.677327+00:00",
+    "385cb5e769beb07e": "2026-05-26T17:28:12.677327+00:00",
+    "6974296fa3e8236b": "2026-05-26T17:28:12.677327+00:00",
+    "ee318dd02296cd7f": "2026-05-26T17:28:12.677327+00:00",
+    "5207e84d625dc9ee": "2026-05-26T17:28:12.677327+00:00",
+    "5048d30e0bee0128": "2026-05-26T17:28:12.677327+00:00",
+    "fe9a27294c7093df": "2026-05-26T17:28:12.677327+00:00",
+    "e1a9596f7a572180": "2026-05-26T17:28:12.677327+00:00",
+    "df70a1755557488f": "2026-05-26T17:28:12.677327+00:00",
+    "94bfebe0a919614e": "2026-05-26T17:28:12.677327+00:00",
+    "7e70f738b78bde3e": "2026-05-26T17:28:12.677327+00:00",
+    "ca7936615d641522": "2026-05-26T17:28:12.677327+00:00",
+    "8fb7b862abcda839": "2026-05-26T17:28:12.677327+00:00",
+    "36bd200b045fc89f": "2026-05-26T17:28:12.677327+00:00",
+    "03e96230e1111af9": "2026-05-26T17:28:12.677327+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "JHT's One-Stop Supply Chain Model Cuts Costs and Complexity for Global Home Textile Retailers in a $200B Market - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDJBQU9VdDhUbkhsSjNSaElITjlzdWNicm1oNEUxN29WcTNYYUQ3QkdlSHlfRTZXcVdWZUtXZVoybkJ1T2N1Z2pYOEZaSjJEM0JHWkFTVUc2eXZIci1uOW05dTJpWm92aWxFZkJLajliUktrQjR6WW0tSy00S3pnX3BNa2g3MlJURVBaUGZFTjFWWDVoOEdOS0pIYlVCbnpLVjNsMEttelhHZktjb004?oc=5",
+      "pub": "2026-05-26T07:18:18+00:00",
+      "id": "daf96144d03a2570"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Green Financing Workshop Under EU Switch Asia - Green Threads Project Organised in Panipat with Young Entrepreneurs Society (YES) - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUzdLbVBRT09jYy1jZkZjczlTU09abFQxY3lVNDFMOUhBU3kxakNRSHBoeExJVGtlVVMza0xvTnpMMDB6Nk9pVkRnRTdPbHp2YWszRlpZdkFEd3F3NzFLMDJPS01BcVgzYzVreXVhSHpLSjFTUnpnZ0NYS3BEX1dkYUFWdjJsUTJWelZ6RzJfRnpaX0hkN2s0Ums2NjB4d2lma09UUWlnV1poMFh5bmFteWpKVWFsZ191WG5pN0pWMklOOGpvb3gtckNPUG5rSFZZbnZQZkcwWFJSUC1aY2w2WElaTnM4WUhWOHJfcXRCeE9RNkpXQnB3SEFpcG0wcEJw?oc=5",
+      "pub": "2026-05-26T14:21:00+00:00",
+      "id": "94803a2707488563"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Germany Small Sofa Cover - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRi0wdVZyM1B1dkx6VWppNWg1Y0RVVGZoYS1hdkp0N0Vud01OVHV2MjZ1cW9rdXB5MzREVjI1blZUcFBxenNnTy1yWEpHUkU0eVBuakl1eWpUeUo0SHZUeV92SnpNZDk4dzZ3YjVNVzh4a01ZYUsxR3VvSFJXVHNLVld1SVBwX2hmcF90bWllVU54WklWeUlZdWN1OFRoR0ZRSUw2ZzdmdkZKM0ZEa3dFY1RB?oc=5",
+      "pub": "2026-05-26T05:34:11+00:00",
+      "id": "09784eacf50b5049"
+    },
+    {
+      "section": "international",
+      "source": "Just-Style",
+      "title": "Is fashion ready for DPPs?",
+      "link": "https://www.just-style.com/features/is-fashion-ready-for-dpps/",
+      "pub": "2026-05-26T08:27:14+00:00",
+      "id": "f3a3159a2402e8d5"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Biotech Short Watchlist Today: IOVA, BDTX, ESPR, SANA, FATE, ALT",
+      "link": "https://www.reddit.com/r/pennystocks/comments/1to5dsh/biotech_short_watchlist_today_iova_bdtx_espr_sana/",
+      "pub": "2026-05-26T12:24:42+00:00",
+      "id": "7a82e72c84080634"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Biotech Short Watchlist Today: IOVA, BDTX, ESPR, SANA, FATE, ALT",
+      "link": "https://www.reddit.com/r/Pennystock/comments/1to5cyy/biotech_short_watchlist_today_iova_bdtx_espr_sana/",
+      "pub": "2026-05-26T12:23:47+00:00",
+      "id": "404337cba9bac866"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Biotech Short Watchlist Today: IOVA, BDTX, ESPR, SANA, FATE, ALT",
+      "link": "https://www.reddit.com/r/u_Dangerous-Visual-614/comments/1to5cr9/biotech_short_watchlist_today_iova_bdtx_espr_sana/",
+      "pub": "2026-05-26T12:23:32+00:00",
+      "id": "b2804901febe31fc"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "ESPR | Esperion Presents New Data from CLEAR Outcomes and the CLEAR PATH Phase 2 Pediatric Study at the European Atherosclerosis Society Congress 2026",
+      "link": "https://www.reddit.com/r/StockTitan/comments/1to4sjs/espr_esperion_presents_new_data_from_clear/",
+      "pub": "2026-05-26T12:00:02+00:00",
+      "id": "76e04d12ccd41b45"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Need help locating a store",
+      "link": "https://www.reddit.com/r/Trieste/comments/1tnhqoi/need_help_locating_a_store/",
+      "pub": "2026-05-25T18:33:31+00:00",
+      "id": "8cbc82c33e694380"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh’s RMG market share in EU shrinking - Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0lfcklpNS13YURoSzI3QWZUN0UzV1dTVjdKQ19JR25aREhpeGJVb05EV25qRVNlUVp5YVFjSWpQVU5WblRKRmdoY1lFMmtrdFpxQXpqN2cxcWdRYU15bkJiM0VmV1BxWmdEZG14OHNFUFVJQnlBVms5ci1fT2hiemJCYVBWNFpEbnFYcE96Rm9BUnRucFdpX05NUkZxdDTSAZ8BQVVfeXFMTjdJX3JJaTUtd2FEaEsyN0FmVDdFM1dXU1Y3SkNfSUduWkRIaXhiVW9ORFduakVTZVFaeWFRY0lqUFVOVm5USkZnaGNZRTJra3RacUF6ajdnMXFnUWFNeW5CYjNFZldQcVpnRGRteDhzRVBVSUJ5QVZrOXItX09oYnpiQmFQVjRaRG5xWHBPekZvQVJ0bnBXaV9OTVJGcXQ0?oc=5",
+      "pub": "2026-05-26T10:03:31+00:00",
+      "id": "129232c189904986"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "India's Sahu International Attire to build RMG unit in UP's YEIDA belt - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMjdrc1FKUGhyX2xIdjRfTElYc2E4Qno0TEZjRUNJZ2FFYzQzMDZOWlVERHVzQmdXTnZRUm5qQkgyTk5NNnkxRDByLVlHMFZmX3lXcllrZTBFUzBpUEJzNWJuRzBtSGlBSGxZVDF5VVlWcjRmUXBWZXRnYXhDaGdnWUM0QzAyWVdTbW9sVUlibXBvUzRYZHJsc1BHM2hIcG4xTmlyWWppUjJHQ0JnM1pDTW93TDR5d25jLVd1RUY1VHlGTVRvYkVSSDljN3M0dVhOWHNUZnZfTkVJdFZHVUYyZzNmN3U?oc=5",
+      "pub": "2026-05-26T06:25:55+00:00",
+      "id": "47bdeeee9e27f66c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "High tariffs stifle Bangladesh RMG potential in LatAm - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm1TZks5RU1nUDZDN0ZVN2NaaXR4OXRTcVJ1VUp2bXdGSC1IMktsYlNnNFJfSDZXekoyWXBxcWhoSjE3WU5hdDVQNkgxN2JpbFZiTlVuZmo2NEFTMFJiX1huRGdEaHN6MWthdExSbWJELUpuWUo2TlFlbW9rU09kbFpyY2hXN0JiOXp4ZU00RXZ6S0xNbmhsQQ?oc=5",
+      "pub": "2026-05-26T08:26:30+00:00",
+      "id": "519bd2ec73ec0b01"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Rawhide crisis looms over fair price uncertainty - Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlY4OUlHMHpxa3NNdHRxTl9iaGdxTXV0Zk1ha1RxdHdBMnhnYi05VGs5YzlPT2R4Q1ZVc094c09ZZmdQUnZRN05YOFIybTBzbmFOdjVKRUFGYlk4b0tlRW9zSVc3bnBrWDlISTJtMF9JY3RFbEZqVnBXdW82Z0paaUJWRU10Mk1TWWNfT1l0aVhkVWt3VXZucGxDd3dPZ9IBngFBVV95cUxOUlY4OUlHMHpxa3NNdHRxTl9iaGdxTXV0Zk1ha1RxdHdBMnhnYi05VGs5YzlPT2R4Q1ZVc094c09ZZmdQUnZRN05YOFIybTBzbmFOdjVKRUFGYlk4b0tlRW9zSVc3bnBrWDlISTJtMF9JY3RFbEZqVnBXdW82Z0paaUJWRU10Mk1TWWNfT1l0aVhkVWt3VXZucGxDd3dPZw?oc=5",
+      "pub": "2026-05-26T10:06:09+00:00",
+      "id": "1b155f5cca0ada1d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Crisis deepens as fake goods flood Bangladesh markets - Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnNVeEppZ3N4Y2YtTFFyU2NGQkRvcDdfMVJGNG9ZcGJvUGdiZS1qMjc4Rmw3a25ZeWZQQnhXR0FSSDdoaXpVUWdlMHNRTkFCT2RUYmRrRFE3QTdhemFXbzRTUGR5ckt3N3hYR0JUaDRoX2UtaUtpZVV0Z1U0eVZua3R4SUs2OVRpcW9BTDhoeDN4OFpqbGFPenlB0gGaAUFVX3lxTFBCc1V4Smlnc3hjZi1MUXJTY0ZCRG9wN18xUkY0b1lwYm9QZ2JlLWoyNzhGbDdrbll5ZlBCeFdHQVJIN2hpelVRZ2Uwc1FOQUJPZFRiZGtEUTdBN2F6YVdvNFNQZHlyS3c3eFhHQlRoNGhfZS1pS2llVXRnVTR5Vm5rdHhJSzY5VGlxb0FMOGh4M3g4WmpsYU96eUE?oc=5",
+      "pub": "2026-05-26T10:04:46+00:00",
+      "id": "09cbbd057b571d2c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "The cotton clause: How the US–Bangladesh trade pact could reshape regional textile trade - Asia News Network",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGc4cWc3aWtSb1IwZG9XR0tXQ2VSOVFZaHNGOHdsSVpDZjdQR1UwSWdXaXlSMTZZSDAzQzB1NGVUVDFkVHppNzNyRlhlVlJ6dzRUOE9ZSXhhQ1FFVFNuZzFhV2YyUFVVTC1Od29hSjVaWXBLLXppODFHUXFzME1RemJVdGJYVlhlMGc0XzlTLXQxRjJqcm9taWNOLUxkSHl4dmRxQUlRMmgyTXJ4ZFZKYVp0Yw?oc=5",
+      "pub": "2026-05-26T02:14:43+00:00",
+      "id": "be5f8dc4a48b9350"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ব্যাপক সম্ভাবনা থাকলেও পিছিয়ে বাংলাদেশের চামড়াশিল্প - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnV0ZMNkE2SmppSnlFRWQxcmM4ek1mdGNweERITGozcnUxQ1NQMzdveUNpbUt1cXhtNEgyalVLSERreGxKel9FQ29RckRnZDdiaUZXbFRJcUNTak9iVHY2aTBFdC1OM3M?oc=5",
+      "pub": "2026-05-26T02:32:20+00:00",
+      "id": "e8f645714cb022cb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৯৯ শতাংশের বেশি কারখানায় বেতন পরিশোধ হয়েছে, দাবি বিজিএমইএর - Bangladesh Journal",
+      "link": "https://news.google.com/rss/articles/CBMirAVBVV95cUxPV2JjZnNqRjR2RWRLLWJzQjlEQjh1ZUwyZlM0bDdxNUNFTmJXcmk3eloyM05zSXU2d1NOVXl1dXN3enE3RWlqUWNNZ1NVdGR1cUJfaWQ1WW9BNENzSHphOC13M2Zyak5oYnZmMVlicVpjbjhPUjZPc2wzcEhQb2JFMlFGSDl4MjZQTmxuWFFISThheHBDUVkyRWhzNUVTTEppVktkQjJ0ZC1CMjJsR1hQOUV4ajRzS2M1UjF2QldFYU5WMWJoS1R2WExqLTdILXlIYlZSclNRME5rd2xRUFBiVjF4YWhLWVIyaDVRNXpENG5mMk4tbFBGUS03dDhsNVY4d2pkLVJVRWpsRWpBdjVIdmFMZUxTX3FXRnhfSUhXOHpBTUt3ZDFMSlg0WnZhckZtRE04czd2bFByVkp4MnhjU2NrS3hpWE1SVGFUREJpZTk1VkZiZzh2aHY3Sm1kWTJXcmR5WmNvRHFCcDJPMVNIdTZBV0hQNGVrMlEzMjB6Um82UHl0TE9wSXZ2b1VIRktwbzVaZmFibmxrSmdmbEJlbndobVJJcXJXam9CZmdRU24wSUl2UjlHY0RWRzg4M1JjM1FITnVxRVFabWJGMnpmRm1TTFZqM1FKWFVCcnc2QWc2TTRPUnhxZTdoQ1lkcV9GYTItazdUUTRJWEdHVDliTG5rd19aaWVGSTVNUE13ZXQ2alctUTlxaTF5YlM4azNlcWlMd19IcjFGeVNHNll6Z2ZNREtTbFFUWHEzRjNvTE9EUU5xY29tT2hIdDVTSmk5LUZzQllZQUJFanFEenlxcTNTb3FYTVlvVjQ3YlhZYThwX3hlY3pWbWMwZXFyaFM5Q2F0Nk9wTW1lQnFWWVo0UU5FWWhqY3U4c1BJTjlsbU9ZWUNNN0x4eUFSZ28?oc=5",
+      "pub": "2026-05-26T15:00:00+00:00",
+      "id": "bf9644d320ce009d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চট্টগ্রামের বিজিএমইএ সদস্য কারখানায় শতভাগ বেতন-বোনাস পরিশোধ - Chattolar Khabor",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSYUp4dlpUUnpWZHdIVnZ0VlF2N3diVHl6em9FVjUwRmVfZS1yRzFXTjY5R3BaSlRYQUtnTXpKS2VpeDlQR0Z4aUNNQnVjdF9CRXRfRC1tcw?oc=5",
+      "pub": "2026-05-26T15:19:20+00:00",
+      "id": "9aa205bafcf389ce"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএর ৯৯ শতাংশের বেশি কারখানায় বেতন-বোনাস পরিশোধ - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxNVmdJd0F6aC1zV01zVlNnY1ZjZzJzUWw5aU1nelY3NnJIOGJoTlY2TngwWlJMUTdHTzNYVE1WNFVSem0wWnpBUDN2SFd5QXNBb3JTR3JIRlo3N1REenpsVndrZkRDTzFaTENaY0VkTTBRazBFeFBEdDFNOUNqOWpwQ2wtaEk0c2NXbXNEdzFiV29DSlVjNXRvbmpXODFjRnBWMlozNWdJY1dwdW9zbmJ3d181cjNlWmtJVWY2aHJXVjk5RlRFOTF6RWpCOXF4dk51RDVJc3ZvSkNvZGJ2cXItckhvdGlaYmVvVS1ZRGlGNGNhd1p2NmhDTVdjZXd6S1VLbFpsOXdZeDJ5M0lSTTMyZVRHemxFdlI1Z1RKamM1WE95VXhtSm1Gd2g4V1lJR0JjNWVyVS1nVzJ3MnNhXzZMM2dmU2FkRW5rdUNBWEhlZzVyQjJHNkJOMUNqaDZaRHh2ZjR4eERoRjktektVS1ZCSTB5YXcxYWs3TXBOOGd0Z2Y1c1M0VzBBeFR3UkExYlJzZEFieHVqQ045UmNfbFdaVmtfdVczRXpqZmRpb1BVNExVckQ0S2ozdVpLS0Y0cmlFWmdHdEtGazZaOVI3UndyMXNVZHRBWUxYT1ZRV2dkT0h5OFl5ZkFmN3dnb2c3UFRhS0hXcWxhRjNaYVNfTld1YndwUUlEZ2F6OHZ5Z29BQkFScXUwc2hPRkQ1cXpTT2Jnb3RjdklsQUU3N2ZaR2lRbVZtR0FJclZDbElya9IBwgRBVV95cUxOVmJYWTd1ejh0NF95bG41LTZPR295c0pwbUtaUnlQSEdTLXZ3MlRoZDZkYnlaVTRERkZhZGZqYmw4Q0l4ZWd1WDJHWnNEb2I2SXVCR3pWOGM2WjcwaG1NcjdTLWdxellKdGhsSXEwOTU4VENrb0ZRVlJDOUNVTTRIdmZ5Vkp6a011b0k1Wk5DZDVwbW1wQ2FjdHFacVpIVURLamVrTVk3aE8tVmxKSjZkdG5odEdha3ZpRW5hMnJacmZ6eVhkbmQ5aC1rOUZLUjB6RUpZeDVyaUVPWi1sb3NBWThVMmExemJxSFNxU29OcjJOSnhyaEtIQ1Q1LWdIS3MxVFU0bDJCRWlTRm81a0ZKTTRqaGRXcHRNUDhlQzczdHk2UzdheGJCWHRvMkY2alFJamVkeEk5SjIxbWt1WU9taUJUV0tiaEJhdFNYU2RSZnhkTUNTaUZ3aUlmamtSUXg4Y2ljVC1pZEVCWUd3ZmRJV3YyV210UE1BSERqaHp6UmExT1luWnctQ09fdTZqd1owckdNdG1rSDBrY2JoUTVZMWtyb0ZXSm4xOE1ZM0oydUpSNjNJZFV3bzJ5RUg2eko4MEZ1QWEzWjZUeE5HX21GclZxWDZnc1htbzNYS2x2X0hia2x6VHl4elFSQl9QOENTR2RIVnJTbFdPYWx5bTV6bmxOMm1FenM4eUJMSFpVWTM0ZTZER0dfdEw1R2N2RG05N2E2dFZ4MGlERzZrZnJRNHhMVUtNeUI5SDV6UGxXajBZQQ?oc=5",
+      "pub": "2026-05-26T11:23:29+00:00",
+      "id": "c4212c502b664c5d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সদস্য কারখানায় প্রায় শতভাগ বেতন-বোনাস পরিশোধ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMNEJETXFPMTZhTGxhNXFwRFI5Vl90NWhyTjBrTklyQWtYS0Q2X1ozZHJkZDY3eFRYa0wzSEMtY3dNSFZFVGR4U3FEM2RFYlRleV9wZzZrS1dSdEHSAU9BVV95cUxPdE9lLVRidHlGMGRiV1FYQVlDVXNqb2o3ZlQ3OGQwTUl4OHV1RWpZS2plZXQ4b0lhNkpsMU5GeFVONEh3ckQwYTA5ekdPR3hj?oc=5",
+      "pub": "2026-05-26T09:08:00+00:00",
+      "id": "2d1e436d628f89d1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদ বোনাস দিয়েছে ৯৯.৫৮% পোশাক কারখানা: বিজিএমইএ - The Daily Cosmic Post",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1B3Z2RRb3ZBUklQMS1hOWMxcHktVVVsVjJOaW9PRWw4MXJoWU5nRjYxUWRmRFUtVEpRSDNPN3VzQ0F3eEdMWXZLWDM0WVMxSC04QTNBNjcwb0JfYks4NzJ6ejN1VV9DZnRqdzJ1OGhSOThYaWRYbEFsMWNQcFhXQXdJQWpPSlJtd1E?oc=5",
+      "pub": "2026-05-26T09:33:08+00:00",
+      "id": "b6870257bbab91d4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৯৭% গার্মেন্টসে বেতন পরিশোধ, প্রায় শতভাগ বোনাস । 97% Garment Factories Pay Salaries, Nearly All Bonuses - itvbd",
+      "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxObUNYbC1vYktJYVpCN3FqN1QzWm9kTF9fQ1A3UWlYcGVPWkY1eTJNeFRLdExPXzFEc096MlE4aEtRdVQ5TE1xVUVjUTd3bnc4SDlyRDVkWGM1YjFFY1pKdU9pYlJGV2ZMY2VNU1RydTNEcndRSWozcm1uVWJQYmhwd2poTE93WVVST2J1YUNhNE9SZHpVSTloN1RWM1FYZ1BSQ1VWdkFnY2RNOUdYME1GN2JQeUR6Nkc1MEtEc0dBb0FYbDlSTWlEMTNhWEVTYm4wZjhGb1hzTVdLVVY1NDZOZXpsVVZhdHZQR3NEazcwVHBvNVpjbTdzZ1hjbmc5RlJlSEk5cjk1Wlo4enhPM2cwRElpYU5Gb2dQTmFvQUp5SUViMHctSDAzRTFuZXJmTkxPRjlENzdEMWd5Wm93cVU4aFI3anB0MmNfbElONzNNaV85REo0bTQ4bEI5Skp3amQ0WHdPVE5rRy1iUmtkd0hXdHZvMjlhVnY4SFg2eVdPSmZmckhIbUdna3hBQ3h4eHZVWHdVaXRaWUZmR3M2RzdiaWdJXzYxY0htT050dFp5V1F2cExmYUQ5NnZST3YteklSOFFqMEpBeXNfblhQcUtEVU5jUEp0Uk1tU28wV1lOb3U1eENMbl9FZm9PMm9FYUtyM0g5RFk0Y3BPcUs5NXBHTGI0djZyVktBMDJNdGwwQzB1ckkzQ3d1Um9ER2JReXhidGd5cHZoUFFzaXoxVEV2R3oyekhSYzZlWmlyNtIBvARBVV95cUxObUNYbC1vYktJYVpCN3FqN1QzWm9kTF9fQ1A3UWlYcGVPWkY1eTJNeFRLdExPXzFEc096MlE4aEtRdVQ5TE1xVUVjUTd3bnc4SDlyRDVkWGM1YjFFY1pKdU9pYlJGV2ZMY2VNU1RydTNEcndRSWozcm1uVWJQYmhwd2poTE93WVVST2J1YUNhNE9SZHpVSTloN1RWM1FYZ1BSQ1VWdkFnY2RNOUdYME1GN2JQeUR6Nkc1MEtEc0dBb0FYbDlSTWlEMTNhWEVTYm4wZjhGb1hzTVdLVVY1NDZOZXpsVVZhdHZQR3NEazcwVHBvNVpjbTdzZ1hjbmc5RlJlSEk5cjk1Wlo4enhPM2cwRElpYU5Gb2dQTmFvQUp5SUViMHctSDAzRTFuZXJmTkxPRjlENzdEMWd5Wm93cVU4aFI3anB0MmNfbElONzNNaV85REo0bTQ4bEI5Skp3amQ0WHdPVE5rRy1iUmtkd0hXdHZvMjlhVnY4SFg2eVdPSmZmckhIbUdna3hBQ3h4eHZVWHdVaXRaWUZmR3M2RzdiaWdJXzYxY0htT050dFp5V1F2cExmYUQ5NnZST3YteklSOFFqMEpBeXNfblhQcUtEVU5jUEp0Uk1tU28wV1lOb3U1eENMbl9FZm9PMm9FYUtyM0g5RFk0Y3BPcUs5NXBHTGI0djZyVktBMDJNdGwwQzB1ckkzQ3d1Um9ER2JReXhidGd5cHZoUFFzaXoxVEV2R3oyekhSYzZlWmlyNg?oc=5",
+      "pub": "2026-05-26T13:22:00+00:00",
+      "id": "5802a182ec0631a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিশ্ববাজারে সোনা-রুপার বড় দরপতন, দেশে কোনটার ভরি কত? - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QeUQ4S3JFb2lQdHlCcXRmM1RmTzZGWm8yUm5Ha3hXeDlWYlJkYlh4NXNJUGk4ZVpXZlpydG5EZVVqbE05YVJLUXdaaEN3cEtENnE1U28tem1ZWmtGb0R2eWdzcTIxWkRIOUJROFlZTQ?oc=5",
+      "pub": "2026-05-26T11:04:14+00:00",
+      "id": "385cb5e769beb07e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদ বোনাস দিয়েছে ৯৯.৫৮ শতাংশ পোশাক কারখানা: বিজিএমইএ - সময় নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkWW5DUEhNRmFvNWFtdE5EVFRhZTNoX2R6ZnpVaUhydGgzZU5xaXF5R3RlZi1hMTZZU1pBRTJ6UW4ydFBkZ2pvcHdBcnhYc3NUc2V2blNZeEY3aVFaUGc?oc=5",
+      "pub": "2026-05-26T07:42:54+00:00",
+      "id": "6974296fa3e8236b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এপ্রিলে ৯৯.৭২ শতাংশ পোশাক কারখানার বেতন পরিশোধ - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MWFxZXdiQm43OVlJR2ZLS1NzZXVpVUJqbkNtb0RKeGJVOXpqVjd0MUx4T3JBdmVieDBfaVJ5MUlqbWNuV0tuNUtVV3hwWGdibFRpSWx5aENXUQ?oc=5",
+      "pub": "2026-05-26T13:15:00+00:00",
+      "id": "ee318dd02296cd7f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদ বোনাস পরিশোধ করেছে ৯৯.৫৮ শতাংশ পোশাক কারখানা: বিজিএমইএ - crimebdonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QMlZjNjdRWWxPRFN1UXI0ZHpaVkNoZjZhbG53cTN2OTR4S0N5N3pRWVpZY3ppSkh4R0piR3hJUGV0SEt6WHF5TFZDQ2hsbF9qWkE?oc=5",
+      "pub": "2026-05-26T09:19:27+00:00",
+      "id": "5207e84d625dc9ee"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৯৯.৫৮% পোশাক কারখানায় ঈদ বোনাস পরিশোধ, প্রায় শতভাগে এপ্রিলের বেতনও পরিশোধ - Orthosongbad",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNeVRDRk5Va2hRYjJtNW1wLWJySFRad204MDNlR2NEMXduUHVqM0tmbHlyeGN6QlhnQ2xtXzhURGdwYUd1WUV4Q3lzN3FlanFadlZaX0VPZklvMXJzeWxVTjAzdjhHWmE2aDhKRHFlWXlRS1B6blB5RXVVdmpZRmFNTzJPYUI2cXVBaGZoRTNIQmx4VGIzcmRzX2N2V2dlbFBqUWFxbUJPQXAydjZBSlZFWHZDRW1tYWdUOE9kZERDUDJZM3RaZ29ZUENNWTJlaUlqNkNZWTVQUWZtTlJoQnB4RnFXc3VUTUFnSGV1WEhFTS15WWlXMWdaejFhRnBfUUJwZWs2cmU2bzRiYXhuVV9wRGtnV2VNQzVOT3lWZ1dOSlB6MlVEczFJejFXSlZFTERLVTRJYmhZWkZhRHJJaVRFZUhKWjlndE4ySHhwb1VfTjnSAdACQVVfeXFMTXlUQ0ZOVWtoUWIybTVtcC1ickhUWndtODAzZUdjRDF3blB1ajNLZmx5cnhjekJYZ0NsbV84VERncGFHdVlFeEN5czdxZWpxWnZWWl9FT2ZJbzFyc3lsVU4wM3Y4R1phNmg4SkRxZVl5UUtQem5QeUV1VXZqWUZhTU8yT2FCNnF1QWhmaEUzSEJseFRiM3Jkc19jdldnZWxQalFhcW1CT0FwMnY2QUpWRVh2Q0VtbWFnVDhPZGREQ1AyWTN0WmdvWVBDTVkyZWlJajZDWVk1UFFmbU5SaEJweEZxV3N1VE1BZ0hldVhIRU0teVlpVzFnWnoxYUZwX1FCcGVrNnJlNm80YmF4blVfcERrZ1dlTUM1Tk95VmdXTkpQejJVRHMxSXoxV0pWRUxES1U0SWJoWVpGYURySWlURWVISlo5Z3ROMkh4cG9VX045?oc=5",
+      "pub": "2026-05-26T08:47:08+00:00",
+      "id": "5048d30e0bee0128"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বেতন হয়েছে প্রায় শতভাগ, বোনাস ৯৫% - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOWmRkd3lseWpCOHhBT0diYjV0d3oybm5tN015NHB1XzNsc2dEdFBYUVhhTmFCZVFDN1dFZ1l6cFZqUk1IaWF0c0p4ZW02OEtrM2cyaFAydFFvYmlfSUVuaXFYcDdaUzhRdjlGYlpEMHhsbDhfSWVsdmZaQmx5SGQwbXBQc1dTYXlidTlQdFNLNGl6RE9VbGZzUE54VXBrLXhqLUJpSS1RSUdNWGZMdjU5ZXhrWFpQdGRXZEJjNGVlTXRENE1xZ3QxMTV1LXVoQ3ZQdV9NVzVXc2ctdmVSVEIzb3JBNmYtekhoOTZMN0xTRmVwQlkzQk9rWHdUYXE3UkVfaGVOOXJ6WGJKSUpvNHFnQjVKbkpEVm14MElnYkh0RlgtOTBKdG5zdGJyRVBscmVrRDg1Nko0TDNZMEZRNVBxLWxEckpNZHRkRlBRQ3U2SUd0REdvRE5HN3RKYlBWWmdiSzVEOTFMRjFmdzJUU2JhWUVvM09OV0Jqazd0dGN6UTVidVhGZGNpVDEyU0luMTJlejlRWtIBlANBVV95cUxOWmRkd3lseWpCOHhBT0diYjV0d3oybm5tN015NHB1XzNsc2dEdFBYUVhhTmFCZVFDN1dFZ1l6cFZqUk1IaWF0c0p4ZW02OEtrM2cyaFAydFFvYmlfSUVuaXFYcDdaUzhRdjlGYlpEMHhsbDhfSWVsdmZaQmx5SGQwbXBQc1dTYXlidTlQdFNLNGl6RE9VbGZzUE54VXBrLXhqLUJpSS1RSUdNWGZMdjU5ZXhrWFpQdGRXZEJjNGVlTXRENE1xZ3QxMTV1LXVoQ3ZQdV9NVzVXc2ctdmVSVEIzb3JBNmYtekhoOTZMN0xTRmVwQlkzQk9rWHdUYXE3UkVfaGVOOXJ6WGJKSUpvNHFnQjVKbkpEVm14MElnYkh0RlgtOTBKdG5zdGJyRVBscmVrRDg1Nko0TDNZMEZRNVBxLWxEckpNZHRkRlBRQ3U2SUd0REdvRE5HN3RKYlBWWmdiSzVEOTFMRjFmdzJUU2JhWUVvM09OV0Jqazd0dGN6UTVidVhGZGNpVDEyU0luMTJlejlRWg?oc=5",
+      "pub": "2026-05-26T01:59:48+00:00",
+      "id": "fe9a27294c7093df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৯৭% কারখানায় ঈদের বোনাস দেওয়া হয়েছে - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQcVNxNkRMSEFYcFNyZnVabUo4Q29CNmpxQ2xzYUoxRXJ5bVE1YjJzY0FVSERNdjFTTzRtaE16cnI5OEgxNGd4YU1uRmJCTTNMSHFUM0g3djVtSTVyYlBmT1ZzVlRRSTRvOXIyVmtucmZKUVpIcUo4NGk2ZzU0cUlDcmlpVWtmOERNd042V0Y4bllZamNwNm0tWVctX3BqNklDU203UWhhWC10blg2aXRnWHhuZVBsblpSS204OTNodlhSQlVHX0FveW02MF9QX2M2QVNmTDZSY1FGUXJVNkFRbng0UFYtREJHSXZQVmxCbzZWMVVHa2NsVnZZZFNvTnBTV21jeUI1b3E4c0tTdUZyU0RRU2ZqNEh4RmNNdW82eE1Vc3pXcVRIT2Zzb1JkMWdVNWktOER4anRsRGRTY0tzOEh1NDdxZEtQRDY5ajR6Sm81SnVkUHpaSnhEQnBhYVdEaVpma1Z1U29Ta0pISkJyQXdFdWRxWDF3dmdRa3hMMXIycWJMazRxc2hHYzdyZ09iWnBGbDM3aU5UbjZKX1V6MDV1Qkp2ekJVTEVTb2RiektUeUhubXhiSFl6UQ?oc=5",
+      "pub": "2026-05-26T01:27:56+00:00",
+      "id": "e1a9596f7a572180"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দাম বাড়ার পর আজ সোনার ভরি কত? - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VktNU3UwUmtWWGt0SE16Q0hPcUN3YjM4OUprbHUxSTRyajlnWFpYa0ZrZDZ0NVZ3TVp4QUNETjZBS25LRmliTTlLLUpPbmNlNGx1RVdyWkVLOGJWMElJMG9VOThJT0pwQ0pleGh2bw?oc=5",
+      "pub": "2026-05-26T04:56:13+00:00",
+      "id": "df70a1755557488f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৪০৯ পোশাক শিল্পসহ ঈদ বোনাস দেয়নি ১৫০০ কারখানা - Barta Bazar",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZVhwN0ZmUkpQLUZVUzRHbHBTdlpLRmNrUlJ0WFRPUGdzNzAtczFiMDhVRGV1MGZaLTNBV2hZemhOR2RqMXoyZEVQRQ?oc=5",
+      "pub": "2026-05-26T03:40:00+00:00",
+      "id": "94bfebe0a919614e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পশুর হাট এলাকায় বুধবার রাত ১০টা পর্যন্ত ব্যাংক খোলা - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfX0xIRFhNUWVMdlFmZkh6Y2paOWdJT193cm1KZVl4c3phUkJaTkxxOUphQWhzd1dpamVZNnZrNWdnd21xWEVLTnBtaF94ZWJxVEFxd29QYk5GdFFpTU80N2VIeFJ5RFdCai1lbUM1VQ?oc=5",
+      "pub": "2026-05-26T14:01:48+00:00",
+      "id": "7e70f738b78bde3e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশি টাকায় আজকের মুদ্রা বিনিময় হার - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3OTFWRkEta3lUY2d6VzBmWnZ6MkMzTHJQMU00V2hpT2ZhWi1ZUGt1VVRtckkzMG1ZTzdYQjBtTG5xN3pZYnZiQ2s5S3lfZElvbHBKY2luVzRBOHpvYnJ3Qy1Hb053elA3SDVWQm5PMA?oc=5",
+      "pub": "2026-05-26T08:05:10+00:00",
+      "id": "ca7936615d641522"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেড় হাজার প্রতিষ্ঠানে ঈদ বোনাস পরিশোধ হয়নি - Sunbd24",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE80WURDb083RDBvU3dpWkxGejFsdXNXdmFiOVg4bTl6TkI4TjJuYVlKNFd1UUFGQzJxWEtZZTgtTTE?oc=5",
+      "pub": "2026-05-26T03:04:37+00:00",
+      "id": "8fb7b862abcda839"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সীমিত পরিসরে আজও খোলা ব্যাংক - Rupali Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWWMzZGZlTU1sN0pzZjJjcjBYYzhQbUtOOFhSSnNLNkZMX1ozM0lrMU50cnR6TzhQa3NoWUhXRnp1MldCMlhQYnB5dHlINDBFRFc2VW1TN1NPRWxicHcyeVFIVU9NRy1DRTdDTW1za1ZXNHM?oc=5",
+      "pub": "2026-05-26T04:44:00+00:00",
+      "id": "36bd200b045fc89f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদ বোনাস দিয়েছে ৯৯.৫৮ শতাংশ পোশাক কারখানা - npbnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTMWZ1a3gxR3FCWFJjTlZZTjY4alJPb3BRckV6cGluTWFkYWl6V2h1cmZtNGtKTUNKOHBVTjNmOHYzdDFFRVFwQmRIeFduNklU?oc=5",
+      "pub": "2026-05-26T07:48:47+00:00",
+      "id": "03e96230e1111af9"
+    }
+  ]
 }
