@@ -1892,7 +1892,29 @@
     "3cdb56c36b60c0c6": "2026-05-31T10:18:19.261584+00:00",
     "019b2e945e649efc": "2026-05-31T10:18:19.261584+00:00",
     "49bc0a61806713bc": "2026-05-31T10:18:19.261584+00:00",
-    "fcdcf7c644b09d0d": "2026-05-31T10:18:19.261584+00:00"
+    "fcdcf7c644b09d0d": "2026-05-31T10:18:19.261584+00:00",
+    "ee08963485df1767": "2026-05-31T15:18:38.982226+00:00",
+    "fd49afb1dc1d27ef": "2026-05-31T15:18:38.982226+00:00",
+    "59095299f74974a7": "2026-05-31T15:18:38.982226+00:00",
+    "3745009946b956c9": "2026-05-31T15:18:38.982226+00:00",
+    "48eb35a8bceb39f8": "2026-05-31T15:18:38.982226+00:00",
+    "161febac221c9ee4": "2026-05-31T15:18:38.982226+00:00",
+    "205cbba6e6788c78": "2026-05-31T15:18:38.982226+00:00",
+    "6be984fa81dff8a7": "2026-05-31T15:18:38.982226+00:00",
+    "2c43588a992a042f": "2026-05-31T15:18:38.982226+00:00",
+    "eccdf37b88cb50c0": "2026-05-31T15:18:38.982226+00:00",
+    "240de1ecdaf4f07c": "2026-05-31T15:18:38.982226+00:00",
+    "0a034560538192f1": "2026-05-31T15:18:38.982226+00:00",
+    "5e5dbb427088ca5c": "2026-05-31T15:18:38.982226+00:00",
+    "80d4953ab87e1d84": "2026-05-31T15:18:38.982226+00:00",
+    "63f2dcdf360b8e3d": "2026-05-31T15:18:38.982226+00:00",
+    "0ef2cb0e643122eb": "2026-05-31T15:18:38.982226+00:00",
+    "ae903e3b9f7df6b4": "2026-05-31T15:18:38.982226+00:00",
+    "80bf6be713e9f901": "2026-05-31T15:18:38.982226+00:00",
+    "f955742b14c3279a": "2026-05-31T15:18:38.982226+00:00",
+    "261ecf609cd42b97": "2026-05-31T15:18:38.982226+00:00",
+    "6bb275074121953e": "2026-05-31T15:18:38.982226+00:00",
+    "fe17d0caa53ccd8c": "2026-05-31T15:18:38.982226+00:00"
   },
   "yesterday_items": [
     {
@@ -1918,6 +1940,46 @@
       "link": "https://www.reddit.com/r/PoliticalCompassMemes/comments/1ts7wyi/colombias_presidential_elections_are_tomorrow/",
       "pub": "2026-05-30T18:43:44+00:00",
       "id": "fcdcf7c644b09d0d"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Increasing Bangladesh’s skin on the game in the EU apparel market - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm1fVWlPYklIRmhhWlFnbU5Od1VXbUYwWHI4Yy01UGR5ZWlWdUpIM2Njaml6NXQ3YzAxR0JYVnA4VHFOcTVWNUM3R2w4dXFncV9YLVRic1lLZ2dWb1lCdEladG9GbjIzNzhJNUF0QjJ5TDVscXp5UmZjM2FIYnU4clFPZmQ1X2NHeGlsdzA0NnpaZC1oblhOTG8yUDk?oc=5",
+      "pub": "2026-05-31T11:02:44+00:00",
+      "id": "6bb275074121953e"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Drink Coffee or perish!",
+      "link": "https://www.reddit.com/r/shitposting/comments/1tssj5d/drink_coffee_or_perish/",
+      "pub": "2026-05-31T11:16:51+00:00",
+      "id": "fe17d0caa53ccd8c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Increasing Bangladesh’s skin on the game in the EU apparel market - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm1fVWlPYklIRmhhWlFnbU5Od1VXbUYwWHI4Yy01UGR5ZWlWdUpIM2Njaml6NXQ3YzAxR0JYVnA4VHFOcTVWNUM3R2w4dXFncV9YLVRic1lLZ2dWb1lCdEladG9GbjIzNzhJNUF0QjJ5TDVscXp5UmZjM2FIYnU4clFPZmQ1X2NHeGlsdzA0NnpaZC1oblhOTG8yUDk?oc=5",
+      "pub": "2026-05-31T11:02:44+00:00",
+      "id": "6bb275074121953e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Increasing Bangladesh’s skin on the game in the EU apparel market - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm1fVWlPYklIRmhhWlFnbU5Od1VXbUYwWHI4Yy01UGR5ZWlWdUpIM2Njaml6NXQ3YzAxR0JYVnA4VHFOcTVWNUM3R2w4dXFncV9YLVRic1lLZ2dWb1lCdEladG9GbjIzNzhJNUF0QjJ5TDVscXp5UmZjM2FIYnU4clFPZmQ1X2NHeGlsdzA0NnpaZC1oblhOTG8yUDk?oc=5",
+      "pub": "2026-05-31T11:02:44+00:00",
+      "id": "6bb275074121953e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Increasing Bangladesh’s skin on the game in the EU apparel market - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm1fVWlPYklIRmhhWlFnbU5Od1VXbUYwWHI4Yy01UGR5ZWlWdUpIM2Njaml6NXQ3YzAxR0JYVnA4VHFOcTVWNUM3R2w4dXFncV9YLVRic1lLZ2dWb1lCdEladG9GbjIzNzhJNUF0QjJ5TDVscXp5UmZjM2FIYnU4clFPZmQ1X2NHeGlsdzA0NnpaZC1oblhOTG8yUDk?oc=5",
+      "pub": "2026-05-31T11:02:44+00:00",
+      "id": "6bb275074121953e"
     }
   ]
 }
