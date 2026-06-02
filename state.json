@@ -2043,7 +2043,33 @@
     "635d745e93500a78": "2026-06-02T12:07:03.156088+00:00",
     "3be1560dee01c807": "2026-06-02T12:07:03.156088+00:00",
     "b9d1a23a31f0c2b7": "2026-06-02T12:07:03.156088+00:00",
-    "0270b9875abb580a": "2026-06-02T12:07:03.156088+00:00"
+    "0270b9875abb580a": "2026-06-02T12:07:03.156088+00:00",
+    "5c57844fd31fc848": "2026-06-02T18:06:55.632405+00:00",
+    "83b3d1b58f5d0c75": "2026-06-02T18:06:55.632405+00:00",
+    "08d8ab650f3364b5": "2026-06-02T18:06:55.632405+00:00",
+    "708394ebd22068e7": "2026-06-02T18:06:55.632405+00:00",
+    "1dd9526bb0060a1f": "2026-06-02T18:06:55.632405+00:00",
+    "042f68f22d8cfd61": "2026-06-02T18:06:55.632405+00:00",
+    "8cc71a796a89b0b5": "2026-06-02T18:06:55.632405+00:00",
+    "6425272343d6e56a": "2026-06-02T18:06:55.632405+00:00",
+    "c6bfe8e1573336e5": "2026-06-02T18:06:55.632405+00:00",
+    "ea138289b6d03036": "2026-06-02T18:06:55.632405+00:00",
+    "e12602edac5e19bf": "2026-06-02T18:06:55.632405+00:00",
+    "64a2eafa0eef3e73": "2026-06-02T18:06:55.632405+00:00",
+    "a93198651c9f6f59": "2026-06-02T18:06:55.632405+00:00",
+    "a3179df30fb01693": "2026-06-02T18:06:55.632405+00:00",
+    "ee6ea95959653146": "2026-06-02T18:06:55.632405+00:00",
+    "62fd8e7df86d864d": "2026-06-02T18:06:55.632405+00:00",
+    "525fcbcfd7cacd52": "2026-06-02T18:06:55.632405+00:00",
+    "145c13677fbc3e24": "2026-06-02T18:06:55.632405+00:00",
+    "0eb84e233006581f": "2026-06-02T18:06:55.632405+00:00",
+    "b39ab0b947fc11d5": "2026-06-02T18:06:55.632405+00:00",
+    "6ca6cc1617481bb0": "2026-06-02T18:06:55.632405+00:00",
+    "3d9f893daeaa2de9": "2026-06-02T18:06:55.632405+00:00",
+    "bcb6e7e61445e836": "2026-06-02T18:06:55.632405+00:00",
+    "db8acc079b30735d": "2026-06-02T18:06:55.632405+00:00",
+    "297cefd22695eb21": "2026-06-02T18:06:55.632405+00:00",
+    "7477aac07ecccd3b": "2026-06-02T18:06:55.632405+00:00"
   },
   "yesterday_items": [
     {
@@ -2205,6 +2231,38 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03aENlcWt1TXhkOGJ1alB4c1JlZm55RjUtb0FUemR3bUtCVm1NMUZYZ3pkSGFaLVVYM1JTelNFd05oUmRYRTVsWDFpRnJGZ1Z5QVlzM2N4Nm9QYnRhNVE?oc=5",
       "pub": "2026-06-02T01:12:40+00:00",
       "id": "0270b9875abb580a"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "EMERGENCY SUBBREDDIT POSITIVITY REINFORCEMENT",
+      "link": "https://www.reddit.com/r/DandysWorld_/comments/1tuqi5c/emergency_subbreddit_positivity_reinforcement/",
+      "pub": "2026-06-02T13:09:50+00:00",
+      "id": "bcb6e7e61445e836"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "The EU wants a passport for every button on your sofa. Here's why that's not as insane as it sounds.",
+      "link": "https://www.reddit.com/r/RealBusinessEurope/comments/1tuqi1h/the_eu_wants_a_passport_for_every_button_on_your/",
+      "pub": "2026-06-02T13:09:43+00:00",
+      "id": "db8acc079b30735d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "স্পেনের বিনিয়োগে বাংলাদেশের অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত হতে পারে - Amar Barta",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Q3Bzbm1KRklITTExVDl1dWZIUVpyZmdOZlg1Y0oyTnlEMFYyOHZoZFRPSEZMTWFpTE5VRUkwOWtRMEl4RGFUWGNxSjZxQkRmd2c?oc=5",
+      "pub": "2026-06-02T12:32:00+00:00",
+      "id": "297cefd22695eb21"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "দেশে বিনিয়োগ বাড়াতে স্পেনের রাষ্ট্রদূতকে স্পিকারের আহ্বান - sangbad.net",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9xaUZSc1ZJLTFhVk1rWDZmY2IzR0NIR3ZwY1MxbkhfRGM3ZGFKNUhSN3Vxb0VhWC1nSldFZkNaRUt3S1E1?oc=5",
+      "pub": "2026-06-02T11:50:00+00:00",
+      "id": "7477aac07ecccd3b"
     }
   ]
 }
