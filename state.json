@@ -2069,7 +2069,186 @@
     "bcb6e7e61445e836": "2026-06-02T18:06:55.632405+00:00",
     "db8acc079b30735d": "2026-06-02T18:06:55.632405+00:00",
     "297cefd22695eb21": "2026-06-02T18:06:55.632405+00:00",
-    "7477aac07ecccd3b": "2026-06-02T18:06:55.632405+00:00"
+    "7477aac07ecccd3b": "2026-06-02T18:06:55.632405+00:00",
+    "6fc44d9b64443e4b": "2026-06-03T12:43:57.282674+00:00",
+    "b6db24ff7f47b652": "2026-06-03T12:43:57.282674+00:00",
+    "b64bf91d7a6b65b9": "2026-06-03T12:43:57.282674+00:00",
+    "e8be8f68a669e91d": "2026-06-03T12:43:57.282674+00:00",
+    "973e3cfdd6317cb1": "2026-06-03T12:43:57.282674+00:00",
+    "e5fad0a1fd94698a": "2026-06-03T12:43:57.282674+00:00",
+    "e0965838b8aa50eb": "2026-06-03T12:43:57.282674+00:00",
+    "4d93bbdfa6487ee9": "2026-06-03T12:43:57.282674+00:00",
+    "ae68f03e12d6f3fc": "2026-06-03T12:43:57.282674+00:00",
+    "c939e6c36156bef9": "2026-06-03T12:43:57.282674+00:00",
+    "a46453f328ed532c": "2026-06-03T12:43:57.282674+00:00",
+    "5eb9694f5aff48c7": "2026-06-03T12:43:57.282674+00:00",
+    "b492072b34b9d1a4": "2026-06-03T12:43:57.282674+00:00",
+    "19b05a6409faf195": "2026-06-03T12:43:57.282674+00:00",
+    "de7af5166b03bdc1": "2026-06-03T12:43:57.282674+00:00",
+    "a77aa54283f47ca4": "2026-06-03T12:43:57.282674+00:00",
+    "6368a88377b6f145": "2026-06-03T12:43:57.282674+00:00",
+    "4551c97784bfcc20": "2026-06-03T12:43:57.282674+00:00",
+    "4cebf82b1fc68545": "2026-06-03T12:43:57.282674+00:00",
+    "7b035c4f8e6df0ae": "2026-06-03T12:43:57.282674+00:00",
+    "0e0100651c8996fb": "2026-06-03T12:43:57.282674+00:00",
+    "a07cc67a48f12490": "2026-06-03T12:43:57.282674+00:00",
+    "c18b4fbde023397b": "2026-06-03T12:43:57.282674+00:00",
+    "71af7255bafcdf4b": "2026-06-03T12:43:57.282674+00:00",
+    "9c6caa399e552f27": "2026-06-03T12:43:57.282674+00:00",
+    "bdc4a23f5f9be8a6": "2026-06-03T12:43:57.282674+00:00",
+    "a19bc7fd52a8eae1": "2026-06-03T12:43:57.282674+00:00",
+    "4dfd472a8bcc438e": "2026-06-03T12:43:57.282674+00:00",
+    "b019d394561058bc": "2026-06-03T12:43:57.282674+00:00",
+    "c48216947bbc8072": "2026-06-03T12:43:57.282674+00:00",
+    "acded50520a9e046": "2026-06-03T12:43:57.282674+00:00",
+    "693fa4e309d3a1d6": "2026-06-03T12:43:57.282674+00:00",
+    "cd0136e154892692": "2026-06-03T12:43:57.282674+00:00",
+    "9048e6b103ba35b3": "2026-06-03T12:43:57.282674+00:00",
+    "5af67a6499cb6df3": "2026-06-03T12:43:57.282674+00:00",
+    "f81fd5cec6182987": "2026-06-03T12:43:57.282674+00:00",
+    "ca7c7cca38f1388d": "2026-06-03T12:43:57.282674+00:00",
+    "658f4d94bd8a7b1f": "2026-06-03T12:43:57.282674+00:00",
+    "f15923cbe4efafd9": "2026-06-03T12:43:57.282674+00:00",
+    "b1148c2ec5f1912b": "2026-06-03T12:43:57.282674+00:00",
+    "d1e9094e5412e6a4": "2026-06-03T12:43:57.282674+00:00",
+    "cc478b5c211ecb6c": "2026-06-03T12:43:57.282674+00:00",
+    "3e27679c7d518918": "2026-06-03T12:43:57.282674+00:00",
+    "495872f5b623031f": "2026-06-03T12:43:57.282674+00:00",
+    "8046369ec505f6f7": "2026-06-03T12:43:57.282674+00:00",
+    "c28def159dfd93cb": "2026-06-03T12:43:57.282674+00:00",
+    "8e7bbddfb8e85394": "2026-06-03T12:43:57.282674+00:00",
+    "e75aba2ac959dd42": "2026-06-03T12:43:57.282674+00:00",
+    "2d5de52b5753aec9": "2026-06-03T12:43:57.282674+00:00",
+    "5e4024494c0f8184": "2026-06-03T12:43:57.282674+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "World Collective launches DPP-ready supplier library for fashion brands - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmtuakFMdEtJa0c5bWxSVnUxWUdNOURJWWdkZFE0Q1NJdHI1bEhCanV4b2ZuMGUzZjNlbVpva0N0ZHQ5eUZ2azNSLVpyb0VGZ21QamNtOGtiSnNHVU5XbEo1SmhfWjBkcWh5QVNCSHk4bHJFQkQ1c05ZdmM4SjJ2SDBEVGd6dWdkcjVMMW9XeHpSdjBpVUJmQnJEMVZtWkZVakxsSHlB?oc=5",
+      "pub": "2026-06-03T05:09:13+00:00",
+      "id": "ca7c7cca38f1388d"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Textile ETP sets 2035 vision for a digitally integrated textile sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaG1iVmFZQWU0eGhfaXo0UXBTTkJoTndGRW5fVmRCQU5hZXBiM3BpeVNXTHY1ODMtMjBVSUUySUVla1dJczNndUtfWHFCNGNvc1lYa3ZXb19wUnBjcDdXblVCV3pCVmpITGI0QW96aTFHNnJTc09GQ3B1aTlleVVTRE92SmJvVFJEX0c2cjVaeVhWMUpFTW9BaHJkakN6NVFxZnlETw?oc=5",
+      "pub": "2026-06-03T09:19:13+00:00",
+      "id": "658f4d94bd8a7b1f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Seaweed pest targeted for sustainable textiles - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1NScl91dDJRa2dIM3haNlN3MnJyS3hyN043YXpxY0sxNFRJbEk0Vzg5Ykdjc2M2UkR2d3NYY0N2TVhwREdoNzBHaE1zTVRKY0o1OHhtZFZ0WFY2R2d5OXJLa2dOaXg3Q3VrX3d6Q05yNVpOQXBfWGtWcGxxaXNFb3RteVZGMERkYTVHbkRKcGZHYVUzLVRadUZPaFZDVW9ST3pMWEMzVHZSckJ6cUJYc3N6dFE0ZmFHSVBhQXB5LTJfYnc?oc=5",
+      "pub": "2026-06-03T11:57:49+00:00",
+      "id": "f15923cbe4efafd9"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Trade Compliance Records Opens EU DPP Registry for African Exporters - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQldIYVNmWXFXcERrcFozVXg1WGdmdjFVUU5zRGFkQjc5bXdWSUdBRXFtLUJLUS1maXBYdHhFRWduWWxJZ0hDam1Ra1did3M0TGdCLXlhU2FVcTZ0ekZTdmFPdHl3Q1ZQcjFudHR6NmhNTFhJTEx2OGhCR0hvaHdUWFRmSjRmY1U3S3VrWHh2S1Y0aGFiUVZiRzdkRUhSNnAwaDZkNlUyMzMzTVRuMXFSYXlNQVN3QTRzZHZ3bDg5U2xUT3FKRy1kVndfaGlnTVI2QkdLdWwxWDRWUTlUbUFaZ3pqQQ?oc=5",
+      "pub": "2026-06-02T17:55:20+00:00",
+      "id": "b1148c2ec5f1912b"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Lab of Apparel Inc. to Unveil Hybrid AI Fashion OS ‘The Fashion OS’ at VIVATECH 2026… “A Bridgehead into the European Fashion Market” - 에이빙",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UnpSYnZ5eU8wM1ZnVlNkVG1jZHpHOGJqVGpuYXNNaFphZGowcWdNbGFwdGRoMWgxOWRIaDdkYVNVNGZDWEo4dEVXcXgtZWxBN0JsV0wyOWZFU2lHdVJhUThlRHFlREM1c0pZ0gFrQVVfeXFMTTdSelJidnl5TzAzVmdWU2RUbWNkekc4YmpUam5hc01oWmFkajBxZ01sYXB0ZGgxaDE5ZEhoN2RhU1U0ZkNYSjh0RVdxeC1lbEE3QmxXTDI5ZkVTaUd1UmFROGVEcWVEQzVzSlk?oc=5",
+      "pub": "2026-06-03T01:11:03+00:00",
+      "id": "d1e9094e5412e6a4"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: EU textile strategy",
+      "title": "Three Reputable Alginate Fiber Textile Manufacturers in China 2026: Advancing Sustainable Functional Textiles - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmNIaHFyVzh4bXlUMTRNZDUtWk9NSlFVMlFNSXVoMEM1TGdMY2RxalFUeVp4Z01TZ0JNYXBvSTVVUDZqNkRXcHpreGZ1aGJ4M09kZkJuVS10ZFFIYU5FU3owaDdSVjRJWGpUQXMxeXBGYzRNOTNKUktEQy1oUlJYNmJJY0hBQldIS2FwNVI4VXQwZmYzQzRYS2RFRzBXMWFJXzQ1Y1paa1MzMWhRR0NlOUJTYw?oc=5",
+      "pub": "2026-06-03T09:17:11+00:00",
+      "id": "cc478b5c211ecb6c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Trade Compliance Records Opens EU DPP Registry for African Exporters - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQldIYVNmWXFXcERrcFozVXg1WGdmdjFVUU5zRGFkQjc5bXdWSUdBRXFtLUJLUS1maXBYdHhFRWduWWxJZ0hDam1Ra1did3M0TGdCLXlhU2FVcTZ0ekZTdmFPdHl3Q1ZQcjFudHR6NmhNTFhJTEx2OGhCR0hvaHdUWFRmSjRmY1U3S3VrWHh2S1Y0aGFiUVZiRzdkRUhSNnAwaDZkNlUyMzMzTVRuMXFSYXlNQVN3QTRzZHZ3bDg5U2xUT3FKRy1kVndfaGlnTVI2QkdLdWwxWDRWUTlUbUFaZ3pqQQ?oc=5",
+      "pub": "2026-06-02T17:55:20+00:00",
+      "id": "b1148c2ec5f1912b"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "CE Marking for Construction Materials in EU 2026 — costs, timelines, and whether it works in the UK and US",
+      "link": "https://www.reddit.com/r/RealBusinessEurope/comments/1tvk75v/ce_marking_for_construction_materials_in_eu_2026/",
+      "pub": "2026-06-03T09:31:50+00:00",
+      "id": "3e27679c7d518918"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Day 1905 If you change your mind, I'm the first in line",
+      "link": "https://www.reddit.com/r/ChristinaRicciDaily/comments/1tvjuqf/day_1905_if_you_change_your_mind_im_the_first_in/",
+      "pub": "2026-06-03T09:12:06+00:00",
+      "id": "495872f5b623031f"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Queen Maxima",
+      "link": "https://www.reddit.com/r/Dutch_Royals/comments/1tv6r6t/queen_maxima/",
+      "pub": "2026-06-02T22:42:52+00:00",
+      "id": "8046369ec505f6f7"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Restock Day!",
+      "link": "https://www.reddit.com/r/nespresso/comments/1tv4ya4/restock_day/",
+      "pub": "2026-06-02T21:34:40+00:00",
+      "id": "c28def159dfd93cb"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Could Algorand be the blockchain of choice for Digital Product Passports? The world's biggest companies are already using it...",
+      "link": "https://www.reddit.com/r/AlgorandOfficial/comments/1tv108q/could_algorand_be_the_blockchain_of_choice_for/",
+      "pub": "2026-06-02T19:12:52+00:00",
+      "id": "8e7bbddfb8e85394"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "World Collective launches DPP-ready supplier library for fashion brands - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmtuakFMdEtJa0c5bWxSVnUxWUdNOURJWWdkZFE0Q1NJdHI1bEhCanV4b2ZuMGUzZjNlbVpva0N0ZHQ5eUZ2azNSLVpyb0VGZ21QamNtOGtiSnNHVU5XbEo1SmhfWjBkcWh5QVNCSHk4bHJFQkQ1c05ZdmM4SjJ2SDBEVGd6dWdkcjVMMW9XeHpSdjBpVUJmQnJEMVZtWkZVakxsSHlB?oc=5",
+      "pub": "2026-06-03T05:09:13+00:00",
+      "id": "ca7c7cca38f1388d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউ নদীর তীরে ২ হাজার বছরের প্রাচীন শহর ‘ফুরং’ - Shomoyer Alo",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuMFZLa010dGtyVlI2V2lHZUF2RUVsM1E3ODZlS3pROGE5SVpuVEp2LW10YjZUaGlRVFFoMVJDNVloRG9nV29hdnlkY0pKcEk5?oc=5",
+      "pub": "2026-06-02T20:19:50+00:00",
+      "id": "e75aba2ac959dd42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "স্পেনের বিনিয়োগে বাংলাদেশের অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত হতে পারে - দ্যা নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdmtuLUJJdE5mWU96c1dFWTVHZ2hwbjQwcXIwT1hNamJfZTNpTVV6V2d0V0V4VWRXVU1Zek9OWUhoVTZBeEMxbk5ZWC1yb3V0T0Zjd01vUWVYS29XOGxLVVJnRVhhSjB2WlpkQUlsRG1Nb1hZOEtBVmpqS2hoZFlmcGFRcU81bUdFTmp4anpNRENuMkRHbEN0T081TVloZGVGWFREQWgtSUplckE3SU05T3dSLTFZeUZNajRRTEljVDdsbXB0cHY4Q19tcTlFSG1JSVJESzdwSFdGcm9uNE9mV3A4NHhmSnAtQlF5SEx3QlVnZEVlWjRQRnJ2OEdZTGc2S0FSdngzcmVNYmtkb0dsekxmNG9vY0U3aVljeXdZc0R1SzVJV1lBaHpxM3U2bzlrUGE5a2NfTWRkNXp6OEV3dHJjNFk?oc=5",
+      "pub": "2026-06-02T15:32:12+00:00",
+      "id": "2d5de52b5753aec9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাতিসংঘ সাধারণ পরিষদের সভাপতি নির্বাচিত হওয়ায় পররাষ্ট্রমন্ত্রীকে বিজিএমইএ’র অভিনন্দন - bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNEt3ejBPejlRbnFuVldaNWx0SWVrS2tVTXE1QndOTzVDZTR3OFRqUUNtS3hVRVNPWnJYaEtPNWVja2NGVm1wR0JFSHdhb2xlMzNaUm1tVm9XT3VJQlRJUDJrZks?oc=5",
+      "pub": "2026-06-03T10:44:14+00:00",
+      "id": "5e4024494c0f8184"
+    }
+  ]
 }
