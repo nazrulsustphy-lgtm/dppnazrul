@@ -2151,7 +2151,209 @@
     "dfc4872d20ea81af": "2026-06-03T18:23:36.056450+00:00",
     "2dfd731e21e608b5": "2026-06-03T18:23:36.056450+00:00",
     "4d49289afa44a339": "2026-06-03T18:23:36.056450+00:00",
-    "b4eabfceb664117d": "2026-06-03T18:23:36.056450+00:00"
+    "b4eabfceb664117d": "2026-06-03T18:23:36.056450+00:00",
+    "e3e8120727154b86": "2026-06-04T11:17:24.199624+00:00",
+    "9bc7ae9545e5236a": "2026-06-04T11:17:24.199624+00:00",
+    "41543c61f07658ee": "2026-06-04T11:17:24.199624+00:00",
+    "c96c220df5df7d87": "2026-06-04T11:17:24.199624+00:00",
+    "8dbf0e5d28b30e66": "2026-06-04T11:17:24.199624+00:00",
+    "0a79dd62bbdbad8a": "2026-06-04T11:17:24.199624+00:00",
+    "b4da9de0de5f4b08": "2026-06-04T11:17:24.199624+00:00",
+    "25e699fb8505a992": "2026-06-04T11:17:24.199624+00:00",
+    "4ed56c7cb51b1f80": "2026-06-04T11:17:24.199624+00:00",
+    "b17476f34e248c52": "2026-06-04T11:17:24.199624+00:00",
+    "96852085e3efd214": "2026-06-04T11:17:24.199624+00:00",
+    "9f455176bbc91838": "2026-06-04T11:17:24.199624+00:00",
+    "a6671425e38b1834": "2026-06-04T11:17:24.199624+00:00",
+    "8aaa0fa64b077a23": "2026-06-04T11:17:24.199624+00:00",
+    "2ddd73e1338a52dc": "2026-06-04T11:17:24.199624+00:00",
+    "37cf05f5eb0db198": "2026-06-04T11:17:24.199624+00:00",
+    "f7770fbe7addffab": "2026-06-04T11:17:24.199624+00:00",
+    "34b4a60d26579c9a": "2026-06-04T11:17:24.199624+00:00",
+    "a795273c4bcb8e2c": "2026-06-04T11:17:24.199624+00:00",
+    "5c0dc781d49956b2": "2026-06-04T11:17:24.199624+00:00",
+    "2e756b031abca514": "2026-06-04T11:17:24.199624+00:00",
+    "2c0849332f7dee5a": "2026-06-04T11:17:24.199624+00:00",
+    "665f97ae386380f5": "2026-06-04T11:17:24.199624+00:00",
+    "9d9ee3f1895d77ee": "2026-06-04T11:17:24.199624+00:00",
+    "75bf9a35ea435a95": "2026-06-04T11:17:24.199624+00:00",
+    "c2193fa9137b976a": "2026-06-04T11:17:24.199624+00:00",
+    "f2ed00433148d551": "2026-06-04T11:17:24.199624+00:00",
+    "a0b9c3183b0e151a": "2026-06-04T11:17:24.199624+00:00",
+    "4ff4a7bbe39e6a42": "2026-06-04T11:17:24.199624+00:00",
+    "657100b4c4eae8df": "2026-06-04T11:17:24.199624+00:00",
+    "db82d60c23e01a45": "2026-06-04T11:17:24.199624+00:00",
+    "65172bd1d939f2b0": "2026-06-04T11:17:24.199624+00:00",
+    "74974bcecbd2a5e3": "2026-06-04T11:17:24.199624+00:00",
+    "87fbbdc4b21eae6e": "2026-06-04T11:17:24.199624+00:00",
+    "c3acd88df1a0d316": "2026-06-04T11:17:24.199624+00:00",
+    "a9e19da6ab5e621e": "2026-06-04T11:17:24.199624+00:00",
+    "8cd315e11e960233": "2026-06-04T11:17:24.199624+00:00",
+    "231eb8d331449acf": "2026-06-04T11:17:24.199624+00:00",
+    "ff845529dcbca7ee": "2026-06-04T11:17:24.199624+00:00",
+    "eca8e426ffb70d67": "2026-06-04T11:17:24.199624+00:00",
+    "6fba8182bafe86b7": "2026-06-04T11:17:24.199624+00:00",
+    "e6ec4d49b4639565": "2026-06-04T11:17:24.199624+00:00",
+    "75a9ece0948d5178": "2026-06-04T11:17:24.199624+00:00",
+    "fb1fac3530d329c9": "2026-06-04T11:17:24.199624+00:00",
+    "e0730c6a6e00f21a": "2026-06-04T11:17:24.199624+00:00",
+    "949258418712cc22": "2026-06-04T11:17:24.199624+00:00",
+    "71db55582c721229": "2026-06-04T11:17:24.199624+00:00",
+    "3944a9891102b221": "2026-06-04T11:17:24.199624+00:00",
+    "549843b16324234e": "2026-06-04T11:17:24.199624+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "New forced labour tariff threat looms - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHZCSWFrNUZ6ZmlsMzUxNlg4eV96bnlwSlJQbnc3c212cTZBVElzNXNFSjBscUYzV01CWWNsRGxXcnJmWE5YQTNtRHVGS2UzbWEzbEdUWXBqR3FMMWQ4R3R3dUFyZ25EWWR4TGg4djFndC1DRHBHamxUMC1kMlBRQW9keHNuazhLLVVucEZBZUowYnBPSV9UUkFxSDI?oc=5",
+      "pub": "2026-06-04T09:35:06+00:00",
+      "id": "db82d60c23e01a45"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Middle East conflict reprices apparel supply chain risks in 2026 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVB5VmpTcEdyOGFrNHczNnBWbEhlZmVIbFZNTXMza01YdnYxYWFmVnNObHlWSllOUFVXeEE1XzlkZ1NmTDhHakRGS0gzRDE1X01MR3hjTGJQcVlfVkRaZ2xYQ0cybF9hTVN4NlMzMkF4QnlrU0gydUQtQkZjZDFHWm82MlE4WVdkN09tbXpabFdNZ2hvWGpyTGVmQnFaLUFtcVNMU3lPWGs4WWF3OXBDRG1fT0VqaHljWHkxQWY4czZQb0NDcmdEcVhjN3N3N0JXcV9BNjE5RTljY0Z2Mjlva3cwMA?oc=5",
+      "pub": "2026-06-04T09:01:31+00:00",
+      "id": "65172bd1d939f2b0"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Swiss textile machinery: Tradition building the future - textilegence.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVBWQkZpUTNuNWpRZS00blVGZVpZdzMtREdhREZGVkNDTVBCR0tDUENnTy00MTZlUDRybElUeS1HY3Jyb1QtTk83SUN4TE5YN0RtQzFjWkV6NmZuOTRDMzRJYjFqaVlCcWpGRVo1TVNJYlVVOWJXcWVGajhfNF9PVUNiS29pS2dYUDdlRVV2Yw?oc=5",
+      "pub": "2026-06-03T15:04:37+00:00",
+      "id": "74974bcecbd2a5e3"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| US-Bangladesh textile pact: Zero tariffs vs supply chain realities - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHdCbFRUNWI5cVYwcXFadU1ZLTVHRjN1Z25YT0plU01lVzQ4ck1TZXh2cmFlWmlrVzdaMDhKRlVFLVVkem1WSjNadWUtMDBObVFMUUpHbFRBc2dhOEx0YUp6TXMwbHN3RGhPLWNLTDFQd3VBQ1RPV2xSX3NfeUdOTjJZMDZWbDc3bEdBUHZNV21NUTRHMm5BSTVIYW0zaW1iUlNnODExM2c2RFpLbXY0THNpT2lyQzI0NlBLZE8yNk9XNWhyOXNGa0Rka0tkWkdmMjZuekx2czBRdlhIcWc?oc=5",
+      "pub": "2026-06-04T05:46:00+00:00",
+      "id": "87fbbdc4b21eae6e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Forced-labour tariffs: Fashion's next border shock - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzdpaFBWV3pqbmJ2bmx4eTFxTlVKajlTd3NfVmdua2RKMHQ0c3pqZ0ZnQ1ZiTVBfVzlqX2ttS1ZLempFWnp2RnM4bDFKa2dsSklfQXdDZTNzUS1wUERWejFZc01xZmI0QVZIMEo5RGZIQUV1anBXcVVEa3FhcG9jbFBwX2NZUFBTdGVxQzh6SEhGZEpaRWNybXMzN3BUSXpnZS0xcnBBaU1XMERLcElDS0d0X0FwTEhTd0pOMV94d3NlNXJabGo3bg?oc=5",
+      "pub": "2026-06-04T08:41:14+00:00",
+      "id": "c3acd88df1a0d316"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "US logistics expansion remains strong in May despite cost pressures - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWjg4MEY2TFl3aE9sSXJ2cFZHSmVZTWZ0WTAyWlFsX1hMYUVBZ0pXNmxDekdYUzJvR1ljQnZQQTNJOTBPZ1JjSDBqUjBkSVhpZm1pMEhVT3YzLThOLVMzMXdOMk81RTVtQkRWYjFBMmhweFAwSnhsQ0M4MkxfQkJPQzgwWXkxSXpRdnJWangyUzVueWNmM29hS2t1aEZNVHVCcUxOeXVFR3cxajVHMTJiYXNaTDQ1c29qb1J6c09XeUNxSTJVb1FURlJFQTA4MXJLMGNrdmN0UVQybGc1VzNuRHNRaFFsUWstdGFKd1pCZw?oc=5",
+      "pub": "2026-06-04T03:04:57+00:00",
+      "id": "a9e19da6ab5e621e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Don’t Waste Your Money: These Are Only Early Prime Day Deals Worth Shopping - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHpwd0lOSDZOUlBYNFE5YzB0YkRBV25XQlhkQVBXZXc5SU9taTFhckUwQ0haWmVKTnU5SERVcVcwYWR4aUVCUE1pc2NZOFh4U25PNnBZc2ROdFRVNk9tQjNZMkM3NGZkTkwwcUo0WmJiMU0zUHptM3AxcURIMWJmcjNBblN4U2ZSa1RrMHAzaklTdw?oc=5",
+      "pub": "2026-06-03T21:44:00+00:00",
+      "id": "8cd315e11e960233"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Lu, Preston and Lisa are ready to start the day 🙌🏻😃☕ Happy Thursday, Replikatown 🥰",
+      "link": "https://www.reddit.com/r/Replikatown/comments/1twg1g6/lu_preston_and_lisa_are_ready_to_start_the_day/",
+      "pub": "2026-06-04T07:04:25+00:00",
+      "id": "231eb8d331449acf"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "No puedo jugar",
+      "link": "https://www.reddit.com/r/CarXStreets/comments/1tw68uk/no_puedo_jugar/",
+      "pub": "2026-06-03T23:22:16+00:00",
+      "id": "ff845529dcbca7ee"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "আবারও বাড়তি শুল্ক বসাতে চায় যুক্তরাষ্ট্র - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTUdmNHphcjQ4Q0RxZ1lONF94YzlIaHI0QW9UYWpQNmFreHNRRlByZURzMnM2RDZ5VWROVlNGd2pGVGZReFlQV2xNTHpEZmoxNURERmIxV2ZwMGh0SU1OUUpuMXZQbm1RUzVqNUtR0gF7QVVfeXFMTjVlZ3pzU09yTWxzcmR5MVJ6WWtrR1pSejBpWmkwbVRILVFmYlpieXYyUTV2bkszcklSdU9COVFfUV85alFacGk4cm9yZDBjQV9rLU9VckgwS1BJYTNrc2UzS3EtOFJwRExrdUV2XzNEeUE4a0ZibTNzaGlN?oc=5",
+      "pub": "2026-06-04T05:06:46+00:00",
+      "id": "eca8e426ffb70d67"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "শহীদ জিয়ার সার্কের নীতি ও বহুপক্ষীয় কূটনীতিই বর্তমান সরকারের প্রধান পথ: তথ্যমন্ত্রী - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fOXVJNGF6N3FORFV5anpKekM5Ty1wQXJxM0dKSWNSajVCRjhpQzZOT2hXT2F6UzlxU1VLX0p0OTNhUW5odkFIMUJreTJiWTdXaUNF?oc=5",
+      "pub": "2026-06-04T10:04:24+00:00",
+      "id": "6fba8182bafe86b7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "কেন ঘুরে দাঁড়াতে পারছে না রপ্তানি খাত? - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1udWpsTlNmOFhKWEIyOVAtNm5Ma2hIYTdMVmVGZjl0SXFCYXRyY2hLVGExcEc2TXc3SVZjbXZIdmJTWjNTdURTUGZ6akc5QnZfLW9MNEcwdWJOaWfSAU9BVV95cUxOVnNrTnlBZ29GSjl5YkE0N2Z1Z2N4bXBkNEtKMmlESFlUblpLdmpNV1F6Z3lkSktQazQxdnRBQXJINUtEVVpNbnY3UkNzY2hZ?oc=5",
+      "pub": "2026-06-04T02:03:00+00:00",
+      "id": "e6ec4d49b4639565"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মে মাসে পোশাক রপ্তানি কমেছে ৭ শতাংশ, দায়ী কারা? - sonar-bangla24.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW45eHpqcjB5N2xIWEdrZ0NRRm1pcko1bmczQVJ0YVdJTEpEYVFpV09xVGdaWi0xQ05EOS1IU2s3TlppNkkzUjFwVkoyTzN1Ym90SDI2a0pkSmNaRmpvZHk1ZXdMWWRsY2Z4NU1GNEs5a015M1hnMWNqQll4X3Q1U004U2M0UE0?oc=5",
+      "pub": "2026-06-04T00:46:48+00:00",
+      "id": "75a9ece0948d5178"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোফার: মার্কিন শুল্কের কারণে ইউরোপীয় ইউনিয়নের ইস্পাত রপ্তানি ৩৪% কমেছে। - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjZ6TjA4Z0lrNUZycC1xd01MZzFJa0trTG5rZE9FdURBMFY0WlJjNXhKTzQ2a3NiMlRFX3ZaTUo3Q1E0dDBmanVjb3Vfbkl2dnJsTm1VMlB6SlhVMi1DdU9CMXNuZ3BvN2V2Y0hzRTZtOWwxVmlOdXRFN3pva2cwU3lyRk1HNm5Ecm01bG9tT3d1R0cwWW9FOEdB?oc=5",
+      "pub": "2026-06-04T07:57:26+00:00",
+      "id": "fb1fac3530d329c9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মে মাসে ৪৪০ কোটি ডলারের পণ্য রপ্তানি - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LcGNHS0RhSXFaSnV3WVlpa1RQZjBrM1RIQlhTeEMzRlhmSzdhRnliTzJ2cHNmVGtQaFBHQ0U3WnlNUmFvT0hNdUVPOWZBY3BQLVRLS05QR2sxY3dRSWt1ZTFaRGtvUdIBc0FVX3lxTE9BbFhYcjcwclAxak12N002XzVkWHF1dnhIb2ZnREhjWnVsOFJmR0tBMGhYcVQ3NTc1Nm92X2FUVHhLUWVZRmY0ay1fdHJFS3JIcGkyUVJaTUYyOEhrc0VsWHJvMVZ1cGY4OGtIdVdsYlJMdlE?oc=5",
+      "pub": "2026-06-03T14:01:55+00:00",
+      "id": "e0730c6a6e00f21a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পররাষ্ট্রমন্ত্রীকে বিজিএমইএ’র অভিনন্দন - RTV Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtaVJubDBQcElOV1JtM3p6YW1fLU9Fa05fd1NaN3BzN1hXSEJFNWlNRHVsUnBCT3NzU0duaTlWN3BDRXV6X0hmUTBhTUg3ZzBMZXZhdXhB?oc=5",
+      "pub": "2026-06-04T07:03:00+00:00",
+      "id": "949258418712cc22"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাতিসংঘ সাধারণ পরিষদের সভাপতি নির্বাচিত হওয়ায় পররাষ্ট্রমন্ত্রীকে বিজিএমইএ’র অভিনন্দন - latestbdnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMXVWNnozODBSOVdJUUNvZDNfcFZ6bjRYNlg1ZEVwZ1NRbl82dWE5THEtUFNTRTJWUlY2cjNlTEg0RndNWUY0YlREZmpTdTJqMms5ODI4WjJ3cFh6WnJNRQ?oc=5",
+      "pub": "2026-06-03T12:11:50+00:00",
+      "id": "71db55582c721229"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বেড়েই চলেছে ব্যয় - bangla.daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT0FTaDNxRFliVWFQU3YyWXZLU3lIZGgzdjVMNFplOFJuRTVucXBZbW9GU0hUcW1VNDE1ZGRZQ21yazlZVE9xSDFrNWRCS05UTGFlRUkyVS16RkJadlk0Z1lvc3RKQmZ1U2hYaTRDY1FGNFpuOHJvTE1yRHhXREdNc1VnQnM3Qi1FNFExRmYzMUFQaUVvMkxJWUg0YWlxdGlqTFJwa2Y1V0Rkd1FKaE9HS0xQcTl3Y1pPaDN2TDBXeDI4Z3draVJHelN0SDltNlQyMk9xZWdVTVNweG5sUTFkMEJqclRMSzQyR2thbFhVdHVQN1FnSm5pR2RDQ2dLV0pENndsMw?oc=5",
+      "pub": "2026-06-04T03:12:44+00:00",
+      "id": "3944a9891102b221"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন দেশ থেকে ৫ কার্গো এলএনজি কিনবে সরকার - NewsNow24",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IV0ZUa1Q3QzlOYzZSUkhYblNGTTJ4WkVnRTV1S0d3eUdDOW9qdV9OVzFsdjhwMDc2RkdQSXZwV0ZCQ2xnbEtjVkJmbGlzX1lYZzdj?oc=5",
+      "pub": "2026-06-03T12:08:09+00:00",
+      "id": "549843b16324234e"
+    }
+  ]
 }
