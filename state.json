@@ -2442,7 +2442,200 @@
     "182ee032894e9626": "2026-06-07T15:25:13.692506+00:00",
     "37f0b866cb178a37": "2026-06-07T15:25:13.692506+00:00",
     "690454b60e10f8ae": "2026-06-07T15:25:13.692506+00:00",
-    "ac2d7b96cf6d599d": "2026-06-07T15:25:13.692506+00:00"
+    "ac2d7b96cf6d599d": "2026-06-07T15:25:13.692506+00:00",
+    "2cb5ba263ce9a0a4": "2026-06-08T12:36:14.080562+00:00",
+    "683b33f1a733e172": "2026-06-08T12:36:14.080562+00:00",
+    "5702670ed49e8da3": "2026-06-08T12:36:14.080562+00:00",
+    "c802c78f90801799": "2026-06-08T12:36:14.080562+00:00",
+    "e89bf4be046dce1f": "2026-06-08T12:36:14.080562+00:00",
+    "658f9faa2dc4ceea": "2026-06-08T12:36:14.080562+00:00",
+    "60743c8458fdadc0": "2026-06-08T12:36:14.080562+00:00",
+    "3c16aa02e1854603": "2026-06-08T12:36:14.080562+00:00",
+    "b2b8363b90679c9b": "2026-06-08T12:36:14.080562+00:00",
+    "a03d6b6485cc597d": "2026-06-08T12:36:14.080562+00:00",
+    "a0b94648e947bd43": "2026-06-08T12:36:14.080562+00:00",
+    "3a9f6ec8a8787daa": "2026-06-08T12:36:14.080562+00:00",
+    "18f4571744a37c73": "2026-06-08T12:36:14.080562+00:00",
+    "a94ce49209063c8b": "2026-06-08T12:36:14.080562+00:00",
+    "64aa4d52eaba0191": "2026-06-08T12:36:14.080562+00:00",
+    "11a9a2f83148380f": "2026-06-08T12:36:14.080562+00:00",
+    "0c683a0ed8d8c63a": "2026-06-08T12:36:14.080562+00:00",
+    "e9d35b10611326f7": "2026-06-08T12:36:14.080562+00:00",
+    "74deabe1f3b5d4ff": "2026-06-08T12:36:14.080562+00:00",
+    "ebc2f9c6d2f51ec4": "2026-06-08T12:36:14.080562+00:00",
+    "d3d2e1b17407c1f9": "2026-06-08T12:36:14.080562+00:00",
+    "92fdcb2f326ffe30": "2026-06-08T12:36:14.080562+00:00",
+    "baf2bdd2ba8143a9": "2026-06-08T12:36:14.080562+00:00",
+    "ac4b566e6edba6fe": "2026-06-08T12:36:14.080562+00:00",
+    "ff1c544d0b13fc29": "2026-06-08T12:36:14.080562+00:00",
+    "fdbf74bb07d9deeb": "2026-06-08T12:36:14.080562+00:00",
+    "ca4e8e0b2c136bbf": "2026-06-08T12:36:14.080562+00:00",
+    "1b5a659bd9d2b8f9": "2026-06-08T12:36:14.080562+00:00",
+    "7084d93a7a881621": "2026-06-08T12:36:14.080562+00:00",
+    "95579dd680434d24": "2026-06-08T12:36:14.080562+00:00",
+    "a572cccc5b41f4de": "2026-06-08T12:36:14.080562+00:00",
+    "823669ea82535d20": "2026-06-08T12:36:14.080562+00:00",
+    "9ce397796ee32fe2": "2026-06-08T12:36:14.080562+00:00",
+    "caa3d7491b00f7c9": "2026-06-08T12:36:14.080562+00:00",
+    "251384c4d39c6749": "2026-06-08T12:36:14.080562+00:00",
+    "6de42f31d571af20": "2026-06-08T12:36:14.080562+00:00",
+    "002d6caabced7021": "2026-06-08T12:36:14.080562+00:00",
+    "dc54a5b74a3309e6": "2026-06-08T12:36:14.080562+00:00",
+    "c358a2ec3894ef29": "2026-06-08T12:36:14.080562+00:00",
+    "76b90d15469fc976": "2026-06-08T12:36:14.080562+00:00",
+    "5ad70ed742095a3a": "2026-06-08T12:36:14.080562+00:00",
+    "f35daa0d8f8c0966": "2026-06-08T12:36:14.080562+00:00",
+    "8c27a476bf713b1c": "2026-06-08T12:36:14.080562+00:00",
+    "dd571f26c799a288": "2026-06-08T12:36:14.080562+00:00",
+    "dda38584a6dfdaba": "2026-06-08T12:36:14.080562+00:00",
+    "a7594d3ee4de6b26": "2026-06-08T12:36:14.080562+00:00",
+    "158494716e4def13": "2026-06-08T12:36:14.080562+00:00",
+    "09d9d69748bfdac4": "2026-06-08T12:36:14.080562+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Egyptian cotton traceability reset: Why buyers are paying more - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYkpkZzFCUXFNYWx3VFpDU2NZLUw0WnlIZENnYTBlNjFvaHVOQXV0anN1U0F4MEY3MWRiTXV0aWJrRW5CckFMNU5oZVNjakJYVlQ3OEZUd0x4THV3SEk5R1dGeEV4UEk5V0E4RHVxUnRfYnN0VkRQbDFsekVjRUZOYnM3cnY2LUN6V3R1SUZXWjR4MFJ2aDJReTZkYjhBYlgwQnFuc092TlpKRmVfQlNDY3k5ak0yVDRKZlFVT2VPd0tDNU9YbUZpZEZWM0pEWUJ4aFpJdWQteVlSWmRraWNxV1ZQSEU?oc=5",
+      "pub": "2026-06-08T09:36:07+00:00",
+      "id": "9ce397796ee32fe2"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Australia to see cotton crop contract to 3 mn bales in 2026-27 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVzN4TXdBek9RYU9PUDh4c0JDRWdCeE5HNWV0RUJkNVJvY2RWdkpzSkQySVBKbFhWYXd4V0x5V2xuOG1wNnBLcTJyemxuUTJxektSYUszSDRZeE50TkgzNEhyRmptcVk0S2pDaE9paWxVUUs5T2lnbWdFbUVGaXJ0ZGJ2aHgxenVFVlBYaG9PVDZzcTF2Z1lXQXRlZF9WMFk5VzVtakxvaWp3R1dENmxfVFk4OHRnODhCeS1LQkRMdW5ZRG1tMkVJTUYyRDZERzR1UjlULWM0YWlfQQ?oc=5",
+      "pub": "2026-06-08T06:21:08+00:00",
+      "id": "caa3d7491b00f7c9"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "🚨 ESPR: Esperion Therapeutics Schedules Shareholder Vote on $1.08B Acquisition by Archimed",
+      "link": "https://www.reddit.com/r/Wiseek/comments/1u03lla/espr_esperion_therapeutics_schedules_shareholder/",
+      "pub": "2026-06-08T10:06:33+00:00",
+      "id": "251384c4d39c6749"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Week 23: Coffee - Black Bean Espresso Chili",
+      "link": "https://www.reddit.com/r/52weeksofcooking/comments/1tzxed3/week_23_coffee_black_bean_espresso_chili/",
+      "pub": "2026-06-08T04:14:10+00:00",
+      "id": "6de42f31d571af20"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "I fear I’m already halfway through the pistachio… I underestimated how good it is 😓💚",
+      "link": "https://www.reddit.com/r/nespresso/comments/1tzvyu5/i_fear_im_already_halfway_through_the_pistachio_i/",
+      "pub": "2026-06-08T03:02:21+00:00",
+      "id": "002d6caabced7021"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh RMG exports to major markets fall in July-May - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlFpX0daY2RrNU5kdkJybTJfb2pvUW5lZ3pCRXlFam42Rk5vdUVqcnhWU01JaUtZM1B4REhlOERQQ2Q5aWJXdUk4b1d3RlQtd3kzT1diVVF6NjNJNWNHQ05jLVlhd1g3Y2Qzd0x2aGpnaUJUYnRobldJaFFkbFhFaDZYLWhwRlJKM3lMNzJ3?oc=5",
+      "pub": "2026-06-08T07:49:34+00:00",
+      "id": "dc54a5b74a3309e6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Transforming Bangladesh’s textile & apparel industry (part 1) - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkdwZ1VIWmRuQ21XenJid0lERHlzbjdJSXZ3c0Qza2NIUVd3UmFIcWphS3d1MnFvYW9CWUJfUl9ka0RxNHNxQTZPNEs5dUlVc0t4UWk3ZGw4U0taT0tib1Y5b3lKNGh0bms5N3ZvN0tWTThoZERVUlU4OWo5X2VoTVp3aTBzNVhSMDY2Y2Q4MXBDZw?oc=5",
+      "pub": "2026-06-08T03:51:48+00:00",
+      "id": "c358a2ec3894ef29"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA calls emergency meeting on export slump - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlpaUzU1SDRmMjlWcjFYc0thXzlYdWU2VHdWejh4YmNCa3NTYXN0ZFF1bmctdldpNE5OSWtVQnVWSE5DMks5RWFNcWhZNl9xTzdURHdYUGJIQUFkWi1sY2VqMFRHaWE5SzRHaHJjdU9JeVgtQ08zc25zaWU4am85QnMzT2ViN1VuWE4wUFdXQ3pYQXJmYW5NSGdrOFNtUTVzX0tv?oc=5",
+      "pub": "2026-06-08T09:05:41+00:00",
+      "id": "76b90d15469fc976"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Hyosung TNC expands sustainable textile push with integrated bio spandex platform - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0lVc0V3VnBUU2t5bi1oOGZmTzdiS0hoYnRMWkFMYlgtVWxiM2FmV3VUVFRwTlM3RllFbDhweGQ5WThJdkZCUGl2enQwbXMxYllUZnNNSkpuQUJIbS1Tc2U5Yy1VUlBDU21IRlQxLWVkSTAzYk9sdktKcTdHR3UxbjhxbzFaemROaHhqWXppb0d2SWJhdGMtSDlaai12NWtmNnJPQmF2OW5MdjdzWFNMUndQOA?oc=5",
+      "pub": "2026-06-07T19:01:48+00:00",
+      "id": "5ad70ed742095a3a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh RMG exports to major markets fall in July-May - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlFpX0daY2RrNU5kdkJybTJfb2pvUW5lZ3pCRXlFam42Rk5vdUVqcnhWU01JaUtZM1B4REhlOERQQ2Q5aWJXdUk4b1d3RlQtd3kzT1diVVF6NjNJNWNHQ05jLVlhd1g3Y2Qzd0x2aGpnaUJUYnRobldJaFFkbFhFaDZYLWhwRlJKM3lMNzJ3?oc=5",
+      "pub": "2026-06-08T07:49:34+00:00",
+      "id": "dc54a5b74a3309e6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক রপ্তানিতে বড় ধাক্কা বিদেশি ক্রেতার অর্ডার কম - Protidiner Sangbad",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSaklwbHFkX3NSVlFfX0xyRHdpaEQtNWJqREZKdF8wZ1FoTHM3ODhadHhoOC05MjJaeUVOdEhuTmVXQUlPQnJxOTdldFc5MnRYTXZsTWlDQlBNNmZhODNwNS1NeEpUNzBVX0RURGlpNy1PVTZTQnc?oc=5",
+      "pub": "2026-06-07T19:58:40+00:00",
+      "id": "f35daa0d8f8c0966"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "২০২টি দেশে পণ্য রপ্তানি করেছে বাংলাদেশ: বাণিজ্যমন্ত্রী | জাতীয় সংসদ অধিবেশন | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBud3BfTi1Oam9RZVRjZ09aWkdsTk85cmZaWVB4ODQyOFlNSnIxcDlqbHR0QjlDM1J5S3lad1AwcXQzY0RWVjlOUVhneE9Ud0pQWDEtWXFaSkRYclBBaWNkTk1TTHFCWEtUZmQ4bHIxbGFfSkk?oc=5",
+      "pub": "2026-06-08T11:06:00+00:00",
+      "id": "8c27a476bf713b1c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "পোশাক রপ্তানিতে বড় ধাক্কা বিদেশি ক্রেতার অর্ডার কম - Protidiner Sangbad",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSaklwbHFkX3NSVlFfX0xyRHdpaEQtNWJqREZKdF8wZ1FoTHM3ODhadHhoOC05MjJaeUVOdEhuTmVXQUlPQnJxOTdldFc5MnRYTXZsTWlDQlBNNmZhODNwNS1NeEpUNzBVX0RURGlpNy1PVTZTQnc?oc=5",
+      "pub": "2026-06-07T19:58:40+00:00",
+      "id": "f35daa0d8f8c0966"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিসিবির নতুন পরিচালকদের ৪ জনই পোশাকখাতের উদ্যোক্তা - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95aG1jckRKUzJ0NVgxcXhXR0NrQmRVcnk3Vk9hSjQ1Wlp4RXBOYm1ZWDVtclBoWlMyVkJOajhzUTFaY19UdFdlRlUwcVNDbjTSAU9BVV95cUxPeWhtY3JESlMydDVYMXF4V0dDa0JkVXJ5N1ZPYUo0NVpaeEVwTmJtWVg1bXJQaFpTMlZCTmo4c1ExWmNfVHRXZUZVMHFTQ240?oc=5",
+      "pub": "2026-06-08T10:38:00+00:00",
+      "id": "dd571f26c799a288"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিমানবন্দরের কার্গো ভিলেজ পুরো সপ্তাহ খোলা রাখার নির্দেশ - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxOdkxpOXVKbEN6Y0h1NlNEZkVCMktWWjAzSjJtMEVvemc4SjNkNVBCT0F1Q1ktWFNEWThfbjV3RktuSDhsdHFoRC11NjJzTG9aS2NUZTBpck9tdVZfWU9XSHMwdHJqZjlkWTVNSG4wRkozVVF2UHhEei1MbjBfTlE2RFU5MVdaUGFCVkUyZkhKdTltVTV3VS1DaE5ZZU53Y08wUXJjWHR2XzdnRlVXUmhhNmswNTdWQ1phd1BwMFVVYm9MYWc2REMtTTRLYlM4VTFUWktBSnA0VlpvYmFvTTYtUTJPNlVxRWtHdDUxUEpxUkJRRWgyZ3cxYUR0THY4Mjl0MHRzMlJpZkhVMW4tVllWdkZtcWVFd3lERkVla1piYXNqUUhuVEY3TUt6Ri1zdnZoSk41MUoxYjBQVlMwZDRJS3ZLRHY2ejJXMlhhS1ZjMDZMX3pxazZycW1ET0ZvMEhLZWtpa1RwdkNaYk1hWU1YSWZDOW1QcGRNUUlfUklDRFRSMnhYNTNvekdHZ0s3UFBoeVRReUstUXNJTG95RG5tMXdkaUc5NzBocEQ5Znl2azVPdlZCQlhrN1JYZEdxNWh1SGl6MTNrOU81UnI2ajBtUEEwUlR5QXBfbHZmR21keHQtWDhrRUJDUkp3ZGhLbDVEUzlFRzdPLUVoRE40d3dKRUY1VGhoMEV6QkhacllwN1JmWUgxN2drZDhrVURPdm9oTEVRMWM0V2xndDRBWVRVbllZbHplS2pPT2NHUVRxSndERGFPNVM0MTF2Z1l2ZGlyVGI5bTVVaW14Z2JrMnZJRTl0YktWb1VXeEdHZ0RiN1BndHBTNWprV01kMVRpQUdzMDZPZDZLZzAteUliUmN5S1F3c3FwalN1TndWQ1RveERKWHJMQ2tpSno5TQ?oc=5",
+      "pub": "2026-06-07T14:21:40+00:00",
+      "id": "dda38584a6dfdaba"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিসিবি পরিচালক নির্বাচিত হলেন এশিয়ান গ্রুপের ডিএমডি সাকিফ সালাম - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42QjNIU2k5TUVUYldyT3BzZUFRMV9Iallsay1LUWlxRlBLYVdhODg5ZlpNWWc4emxUTEJUaG5fSk1WVzFoa1BDRm9rQlJCYV9JNldKWGppZGE5SGxpaXNqaFhMaUQ3ODE5MjJIU0ZHRmxFT0hPdFNMdw?oc=5",
+      "pub": "2026-06-07T16:27:04+00:00",
+      "id": "a7594d3ee4de6b26"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শাহজালালের কার্গো অপারেশন ২৪ ঘণ্টা চালু রাখতে বললেন বিমানমন্ত্রী - Bangladesh Journal",
+      "link": "https://news.google.com/rss/articles/CBMigwZBVV95cUxNU3h1VnVHVUpCZWs1ZDVUTE16T1I4RTJNb3ktSUdxdVhqdjRubURrazd3ZjB5QnM0UmdkZmJwdTNNekF0cHJaTGZybXBiS0h1RmoyaTdvVG15eVlhSVZLOFdlUGhkRjNBMm5vQ0ZpbnZzOTRJeXFjN3dwQ1lja0VRLVlSY3BpQ0loWHZRMVJ0YmtCMkVid3pJNHVVaFdETE1QYm9ibzVWeDNxbEVvUTVkSHBGQU5sTTZUem1IS2pNcXR6c0g4QXZ5bTI1ZWNRMUgycUZReURMcTFJZUwwYUFXV0FGSjc0YWtzLU9UTDZBV0dncVVOaWQ5ZEZFUDJlcFFPZ1FrQmNma2wwWlRJaU5PUVM5UUZKNm1vaGktaF9kVnhsdXB5YldwT1kwSUZPR3Itb3VVcXFHR3FrcGNETmNucXRKRWhIZlFreUMyT2MzMXl2WXQtMzZmQ2s3OW8zNVJTWGluV19sZ0tYOFJuUzVLa2ZWSzQ2ejBHVHdQaVlQR1pRdEdpanozbHhLZ1BuckVnWWFTbk94Z3B3UndiNWVZUms2Y05USW1XTl9YaEk5Qkc5YnhEU0ltb1FjLTFsVjYxMDVSOW93eDRpbk5hSXo2VWh2T3pUQ1N1S01xXzYxZjg1MmpPa2kwZlo3U0JBVzdYU2czWUNJSkc3aUk1aXZaYzdHUU55UnJJRDJTU0NQTm9kM2pyRW5yQTZtUjdUYjVvbkxaWnotZlI1aHZ3SlFlV0k2M2szV3lDYTJEZWNvT21NTDJybUk5ZXNHZWpCLTFiTG15UnJLV0o0dzEwNV96dUU4TjUyX3Y0TjJ3RDhfLUdGUTh2RUIxT0x0V3pyQkxGUUdzQzJHQWtzcTJPNENBakhaNDNaWXRNT09jcmpZQmVnNEkyREMyZHZYUW5ra1hQOE5xbGVLaVp3WC1Ib1FZcU5nSi03LXRSNUp4Q0hjeERMckJaNUxxMWdCWVpaUGhZelcyQmw2Z1l3NmlJZlltVktCTnNrTHBjZS1kbXFSU2p3dFE?oc=5",
+      "pub": "2026-06-07T16:01:00+00:00",
+      "id": "158494716e4def13"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ঈদের পর শিল্প এলাকায় ছাঁটাই তৎপরতা - red times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKS2pHdWt3NzIweExGcFNYSF9sUHBQODdUVDYyak5LR2R5d3N5dVVsUS04dFAxZElnY2p2bXZZaXY2QXNremFseHdUYkVOWkJHaDFGT3oyWQ?oc=5",
+      "pub": "2026-06-08T05:10:00+00:00",
+      "id": "09d9d69748bfdac4"
+    }
+  ]
 }
