@@ -1,43 +1,5 @@
 {
   "seen": {
-    "81b6218f5a16fc83": "2026-05-13T16:21:40.459745+00:00",
-    "1d225c99306afde7": "2026-05-13T16:21:40.459745+00:00",
-    "56c1492d8d7e3ab8": "2026-05-13T16:21:40.459745+00:00",
-    "691f18565f77b9be": "2026-05-13T16:21:40.459745+00:00",
-    "2c58aae023a45640": "2026-05-13T16:21:40.459745+00:00",
-    "39ae5e72ee7fdda1": "2026-05-13T16:21:40.459745+00:00",
-    "a49cb8f57b8ebde9": "2026-05-13T16:21:40.459745+00:00",
-    "02446c69eb9f4555": "2026-05-13T16:21:40.459745+00:00",
-    "887f84d102fc7431": "2026-05-13T16:21:40.459745+00:00",
-    "1d0f0d3ed01b0b1a": "2026-05-13T16:21:40.459745+00:00",
-    "5368524cad59c6e6": "2026-05-13T16:21:40.459745+00:00",
-    "7efb2157dd1652fa": "2026-05-13T16:21:40.459745+00:00",
-    "21dd4f7b6b58f1e7": "2026-05-13T16:21:40.459745+00:00",
-    "28c37b1ac07415fe": "2026-05-13T16:21:40.459745+00:00",
-    "c5fb79dbbc5fb4bd": "2026-05-13T16:21:40.459745+00:00",
-    "df9e6a07360c5c22": "2026-05-13T16:21:40.459745+00:00",
-    "71fb31743fcb11f2": "2026-05-13T16:21:40.459745+00:00",
-    "8615d47c7a094874": "2026-05-13T16:21:40.459745+00:00",
-    "fa295280b4888758": "2026-05-13T16:21:40.459745+00:00",
-    "69ddfd7670478dc2": "2026-05-13T16:21:40.459745+00:00",
-    "6b6d2a1387155d32": "2026-05-13T16:21:40.459745+00:00",
-    "ab256665d375ad9b": "2026-05-13T16:21:40.459745+00:00",
-    "b563f678ccd80899": "2026-05-13T16:21:40.459745+00:00",
-    "7610fab15afb67d5": "2026-05-13T16:21:40.459745+00:00",
-    "ab982f1916fa21f9": "2026-05-13T16:21:40.459745+00:00",
-    "b743d5d9dd190e0a": "2026-05-13T16:21:40.459745+00:00",
-    "cca9e6524806e540": "2026-05-13T16:21:40.459745+00:00",
-    "5f92e267b30ec4be": "2026-05-13T16:21:40.459745+00:00",
-    "eaa0d286adb98b04": "2026-05-13T16:21:40.459745+00:00",
-    "479e41a47e8e50fa": "2026-05-13T16:21:40.459745+00:00",
-    "fda4885fba28b24d": "2026-05-13T16:21:40.459745+00:00",
-    "3b8ec5c23ba783c2": "2026-05-13T16:21:40.459745+00:00",
-    "e08826234891c7d3": "2026-05-13T16:21:40.459745+00:00",
-    "4c0b193cc495319d": "2026-05-13T16:21:40.459745+00:00",
-    "5852d86641d8ed1e": "2026-05-13T16:21:40.459745+00:00",
-    "ee8af26fdd161569": "2026-05-13T16:21:40.459745+00:00",
-    "f402b7a2a799c46e": "2026-05-13T16:21:40.459745+00:00",
-    "a29cc0b1ebdd377b": "2026-05-13T16:21:40.459745+00:00",
     "f43485d7d4d75791": "2026-05-14T10:22:09.243650+00:00",
     "58d9a3a6938f0382": "2026-05-14T10:22:09.243650+00:00",
     "9323a08f2819f963": "2026-05-14T10:22:09.243650+00:00",
@@ -2388,7 +2350,34 @@
     "d22618a8b8802226": "2026-06-12T11:45:46.604157+00:00",
     "b013a2d37bf1c9f4": "2026-06-12T11:45:46.604157+00:00",
     "98ce6f70e275fb7a": "2026-06-12T11:45:46.604157+00:00",
-    "0d64dc354600628a": "2026-06-12T11:45:46.604157+00:00"
+    "0d64dc354600628a": "2026-06-12T11:45:46.604157+00:00",
+    "ad706d8257d6e6f3": "2026-06-12T16:45:55.488588+00:00",
+    "a98f6ef5cf24c521": "2026-06-12T16:45:55.488588+00:00",
+    "73cbb385cc15c927": "2026-06-12T16:45:55.488588+00:00",
+    "01411b3197c314f2": "2026-06-12T16:45:55.488588+00:00",
+    "c50a4952dafd3031": "2026-06-12T16:45:55.488588+00:00",
+    "844fa46201d7aeb1": "2026-06-12T16:45:55.488588+00:00",
+    "201b7c853c3639b3": "2026-06-12T16:45:55.488588+00:00",
+    "4c0e867dd55a7ea3": "2026-06-12T16:45:55.488588+00:00",
+    "0b4a92475a41e388": "2026-06-12T16:45:55.488588+00:00",
+    "54beccee9b49b01e": "2026-06-12T16:45:55.488588+00:00",
+    "31a7b1d3dd2cc87a": "2026-06-12T16:45:55.488588+00:00",
+    "c17ea493a915798b": "2026-06-12T16:45:55.488588+00:00",
+    "7613ebf53adcc906": "2026-06-12T16:45:55.488588+00:00",
+    "ee53a6afcbfad44e": "2026-06-12T16:45:55.488588+00:00",
+    "0bdae5f3d9184534": "2026-06-12T16:45:55.488588+00:00",
+    "ebe226c079b171d6": "2026-06-12T16:45:55.488588+00:00",
+    "b9202c2fa972b344": "2026-06-12T16:45:55.488588+00:00",
+    "912d998b4e967f2c": "2026-06-12T16:45:55.488588+00:00",
+    "206ea1d83e004004": "2026-06-12T16:45:55.488588+00:00",
+    "e7f07166f7dcb2ea": "2026-06-12T16:45:55.488588+00:00",
+    "a40ea8657c7f3e29": "2026-06-12T16:45:55.488588+00:00",
+    "1026c3d073b38120": "2026-06-12T16:45:55.488588+00:00",
+    "26e96f51a57ad5e8": "2026-06-12T16:45:55.488588+00:00",
+    "ce926bc02f46f193": "2026-06-12T16:45:55.488588+00:00",
+    "ec2462c54aa70be0": "2026-06-12T16:45:55.488588+00:00",
+    "92db02d0145e8ba8": "2026-06-12T16:45:55.488588+00:00",
+    "7b1f8cf520e18dcd": "2026-06-12T16:45:55.488588+00:00"
   },
   "yesterday_items": [
     {
@@ -2570,14 +2559,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "রাজধানীতে ডেনিম প্রদর্শনী শুরু হয়েছে - প্রথম আলো",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fa0NtSzVDSjJMVmdoRXJNdnNtZEc5Zi16cno1d09IRVMtRlBzUlJRc3llTEE3X0phT090ejJiamdYY19TNlFGWjBzSHVJamRRcVhuemJWTHRINUMyR0hlb083djZaOEhhbHE0eDhJYnpkMjDSAXNBVV95cUxORWtDbUs1Q0oyTFZnaEVyTXZzbWRHOWYtenJ6NXdPSEVTLUZQc1JSUXN5ZUxBN19KYU9PdHoyYmpnWGNfUzZRRlowc0h1SWpkUXFYbnpiVkx0SDVDMkdIZW9PN3Y2WjhIYWxxNHg4SWJ6ZDIw?oc=5",
-      "pub": "2026-06-10T16:15:00+00:00",
-      "id": "f98158aa8e2dabb6"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
       "title": "রপ্তানি আয়ে বড় ধাক্কা, বাজার হারানোর শঙ্কায় বাংলাদেশ - শেয়ারবাজারনিউজ.কম",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcy12bndNal95Mlo3T3FDV01BandkWkJhWTZBOXFKOEg3c1FBMzhSSDhuU1p2MjYtSzFuRkpOd0dJXzMtWWJKRkszTmNrS3RmRzhSZUtEeTZ3QkpDc2RnTGdNeXg1d0VUQkdNZzg2WFRhZG1VLVR5YU5rbUYtaXpUajZRaThTN3V6MUZJ?oc=5",
       "pub": "2026-06-11T06:08:00+00:00",
@@ -2694,14 +2675,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LUE03ejJNNmJ5MlNJZGFDckVBVmZuZlJReUVVMHlibk1SWmFnNnVBYzFIeWpVVDExV3M2RnhiS1Z4cFBvNHNhZUZVMUxOZHMyVmtXZG15SzdpbFRXek1uRlNVX29jR3czcm1POWNIcVhWQQ?oc=5",
       "pub": "2026-06-11T11:01:25+00:00",
       "id": "0719b15dd455e938"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "রাজধানীতে ডেনিম প্রদর্শনী শুরু হয়েছে - প্রথম আলো",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fa0NtSzVDSjJMVmdoRXJNdnNtZEc5Zi16cno1d09IRVMtRlBzUlJRc3llTEE3X0phT090ejJiamdYY19TNlFGWjBzSHVJamRRcVhuemJWTHRINUMyR0hlb083djZaOEhhbHE0eDhJYnpkMjDSAXNBVV95cUxORWtDbUs1Q0oyTFZnaEVyTXZzbWRHOWYtenJ6NXdPSEVTLUZQc1JSUXN5ZUxBN19KYU9PdHoyYmpnWGNfUzZRRlowc0h1SWpkUXFYbnpiVkx0SDVDMkdIZW9PN3Y2WjhIYWxxNHg4SWJ6ZDIw?oc=5",
-      "pub": "2026-06-10T16:15:00+00:00",
-      "id": "f98158aa8e2dabb6"
     },
     {
       "section": "bangladesh",
@@ -2950,6 +2923,30 @@
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51Znlvbkp3SEdVODl2SFJsaG5OdklNQW1ZYkhJWnlUeV93RHZvbTlnOHlXM1V5ZWZpNG9DeDZxLXIzVDFPYmd5ZmR3?oc=5",
       "pub": "2026-06-11T18:58:34+00:00",
       "id": "0d64dc354600628a"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Indian textile industry poised to hit $350 bn by 2030: Minister - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT2xEQVFtV3h4UGwtcnRVNWN5b1huTlBaRml6anNxSUVUNUFvRWF2QVB3NkM1bmdXbW5MWERWM2RieVY2eDM1SVdRSVlqWUhTWGZKSmkyTkhQaXB6UmppMTAtX3FQb0pUdXl4NVdrT0gtQlRjbU9mdHNkQnJwX0d0Z3J0ellPQzNUcjQ5QjBjUTBMZWVqYnZnZXBrN2d2YTg3RnQ0d3EtSWFGalhZaWYyWVBZVWpuYnk2QXFWQ0RzNmYxUy1iYlExajNNa3NoeXlZUFBvZEd0VEVpaWFybUFCR0RveG44dXdH?oc=5",
+      "pub": "2026-06-12T11:51:12+00:00",
+      "id": "ec2462c54aa70be0"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "The story behind World Collective and its DPP-Ready Textile Library - fashionunited.uk",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFpvcHhzaDFsZlZZR1Q3c2pCMXZmbTdudnIxdjF3VDUxWUZBYVJ5MHQ1Q21IUklHMkR6UDdCUVpudzJ6MG5rWldBTkROM2NUbjhtSTVuV3dtQ1luOGlSNm14T0FoZm4yd0RmWk9uTzllcUg3Z0tEaTRyZ0NTMFdDMTdwc0k3d3dna0hfdldJekZNd0hNSE9hbUhVb3FaZTFqM0VSWDQtcElSQTM1anZ0SW81OERHVWFrNFlUTQ?oc=5",
+      "pub": "2026-06-12T10:11:28+00:00",
+      "id": "92db02d0145e8ba8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ব্যবসা সহজীকরণে বাজেট প্রশংসিত, বাস্তবায়নই বড় চ্যালেঞ্জ - Desh Tv",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMTnBuaUROam5pX0IxRkZSSHN2RXV4NDFBOURERXdhYkkxdkszRE0yV1c5SjJqNm1TRGpIZzZ2RzhOTUtla1FKNw?oc=5",
+      "pub": "2026-06-12T16:09:52+00:00",
+      "id": "7b1f8cf520e18dcd"
     }
   ]
 }
