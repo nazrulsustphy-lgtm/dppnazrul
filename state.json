@@ -1,35 +1,5 @@
 {
   "seen": {
-    "5e87fc1475c4509a": "2026-05-15T10:27:39.856561+00:00",
-    "755638a42a9946f0": "2026-05-15T10:27:39.856561+00:00",
-    "c0dfe02cd6588f48": "2026-05-15T10:27:39.856561+00:00",
-    "87580fd75691313f": "2026-05-15T10:27:39.856561+00:00",
-    "11917855075a6544": "2026-05-15T10:27:39.856561+00:00",
-    "7baba10fe4751930": "2026-05-15T10:27:39.856561+00:00",
-    "c846ac361afa45f5": "2026-05-15T10:27:39.856561+00:00",
-    "418d769a8e7aa021": "2026-05-15T10:27:39.856561+00:00",
-    "647b6db470363856": "2026-05-15T10:27:39.856561+00:00",
-    "4da199808df785e9": "2026-05-15T10:27:39.856561+00:00",
-    "d17f823a0c2988a1": "2026-05-15T10:27:39.856561+00:00",
-    "6ab30c4221b62cf3": "2026-05-15T10:27:39.856561+00:00",
-    "ff856af1d6962e0f": "2026-05-15T10:27:39.856561+00:00",
-    "40b40abe2dda9692": "2026-05-15T10:27:39.856561+00:00",
-    "69cb04083a321cc4": "2026-05-15T10:27:39.856561+00:00",
-    "14e7fedfe589248f": "2026-05-15T10:27:39.856561+00:00",
-    "06ce1d23f97b908d": "2026-05-15T10:27:39.856561+00:00",
-    "cd6cd61ed8d47097": "2026-05-15T10:27:39.856561+00:00",
-    "654af944aaf48a65": "2026-05-15T10:27:39.856561+00:00",
-    "4f0e6cc6a56e15d7": "2026-05-15T10:27:39.856561+00:00",
-    "533aff30a55820c1": "2026-05-15T10:27:39.856561+00:00",
-    "6f57ebc40be10f83": "2026-05-15T10:27:39.856561+00:00",
-    "8867ad164bed462a": "2026-05-15T10:27:39.856561+00:00",
-    "6ecd11ff498d68bf": "2026-05-15T10:27:39.856561+00:00",
-    "2c8b2a11303b6442": "2026-05-15T10:27:39.856561+00:00",
-    "40bfdcdfac89d532": "2026-05-15T10:27:39.856561+00:00",
-    "56c7547aeeeffc4c": "2026-05-15T10:27:39.856561+00:00",
-    "b46ea841390d978b": "2026-05-15T10:27:39.856561+00:00",
-    "c26da789b3868e2d": "2026-05-15T10:27:39.856561+00:00",
-    "38fca66593f9345f": "2026-05-15T10:27:39.856561+00:00",
     "39d479528a20a059": "2026-05-15T16:04:46.528733+00:00",
     "3f066ca4ad541bdb": "2026-05-15T16:04:46.528733+00:00",
     "9ad523ac4b44cbd3": "2026-05-15T16:04:46.528733+00:00",
@@ -2312,7 +2282,261 @@
     "d01e073bf6220daf": "2026-06-13T15:43:23.567343+00:00",
     "4f2eec93d31b38e5": "2026-06-13T15:43:23.567343+00:00",
     "73da88e37b919739": "2026-06-13T15:43:23.567343+00:00",
-    "fd45fe50e181578d": "2026-06-13T15:43:23.567343+00:00"
+    "fd45fe50e181578d": "2026-06-13T15:43:23.567343+00:00",
+    "75fc7a1e0f3c26ca": "2026-06-14T10:50:06.913548+00:00",
+    "fc6d9fc1e4b2023e": "2026-06-14T10:50:06.913548+00:00",
+    "3b75bf23e6cd73ad": "2026-06-14T10:50:06.913548+00:00",
+    "f7e7ea9fa4a003c5": "2026-06-14T10:50:06.913548+00:00",
+    "c08a887fd43d332b": "2026-06-14T10:50:06.913548+00:00",
+    "8ee681cb4937eecd": "2026-06-14T10:50:06.913548+00:00",
+    "5054c1554b3c2237": "2026-06-14T10:50:06.913548+00:00",
+    "74eef8f2f237b4bd": "2026-06-14T10:50:06.913548+00:00",
+    "2d97dd969236d95a": "2026-06-14T10:50:06.913548+00:00",
+    "718a6090f9a48b1e": "2026-06-14T10:50:06.913548+00:00",
+    "8f4f5373e4d30d46": "2026-06-14T10:50:06.913548+00:00",
+    "6c6c06b941c0d040": "2026-06-14T10:50:06.913548+00:00",
+    "b599e668222d07a9": "2026-06-14T10:50:06.913548+00:00",
+    "3cd04a075a4fc9d6": "2026-06-14T10:50:06.913548+00:00",
+    "12d27b308bbdf6ba": "2026-06-14T10:50:06.913548+00:00",
+    "6adaf32c84f5aab6": "2026-06-14T10:50:06.913548+00:00",
+    "7b8219a1bd1477f5": "2026-06-14T10:50:06.913548+00:00",
+    "d2b6c0088b2d7890": "2026-06-14T10:50:06.913548+00:00",
+    "38012be662af324a": "2026-06-14T10:50:06.913548+00:00",
+    "d3a607fa23c0f424": "2026-06-14T10:50:06.913548+00:00",
+    "b9aeadf64b4bc629": "2026-06-14T10:50:06.913548+00:00",
+    "d66eab3aedfe6ec2": "2026-06-14T10:50:06.913548+00:00",
+    "2a02cf76cfb28d39": "2026-06-14T10:50:06.913548+00:00",
+    "fefcdea56e75d223": "2026-06-14T10:50:06.913548+00:00",
+    "7b17aaee808123b8": "2026-06-14T10:50:06.913548+00:00",
+    "c307e81f870f005a": "2026-06-14T10:50:06.913548+00:00",
+    "cd721f5ca4260205": "2026-06-14T10:50:06.913548+00:00",
+    "65a6567674c7fa4d": "2026-06-14T10:50:06.913548+00:00",
+    "250218b18050d0da": "2026-06-14T10:50:06.913548+00:00",
+    "f036f44d9160f388": "2026-06-14T10:50:06.913548+00:00",
+    "cea9edc928f2c86a": "2026-06-14T10:50:06.913548+00:00",
+    "62bf97b9de56b5d5": "2026-06-14T10:50:06.913548+00:00",
+    "1d956ebe2079fdd0": "2026-06-14T10:50:06.913548+00:00",
+    "a116aae52ee9963b": "2026-06-14T10:50:06.913548+00:00",
+    "bcbb973b05fcf46a": "2026-06-14T10:50:06.913548+00:00",
+    "e44d9cfa25a72230": "2026-06-14T10:50:06.913548+00:00",
+    "c333dd4286cdfdf3": "2026-06-14T10:50:06.913548+00:00",
+    "582365ac171d71c2": "2026-06-14T10:50:06.913548+00:00",
+    "cb5c2396d7e2cff1": "2026-06-14T10:50:06.913548+00:00",
+    "c183562e3f6806df": "2026-06-14T10:50:06.913548+00:00",
+    "999681daf78dd3be": "2026-06-14T10:50:06.913548+00:00",
+    "acd1b8cc80fffe28": "2026-06-14T10:50:06.913548+00:00",
+    "202470a9698e7f3c": "2026-06-14T10:50:06.913548+00:00",
+    "885715b369e00315": "2026-06-14T10:50:06.913548+00:00",
+    "35c453ad62316a12": "2026-06-14T10:50:06.913548+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "👋Ti diamo il benvenuto su r/reeco - Per prima cosa, presentati e leggi le linee guida!",
+      "link": "https://www.reddit.com/r/reeco/comments/1u4ux32/ti_diamo_il_benvenuto_su_rreeco_per_prima_cosa/",
+      "pub": "2026-06-13T16:11:44+00:00",
+      "id": "d66eab3aedfe6ec2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA welcomes FY2026-27 budget, seeks additional support for RMG sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMC1BSDR5c1JxMTI2NmlvUDVXdGJ6azJ3SGgxdGpQODk4dTRiNmpnTDQ3WW0wXzk3Z2lzc0ItZEF1NFJSbmNnSy1IZnVYZll3YUVTR01MZDJFNmJraV9zVzcwYnU2dDUxcFk1azRqR25WazB4YnVxci1EaVFmU0syNE5aVlNIc3NwMERwMURmaU9CS3dpNUF1cW5fbWNfTkh1ZjQ4QlBR?oc=5",
+      "pub": "2026-06-14T03:36:17+00:00",
+      "id": "2a02cf76cfb28d39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA welcomes FY2026-27 budget, seeks additional support for RMG sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMC1BSDR5c1JxMTI2NmlvUDVXdGJ6azJ3SGgxdGpQODk4dTRiNmpnTDQ3WW0wXzk3Z2lzc0ItZEF1NFJSbmNnSy1IZnVYZll3YUVTR01MZDJFNmJraV9zVzcwYnU2dDUxcFk1azRqR25WazB4YnVxci1EaVFmU0syNE5aVlNIc3NwMERwMURmaU9CS3dpNUF1cW5fbWNfTkh1ZjQ4QlBR?oc=5",
+      "pub": "2026-06-14T03:36:17+00:00",
+      "id": "2a02cf76cfb28d39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "BGMEA welcomes FY2026-27 budget, seeks additional support for RMG sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMC1BSDR5c1JxMTI2NmlvUDVXdGJ6azJ3SGgxdGpQODk4dTRiNmpnTDQ3WW0wXzk3Z2lzc0ItZEF1NFJSbmNnSy1IZnVYZll3YUVTR01MZDJFNmJraV9zVzcwYnU2dDUxcFk1azRqR25WazB4YnVxci1EaVFmU0syNE5aVlNIc3NwMERwMURmaU9CS3dpNUF1cW5fbWNfTkh1ZjQ4QlBR?oc=5",
+      "pub": "2026-06-14T03:36:17+00:00",
+      "id": "2a02cf76cfb28d39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ড ও ভ্যাট ব্যবস্থার আধুনিকায়নসহ বিজিএমইএর পাঁচ দাবি - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4Sml5Q1dvdUNsQ1Y3ME90cU5JZ05tZUJmM0xjS3ktTUdFdk4yMXJrdUZjbERWXy1VejhWMndjMG9lSG1yWVdRWEJ3blMwenJYVUVHWUY2ZDA1dGQ3T3BoY0RkVzZ2MUMteXB3aHNqWQ?oc=5",
+      "pub": "2026-06-14T07:44:26+00:00",
+      "id": "fefcdea56e75d223"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রস্তাবিত বাজেট জনকল্যাণমুখী ও ব্যবসাবান্ধব: বিজিএমইএ - অর্থসূচক",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNV3FxYVFVTjJud3VITkJ2OUlhZ3V0T3NKVlM5c0lvdmtyb1FoeFBMWHFQM3VNUXEtb0E5M3ZZeHJwN20xMTFzb2I0NE9BeHZNd1p1ZXdlQXZTckdnQnI1cW02cldYOV93MGpibTZBemhvR1VnMTRBNjVnUEt4dEZFNm1KSmx1b3EwZmI0UmRWdXdhVlc1X0U1dFBnMTduLVBGNnVlVE9ncXNMSFJ2bFRIcWlPVDFUYUlTU1p5SzEybmFYMW10U2xzT3NOR2lpRzgtdGt6TXRSbHhWZk94Vy0zMHlheE54TXl1aXQ5ZC0zUmlQWFhHNmxzOG5xLW9MYVRzUnEtNm9aTG9ZZ3htb0l1eFJTci10REpBWWdmLUViRTJlTmZoa0dPS2lCZlctSmdzcFBKUC05UVpqSU5WU1F5OExqZDhkVTRqT19UOW5VMnpoSU1ObEJNQ1h0VzRUOWJ1WVEw?oc=5",
+      "pub": "2026-06-14T06:55:12+00:00",
+      "id": "7b17aaee808123b8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ নির্বাচনে শত শত কারখানা মালিকের ভোটাধিকার হারানোর শঙ্কা, আলোচনা-সমালোচনা - nagorik tv",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9neDBQc3JLUkdPVzZqcy1lMDl2MEhVNWpSWUZYSWo0a1lCOFh2bHBJUEdhMnN2bUdJX1lNTnJFLXM?oc=5",
+      "pub": "2026-06-14T08:00:03+00:00",
+      "id": "c307e81f870f005a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ নির্বাচনে বন্ধ ও রুগ্ন কারখানার মালিকদের ভোটাধিকার হারানোর শঙ্কা - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02TjVEX0JXR0tlQ0lldVpQbXNHZklsSjZLemh2dlIwclVMQmtJeGx1b0xOQktheldMOERWeE5ldG1xQ3hHSW9QemM3SGZVLWZwc0Jnb2dEbGc?oc=5",
+      "pub": "2026-06-14T08:50:00+00:00",
+      "id": "cd721f5ca4260205"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতের জন্য বাড়তি সহায়তা চায় বিজিএমইএ - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WN2N3YUY5UkM2bkl6Y0h6c0Q5LTNPdEoxR3hHNUhFUE9URk0ydUhwX2FvSlNHX09wU0xOSHlhMi1ncnoxbFdRYUxXQzk?oc=5",
+      "pub": "2026-06-14T03:41:00+00:00",
+      "id": "65a6567674c7fa4d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রস্তাবিত বাজেট ব্যবসাবান্ধব: বিজিএমইএ - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNZVJQQTU3bnlrbmp5eU9zaVhHMHcwNXhqT29ZbHo3RXpId3pXeVdGU0xPaHN4N3BMaDBGeTRuVVJkN1NFbFVBekJCSnFiNWRkS0QtVEVYNXFvWFZNU3NRSTVWUVlwYXRoR09CWURFaklvNG14OHRwV25aa3Mtbnhkcm9jNXN3bVdORDhraHVteWVCdkVFUDAxVXhiRTljQzhLRzctaUdHS3Y3OEVHSnR4LUVGbFFyM0xleE5DdXM0NlBibDBLRnNFRDJKbV9ZVjMzVUl5Uk1ZOHVXYlBucmpHbUhxbzBDb1pNbHAzbzNEVzV3cUNQbkpfbWJnY0h5bEF6QjRUWlhOUW1FNmxNOE15UDFubjFrMDV0bUoxOE9kOFQwZWxuNldmbGpsaVdOSTVuWXdISDBLQjJPYVFTY3ZfcS1kT0ZlYWlhTm9BVzBiMkRsRlV0RVhnclpCZUJfdmlEQUtRSkppLVNINHVPbkZsYkt2bklja2dyZ01henA5VGwwaGdWTHBDOWdzWENVa0dUZmkydndVdWhvZk1uUXFUZkRDZVB5ZnBvc3h1cU5FVWtBSER3d09LMy1pLUNnTkVseTJIMkJpV1NwbWsyZTVlMHg2OGhMMGZ1MFU4dmxZSFFGNjZKOW9aeFJRLXRhN21BQ1k5dEVtNmZ4UVN6N0hMNlJR?oc=5",
+      "pub": "2026-06-13T17:24:00+00:00",
+      "id": "250218b18050d0da"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রস্তাবিত বাজেট ব্যবসাবান্ধব ও জনকল্যাণমুখী: বিজিএমইএ - সময় নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PdzNzdmh1Z2FNazV1MWVHa01tVWJZUldHODF4YzlaNk44aGdaZERVVFNkeEF5b1lCUVVkdWpGQ1dPdjdHeVJRd1FlemhfTHR6M0dWX0hoWTRDWDFtMHc?oc=5",
+      "pub": "2026-06-14T01:28:35+00:00",
+      "id": "f036f44d9160f388"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাজেটে ইতিবাচক সংস্কার দেখছে বিজিএমইএ - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZHU4RzJ1V0xHVldsLWwyZUlfTFJXRnJhaGFkdGkySUMxcG9pakpYVmlXTnpSTlYyQlpfRmxQRnpjUGlpVVBfdGZQYjdKemN6TlRxTUViU3dIdFQtQXFabnM3akZfWHc3TXg2WW1vdjJiMUxOaFhuN0ZaOA?oc=5",
+      "pub": "2026-06-13T16:21:46+00:00",
+      "id": "cea9edc928f2c86a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাজেট প্রস্তাবনাকে স্বাগত জানাল বিজিএমইএ - RTV Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qd2kyNG5icVRkUTJqNU5zTGdUUFV4bmpHWm9MMFB5N1BKTjlOR2ltMEpPR3NDM194ZkVXYnNOMXkzWVZuRGxiQWZjYk1tUUpOemc?oc=5",
+      "pub": "2026-06-13T15:34:00+00:00",
+      "id": "62bf97b9de56b5d5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রস্তাবিত বাজেটকে স্বাগত জানিয়ে আরও সুবিধা চায় বিজিএমইএ - NewsNow24",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PaXFlY2xlMXR0cmdsX0ZJX19ucVFXX2ktdi1IMlZkRFU4eFVudjF2MVN5NEx2dUFmbHBvNmpmRmpRR3RScHFlVkMxZkZkcWJDVXhN?oc=5",
+      "pub": "2026-06-13T16:40:00+00:00",
+      "id": "1d956ebe2079fdd0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দূরদর্শী বাজেটের জন্য অর্থমন্ত্রীকে ধন্যবাদ জানাল বিজিএমইএ - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CNGU0aDN4YWR4QnRsWUxORHRFZkVpZHlvaEk0c1lPTzNkelRHSzVSTExrOW96T09wcEJlRHozR295eE9IVXpEcFV3UDhxV0RMUFZVLXZUZnlDWVN4LWc?oc=5",
+      "pub": "2026-06-13T18:15:00+00:00",
+      "id": "a116aae52ee9963b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাজেটকে স্বাগত জানাল বিজিএমইএ; নীতিগত স্থিতিশীলতা, বন্ড ও ভ্যাট ব্যবস্থার আধুনিকায়নসহ ৫ দাবি - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQT0dPSTMzODJlMndfVndWY1hiaTlHd1VPaENBaWE1QW5zaDdrMmZGd0JCTFlkTG11UkVWZjdNMlQxU0oySHEzTTBPVER1eFlIN2dWdGdCMjNvbG1zMFRTalFfUUs4RUV6dkhkZW43emZ6WWPSAXNBVV95cUxQUE9HT0kzMzgyZTJ3X1Z3VmNYYmk5R3dVT2hDQWlhNUFuc2g3azJmRndCQkxZZExtdVJFVmY3TTJUMVNKMkhxM00wT1REdXhZSDdnVnRnQjIzb2xtczBUU2pRX1FLOEVFenZIZGVuN3pmellj?oc=5",
+      "pub": "2026-06-13T15:55:00+00:00",
+      "id": "bcbb973b05fcf46a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশিল্পে সহায়তার অপেক্ষা - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Z2E1MHJ5S3ZmOXBXcVRCRHYtTEc5YTF4SmpKbGVVZzlYNVlYZWlkWUE3aW9sdEZMVC1tY0RLOUxLb2dWWG1vOTJlV1dUZjU0NEFDRDBHZnFxT2o2RFdYemlQZHJwandPXzFiSWZCOHBXVDQ?oc=5",
+      "pub": "2026-06-13T18:00:00+00:00",
+      "id": "e44d9cfa25a72230"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আত্মসমর্পণ করতে সিরাজগঞ্জ আদালতে যাচ্ছেন আমির হামজা - অর্থসূচক",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPSHR2dnl3Mmx6c2Q2SjdRcG15eUF6UXR6bHU1ZzdzU2NHTGhFTEJNV1UwbzJQdGt5aUpaYklwSlZ4TFFTcUE3anlwX25FTjVPem9oV0tUR18xSENlQlRRTElUODdZRnJZNDgtMm1aRUxORUE1LWRvWFBDT1Q4RlBMb3JPTFN4MXZBaERUbE9nc21KaW5ncXhfZUNseHQ1SzhnbE41clBfVmw4SldITkgwNlhybDM5UGRUSUhVUmJRTDVhTU1jT281UGlTSXJtVmZMbHA0VV9JMG1fc050QV9TRUdRTzF6cjQwUjFhRjN3amhkamVoZVhsZHBndmo2M0RWVUlfOVZCZTVHa19Md0ZnWFJnbVJoajF1S2dnVjdJdEhYU1lyblhxbnR0QUJLeEF6NnlxYm1XNk0tVlZESnBXTV8yZjdEUkRySVZlMUtmQUIzbHhvS2hyM0xRX0lSckNtN2JN?oc=5",
+      "pub": "2026-06-14T07:19:40+00:00",
+      "id": "c333dd4286cdfdf3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আমানত ফেরত পাচ্ছেন পাঁচ আর্থিক প্রতিষ্ঠানের গ্রাহক - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVdG1ZdDVjTXcyMklxUnlfRUxyUm9rZFY0TjZRWUpqUVhsY0JlaWphSm9RSlZLOHAtczlSLWdlOE9tSUxvYVpCV3BjeDNTbjg2Z1l3dg?oc=5",
+      "pub": "2026-06-13T18:40:00+00:00",
+      "id": "582365ac171d71c2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রপ্তানি ধরে রাখতে নামতে হবে কঠোর প্রতিযোগিতায় - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EQ25Yand5bmZHSVUzcUZ5Qzk3VTdZaVRkV0pRcl9JVlRpZ0Nxb3pxM0dwV0ZLandwdDctSE1hWTVzSjEtMjlXanc2U3BpWmQ4VWNMVQ?oc=5",
+      "pub": "2026-06-13T18:49:00+00:00",
+      "id": "cb5c2396d7e2cff1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চেয়ারম্যান অপসারণসহ ৭ দাবিতে নতুন কর্মসূচি দিল সচেতন গ্রাহক ফোরাম - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WXllUWhHbFZaWkJsVDJoRnhPY1lqbURqWFNrX1dwclRzRFFTaExkTWRmUlB2NVJXSGwyZVRBLWE2aHRYOEJUUnlUOVRCOU8wLXozMg?oc=5",
+      "pub": "2026-06-13T18:48:00+00:00",
+      "id": "c183562e3f6806df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এ প্লাসের বন্যায় ভাসছে দেশ, কিন্তু চাকরির বাজারে হাহাকার কেন? - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SU1BzLVZZUE5lZmthZ1VmYjRUemJhMXA2WmRNY1VCWm14akxhZEtwT1AxZjdzN3V4aDdIRFdRVzZHMlltcTAyVDJnYWVkb0doVi1zWlNhSENHZw?oc=5",
+      "pub": "2026-06-13T14:48:00+00:00",
+      "id": "999681daf78dd3be"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এক লাফে ভরিতে ৬৫৯০ টাকা বাড়ল স্বর্ণের দাম - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RWFFN3p1R3Z1cmc4UVdxS3MyeF93eGJmUmFXNXp0Q0ZJSDB4WmJTRmVpU2VMRFFSdUx6NVdycjdMckxtMjV6WGdMTDdFLU5qOS1kSG1fUFNnUQ?oc=5",
+      "pub": "2026-06-13T14:51:00+00:00",
+      "id": "acd1b8cc80fffe28"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বেসরকারি খাতকে চাঙা করার যুগান্তকারী উদ্যোগ - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tdmc1Z1BTVmJsbzRuQW56QmNqTk1sNlhVSzducTRhWlZnLWhzN1RWa1NkMjg4LS1MYmdvWXo5WWFXcjk0MEVBNDBKM2dxMThkOUVhQQ?oc=5",
+      "pub": "2026-06-13T18:46:00+00:00",
+      "id": "202470a9698e7f3c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "যখন স্কুল ফাঁকা, কোচিং সেন্টার প্যাকড! - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tSEdzcEVod0lodklzQ1dFTEFkd3RYZlJBQ3VOU1NCUTVNNGJnWkJCempXZWtuMmxqc2o2ZGlZV2VOdThUb1hMdFp3U2JWcjJOTDdzSWotWlFsZw?oc=5",
+      "pub": "2026-06-13T13:53:00+00:00",
+      "id": "885715b369e00315"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "​​​​​​​তারেক রহমানের দূরদর্শী পরিকল্পনা - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XUFZsbkEyUzRuVUFxV25SRUpjRXVMbnRCd0c1T2RHdDJYMXJlaHhFaTliQlY1TVl6MDdCVFpyZlZ1WGhrQ0N4VFVyOWdyb0pKUllETQ?oc=5",
+      "pub": "2026-06-13T14:27:00+00:00",
+      "id": "35c453ad62316a12"
+    }
+  ]
 }
