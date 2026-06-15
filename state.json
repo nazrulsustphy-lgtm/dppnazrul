@@ -1,28 +1,5 @@
 {
   "seen": {
-    "b6b8b43de47f9706": "2026-05-16T09:43:06.763565+00:00",
-    "3ddff6e9fcda593a": "2026-05-16T09:43:06.763565+00:00",
-    "fa6d1bc5dc5bf135": "2026-05-16T09:43:06.763565+00:00",
-    "b7f2c866f3c099c8": "2026-05-16T09:43:06.763565+00:00",
-    "0c9b84c7809c1237": "2026-05-16T09:43:06.763565+00:00",
-    "36e88df908103f49": "2026-05-16T09:43:06.763565+00:00",
-    "69c57fda5beda553": "2026-05-16T09:43:06.763565+00:00",
-    "bf5f06afad1dfd61": "2026-05-16T09:43:06.763565+00:00",
-    "888de53dd7d3ef68": "2026-05-16T09:43:06.763565+00:00",
-    "42332f061af39dd1": "2026-05-16T09:43:06.763565+00:00",
-    "6db115305e3e73e8": "2026-05-16T09:43:06.763565+00:00",
-    "63486afee2634211": "2026-05-16T09:43:06.763565+00:00",
-    "5f44713d8d864dc8": "2026-05-16T09:43:06.763565+00:00",
-    "b1d5f0436ce17a71": "2026-05-16T09:43:06.763565+00:00",
-    "4a6e9bfc30bf2496": "2026-05-16T09:43:06.763565+00:00",
-    "db19b4e7d4366c71": "2026-05-16T09:43:06.763565+00:00",
-    "b16f19c02adc3e37": "2026-05-16T09:43:06.763565+00:00",
-    "e40fef2a27df319f": "2026-05-16T09:43:06.763565+00:00",
-    "095aeefd34b6cd7b": "2026-05-16T09:43:06.763565+00:00",
-    "b4716f3e1f5bfe41": "2026-05-16T09:43:06.763565+00:00",
-    "d7857b8f20685251": "2026-05-16T09:43:06.763565+00:00",
-    "197f9aa66f230da6": "2026-05-16T09:43:06.763565+00:00",
-    "b94da741a52d3247": "2026-05-16T09:43:06.763565+00:00",
     "677ad9e725f2c4bd": "2026-05-16T14:59:21.911683+00:00",
     "1f478b69cfa98b9f": "2026-05-16T14:59:21.911683+00:00",
     "3649cd9ed6dfe56f": "2026-05-16T14:59:21.911683+00:00",
@@ -2298,7 +2275,206 @@
     "8f4622f1b6b7b477": "2026-06-14T15:49:27.460543+00:00",
     "dc8ce3f092b7f1a0": "2026-06-14T15:49:27.460543+00:00",
     "8461c6dc650c6b01": "2026-06-14T15:49:27.460543+00:00",
-    "924bd1f825049926": "2026-06-14T15:49:27.460543+00:00"
+    "924bd1f825049926": "2026-06-14T15:49:27.460543+00:00",
+    "e86612dd9838cb2d": "2026-06-15T14:25:56.656565+00:00",
+    "ee909c4e2910ac10": "2026-06-15T14:25:56.656565+00:00",
+    "553b8716c2c433e0": "2026-06-15T14:25:56.656565+00:00",
+    "8d928d50e6d79d5e": "2026-06-15T14:25:56.656565+00:00",
+    "fd86bc10f5ca2221": "2026-06-15T14:25:56.656565+00:00",
+    "0f02c8cbad0fc107": "2026-06-15T14:25:56.656565+00:00",
+    "05dd6e5b685cfc4b": "2026-06-15T14:25:56.656565+00:00",
+    "ba2811a645401c4c": "2026-06-15T14:25:56.656565+00:00",
+    "42eb733e98bb2496": "2026-06-15T14:25:56.656565+00:00",
+    "331586d5fe8a160b": "2026-06-15T14:25:56.656565+00:00",
+    "dfadb1f721f46213": "2026-06-15T14:25:56.656565+00:00",
+    "62e74d4db25dc65d": "2026-06-15T14:25:56.656565+00:00",
+    "9aa5d2daff7ee6fd": "2026-06-15T14:25:56.656565+00:00",
+    "68a2eeac713a775e": "2026-06-15T14:25:56.656565+00:00",
+    "3479c6558f67036e": "2026-06-15T14:25:56.656565+00:00",
+    "42bd1665480efc8e": "2026-06-15T14:25:56.656565+00:00",
+    "18292a3c7b23e76c": "2026-06-15T14:25:56.656565+00:00",
+    "a6444e251d90f54d": "2026-06-15T14:25:56.656565+00:00",
+    "d36ed6c5a15faaf7": "2026-06-15T14:25:56.656565+00:00",
+    "1ea5f929098eb30b": "2026-06-15T14:25:56.656565+00:00",
+    "0cb6899a4abd861f": "2026-06-15T14:25:56.656565+00:00",
+    "412ffa344a7d1ea5": "2026-06-15T14:25:56.656565+00:00",
+    "b67fa5f91521ceca": "2026-06-15T14:25:56.656565+00:00",
+    "14cb13a30087f556": "2026-06-15T14:25:56.656565+00:00",
+    "fec8eeff4ea5902e": "2026-06-15T14:25:56.656565+00:00",
+    "5bb34bb1d98c6b64": "2026-06-15T14:25:56.656565+00:00",
+    "47954b8621b614fd": "2026-06-15T14:25:56.656565+00:00",
+    "d785aa877bd0aad1": "2026-06-15T14:25:56.656565+00:00",
+    "0851a53a8302e794": "2026-06-15T14:25:56.656565+00:00",
+    "8da34a05b1b3a69f": "2026-06-15T14:25:56.656565+00:00",
+    "12f32266ff119e99": "2026-06-15T14:25:56.656565+00:00",
+    "6c3ba4e562046ae3": "2026-06-15T14:25:56.656565+00:00",
+    "cf8b17aec274b4fe": "2026-06-15T14:25:56.656565+00:00",
+    "fd4067afc67f8752": "2026-06-15T14:25:56.656565+00:00",
+    "14cb17a24028f3ad": "2026-06-15T14:25:56.656565+00:00",
+    "db4178019aac30c1": "2026-06-15T14:25:56.656565+00:00",
+    "520b058e95792a70": "2026-06-15T14:25:56.656565+00:00",
+    "671834b8ec7a9a6b": "2026-06-15T14:25:56.656565+00:00",
+    "ff3a5b43c8f5d3dd": "2026-06-15T14:25:56.656565+00:00",
+    "7513449ed863f392": "2026-06-15T14:25:56.656565+00:00",
+    "9d4f71c6806a73b2": "2026-06-15T14:25:56.656565+00:00",
+    "b0ad284d0dec66c5": "2026-06-15T14:25:56.656565+00:00",
+    "2020488ff8623fd8": "2026-06-15T14:25:56.656565+00:00",
+    "ccf4c71b1475aead": "2026-06-15T14:25:56.656565+00:00",
+    "6968ebb399b22f26": "2026-06-15T14:25:56.656565+00:00",
+    "871c66bd30756d62": "2026-06-15T14:25:56.656565+00:00",
+    "8b93282e920ceeb1": "2026-06-15T14:25:56.656565+00:00",
+    "237549d66f9de230": "2026-06-15T14:25:56.656565+00:00",
+    "592b23c9623461d9": "2026-06-15T14:25:56.656565+00:00",
+    "b4b5d1f81fe76217": "2026-06-15T14:25:56.656565+00:00",
+    "8b214d7694cb73c0": "2026-06-15T14:25:56.656565+00:00",
+    "b8d5adf5a2edb669": "2026-06-15T14:25:56.656565+00:00",
+    "5eb7da3e7cf15d62": "2026-06-15T14:25:56.656565+00:00",
+    "c4b724bcf81f772a": "2026-06-15T14:25:56.656565+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Morocco: Recycling Textile Waste Can Create 30,000 Jobs and yield USD 2 billion worth of Investments - The Tanzania Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNak9WdDBOT0hFbDVEZGl1M1NYUXM3blRGY1BfMXB5TW5lc2p4RlpHYXozOTA3YlpGODdRcU1TVUZHMldYWVVsblhDUVpkZkV2aFVOXzdJYkhBbzVhMmw1WUNrLU1RNmFKdWpVSFJQWDRyWVA1VU9Za2h3aDlYMVc4SklXdkpXWTBxRGVYU0U3ejcwdmJVNzhYNUtYZG53ZGI3UExLTVVmNjR2VVlySDdMUE1zeFpfcEN4dk1MS0xxYmpIbE0?oc=5",
+      "pub": "2026-06-14T20:47:48+00:00",
+      "id": "671834b8ec7a9a6b"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "The Biggest Data Challenges in Digital Product Passport Software Development - INSCMagazine",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXR0TWVQT0xoQ3ZIZU9fUkpiaFZVejkyeVZ6Z0ZCRml0d25aMmotaEtydXpySXJtZlJuamxWWTNqQXJNQU5NVTN2N1JSRFpXMG1zRzdBNnkxdXk1U01Valo4NXNtd2pJdWU5N1hGaE9pcjlOUHdNTXVLUnctWWg2dE9XWVRwTEYxbU93LTdFaEx2clhqVDNhZUM2SHk3dzRaeDZWc0FoWlM?oc=5",
+      "pub": "2026-06-15T10:50:57+00:00",
+      "id": "ff3a5b43c8f5d3dd"
+    },
+    {
+      "section": "international",
+      "source": "Apparel Resources",
+      "title": "BGMEA Appoints Shahmij Bokul to Lead Small Cottage Industry Committee",
+      "link": "https://apparelresources.com/default/bgmea-appoints-shahmij-bokul-lead-small-cottage-industry-committee/",
+      "pub": "2026-06-15T09:42:40+00:00",
+      "id": "7513449ed863f392"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Barista's Secret Message!",
+      "link": "https://www.reddit.com/r/theEichlerPrompts/comments/1u6dud9/baristas_secret_message/",
+      "pub": "2026-06-15T11:27:02+00:00",
+      "id": "9d4f71c6806a73b2"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "[Loot Audio] HAVE Audio Sale (UP TO 65% OFF)",
+      "link": "https://www.reddit.com/r/audioware/comments/1u65uuf/loot_audio_have_audio_sale_up_to_65_off/",
+      "pub": "2026-06-15T04:03:03+00:00",
+      "id": "b0ad284d0dec66c5"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "[SELL] [US] Assorted Lululemon Pieces in Sizes 10, 12, and XL/XXL",
+      "link": "https://www.reddit.com/r/lululemonBST/comments/1u60h5i/sell_us_assorted_lululemon_pieces_in_sizes_10_12/",
+      "pub": "2026-06-14T23:45:12+00:00",
+      "id": "2020488ff8623fd8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA nominates industry leader to support small cottage sector growth - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXBPMV9iQ2wwYTVjSHNNU2RqNkttdTcyMjFueXg0TWplbkpsN3ZvYWRveEMzQk1pbzd3WEx1Q2s0QWQ2aklOZ3pqcDFQdUo1b01sOFI3NklqWjg3ZkdfSmJDc2oxVklqUGdmR1pQTzJKOGtZbHEtSDE5b0VCSFZEVGNNUjdZSHExd0dBRGlTYjZtd0ExUi1OUklpeHJUc01PcTlZSg?oc=5",
+      "pub": "2026-06-15T05:26:47+00:00",
+      "id": "ccf4c71b1475aead"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA nominates industry leader to support small cottage industry growth - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFo2ZWliVFJBTEtEWmpBdkhTQTR1eHVGUmhQTHd1aXB0b2JkQ3pCWUJVRXp1RkNBVkdmaUdlZDNPbDc2MnNVcGxFVkoybVRlSXJvNGlFZEZwVHJNVVVBdW5DMUJzQW82Q2E4cF9DUDF4M25Gekp2aEt2SVhhUmlLUzV0dWRsM0paVDFyNEJJbC12c3B6akw1ZWtEanAxUmdOeE9LNm5sUQ?oc=5",
+      "pub": "2026-06-14T18:26:17+00:00",
+      "id": "6968ebb399b22f26"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Dragon Group's acrylic spinning advantage in value-added sweater manufacturing - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkc3TVhPYXp1YUw4T25PUUpSQ3VTNGVXSlhFMU9SZmlFRGxrVUFPSnRueVlkS2pvclNjWS1rSkJueXVwWGRwRU80SktqRG1CTmNlRGdBWkExSkVEZXplemZFMm5XUWhsck1jcjFMLUxsRXhXZHBZaFpsRDE0aXhaY0RCb3Q1RnlqUmZPNUJwcEQ0U2xjdU4tTUc5QWIxZlZsYzhad05zc2I2TVRBNGc?oc=5",
+      "pub": "2026-06-14T21:26:43+00:00",
+      "id": "871c66bd30756d62"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "BGMEA nominates industry leader to support small cottage sector growth - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXBPMV9iQ2wwYTVjSHNNU2RqNkttdTcyMjFueXg0TWplbkpsN3ZvYWRveEMzQk1pbzd3WEx1Q2s0QWQ2aklOZ3pqcDFQdUo1b01sOFI3NklqWjg3ZkdfSmJDc2oxVklqUGdmR1pQTzJKOGtZbHEtSDE5b0VCSFZEVGNNUjdZSHExd0dBRGlTYjZtd0ExUi1OUklpeHJUc01PcTlZSg?oc=5",
+      "pub": "2026-06-15T05:26:47+00:00",
+      "id": "ccf4c71b1475aead"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাজেটকে স্বাগত জানাল বিজিএমইএ; নীতিগত স্থিতিশীলতা, বন্ড ও ভ্যাট ব্যবস্থার আধুনিকায়নসহ ৫ দাবি - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uYjVHZE9IWW9ZNkdEOHVJdWN3eTdya29jNWRyWDQwSjV6a1Q3N3ZOdVpUam9OaGJNeW5TYnpkOFhxd0hMdHRabk9hcUltR081c1p3S0lVSmRDNjN4Mk95UC1kRVYtZFJmUzlBYmhB0gFzQVVfeXFMUFBPR09JMzM4MmUyd19Wd1ZjWGJpOUd3VU9oQ0FpYTVBbnNoN2syZkZ3QkJMWWRMbXVSRVZmN00yVDFTSjJIcTNNME9URHV4WUg3Z1Z0Z0IyM29sbXMwVFNqUV9RSzhFRXp2SGRlbjd6ZnpZYw?oc=5",
+      "pub": "2026-06-15T08:46:24+00:00",
+      "id": "8b93282e920ceeb1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ নির্বাচনে ভোটাধিকার পরিবর্তনের প্রস্তাব ঘিরে ব্যাপক আলোচনা-সমালোচনা - Desh Tv",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxcHNIcjBVdU8zWVpja3dpeUZKNFhXemsya0ViSjlPQnprMjAyVkN6UkhtUWdYSE9zTnlNRGxjVml5eFg0LXVzWg?oc=5",
+      "pub": "2026-06-14T16:08:25+00:00",
+      "id": "237549d66f9de230"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ কারখানার মালিকরা ভোটাধিকার হারাবেন - Protidiner Sangbad",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ca2MxUGdnekg5cUhoLTdzZXB3NERIRUVJUGFzelA1aFhTaGJ3cmRFWWcxald1ZzV1U1dIZnEwbEwzeXBDbFdkcDRMZmMzRjBIZ0Yydl9XcUFnMnI4VnFjQWNhclRKOEZodjhVZVctdDNhOVJKQ0E?oc=5",
+      "pub": "2026-06-14T19:11:52+00:00",
+      "id": "592b23c9623461d9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "​​​​​​​বেকারত্বের অন্ধকার পেরিয়ে আশার আলো - Share Biz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BcFFUVkU4bUhTdHB4dGFMaFlobVhlZGZncW9TQU91QVZIWlFJcTZVUDRvbHNoWXFMRTJ4UVl0eEZoVGI0MjRrWnVBNVBnSHJMTmdGaA?oc=5",
+      "pub": "2026-06-15T08:46:00+00:00",
+      "id": "b4b5d1f81fe76217"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শাহ্জালাল ইসলামী ব্যাংক এবং প্যারাগন হোটেল অ্যান্ড রিসোর্টের চুক্তি সই - Rupali Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sU1lZdWJYMllkdjA1MEZsZDFfUjJwbHdhamVvNlhqb0NCUWNGREx2RVhfQzdWQ2haaW55RVdoX3VOS3ZnaTdVMHBVR2lhaUVsa1VfS3RoMGRPV0VuZDlQRnNOcmQ2Z2VLSFVseTJON2l5OUNtOFh1WWxyVkpjUQ?oc=5",
+      "pub": "2026-06-15T00:01:00+00:00",
+      "id": "8b214d7694cb73c0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ইসলামী ব্যাংকের চেয়ারম্যানসহ পুরো পর্ষদ বাতিল - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYRko0Y1FqLXpDcmtoWVQ3aGZkUFJ1MHp6WV95NG9hcWlUYU1sRnA2R2VVRklrRXBiT0MzVUJoV015UEFRX1JRcHF2Q1V0bW5fYUpvNHgzZnZORlNFUUdYRHRGSjNCVDA?oc=5",
+      "pub": "2026-06-14T15:56:07+00:00",
+      "id": "b8d5adf5a2edb669"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জনতা ব্যাংকের রংপুর বিভাগীয় শাখা ব্যবস্থাপক সম্মেলন অনুষ্ঠিত - Rupali Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9faV9LWGp0NXRMcy1DRzIwbWp5eFI5UkxRbUViRzR4WTFoX2JQLWNacnF1cmdrdFdoT3NaMmFOcnRuR3dFS2Q2Zk9IRGVqYVFPWUdaY2VPczdmaVhNSkRLTVhfWVRlSEl2WUhmRW83aEd3bEltYV80a05aZ2hpQQ?oc=5",
+      "pub": "2026-06-15T00:02:00+00:00",
+      "id": "5eb7da3e7cf15d62"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কাল থেকে গ্রাহক সেবার মান আরও বাড়বে: ইসলামী ব্যাংকের এমডি - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qWlFVTkpXSFBqbW5USzRqU0FTNGlwa0NxMVJCd0pKTWxqZVZqaGJmQzNWNDh3bWo4bGlXVFVDelplRDJ4T0Ixd0FCRVI3NE9GaDJfTXJPanVLX1NrZWJDZDA3bkhzQTQ?oc=5",
+      "pub": "2026-06-14T15:34:43+00:00",
+      "id": "c4b724bcf81f772a"
+    }
+  ]
 }
