@@ -1,32 +1,5 @@
 {
   "seen": {
-    "951ec04826859a6f": "2026-05-17T14:59:29.647400+00:00",
-    "e9c13be5e972ed69": "2026-05-17T14:59:29.647400+00:00",
-    "616bea55f429137d": "2026-05-17T14:59:29.647400+00:00",
-    "ffcc7be312f2424c": "2026-05-17T14:59:29.647400+00:00",
-    "54aa4f7d3fd2b328": "2026-05-17T14:59:29.647400+00:00",
-    "1f78e3aafe1c0bbe": "2026-05-17T14:59:29.647400+00:00",
-    "16239ceb7f03c2da": "2026-05-17T14:59:29.647400+00:00",
-    "aa9757e5f3f65f71": "2026-05-17T14:59:29.647400+00:00",
-    "106c6b94685c69a7": "2026-05-17T14:59:29.647400+00:00",
-    "e0880876ca6278dd": "2026-05-17T14:59:29.647400+00:00",
-    "eb7926ac74327d74": "2026-05-17T14:59:29.647400+00:00",
-    "f8c7a5f99f8abbe5": "2026-05-17T14:59:29.647400+00:00",
-    "2d13732119172c16": "2026-05-17T14:59:29.647400+00:00",
-    "ed3fed9e57cc943d": "2026-05-17T14:59:29.647400+00:00",
-    "242d1577793775a3": "2026-05-17T14:59:29.647400+00:00",
-    "9b1c4775f55c84c6": "2026-05-17T14:59:29.647400+00:00",
-    "0c5ff95c566fad3c": "2026-05-17T14:59:29.647400+00:00",
-    "d199b769916df4a7": "2026-05-17T14:59:29.647400+00:00",
-    "5dde26de0cb58bff": "2026-05-17T14:59:29.647400+00:00",
-    "4ba6f2004a79cc26": "2026-05-17T14:59:29.647400+00:00",
-    "a317b377fc7b878d": "2026-05-17T14:59:29.647400+00:00",
-    "40511f13cd4a09c7": "2026-05-17T14:59:29.647400+00:00",
-    "71bac164c91dc8d7": "2026-05-17T14:59:29.647400+00:00",
-    "10ec4c54dd14a188": "2026-05-17T14:59:29.647400+00:00",
-    "f5de3c11a88649a4": "2026-05-17T14:59:29.647400+00:00",
-    "7bee100e7b11258d": "2026-05-17T14:59:29.647400+00:00",
-    "3cb0d0129afbf702": "2026-05-17T14:59:29.647400+00:00",
     "7f68c99d9ec40b19": "2026-05-18T11:46:42.667701+00:00",
     "9d5b8a9f103660e6": "2026-05-18T11:46:42.667701+00:00",
     "31e60c2ae2bf5001": "2026-05-18T11:46:42.667701+00:00",
@@ -2270,7 +2243,43 @@
     "3736cd5c13a0f9d4": "2026-06-16T12:56:47.918704+00:00",
     "7c59050bb20ead2d": "2026-06-16T12:56:47.918704+00:00",
     "e8bb6a5135e5db36": "2026-06-16T12:56:47.918704+00:00",
-    "758fd1abde2cb1d0": "2026-06-16T12:56:47.918704+00:00"
+    "758fd1abde2cb1d0": "2026-06-16T12:56:47.918704+00:00",
+    "d7392aa4efdc087f": "2026-06-16T18:27:51.032627+00:00",
+    "ee3763b18ee6ee56": "2026-06-16T18:27:51.032627+00:00",
+    "83ce6ac2a75d6f5f": "2026-06-16T18:27:51.032627+00:00",
+    "be5c3917618fe5ba": "2026-06-16T18:27:51.032627+00:00",
+    "b4ad458bc8870923": "2026-06-16T18:27:51.032627+00:00",
+    "ca09b8ed2c855296": "2026-06-16T18:27:51.032627+00:00",
+    "9ffc75f1b032e6d9": "2026-06-16T18:27:51.032627+00:00",
+    "c9524e197ffa18c4": "2026-06-16T18:27:51.032627+00:00",
+    "34e555695ae3b363": "2026-06-16T18:27:51.032627+00:00",
+    "b1e9c85a6c8f9c05": "2026-06-16T18:27:51.032627+00:00",
+    "27c69b51e7c95924": "2026-06-16T18:27:51.032627+00:00",
+    "45871fc8968c5ac6": "2026-06-16T18:27:51.032627+00:00",
+    "f1d42875889031ed": "2026-06-16T18:27:51.032627+00:00",
+    "f8177b3acf5d4219": "2026-06-16T18:27:51.032627+00:00",
+    "36897e9ee60765ec": "2026-06-16T18:27:51.032627+00:00",
+    "43a4cfa17fb5e368": "2026-06-16T18:27:51.032627+00:00",
+    "ff105e953c61838d": "2026-06-16T18:27:51.032627+00:00",
+    "d21fc2684a482769": "2026-06-16T18:27:51.032627+00:00",
+    "948fd5d17814afa8": "2026-06-16T18:27:51.032627+00:00",
+    "51670c36ad8590b6": "2026-06-16T18:27:51.032627+00:00",
+    "3172b5f7866722bc": "2026-06-16T18:27:51.032627+00:00",
+    "40fab95daf76ac0e": "2026-06-16T18:27:51.032627+00:00",
+    "084c90487cbe3a57": "2026-06-16T18:27:51.032627+00:00",
+    "a5b27ba40d33e7b5": "2026-06-16T18:27:51.032627+00:00",
+    "0ae0abc209a5090f": "2026-06-16T18:27:51.032627+00:00",
+    "ff0752302e53c94e": "2026-06-16T18:27:51.032627+00:00",
+    "aa2e1ad06cd09b66": "2026-06-16T18:27:51.032627+00:00",
+    "458b3b64166604e3": "2026-06-16T18:27:51.032627+00:00",
+    "f15675bd7c7ca7eb": "2026-06-16T18:27:51.032627+00:00",
+    "efed3bf05732500b": "2026-06-16T18:27:51.032627+00:00",
+    "7e1868ef96d08b80": "2026-06-16T18:27:51.032627+00:00",
+    "fa85f3535f039096": "2026-06-16T18:27:51.032627+00:00",
+    "b904e9e40f3cdc4a": "2026-06-16T18:27:51.032627+00:00",
+    "4f16377a68a65226": "2026-06-16T18:27:51.032627+00:00",
+    "8a6f246eaa3a1401": "2026-06-16T18:27:51.032627+00:00",
+    "89afa87272427d61": "2026-06-16T18:27:51.032627+00:00"
   },
   "yesterday_items": [
     {
@@ -2392,6 +2401,142 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeExyR2FGbm5zRzRYRDBCM1h1ZjlGcmlHalhWWnNjUlN3dzhxb0d5eFdFMTFTT3NtSlpXVHlrazhpNVg1bGR1b3oyYkhXZTNzdGpva0gwSQ?oc=5",
       "pub": "2026-06-16T12:00:23+00:00",
       "id": "758fd1abde2cb1d0"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Nesterra Launches New Collection: A Celebration of Grandeur, Craft and Timeless Luxury - businessnewsthisweek.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUtMY2g2SW1aZ1MzMTZsbk1PQmpnMG5YWUs1SUE4WEE3WlhmZ2I0RUg1cnJkYUVfUTR2V2UxU0lvdllvYld5MEFRc1NKbWRtUW40M2ZSczI1SkVqS2pfdmlZd0FqaExick9jYi1mQzVzcHBMNjdmMDFrVjVvVGFoYlZYV1JFTV9LbTFoZGRHalBJdEtMNzhBQXJDdWU2NWs2U0JpWDQxWmRCNnZTMHdVdnkyUGpBZ3g3VGc?oc=5",
+      "pub": "2026-06-16T12:08:11+00:00",
+      "id": "40fab95daf76ac0e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "| EU ban turns unsold fashion stock into auditable business risk in 2026 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNUVvNi16R2NwLWJFQ0x1WHctUHBfcjFwTmFBWTRlWllId3hCek1FZzVsZWlLUFBjdW1RMElmSkRfaWhZV3dRbW9fX0RMbzNuS0E0LTc1cm5kVmY2M1FiUUI0LTFsVWswbmRQWURmamVaeXNNR1BEN1ZLU1JYalBScGNrd0pPWW9EVzAzbVZ5ZzcxY1FmdWpVeXlhZmllS0Y5M3ZQWEVxRkxmaUtYSHNKSmZQOFBlbU9QMnFLalRUZ00zZjFHeHVadVF4QzVYUVowWkh2Nnkzd1lWVXpfQ0s1bzdlRHpwM2U1aU43dw?oc=5",
+      "pub": "2026-06-16T11:02:02+00:00",
+      "id": "084c90487cbe3a57"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Episode discussion: Is carbon data becoming a condition of doing business?",
+      "link": "https://www.reddit.com/r/ClimateConfident/comments/1u7jhuz/episode_discussion_is_carbon_data_becoming_a/",
+      "pub": "2026-06-16T17:06:05+00:00",
+      "id": "a5b27ba40d33e7b5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপের বাজারে পোশাক রপ্তানিতে বড় ধস - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoMmY1c2ZMMDdWYkhjcWNLdGc1aUx6WHVheE9WcTJzZWlyZFY1WW8xUzhxd1JVTHp0SFdaVUxnUWxEcVU4eUF4TF9UcHV3d1ZVUGZtbTVaR09JbVZXWHJuLWhEVUt1OGRmbDZCVDZPcVhpZllDS3R6RVh3OA?oc=5",
+      "pub": "2026-06-16T13:10:37+00:00",
+      "id": "0ae0abc209a5090f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপে পোশাক রপ্তানির আয় তিন মাসে কমেছে ২০ শতাংশ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnaHNUdDRmeXBxZGpXUmJ6bTVUZG9RczJyQnBUdG5nc2hWN0xKYW1CMFFXTm1QQ0lZNnNVd1J2OThrVHhXOEVhNXdnTVRtbEwzZ050UWdPUGtFY1XSAU9BVV95cUxPYWg2cTh4WFFETkYtQ01iTnZOdFZnNS1DdkVBWTBkWmxoeFNfeHFPVFZmbkQydkVwQTh6eTd6YTJqTmQzUHNKYk04dUIwMEl3?oc=5",
+      "pub": "2026-06-16T13:19:00+00:00",
+      "id": "ff0752302e53c94e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাংলাদেশের সঙ্গে সম্পর্ক আরও জোরদার করতে আগ্রহী জার্মানি - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jUk5VT3NEdlJQR1hhOVFiOU1WRVVIS2N3cUZ0Q0tNa1JmTXF2UjFsRndiUmJBQUFzQVBDemtkcmtudzBqY0Zvbi1KNXV6SHRwZ2Vn?oc=5",
+      "pub": "2026-06-16T16:33:19+00:00",
+      "id": "aa2e1ad06cd09b66"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপে পোশাক রপ্তানির আয় তিন মাসে কমেছে ২০ শতাংশ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haDZxOHhYUURORi1DTWJOdk50Vmc1LUN2RUFZMGRabGh4U194cU9UVmZuRDJ2RXBBOHp5N3phMmpOZDNQc0piTTh1QjAwSXfSAU9BVV95cUxPYWg2cTh4WFFETkYtQ01iTnZOdFZnNS1DdkVBWTBkWmxoeFNfeHFPVFZmbkQydkVwQTh6eTd6YTJqTmQzUHNKYk04dUIwMEl3?oc=5",
+      "pub": "2026-06-16T13:19:00+00:00",
+      "id": "458b3b64166604e3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের বাজারে পোশাক রপ্তানিতে বড় ধস - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoMmY1c2ZMMDdWYkhjcWNLdGc1aUx6WHVheE9WcTJzZWlyZFY1WW8xUzhxd1JVTHp0SFdaVUxnUWxEcVU4eUF4TF9UcHV3d1ZVUGZtbTVaR09JbVZXWHJuLWhEVUt1OGRmbDZCVDZPcVhpZllDS3R6RVh3OA?oc=5",
+      "pub": "2026-06-16T13:10:37+00:00",
+      "id": "0ae0abc209a5090f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাংলাদেশের সঙ্গে সম্পর্ক আরও জোরদার করতে আগ্রহী জার্মানি - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jUk5VT3NEdlJQR1hhOVFiOU1WRVVIS2N3cUZ0Q0tNa1JmTXF2UjFsRndiUmJBQUFzQVBDemtkcmtudzBqY0Zvbi1KNXV6SHRwZ2Vn?oc=5",
+      "pub": "2026-06-16T16:33:19+00:00",
+      "id": "aa2e1ad06cd09b66"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আইডিআরএর প্রথম নারী চেয়ারম্যান মীর নাদিয়া নিভিন - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WZW1PSFMtU282OTZOeGFjZWxUYnVHV0RQV2hiaTVETjZDRUU4VlZjcnNHNWVfSjE0Q3V0MVBVVlJVdU9Ca1F4eUdQVmxZLW1FR19XS2xoeVVVbWpaSmpkd3dDejZGa3AwUUlsUlRYZ3FoOGdZbzFfSjlBUQ?oc=5",
+      "pub": "2026-06-16T15:02:43+00:00",
+      "id": "f15675bd7c7ca7eb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চট্টগ্রামের যাত্রীদের জন্য ফাইট-শাটল বাস চালু করলো জিএমজি এয়ারলাইন্স - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1YkN6cHhESEtNYkZBTENHd09icmpVd0szTm9Wa1FwYmc1S1g0UVY4cmFRaHNDTjVmTGNKdmV3YWFKMXdnVkNuc1dCWldRWUlFTURKaC1PNkZFcWZzdjlDZ0NROW9nQ0RWWnRaZFNydk9yWjU0LWNvMA?oc=5",
+      "pub": "2026-06-16T17:12:27+00:00",
+      "id": "efed3bf05732500b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন মাসে কোটিপতি হিসাব বেড়েছে ২৪৪১টি - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jMGJQMUg4b1cwUHNlaGtfdFRiSEZRWFNESmM0NWs1UUpGQ1BtTFRoZHNiLTcyV0VRY1Bma1hSeGs2bjYzbERyNDZhQlBQQdIBTkFVX3lxTE9jMGJQMUg4b1cwUHNlaGtfdFRiSEZRWFNESmM0NWs1UUpGQ1BtTFRoZHNiLTcyV0VRY1Bma1hSeGs2bjYzbERyNDZhQlBQQQ?oc=5",
+      "pub": "2026-06-16T17:28:00+00:00",
+      "id": "7e1868ef96d08b80"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "অন্তর্ভুক্তিমূলক আর্থিক বাজার বিকাশে সহায়ক হবে অরেঞ্জ বন্ড - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zN3lTVHBIdEpyd2xnd3pmNnMwMWRTVWthSU9GcnB4b29lRnRReXp2TklFWXk1QjlFSXdhbFgzUC1UOWthLV9ta0w5S01oNTRKYk5hYWhPY2wxUGViRGZxc212cUExUVhQTzhyUERrcWR1VDNiUXluT3ZMcw?oc=5",
+      "pub": "2026-06-16T13:50:44+00:00",
+      "id": "fa85f3535f039096"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "নীতির ধারাবাহিকতা ও সুশাসন চান জাপানি বিনিয়োগকারীরা: জেবিসিসিআই - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITEwtaVo3VFotV0FvTWVrMHlFOWx3cDhBREZFU0tKcG9SN1l5bDlLc05BNXV5b3JwZ1pYUXBWeVk0aXRSTHFyWHJEYXpIOG_SAU9BVV95cUxPSExMLWlaN1RaLVdBb01lazB5RTlsd3A4QURGRVNLSnBvUjdZeWw5S3NOQTV1eW9ycGdaWFFwVnlZNGl0UkxxclhyRGF6SDhv?oc=5",
+      "pub": "2026-06-16T14:45:00+00:00",
+      "id": "b904e9e40f3cdc4a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চলছে বাংলা কিউআর-এর প্রচারণা, ১ জুলাই থেকে বাধ্যতামূলক লেনদেন - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xakg1TlBkYWJSV0xMcG4zeDhyZ1NWN2t4OGxjQ3c4S1QwdU16QlRTX1ZxTlZtX0JKUkxyYkY3OHkwcEhGNU1faXFhcWw3Y1h5aWdBSG1qc3RlTFFxdmhFMThzNF93WDNrTldzaTl2bW4xVnpTVkNWSVdmdw?oc=5",
+      "pub": "2026-06-16T12:14:16+00:00",
+      "id": "4f16377a68a65226"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চীনা অর্থনৈতিক অঞ্চলের অবকাঠামো উন্নয়নসহ ৫ প্রকল্প অনুমোদন - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xSlREbUstV2xYVXFLQXpvSkx4ckJTN05kRjdUVnVOSUJoQWh3aVhIbVY4SThzVTZibDgxZ0R1SEpfcnB2aEtNckNSa2lhbWtIUEFNWUNfSHVhTUlpU3dwRjNxZ29MYzh3RjlIU3lQYmlTd0tCZGtpcy1JVQ?oc=5",
+      "pub": "2026-06-16T07:44:56+00:00",
+      "id": "8a6f246eaa3a1401"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ফ্ল্যাটে ১৫ শতাংশ কর প্রত্যাহার চায় রিহ্যাব - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50a043R1NXczdCTWhEem5TaEhsT2hVUUtWZmt5aWVEeVhLRTB2dWdaeDE2RkJYSDJka0RSN2xkVHVPXzEzOTJhV0VCVFp6VkZhZ3c0LVNzZUpfQkZXRlJTVF9ZeW0xenhZQTZ3RU5SenhsVVp3SzdtVlhfcw?oc=5",
+      "pub": "2026-06-16T05:13:17+00:00",
+      "id": "89afa87272427d61"
     }
   ]
 }
