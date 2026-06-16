@@ -1,29 +1,5 @@
 {
   "seen": {
-    "8978944e250db180": "2026-05-17T09:49:11.820639+00:00",
-    "9de92449bc91f972": "2026-05-17T09:49:11.820639+00:00",
-    "b8cf856fb3540c2e": "2026-05-17T09:49:11.820639+00:00",
-    "d3de7bb130e42e72": "2026-05-17T09:49:11.820639+00:00",
-    "a4cf4c9c88711294": "2026-05-17T09:49:11.820639+00:00",
-    "1b3decc2b0584708": "2026-05-17T09:49:11.820639+00:00",
-    "15c65b7cf09fc1b2": "2026-05-17T09:49:11.820639+00:00",
-    "100a00c6be4ea502": "2026-05-17T09:49:11.820639+00:00",
-    "e2d7882015296334": "2026-05-17T09:49:11.820639+00:00",
-    "e247b78c1aab3bb8": "2026-05-17T09:49:11.820639+00:00",
-    "a83b1a3300450b31": "2026-05-17T09:49:11.820639+00:00",
-    "9b04d68da9a65352": "2026-05-17T09:49:11.820639+00:00",
-    "9e00b896e89a9f77": "2026-05-17T09:49:11.820639+00:00",
-    "c0455e172668b089": "2026-05-17T09:49:11.820639+00:00",
-    "a5eab376762af867": "2026-05-17T09:49:11.820639+00:00",
-    "a21aeea674fb08b3": "2026-05-17T09:49:11.820639+00:00",
-    "d2d8fac758036cfb": "2026-05-17T09:49:11.820639+00:00",
-    "c913017eb306cdad": "2026-05-17T09:49:11.820639+00:00",
-    "b9ff583712a80d4d": "2026-05-17T09:49:11.820639+00:00",
-    "50134be2a22c820d": "2026-05-17T09:49:11.820639+00:00",
-    "f300f82a1b43dd24": "2026-05-17T09:49:11.820639+00:00",
-    "f6b82764c716fd57": "2026-05-17T09:49:11.820639+00:00",
-    "9878283c8078b782": "2026-05-17T09:49:11.820639+00:00",
-    "bb6804adb9b12268": "2026-05-17T09:49:11.820639+00:00",
     "951ec04826859a6f": "2026-05-17T14:59:29.647400+00:00",
     "e9c13be5e972ed69": "2026-05-17T14:59:29.647400+00:00",
     "616bea55f429137d": "2026-05-17T14:59:29.647400+00:00",
@@ -2249,7 +2225,173 @@
     "8b214d7694cb73c0": "2026-06-15T14:25:56.656565+00:00",
     "b8d5adf5a2edb669": "2026-06-15T14:25:56.656565+00:00",
     "5eb7da3e7cf15d62": "2026-06-15T14:25:56.656565+00:00",
-    "c4b724bcf81f772a": "2026-06-15T14:25:56.656565+00:00"
+    "c4b724bcf81f772a": "2026-06-15T14:25:56.656565+00:00",
+    "8c2cc9b0039447e4": "2026-06-16T12:56:47.918704+00:00",
+    "5e53d35b99fdcb31": "2026-06-16T12:56:47.918704+00:00",
+    "c4fb11b3342bb46b": "2026-06-16T12:56:47.918704+00:00",
+    "b050a86ea1b4d1d1": "2026-06-16T12:56:47.918704+00:00",
+    "fd5240e8b9a564ff": "2026-06-16T12:56:47.918704+00:00",
+    "aff147e99190b9bf": "2026-06-16T12:56:47.918704+00:00",
+    "75f95db7583a1c4e": "2026-06-16T12:56:47.918704+00:00",
+    "eff7a6f56cc775ad": "2026-06-16T12:56:47.918704+00:00",
+    "cb41f850f2f97595": "2026-06-16T12:56:47.918704+00:00",
+    "68b3df7fd5eb25ff": "2026-06-16T12:56:47.918704+00:00",
+    "18abb445785f9855": "2026-06-16T12:56:47.918704+00:00",
+    "961dc82f8f47b4df": "2026-06-16T12:56:47.918704+00:00",
+    "2a995a442a062d77": "2026-06-16T12:56:47.918704+00:00",
+    "540d75b872251e85": "2026-06-16T12:56:47.918704+00:00",
+    "cc6e6eb28ad21f74": "2026-06-16T12:56:47.918704+00:00",
+    "d7c5bd406127be87": "2026-06-16T12:56:47.918704+00:00",
+    "f41acca8ab93a98d": "2026-06-16T12:56:47.918704+00:00",
+    "18ab503a5d096d96": "2026-06-16T12:56:47.918704+00:00",
+    "bc520d42eb678de9": "2026-06-16T12:56:47.918704+00:00",
+    "411da7f68690f884": "2026-06-16T12:56:47.918704+00:00",
+    "9f2aa21c49edc285": "2026-06-16T12:56:47.918704+00:00",
+    "7915b794783924ad": "2026-06-16T12:56:47.918704+00:00",
+    "2fcbe8704dc3a640": "2026-06-16T12:56:47.918704+00:00",
+    "23714c5602c886bf": "2026-06-16T12:56:47.918704+00:00",
+    "73a35280d3f3b997": "2026-06-16T12:56:47.918704+00:00",
+    "caaedf4c278a2b86": "2026-06-16T12:56:47.918704+00:00",
+    "e8167b2c2ef9dcae": "2026-06-16T12:56:47.918704+00:00",
+    "fea882e56152ac58": "2026-06-16T12:56:47.918704+00:00",
+    "ff995d345d723351": "2026-06-16T12:56:47.918704+00:00",
+    "060e5fee1622b6a0": "2026-06-16T12:56:47.918704+00:00",
+    "886e706f2d9e8b76": "2026-06-16T12:56:47.918704+00:00",
+    "a7e30d212bec0bf4": "2026-06-16T12:56:47.918704+00:00",
+    "de3188080bb8585c": "2026-06-16T12:56:47.918704+00:00",
+    "acb803474f0ec39f": "2026-06-16T12:56:47.918704+00:00",
+    "7cbd67f132457db7": "2026-06-16T12:56:47.918704+00:00",
+    "619c6cde62fe9619": "2026-06-16T12:56:47.918704+00:00",
+    "d92d90091ec214d7": "2026-06-16T12:56:47.918704+00:00",
+    "eb5215e8a961eb1d": "2026-06-16T12:56:47.918704+00:00",
+    "d9245c8186da149c": "2026-06-16T12:56:47.918704+00:00",
+    "b32eaf87db588a55": "2026-06-16T12:56:47.918704+00:00",
+    "b164a661521697bc": "2026-06-16T12:56:47.918704+00:00",
+    "3736cd5c13a0f9d4": "2026-06-16T12:56:47.918704+00:00",
+    "7c59050bb20ead2d": "2026-06-16T12:56:47.918704+00:00",
+    "e8bb6a5135e5db36": "2026-06-16T12:56:47.918704+00:00",
+    "758fd1abde2cb1d0": "2026-06-16T12:56:47.918704+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Morocco eyes $1.9 billion textile recycling opportunity - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnJ3akJiWDduM3FDV0ZEZnRURnhHaWE5VFFLRE5GVHRFVmNIa3lWanhtdDU4djh2RURVRS0wUjEyVnZFOEg1ZHVMd2w2OGNFdzNScWJIVUo3R05yT0dKNHVaSWoxb2h2NWdZV2ZQaXcybnBpVHhxV0lwWTZkNUFabVNoczdXdXBpR3E4dld3?oc=5",
+      "pub": "2026-06-16T07:52:30+00:00",
+      "id": "a7e30d212bec0bf4"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Materials, manufacturing industries seen as pillars of economic ambitions - vietnamnews.vn",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakxNR3BObDBtUlZLdmRQQWlXVVpDVWxBNmYxa0VSN1pOa0tyTU1COGthTmlUa3p5X2pqMmhCRkVzOGpYTmJwMks3YXBwNWE4Y0hZZFVoZ2tYUExjcVZuQk5lRUZmLWtvdkh3RnpfUzhlZDZiQ3lJdE9ieVBXR0c0S3duQS1GVldSTGV6NDVFcXByVzRMUFdrZVhwOVlFVFlLMnVaTkh0d0ZXaFlERzJsTjJsRXZmMTA?oc=5",
+      "pub": "2026-06-15T23:19:00+00:00",
+      "id": "de3188080bb8585c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Inclusive Sizing Adaptive Fashion and Body Politics: Complete History - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0puT0ZUTUNGU21lNno4T0MtQkJieU1kQ1kybzZIdlVFdldEQ0Jla0d2NGQ2akVzZXpPRTZrdkNyaHhCa0JnQ3cwOU5MUWRQUUNOQ0hjZW1sTE5TTnZtNmhfVXJ0RERWRGJ6d2g0MDJJYzNYclJXQWF2ekZUSnJYSVJ4R3pZOGtvRlFiTEV0dldVNVpVS0JFeEp5TElQTmNuWmcwY3Azel9sOEtR?oc=5",
+      "pub": "2026-06-16T09:27:36+00:00",
+      "id": "acb803474f0ec39f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "| EU ban turns unsold fashion stock into auditable business risk in 2026 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFo5MUJoX2pDNmgxYzRXdXA5MnZjYlZKTmVYWEg0cklaRXoyZUlxNGlNS0steElSZkZoeDVEcG1NR3pGQTZKT0dYOWlkaDlaOWx6YUsydjdCbDdmZE1JLXF5MGtxaXpuVHFVWUJidHREYVJMRUYyZzR0ODVvYjliLWs0cEpFa3ZsTW1KaUNudER2T040QlNhQ29fcVBGNVRZTEhIdFhHdnRsdnRwRV9aTWsxYkttWk5ITFRteGtWaVRJMVJ0R0ZUQ0Z0VzFjNFJ2NWdSWmtOTzg?oc=5",
+      "pub": "2026-06-16T11:14:13+00:00",
+      "id": "7cbd67f132457db7"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "| EU ban turns unsold fashion stock into auditable business risk in 2026 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFo5MUJoX2pDNmgxYzRXdXA5MnZjYlZKTmVYWEg0cklaRXoyZUlxNGlNS0steElSZkZoeDVEcG1NR3pGQTZKT0dYOWlkaDlaOWx6YUsydjdCbDdmZE1JLXF5MGtxaXpuVHFVWUJidHREYVJMRUYyZzR0ODVvYjliLWs0cEpFa3ZsTW1KaUNudER2T040QlNhQ29fcVBGNVRZTEhIdFhHdnRsdnRwRV9aTWsxYkttWk5ITFRteGtWaVRJMVJ0R0ZUQ0Z0VzFjNFJ2NWdSWmtOTzg?oc=5",
+      "pub": "2026-06-16T11:14:13+00:00",
+      "id": "7cbd67f132457db7"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "More from BAFTAs 2018",
+      "link": "https://www.reddit.com/r/TheGemmaArterton/comments/1u7ar4d/more_from_baftas_2018/",
+      "pub": "2026-06-16T11:23:46+00:00",
+      "id": "619c6cde62fe9619"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "New quantum fuel balance in 4.9 Evocati - from Chinese SC community",
+      "link": "https://www.reddit.com/r/starcitizen/comments/1u7adxr/new_quantum_fuel_balance_in_49_evocati_from/",
+      "pub": "2026-06-16T11:04:39+00:00",
+      "id": "d92d90091ec214d7"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "[Academic] 5-minute survey on slow fashion, transparency, and a new brand concept (everyone welcome)",
+      "link": "https://www.reddit.com/r/takemysurvey/comments/1u6wnct/academic_5minute_survey_on_slow_fashion/",
+      "pub": "2026-06-15T23:14:08+00:00",
+      "id": "eb5215e8a961eb1d"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Kouts tornado preliminary rated Ef-3",
+      "link": "https://www.reddit.com/r/tornado/comments/1u6r1v6/kouts_tornado_preliminary_rated_ef3/",
+      "pub": "2026-06-15T19:41:53+00:00",
+      "id": "d9245c8186da149c"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Stock Market Scanner: $RKLB Leads Market Hours - 12:00 PM ET | Jun 15",
+      "link": "https://www.reddit.com/r/TheDesperateTrader/comments/1u6kphd/stock_market_scanner_rklb_leads_market_hours_1200/",
+      "pub": "2026-06-15T16:00:08+00:00",
+      "id": "b32eaf87db588a55"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Re🏠 New Lor0 Pi@n@ T-shirts",
+      "link": "https://www.reddit.com/r/REPTOPREHOMES/comments/1u6ih3p/re_new_lor0_pin_tshirts/",
+      "pub": "2026-06-15T14:38:39+00:00",
+      "id": "b164a661521697bc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Germany eager to deepen ties with Bangladesh - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55X25peU1uLWhJb0dLOXRZaVBuMGtXX2Rxb0xRYUo2U2Itb3RwQVFPQno2SGZBc0pWNWxCdUpxLW5ZWHMtOGYtX1JkSQ?oc=5",
+      "pub": "2026-06-16T10:55:20+00:00",
+      "id": "3736cd5c13a0f9d4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Exporters Stake Hopes On a Fresh Resurrection Plan for Beximco and Bangladesh's New Budget - WWD",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdjJlRUo0XzZ2WVhRMkd2R1N6TVFtZnd1UWtCMEJYSVE1cHh1SzVjOFhaWV9aa0tGdXNxZE83bzd3ZGYxVlNGOEpuUTNqXzBLODR3SUUyTzl2c0M1cTZhZHYzRWdWbzJYZXZNN19iQlc1aXpqcmFNeE5TZVJ3SkZLd0ZmZl84bW1ONkFPTFE0RnRsS0JjeDBLb1hNanNlWkNSSEtMTVZ1UHVaSDU0ZExNV0tCeU5oY09KRHE4bmVKRGNQa0FDZmVv?oc=5",
+      "pub": "2026-06-15T20:23:24+00:00",
+      "id": "7c59050bb20ead2d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ ইউক্রেন ও মলদোভার সঙ্গে তার প্রথম আলোচনা দল গঠন করেছে। - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTl5VFAwQVdXcHdXb0FWNlJMb1phVE5NVlN3dU1iS19VS2tiSkhWWHJOZmFWd0Z6ODNFNE9JV2NpMU9KeC1uZnJVT2RlZ0NkWFdaLXdhN05vdDhoU0VzcUsxT1BueWlabzA0ano4WE10ek1HS0FKWm0tRThFVEhWVkwwWQ?oc=5",
+      "pub": "2026-06-16T05:34:06+00:00",
+      "id": "e8bb6a5135e5db36"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "টেকসই প্লাস্টিক ও প্যাকেজিং: উচ্চমূল্যের রপ্তানিতে বাংলাদেশের নতুন সম্ভাবনা - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeExyR2FGbm5zRzRYRDBCM1h1ZjlGcmlHalhWWnNjUlN3dzhxb0d5eFdFMTFTT3NtSlpXVHlrazhpNVg1bGR1b3oyYkhXZTNzdGpva0gwSQ?oc=5",
+      "pub": "2026-06-16T12:00:23+00:00",
+      "id": "758fd1abde2cb1d0"
+    }
+  ]
 }
