@@ -1,32 +1,5 @@
 {
   "seen": {
-    "c5dfd8e748533b17": "2026-05-20T06:11:50.123557+00:00",
-    "f55afc71a83c798d": "2026-05-20T06:11:50.123557+00:00",
-    "12c3ddc3300f561d": "2026-05-20T06:11:50.123557+00:00",
-    "45ea1262b8cdc8e4": "2026-05-20T06:11:50.123557+00:00",
-    "f2ba8d847eff95f9": "2026-05-20T06:11:50.123557+00:00",
-    "2af7a2aea6ea076a": "2026-05-20T06:11:50.123557+00:00",
-    "16ec135caba47b22": "2026-05-20T06:11:50.123557+00:00",
-    "1f175423277725fb": "2026-05-20T06:11:50.123557+00:00",
-    "8460f581dc4aac47": "2026-05-20T06:11:50.123557+00:00",
-    "693b48a9ccf606e9": "2026-05-20T06:11:50.123557+00:00",
-    "c69d785e11dc17fb": "2026-05-20T06:11:50.123557+00:00",
-    "9c488ed976c577ad": "2026-05-20T06:11:50.123557+00:00",
-    "4c430089ca2ce70b": "2026-05-20T06:11:50.123557+00:00",
-    "2ee50270a9f72db5": "2026-05-20T06:11:50.123557+00:00",
-    "7ab03fcbc073a1b7": "2026-05-20T06:11:50.123557+00:00",
-    "97094362e3ba7ca8": "2026-05-20T06:11:50.123557+00:00",
-    "c3e920e5c5e05d50": "2026-05-20T06:11:50.123557+00:00",
-    "16248e782b4201b6": "2026-05-20T06:11:50.123557+00:00",
-    "5c8c7309edcc408b": "2026-05-20T06:11:50.123557+00:00",
-    "572b1064e5baec5b": "2026-05-20T06:11:50.123557+00:00",
-    "b5afcaae62cab1c2": "2026-05-20T06:11:50.123557+00:00",
-    "fc441d297f1ea7c3": "2026-05-20T06:11:50.123557+00:00",
-    "8976ca15c45a8009": "2026-05-20T06:11:50.123557+00:00",
-    "05d11f6d30590de7": "2026-05-20T06:11:50.123557+00:00",
-    "91e3648cef875a10": "2026-05-20T06:11:50.123557+00:00",
-    "38b9ff624d88cc0a": "2026-05-20T06:11:50.123557+00:00",
-    "121db50c25e30768": "2026-05-20T06:11:50.123557+00:00",
     "05f745769c70c178": "2026-05-20T10:54:06.064620+00:00",
     "cd6f0c3db6097e64": "2026-05-20T10:54:06.064620+00:00",
     "102a2368b1c800b4": "2026-05-20T10:54:06.064620+00:00",
@@ -2300,7 +2273,34 @@
     "f56836c192900f68": "2026-06-18T16:58:07.070985+00:00",
     "c75845b91b62c348": "2026-06-18T16:58:07.070985+00:00",
     "548e11564dd8f8aa": "2026-06-18T16:58:07.070985+00:00",
-    "eb92fe5988e6a011": "2026-06-18T16:58:07.070985+00:00"
+    "eb92fe5988e6a011": "2026-06-18T16:58:07.070985+00:00",
+    "fbe846ff56e3a327": "2026-06-19T07:10:34.361755+00:00",
+    "75573d304ad51a7e": "2026-06-19T07:10:34.361755+00:00",
+    "fe5953a858b5b622": "2026-06-19T07:10:34.361755+00:00",
+    "3f93081ddd618ec3": "2026-06-19T07:10:34.361755+00:00",
+    "3c608772a708a4f8": "2026-06-19T07:10:34.361755+00:00",
+    "8a9175633771bc99": "2026-06-19T07:10:34.361755+00:00",
+    "38bc3c9433471fdd": "2026-06-19T07:10:34.361755+00:00",
+    "c856ab22ffa52cbe": "2026-06-19T07:10:34.361755+00:00",
+    "06f1740181338ab9": "2026-06-19T07:10:34.361755+00:00",
+    "ce5c0b8b0f90d08a": "2026-06-19T07:10:34.361755+00:00",
+    "c69141092428d1f4": "2026-06-19T07:10:34.361755+00:00",
+    "7fa84fddfebebb2a": "2026-06-19T07:10:34.361755+00:00",
+    "82de14bedda83df8": "2026-06-19T07:10:34.361755+00:00",
+    "25bddf26055fa629": "2026-06-19T07:10:34.361755+00:00",
+    "3f1c4c2814963af8": "2026-06-19T07:10:34.361755+00:00",
+    "6b72bbbf439c6ba0": "2026-06-19T07:10:34.361755+00:00",
+    "f220e22d4c482bc6": "2026-06-19T07:10:34.361755+00:00",
+    "b6382fca440a1101": "2026-06-19T07:10:34.361755+00:00",
+    "d70b54f3dc943169": "2026-06-19T07:10:34.361755+00:00",
+    "120548d7aa149747": "2026-06-19T07:10:34.361755+00:00",
+    "b4319c244e5b8f30": "2026-06-19T07:10:34.361755+00:00",
+    "6cd7ce543d316fc0": "2026-06-19T07:10:34.361755+00:00",
+    "07d79324a9d36034": "2026-06-19T07:10:34.361755+00:00",
+    "9d02a903ec1daebe": "2026-06-19T07:10:34.361755+00:00",
+    "79bd6f9573b70475": "2026-06-19T07:10:34.361755+00:00",
+    "0ecbc049e3be83e1": "2026-06-19T07:10:34.361755+00:00",
+    "df4fab8efdccb0fb": "2026-06-19T07:10:34.361755+00:00"
   },
   "yesterday_items": [
     {
@@ -2622,6 +2622,62 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWUhCSENjSnQwZGU3S1ZGcENlaDlXY1NyWUg3NnRjeHpIbkFKUGc2WTJvblVtaVBwdGVWS2hodXJCWVdXSDFOeVpENl90TVVBeHNnN3pLcS1fWlY0Z0dKM29YQVZWTldQMVhYNGVhUWN5R3FG0gF0QVVfeXFMTUZZSEJIQ2NKdDBkZTdLVkZwQ2VoOVdjU3JZSDc2dGN4ekhuQUpQZzZZMm9uVW1pUHB0ZVZLaGh1ckJZV1dIMU55WkQ2X3RNVUF4c2c3ektxLV9aVjRnR0ozb1hBVlZOV1AxWFg0ZWFRY3lHcUY?oc=5",
       "pub": "2026-06-18T12:16:00+00:00",
       "id": "eb92fe5988e6a011"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "The future of Bangladesh-Germany partnership lies in sustainability and innovation - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1JDVGVnVjhWdDNOV2Z4eVZabV8tcFprQU4td0RXZVYyZjkxRV9NV0JkdlB1Q0xFbDE1YTdVM000dTBFcTV4RklvX1gwMmI0V1IwdU1zenFDR3AtSlNPc0N0Wlo4WTFpRXBPT01fZTFONkYzelZZTldJVUJRb0JqVmZqRFBkMVFTUUdnR0lPUHNWekhGbzZTR041ZEJsS1dzWVVXbndfbGFqTXp0eFNjWFRiS3Q?oc=5",
+      "pub": "2026-06-19T06:33:45+00:00",
+      "id": "07d79324a9d36034"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Intex Bangladesh 2026 opens at ICCB, draws global textile stakeholders - daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNGo2TGhHd1dNa3dYR3dRdnlEcmhyWVlzNVllZ3ZETGVmb1RmN2lNM09YQkl5aXBWcnNNMER1RWVPcVZjZEdiUXlWakh2dW1nVXQ4?oc=5",
+      "pub": "2026-06-18T18:00:00+00:00",
+      "id": "9d02a903ec1daebe"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Romania records highest EU inflation; Euro area rate climbs to 3.2% - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeV9xc0N3ck1YbklveENETG1SeDVtNDVRZU5WS2dYcTNFU2hud0dxM3Bqc0J0ekpyMElZdktkTk9GdEFIUUVkbzRNNGNzTUt1ZmNtdDVLbHFPbk1Sa0Y2V3M3Y29BTTQ4MTN0NVY2WG1MdFZHcUdNXzNsNVFjNEVFOU5YMDRhRTRSQWEzS2JiRFJGRTR2U2t6QVNjOVRPLUdOWkV5NHJwbV8zUVhITzQ4dFhGWUV1cFhsVGxYYnVJS3NyTUtwckVsZXYyNmZQa0VrTy1Z?oc=5",
+      "pub": "2026-06-19T06:07:36+00:00",
+      "id": "79bd6f9573b70475"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "দক্ষিণ কোরিয়াকে হারিয়ে দ্বিতীয় রাউন্ডে স্বাগতিক মেক্সিকো - AmaderShomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUHhBazMxNWlnZEVySzJTWkp2RmJKemQzOGs3NDVHMFJtV1JPZ3VTeF9FTkFiYVV0VmlVS0RpNVBZeEZjRTNGTWdMVzhZbVFsMFowVGlIRGxvaUZmdDJJWFNKNUE2dTIxUnNpb2ZOdmxpMXNvWEFpNXF3RUVnbzN6TkcxaUNJRmF2aVVBMkRPNXF3TFhNTzBUZ2xkTVdaUHBsQWZMdGtRTVdLaU96djlaakdTZmZ4MXdKcjFST0UxQzhXQ0J3WDhOVXd3bkR3QVY0WXM0RUYtQng3UWhjSmRmQjNieG5Tc1NRdk9SalVkQzdTelVBa2gtYlBQYUdEbmNhSkRxZmVNdHRKTE1ERzAwVlNUV1FrMjdadnBxemNpVExPTU1LZFJkQ1lMVF9kcFNTdTk5aHEtckIxem5vZ0ZrXzk3SFVIM2RiaFF1MW1jMEdwSTNDSGxvdTZ4eWJZM1FT?oc=5",
+      "pub": "2026-06-19T03:33:00+00:00",
+      "id": "0ecbc049e3be83e1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "মাইক্রোওভেন প্রসঙ্গ, সংসদে বিরোধী দলীয় নেতা ও আন্দালিব রহমান পার্থের মধ্যে বির্তক - AmaderShomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOSEJkNVRUWlB2VDdqTjJvdlowOFZDQlZYZlV3dkZXaHp5WWNjQlhid3dKZWttamhGR1lTYktkUFJDV1RwTG5haTNDWVY0WjloaTlMcTVSTl9uek5Jck9kN0NKdzNkSUhBWlp6VkxkaTJDU09Jam92TzNwcjhGS29aQnB3endSalZwSnBLUUFJd1UyaElEeERySFk1SXhDMzQzejlPbHZaYUtnd1NNenVKVEFaR2FyQTZURTJobUxreU5rdmtXT3oxa0xfQWJxS2dXSWpoNmFDcEthM055ZmJpVTNZRkNvR1M5X29xbDRoRW1MdWZ6OGtXMWl0ZThKVWJWUTlHUWMzcUZTdjZISk8zekRXcFV4YXdXdlVsVW0wbzBERFlyN0IwczZmTlhGWnRSRE9sUG56WnpwTExqVGM5dTMzeUI2YUozSm5tRXJjcnpWa1BXcEtzanNhRldKdjJHTVE?oc=5",
+      "pub": "2026-06-18T19:46:53+00:00",
+      "id": "df4fab8efdccb0fb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "দক্ষিণ কোরিয়াকে হারিয়ে দ্বিতীয় রাউন্ডে স্বাগতিক মেক্সিকো - AmaderShomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUHhBazMxNWlnZEVySzJTWkp2RmJKemQzOGs3NDVHMFJtV1JPZ3VTeF9FTkFiYVV0VmlVS0RpNVBZeEZjRTNGTWdMVzhZbVFsMFowVGlIRGxvaUZmdDJJWFNKNUE2dTIxUnNpb2ZOdmxpMXNvWEFpNXF3RUVnbzN6TkcxaUNJRmF2aVVBMkRPNXF3TFhNTzBUZ2xkTVdaUHBsQWZMdGtRTVdLaU96djlaakdTZmZ4MXdKcjFST0UxQzhXQ0J3WDhOVXd3bkR3QVY0WXM0RUYtQng3UWhjSmRmQjNieG5Tc1NRdk9SalVkQzdTelVBa2gtYlBQYUdEbmNhSkRxZmVNdHRKTE1ERzAwVlNUV1FrMjdadnBxemNpVExPTU1LZFJkQ1lMVF9kcFNTdTk5aHEtckIxem5vZ0ZrXzk3SFVIM2RiaFF1MW1jMEdwSTNDSGxvdTZ4eWJZM1FT?oc=5",
+      "pub": "2026-06-19T03:33:00+00:00",
+      "id": "0ecbc049e3be83e1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মাইক্রোওভেন প্রসঙ্গ, সংসদে বিরোধী দলীয় নেতা ও আন্দালিব রহমান পার্থের মধ্যে বির্তক - AmaderShomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOSEJkNVRUWlB2VDdqTjJvdlowOFZDQlZYZlV3dkZXaHp5WWNjQlhid3dKZWttamhGR1lTYktkUFJDV1RwTG5haTNDWVY0WjloaTlMcTVSTl9uek5Jck9kN0NKdzNkSUhBWlp6VkxkaTJDU09Jam92TzNwcjhGS29aQnB3endSalZwSnBLUUFJd1UyaElEeERySFk1SXhDMzQzejlPbHZaYUtnd1NNenVKVEFaR2FyQTZURTJobUxreU5rdmtXT3oxa0xfQWJxS2dXSWpoNmFDcEthM055ZmJpVTNZRkNvR1M5X29xbDRoRW1MdWZ6OGtXMWl0ZThKVWJWUTlHUWMzcUZTdjZISk8zekRXcFV4YXdXdlVsVW0wbzBERFlyN0IwczZmTlhGWnRSRE9sUG56WnpwTExqVGM5dTMzeUI2YUozSm5tRXJjcnpWa1BXcEtzanNhRldKdjJHTVE?oc=5",
+      "pub": "2026-06-18T19:46:53+00:00",
+      "id": "df4fab8efdccb0fb"
     }
   ]
 }
