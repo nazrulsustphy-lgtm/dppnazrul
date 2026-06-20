@@ -1,49 +1,5 @@
 {
   "seen": {
-    "bcadc6c453da8deb": "2026-05-21T11:29:17.571761+00:00",
-    "12f06ab339d71914": "2026-05-21T11:29:17.571761+00:00",
-    "76709ff868519e6d": "2026-05-21T11:29:17.571761+00:00",
-    "cb395b35af219c33": "2026-05-21T11:29:17.571761+00:00",
-    "7bd87479a7ca75fd": "2026-05-21T11:29:17.571761+00:00",
-    "7c0f3e81ccc0f8ab": "2026-05-21T11:29:17.571761+00:00",
-    "eb8dc7429c1554fe": "2026-05-21T11:29:17.571761+00:00",
-    "c8607f3f0bc08a79": "2026-05-21T11:29:17.571761+00:00",
-    "b83f8ef00d5b06e9": "2026-05-21T11:29:17.571761+00:00",
-    "996e29488dae0671": "2026-05-21T11:29:17.571761+00:00",
-    "7dbcaf9690a98d66": "2026-05-21T11:29:17.571761+00:00",
-    "1fc0e848070f5dfc": "2026-05-21T11:29:17.571761+00:00",
-    "0d78f1535de338f1": "2026-05-21T11:29:17.571761+00:00",
-    "00e944d21fdb56f4": "2026-05-21T11:29:17.571761+00:00",
-    "e4155e228638f29d": "2026-05-21T11:29:17.571761+00:00",
-    "493cb25833800375": "2026-05-21T11:29:17.571761+00:00",
-    "6920ea7a69894d1b": "2026-05-21T11:29:17.571761+00:00",
-    "7efac1da36566a47": "2026-05-21T11:29:17.571761+00:00",
-    "87a9b862bf14408b": "2026-05-21T11:29:17.571761+00:00",
-    "689dfdfeb69f97da": "2026-05-21T11:29:17.571761+00:00",
-    "5c6802aad9cad790": "2026-05-21T11:29:17.571761+00:00",
-    "3615ec688db67848": "2026-05-21T11:29:17.571761+00:00",
-    "fc132cbc0879c679": "2026-05-21T11:29:17.571761+00:00",
-    "a9916c7000906314": "2026-05-21T11:29:17.571761+00:00",
-    "77965e2777c9b5a9": "2026-05-21T11:29:17.571761+00:00",
-    "a7ae63305cacc4b0": "2026-05-21T11:29:17.571761+00:00",
-    "ef6ced724941c854": "2026-05-21T11:29:17.571761+00:00",
-    "f4bca31cd250a3e2": "2026-05-21T11:29:17.571761+00:00",
-    "b7da33159c4a94f4": "2026-05-21T11:29:17.571761+00:00",
-    "66bfe41b0f3505b2": "2026-05-21T11:29:17.571761+00:00",
-    "278bbe20d5ac81ad": "2026-05-21T11:29:17.571761+00:00",
-    "7748bcc6a0d102f7": "2026-05-21T11:29:17.571761+00:00",
-    "c65ea36991c670a6": "2026-05-21T11:29:17.571761+00:00",
-    "23ee5793df38be90": "2026-05-21T11:29:17.571761+00:00",
-    "dd9296dadcda1485": "2026-05-21T11:29:17.571761+00:00",
-    "f50988daeed484d5": "2026-05-21T11:29:17.571761+00:00",
-    "66c0858c36177761": "2026-05-21T11:29:17.571761+00:00",
-    "5cf4fdc43339d67d": "2026-05-21T11:29:17.571761+00:00",
-    "0d58b7a9291131b6": "2026-05-21T11:29:17.571761+00:00",
-    "f16e5fdfe71bc13d": "2026-05-21T11:29:17.571761+00:00",
-    "265c60a719f00a9e": "2026-05-21T11:29:17.571761+00:00",
-    "c6d0f8fa0069be57": "2026-05-21T11:29:17.571761+00:00",
-    "5b1a7158e8ce38f0": "2026-05-21T11:29:17.571761+00:00",
-    "14c942af22518c23": "2026-05-21T11:29:17.571761+00:00",
     "583fe5907c39ffb2": "2026-05-21T16:40:06.730989+00:00",
     "345e5edd74c79a84": "2026-05-21T16:40:06.730989+00:00",
     "e972277557d00f94": "2026-05-21T16:40:06.730989+00:00",
@@ -2353,65 +2309,43 @@
     "529759db8fcf71ce": "2026-06-20T10:34:57.066683+00:00",
     "bf403cd910290aa0": "2026-06-20T10:34:57.066683+00:00",
     "6c1ef6754b0ef463": "2026-06-20T10:34:57.066683+00:00",
-    "50ca747221cebd4c": "2026-06-20T10:34:57.066683+00:00"
+    "50ca747221cebd4c": "2026-06-20T10:34:57.066683+00:00",
+    "b3aaad799654750b": "2026-06-20T15:46:22.692058+00:00",
+    "a4cc73a9bbee6bb9": "2026-06-20T15:46:22.692058+00:00",
+    "7e678ad979b9163a": "2026-06-20T15:46:22.692058+00:00",
+    "0f4290e787e2f820": "2026-06-20T15:46:22.692058+00:00",
+    "029fa1e7fa393071": "2026-06-20T15:46:22.692058+00:00",
+    "867cacd65c4322a3": "2026-06-20T15:46:22.692058+00:00",
+    "5892435b97582236": "2026-06-20T15:46:22.692058+00:00",
+    "5c8cdc148d4e62ba": "2026-06-20T15:46:22.692058+00:00",
+    "b398ce7b30d2a22e": "2026-06-20T15:46:22.692058+00:00",
+    "51b4ab971de1cc72": "2026-06-20T15:46:22.692058+00:00",
+    "35d5ea1252b06c45": "2026-06-20T15:46:22.692058+00:00",
+    "7fefacb49d1643ae": "2026-06-20T15:46:22.692058+00:00",
+    "fb95efc26cce0e20": "2026-06-20T15:46:22.692058+00:00",
+    "f9412b0fc3d00b98": "2026-06-20T15:46:22.692058+00:00",
+    "914f207f54c5de86": "2026-06-20T15:46:22.692058+00:00",
+    "886f44565ba142c8": "2026-06-20T15:46:22.692058+00:00",
+    "18e8313979c3c0d2": "2026-06-20T15:46:22.692058+00:00",
+    "7a2326cbf071cc43": "2026-06-20T15:46:22.692058+00:00",
+    "f98bc7034611bfb5": "2026-06-20T15:46:22.692058+00:00",
+    "bb253ba065a75068": "2026-06-20T15:46:22.692058+00:00",
+    "4eb2f65f595b7175": "2026-06-20T15:46:22.692058+00:00",
+    "0401eab342061c5e": "2026-06-20T15:46:22.692058+00:00",
+    "f2eb193daf120b50": "2026-06-20T15:46:22.692058+00:00",
+    "bcc1842e3e2d19d5": "2026-06-20T15:46:22.692058+00:00",
+    "6f1397dff3df3bdd": "2026-06-20T15:46:22.692058+00:00",
+    "31d055efeaef3565": "2026-06-20T15:46:22.692058+00:00",
+    "9a2ae6facc3581e9": "2026-06-20T15:46:22.692058+00:00",
+    "434b99c1ed617c88": "2026-06-20T15:46:22.692058+00:00",
+    "2e29b924a440d2ba": "2026-06-20T15:46:22.692058+00:00",
+    "4a42355294c49ffb": "2026-06-20T15:46:22.692058+00:00",
+    "46aef2dea5561bed": "2026-06-20T15:46:22.692058+00:00",
+    "021d9fb3be511bb5": "2026-06-20T15:46:22.692058+00:00",
+    "658720d25f38f6bb": "2026-06-20T15:46:22.692058+00:00",
+    "9b48ee46016d7396": "2026-06-20T15:46:22.692058+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Nesterra Launches New Collection, a Celebration of Grandeur, Craft and Timeless Luxury - PNN Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ19yaE14SG9mbm5vWUpzaHZHdW5rNFZwUDc1RUJHaTBKRVUtZmJHczFBUEZSTkZPb1JfZDBsRjg1LXhwVXVKaThtRnltRnA2UXZwdHpJRzU2TFVMUmR4dC1ScE4wMWJ3SnVzSzdlcTZseF83WXdjVk1QQk00WEZHVWI3RzZXazdSZ3ZXLUs4bmdHSDZGY3NwbHkwbU54SWt3WU1QRHNtZ1BnamhKcjR5UXBRT0tvV3pa?oc=5",
-      "pub": "2026-06-18T11:49:02+00:00",
-      "id": "0eb4a07c93df3d5b"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: EU textile strategy",
-      "title": "Polyethylene Terephthalate (PET) Fibre (Polyester) Market Forecast Points Higher Toward 2035, Driven by Sustainability Mandates and Textile Demand - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRXlReWhON3JqNGQxRTIzLW96VVlESXhmVzVMdTAwWEFLeUg0Zy1fQ3VwOFROT05venI4WDhZSnFUWkRXWVpfbVYzcnBCaWxMQ3hiYVNRWkZJOWRuN3JUQzlNSzQ1eVZPNGlQUU5BbWhIRmpFNUlPSzhhd08tNUhvZXczbXVGMHhsOW1KOWMyN3RQNTFXb0xlV0IzeW41SEFOSHc4RGNUaXRPbmFSOXBiQWJoQks1REJ5Z0Q4anBsQTdPLXRVcC1sOU1GVWhyWlNDUWVlUjZ5QkUyTmR3QTM2dHVoOTBwQ3BTNGlGNzB0Y2FhNmRyV1N2aTh0NmlPekxW?oc=5",
-      "pub": "2026-06-18T10:41:19+00:00",
-      "id": "70c3d7eb305263fa"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "What India Can Learn from the World’s Export Champions - Vivekananda International Foundation",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWm1VVW9aTkY1YjdlS2dld1IwMkZMcGJtcTFIMmc4c3NyS2lqTWQtdkMxdVBSZW13VXZqbHBSMUI3T0FEYlNmSjdLTXB2X1lic0RJUElXMXR2MXJtTF9HcU9KRTYyYlFucVVTMXpyUG9YOG9BS2NvMnNWb09NQXBPOVFoQzJOOXZrV2d0R0pSWXE4ajFZ?oc=5",
-      "pub": "2026-06-18T10:46:12+00:00",
-      "id": "9d0760e3733ac30b"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Nesterra unveils new collection blending grandeur, craftsmanship and timeless luxury - TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVklwMXR5SWZJVzFYb2ljYjZWNmpwYW90WEF4RUVBMHAxSXplSGVQenFrOHNYSldXQjNVNjY1NzdOWVBVay14MWhfVkgyTUQxTTM2NlVOZVhZMFRqUEQ2TGxLNEFNOUlUMW4taEVWTlJTRVRsY0U0bTRFeWFNdHFTbDRjeUFKYS1jUTJpSkI1c0xyQUVPSEphcEV3Sy0xbWtybTM0Mkxta3ltMlh6bGM0SEpPclFIcHBRMGZNaFY0ZHc5RllH0gHEAUFVX3lxTE5WSXAxdHlJZklXMVhvaWNiNlY2anBhb3RYQXhFRUEwcDFJemVIZVB6cWs4c1hKV1dCM1U2NjU3N05ZUFVrLXgxaF9WSDJNRDFNMzY2VU5lWFkwVGpQRDZMbEs0QU05SVQxbi1oRVZOUlNFVGxjRTRtNEV5YU10cVNsNGN5QUphLWNRMmlKQjVzTHJBRU9ISmFwRXdLLTFta3JtMzQyTG1reW0yWHpsYzRISk9yUUhwcFEwZk1oVjRkdzlGWUc?oc=5",
-      "pub": "2026-06-18T11:54:18+00:00",
-      "id": "8c26f64b500f8844"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "লিজ নেওয়া জাহাজের ভাড়া পরিশোধে নিয়ম শিথিল করল বাংলাদেশ ব্যাংক - Amar Desh",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm8wWUlLcFNFZmlyYjY2MHZOQjdXZlFmQS1veDYzbGdnRjJEOEJ4TC1LQzBLZC1GMldqUWE2a05fME9QZ3F0MHdWY1NBSDh5dWhyeklyaUFUc2hsamRNTjNrQlI4S0k?oc=5",
-      "pub": "2026-06-18T13:12:02+00:00",
-      "id": "f56836c192900f68"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "বাজেট ইতিবাচক হলেও বাস্তবায়ন বড় চ্যালেঞ্জ: আইবিএফবি - Amar Desh",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qTE5IU2JFd3pVMTEwX1JQOEhobElsTjRUTG5JYjRlaUU1Ty1remI3UW1ZY0tGZmZwMTc1andza3UtQ1RhYnM1SlJoaUh5RU1lUFdBNW92OG9SaEs1MjBZdEQycXAzVzg?oc=5",
-      "pub": "2026-06-18T13:31:09+00:00",
-      "id": "548e11564dd8f8aa"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সব গরিব পরিবার ফ্যামিলি কার্ড পেলে দারিদ্র্যের হার ১১ শতাংশে নামবে: র‍্যাপিড - প্রথম আলো",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWUhCSENjSnQwZGU3S1ZGcENlaDlXY1NyWUg3NnRjeHpIbkFKUGc2WTJvblVtaVBwdGVWS2hodXJCWVdXSDFOeVpENl90TVVBeHNnN3pLcS1fWlY0Z0dKM29YQVZWTldQMVhYNGVhUWN5R3FG0gF0QVVfeXFMTUZZSEJIQ2NKdDBkZTdLVkZwQ2VoOVdjU3JZSDc2dGN4ekhuQUpQZzZZMm9uVW1pUHB0ZVZLaGh1ckJZV1dIMU55WkQ2X3RNVUF4c2c3ektxLV9aVjRnR0ozb1hBVlZOV1AxWFg0ZWFRY3lHcUY?oc=5",
-      "pub": "2026-06-18T12:16:00+00:00",
-      "id": "eb92fe5988e6a011"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
@@ -2469,22 +2403,6 @@
       "id": "df4fab8efdccb0fb"
     },
     {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Nesterra Sets a New Benchmark for Modern Home Textiles with Its Latest Collection - theblunttimes.in",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUh0TFBFRDdTczVSRHlFdzE2Y2ROOW1uTS02N2Jia00tQ1Noa20zYWNGUEpEVEp0X2NQSGVRYzJzUm1qd0tkSUdyNUI5aWN5ZVRrdTVjX0dOQV92eGRyVl9CVUJkY2g2Ylk4UEh3S3VqeThzSTIwbHpnWUxNX0tVZDNJLUIwaGtERFI1eDJacGktcGhWSHpwRVowVTlYd2tXR2p2TUw3eEowVXpWOFczbm8ySQ?oc=5",
-      "pub": "2026-06-18T13:52:39+00:00",
-      "id": "03df5670a65cc60f"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Nesterra Launches New Collection Celebrating Grandeur, Craftsmanship And Timeless Luxury - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3NZdnBEaGJwWjg3X3BiRlNQd3Z6blRnN3BDTzViV3diaENrdE5IQkJXOUVsTk4tRnlTUFNtZW1udWJDZVl0aDZLMDNfT3FGeXN2LTFDekJzSG1MVU1MaWo3N19kS240UFZ5Ty1WV3dlTjFia2FSU19oSlRSOGRaSlktVU05WHdsV2dFZFNQaWQtNHNXY1kxR0FYeUk0V000b3l4V2kySksyQk4yV3hhLTRsZzlLY1dDbTA3X2RmX2ItN2RJNUVoTzJxONIB0AFBVV95cUxNNjZMMGY0VGRmTVZRUEVmY3FlbmRjWnpCdGZ3N2IyNU03ZXlGQlo0bXFfdDFPdWhmZ19hOEowLUg0SjlCM3c2aTRUMkdZNjRnNEN5c25nYjVvUFJhNVo0VTZxRWpDYnNhZkhSQ0ZtTmFiQ0I1QS1WSHAzWDdMZHQ5WmpmQmM5SmVKS05WRk50VTZkUXpVN3BnWUdqRnoxa3l6WGtMMkg4Q1VQR3E3TmhzNkJVX0ZzdGZsd1hHa2FzeTZ2dGxXRnY0emZYRnVZQi11?oc=5",
-      "pub": "2026-06-18T15:43:52+00:00",
-      "id": "45865614ca950a32"
-    },
-    {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
       "title": "Over 100 workers fall sick at Bangladesh garment factory, rights group raises safety concerns - IANS LIVE",
@@ -2531,14 +2449,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOczFnM1hZczRtS2VqRllWRVBPMUhpM0psZXljMUxPakw0UjVkVW1iSVVHZVUwYmZjTTQ0WlNXcGNJcnhTTlVTNTItWFEzVXBWQzVfbGdXTXQ4TlNINkM2b3U4Q2VVbS1icWw0UWFDQmU5SGdMSmNhZlVKZ0tkX1FIdkVjamRBYk1CR1N1di1GVXZfVXB3bmo0MEQ1U1ZHcmxQbnBZem5mWGEwQ2c4X0h0OFJrNi0wLUpGcnZLQ0hnX1FaU2VVcDRGV0tkNWhRbDZ6VHJQZm1sVklONTB4TjdaQzlhZGQ2X2pfT1J1ZDVCRWZXb3ZEVl9SWE9zR1E2NmpXVXBfdnRPYThTSm1RYmxaNkluSWVYdHBQamFyOG1LUFE2SVNldDJ1Z3FyRXkyOGZfYjdyelFpUk8xOTlzdmhjVVhURUZuVS1YYUVRblVjbzl3QUJDRTM2MC1VdEM0SGl3QkkySg?oc=5",
       "pub": "2026-06-18T20:14:00+00:00",
       "id": "e49ac9ce7e4b577e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "পোশাক রপ্তানিতে অর্থনৈতিক মন্দার প্রভাব - itvbd",
-      "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOWjFQUUlLLWw0OC12TTFTcE9TM2FlU3NEYkJ6cUN3STI3ZXUyTVRRVjBYb0k2TGhzV0Y5S3ZxaG9PLTBjbjVDZ2dad0RxWXN1dlBEaTlRN1BoLUpXZFByM19UVlJzcDQyUHNIZndsSVBYSU1lc1hWWWVIU2dYVUlfc19NamVTa0MzQmdBVEozRW5PeDM1dkZualdzV3BKNzJsbkJ0TTdyZEJhX2RZSmFkMDRIYWUwMjVldV84WmZINmkteTdkU0RMaXhWcGFSb00xY3AwS2pNd3ZmV2k5SklqTl92THRuUlFCeHVGTVEtTnlMSzV6cUJEb0RpZElqb3NYell4LVlxTVpHT3pzZVQybVVjSVVWV2EyQjFqWi1QYkk2TkpKd3RNMnJJUkRDU1JMNV8yYllMX1lNNUhXZEJGT0o5RW9taFpYRzl2SXpMYjdieEc2emVPaWRIUmJqcHZYUU1PbmUtaVRteTdSanU4ZEhMNklGSWNfckxubGQzck9ENl9YMGhKdHpJdHExT2RDN1JPUUN0MlBDandmSHhTNzhGeHllbU9DT0hua1NiSzdOWUZKZTBoaXFtYklPU2lTU1RNM0I1dFB5TTJITlEtbGZGWlliSXVfSWdDT1podS1LTGtuel90d2UwLTFxaVY1amJGM2RPOFMwOTREUUlwbFdxTWVOdERGXzdxblFnVGFhMEJleFVWV0cyNnhHN3FaREtyektOQTJIUlB0WTRlRDBlVVVCRERRZ3A3SWJFLXUyNDhMWWt5WXRhTHVFQdIB0wRBVV95cUxPU0t5Qm52aWtWVFE3SW9QdVJmT1c5VG1XRWhDdWZfUlZXSXlOSW5NRWxyZzZqVHp6ZW42WTBQOWJFOE1LT2xLUlB0RF94ZmZfeE1ONVE4dG5mTjR2eXE2OVBsU0lOOUhDSmtfcmdsUkVBUHN3cThNenhJU0lBZDFyeDl0cS1nRkdWei15WE5NQ2cxbFI2ZmdtMnVMY0hEclFvRURnZXFGNVNyMHB3b0x0aXJITE9wZzBEaUk5TkZJb2NFUzBhek43b1FVVnM1YmZGMnBLQzBvUG9HR3pacEZ1UGdGWDh4RDRVUm82clc0NDNnV1ZmNjlLSW1Gcnl2UVJ3RFZjM3R3ci1QOGNVZDhLQ1NvZUViWjJLMnV0U1NiaThNeDk0czBQQ0JUS2JsblhUODN0OE1xMEc2bEtCRHJaOVhDWHNkX1RXX1BuZEFBTW9KRjFYTUxLUExNUC1BaWxmNEF6YTU3UllKcUVlSVUzV0pYaW5VdWt4Q0g1Rk04UjU1RUlZdGxTV3FzNW5BVmRkWkUxLTg2enNPaFUwTFgxMDlINWdJS2pMUlZYYUVrSk50YTJRT01rNmNZby14NjBXZ2JRc3pnTTRQWmRwS0pUai1jNkdUYy02SDRXbWNCa0c1MHJha2VOR2dqWmpZYm1DREdoalNWdWhmYW16TWtDWk5DM3BaUGd1WVFEdFJac0s1azlfUXBoS0FkNWxnZEg1aDlBY1pVTExZVDVWaHpaUk5uX2F1c2gycVY4N1lQMWxNblItdldDX3RqRHBlWU1iR0NZ?oc=5",
-      "pub": "2026-06-18T12:58:12+00:00",
-      "id": "957cee68e18a7c3b"
     },
     {
       "section": "bangladesh",
@@ -2851,6 +2761,102 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnc4T3hsYkNBbUtTb2RlaENFdmpxT1ZOSUhzUkpUMWppd25rQVFxWGU2VDBGSHJobzhscC1ONHhvVFNfWjNqcmk5cVBzSFpjSjFsaUNxYkJwOHRSU1pQTEM2SFUzbGxxenpNYS1IXzcwOUlKajZoN3BZS2VQTUJ6RFJ3SzdfZFJ2SlFOYjJ4VXRQaHlzck1YWWNtR3Y?oc=5",
       "pub": "2026-06-20T08:48:45+00:00",
       "id": "50ca747221cebd4c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "EU Textile Regulations Propel Lenzing Shares to 52-Week High, But Technical Indicators Flash Caution - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFhRQmJWVENjWXc3SURjSG5uS1M0X2JMTFlqSE0xcXlqNFdmTXpsMml3LTN1cTVxcWFaVFRjOS1BZTcxY0dXNy1SRHJTeU9XczM5ek42cDBGeExtSHc3ZDYyRFBJNmxWc0NTMHRNSGIwOTBLSnd6cG1RRVJvMzliNDZtY193aW01SUZ0Ym1USEVLaFVXMkk5UXFvWjF6Zi1DcE13aUZPNmZVRUtULTU0b3NmU1ZheEw4UUhYWnF6QVc?oc=5",
+      "pub": "2026-06-20T14:56:39+00:00",
+      "id": "f2eb193daf120b50"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Recycling Europe urges EU textile labeling reform to support circularity - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVVCTnBRM0kzZE1QSEYyVTF4TjFyTjhtR0FfUnNwZk8wMENVVE84bFJHLVlUcURDZWlLRUZHU0xMTTEtYlY5d2VqSUZVUnVoMWxzY2ZXY1hXMkdRZ3hnTUJRdmpnbTVra1BodlZPcklLZXJ4UzhFeDhVRUJ1bkRaTVZ3OVp2SlJPb25qLXR0OG5aaWF0UEMtQ3NNY3lKSmstSVFKRXJ0OA?oc=5",
+      "pub": "2026-06-20T07:35:28+00:00",
+      "id": "bcc1842e3e2d19d5"
+    },
+    {
+      "section": "international",
+      "source": "Apparel Resources",
+      "title": "BTMA Seeks Retention of 30% Value-Addition Condition on Raw Material Imports",
+      "link": "https://apparelresources.com/business-news/trade-business-news/btma-seeks-retention-30-value-addition-condition-raw-material-imports/",
+      "pub": "2026-06-20T11:22:39+00:00",
+      "id": "6f1397dff3df3bdd"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Unethical Companies stopping 'Undesirables' from using their Clothes",
+      "link": "https://www.reddit.com/r/Anticonsumption/comments/1uawmu9/unethical_companies_stopping_undesirables_from/",
+      "pub": "2026-06-20T13:27:27+00:00",
+      "id": "31d055efeaef3565"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Unethical Companies stopping 'Undesirables' from using their Clothes",
+      "link": "https://www.reddit.com/r/solarpunk/comments/1uav813/unethical_companies_stopping_undesirables_from/",
+      "pub": "2026-06-20T12:18:56+00:00",
+      "id": "9a2ae6facc3581e9"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Unethical Companies stopping 'Undesirables' from using their Clothes",
+      "link": "https://www.reddit.com/r/InvictaSolaris/comments/1uav6xa/unethical_companies_stopping_undesirables_from/",
+      "pub": "2026-06-20T12:17:21+00:00",
+      "id": "434b99c1ed617c88"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BTMA Seeks Retention of 30% Value-Addition Condition on Raw Material Imports - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUM0cUpGd1A1MnlpWDBsX3dQWkVUMV9CVHhYSGZiZWxvN01IOHh4YS1lSkJBU0ZhODNMTHRUUTIzUFJ6eHdndlpWamo2UVI0dXZUM1BiSTZNSTBuV2QzT0Nma082ZzVIa2xKaGl5VnIyRThJVjZsQmdnWGRPWnVFQmxiVXVDczlSYWtOZkdKTDFMZnlwZDN4QjBYcEljY3ZFcTJ1Uy1rOHotWWxSNDRLamwtNjNoRF8wT09OY2VLbEYzUl9EZk1CS0EyaklFdkVDbXc?oc=5",
+      "pub": "2026-06-20T11:36:33+00:00",
+      "id": "2e29b924a440d2ba"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA's 43rd AGM vows united efforts to tackle RMG sector challenges - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IdzFPc0RvWGRGcTZwWjV4c3p5ZklRcHRoTHBoeTdjUU52TXRUb3UyY2pCUkJiaVM3ZGVVWXBsTlZLVEYtaW5MNWlENkNKUkRj?oc=5",
+      "pub": "2026-06-20T12:02:29+00:00",
+      "id": "4a42355294c49ffb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ক্ষমতা কমছে টাকার - bdtoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GZ3U3STY1bDZSWXhFTkdqV18xdmJpOWRuOWxrX1ZvYi0wR2pRaER1TmV5UGYySmFtRFgyclpjbTdOZnpBZUxrNF9obw?oc=5",
+      "pub": "2026-06-19T19:49:00+00:00",
+      "id": "46aef2dea5561bed"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএর ৪৩তম বার্ষিক সাধারণ সভা অনুষ্ঠিত | খবর | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbENNSVp2eWtWazF2R0E1Qk9LQlZ0ZmVGal9GbFRlZ3l2M3c4aHliNGF3bzgxMjFpZDZTNTlob2tWeU55ZzNmbE14NldibmdBenA3Wg?oc=5",
+      "pub": "2026-06-20T13:03:00+00:00",
+      "id": "021d9fb3be511bb5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএর ৪৩তম বার্ষিক সাধারণ সভা অনুষ্ঠিত - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwamNkd0Rsazh0MmRZSDRZb2M2OGhEeW9UZnk4cVlUa0REMC1XUERwY0d5NC1uSGgxbzVYWHNKYzlteW5PYlJ1UzRLbHgwNjRYUnhQZGF2Um9zdTDSAU9BVV95cUxQQlR3akI1SW9PZzlCRFY0X3B0NXYxcDV4TWFKcGNNSzQxT3ZJaDZDaGtueTJqcWhHam1wTmVYcExodkFpSkFEOXMtd0ZfU0xr?oc=5",
+      "pub": "2026-06-20T13:10:00+00:00",
+      "id": "658720d25f38f6bb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জিয়াউর রহমানের শাহাদাৎ বার্ষিকীতে চালক দলের দোয়া মাহফিল - Cvoice24.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYjdRNW1FbThjQ0tfMWF4UUI5Rm8zcjJGeGp2SFBQYXBleHk2MENfbUdBNnZwVVE3THBkWDV0Ny1CdE5JcXZsQW9LTlhKWU5INjRidFlFellMSG1vemc?oc=5",
+      "pub": "2026-06-20T10:12:00+00:00",
+      "id": "9b48ee46016d7396"
     }
   ]
 }
