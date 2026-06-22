@@ -1,36 +1,5 @@
 {
   "seen": {
-    "5afc9b2b975393b1": "2026-05-23T09:56:34.448553+00:00",
-    "41ae3b369028d6cd": "2026-05-23T09:56:34.448553+00:00",
-    "b18c29db13944875": "2026-05-23T09:56:34.448553+00:00",
-    "67b96f37d150e02b": "2026-05-23T09:56:34.448553+00:00",
-    "8eb6d5898dba2d37": "2026-05-23T09:56:34.448553+00:00",
-    "a2d9fedc193c56f4": "2026-05-23T09:56:34.448553+00:00",
-    "0c414871e3fb226e": "2026-05-23T09:56:34.448553+00:00",
-    "1366f97f2375110d": "2026-05-23T09:56:34.448553+00:00",
-    "565f287a6aaeb880": "2026-05-23T09:56:34.448553+00:00",
-    "d35ce8aeb16d7cee": "2026-05-23T09:56:34.448553+00:00",
-    "d97afc089109f761": "2026-05-23T09:56:34.448553+00:00",
-    "6c87e0ec240f50cf": "2026-05-23T09:56:34.448553+00:00",
-    "a2b9ac4f0745c8b6": "2026-05-23T09:56:34.448553+00:00",
-    "abb35f9798c57080": "2026-05-23T09:56:34.448553+00:00",
-    "f0c4e2cd01a65d11": "2026-05-23T09:56:34.448553+00:00",
-    "f813c51a1c95da4e": "2026-05-23T09:56:34.448553+00:00",
-    "1fbe1df079044716": "2026-05-23T09:56:34.448553+00:00",
-    "a5bbcc0cd736549d": "2026-05-23T09:56:34.448553+00:00",
-    "55dbd7213ea9acbc": "2026-05-23T09:56:34.448553+00:00",
-    "38bdddda76727f03": "2026-05-23T09:56:34.448553+00:00",
-    "6661458a756296ac": "2026-05-23T09:56:34.448553+00:00",
-    "c33b7e62ae1444b5": "2026-05-23T09:56:34.448553+00:00",
-    "29662e0c85462b84": "2026-05-23T09:56:34.448553+00:00",
-    "826d37ca36ef8189": "2026-05-23T09:56:34.448553+00:00",
-    "c3fc3866d4e39b36": "2026-05-23T09:56:34.448553+00:00",
-    "80eeef47390ca549": "2026-05-23T09:56:34.448553+00:00",
-    "a6aef77e75ef4864": "2026-05-23T09:56:34.448553+00:00",
-    "31d0b733b2acb51b": "2026-05-23T09:56:34.448553+00:00",
-    "91392f2c8711c028": "2026-05-23T09:56:34.448553+00:00",
-    "b458402722d3b139": "2026-05-23T09:56:34.448553+00:00",
-    "04e59b3cfabd3d0d": "2026-05-23T09:56:34.448553+00:00",
     "7bf8a591b822ff8a": "2026-05-23T15:03:31.014472+00:00",
     "e80809f98deb4163": "2026-05-23T15:03:31.014472+00:00",
     "bcdbbce9d05d0a47": "2026-05-23T15:03:31.014472+00:00",
@@ -2306,7 +2275,288 @@
     "3ae9525fc094ef12": "2026-06-21T15:54:50.569017+00:00",
     "c16a4181d6cb4571": "2026-06-21T15:54:50.569017+00:00",
     "11f7a1e101be5a81": "2026-06-21T15:54:50.569017+00:00",
-    "e951ca2c8fe906a6": "2026-06-21T15:54:50.569017+00:00"
+    "e951ca2c8fe906a6": "2026-06-21T15:54:50.569017+00:00",
+    "406c45d89b156850": "2026-06-22T13:37:11.475889+00:00",
+    "7724afbdee67c46e": "2026-06-22T13:37:11.475889+00:00",
+    "fc1eca7104e04b5f": "2026-06-22T13:37:11.475889+00:00",
+    "a4d5f024839a67f5": "2026-06-22T13:37:11.475889+00:00",
+    "5b03fe1ec632c9e2": "2026-06-22T13:37:11.475889+00:00",
+    "38c0bf5e0de7351b": "2026-06-22T13:37:11.475889+00:00",
+    "1c759498a98bcc06": "2026-06-22T13:37:11.475889+00:00",
+    "b025bb506618960b": "2026-06-22T13:37:11.475889+00:00",
+    "739344116194ed99": "2026-06-22T13:37:11.475889+00:00",
+    "3957b6a5521e4476": "2026-06-22T13:37:11.475889+00:00",
+    "518970e8c2c36e01": "2026-06-22T13:37:11.475889+00:00",
+    "1154305ffc482ec8": "2026-06-22T13:37:11.475889+00:00",
+    "6f1ed5e865963420": "2026-06-22T13:37:11.475889+00:00",
+    "b56a9bf524d44cf2": "2026-06-22T13:37:11.475889+00:00",
+    "dbe8d05775849b7a": "2026-06-22T13:37:11.475889+00:00",
+    "40e35cbb4ca96c36": "2026-06-22T13:37:11.475889+00:00",
+    "91f806b6e2291a21": "2026-06-22T13:37:11.475889+00:00",
+    "da9f6725da3b9d8b": "2026-06-22T13:37:11.475889+00:00",
+    "d65cfaf873306de5": "2026-06-22T13:37:11.475889+00:00",
+    "f1aa4f7851163c62": "2026-06-22T13:37:11.475889+00:00",
+    "1990ad4392cb4482": "2026-06-22T13:37:11.475889+00:00",
+    "de92a8eb6e85a1d2": "2026-06-22T13:37:11.475889+00:00",
+    "0a36e7161880d00e": "2026-06-22T13:37:11.475889+00:00",
+    "057d4f5c30d8247f": "2026-06-22T13:37:11.475889+00:00",
+    "2a40eec684533ae7": "2026-06-22T13:37:11.475889+00:00",
+    "8b9c779d1fcd9fd8": "2026-06-22T13:37:11.475889+00:00",
+    "4ad765359c344f46": "2026-06-22T13:37:11.475889+00:00",
+    "c42053d2f019dc92": "2026-06-22T13:37:11.475889+00:00",
+    "d263cb2177a7e5d7": "2026-06-22T13:37:11.475889+00:00",
+    "43570c468bb9841b": "2026-06-22T13:37:11.475889+00:00",
+    "1b70d4ed98da6cfb": "2026-06-22T13:37:11.475889+00:00",
+    "ccc85fcb5b9752ff": "2026-06-22T13:37:11.475889+00:00",
+    "9f5d25f46c0404a1": "2026-06-22T13:37:11.475889+00:00",
+    "c3761eb8dfec7f10": "2026-06-22T13:37:11.475889+00:00",
+    "64d8cf2e0b4a0bf7": "2026-06-22T13:37:11.475889+00:00",
+    "24fd17727ec043fc": "2026-06-22T13:37:11.475889+00:00",
+    "4e7c196570656a19": "2026-06-22T13:37:11.475889+00:00",
+    "6213872a5192608b": "2026-06-22T13:37:11.475889+00:00",
+    "49ffd8967a748305": "2026-06-22T13:37:11.475889+00:00",
+    "2e937f1ae36a3dc3": "2026-06-22T13:37:11.475889+00:00",
+    "db1c46aca840aa72": "2026-06-22T13:37:11.475889+00:00",
+    "b3810173b9a4ada3": "2026-06-22T13:37:11.475889+00:00",
+    "45d62ddc255eae92": "2026-06-22T13:37:11.475889+00:00",
+    "2eedbe3b38d88517": "2026-06-22T13:37:11.475889+00:00",
+    "57294a6c19ec949b": "2026-06-22T13:37:11.475889+00:00",
+    "5fb20cd814f1f727": "2026-06-22T13:37:11.475889+00:00",
+    "f40255a520cecf5e": "2026-06-22T13:37:11.475889+00:00",
+    "6d1818f0cfd2426f": "2026-06-22T13:37:11.475889+00:00",
+    "82e58ef53c674762": "2026-06-22T13:37:11.475889+00:00",
+    "f5f0a639485d5a29": "2026-06-22T13:37:11.475889+00:00",
+    "eb6ccee6c0732552": "2026-06-22T13:37:11.475889+00:00",
+    "5cdaeb177cda7614": "2026-06-22T13:37:11.475889+00:00",
+    "498bdfc00e98c3fd": "2026-06-22T13:37:11.475889+00:00",
+    "bb92db4dde75441e": "2026-06-22T13:37:11.475889+00:00",
+    "0d61af4417ae1e0d": "2026-06-22T13:37:11.475889+00:00",
+    "24f1a4cf6b76ee09": "2026-06-22T13:37:11.475889+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Ecommerce Europe calls for flexible Digital Product Passport rules for apparel sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3lVWmgwOHVrZk9wV2tRUnVVQjZlMTFkRnh5N21VdHdXRzluMTZTdzhOV3htcjA0blRaRExKY2wxdmlZT241REVPWF9WMDV0dWhWRkxOUkdZUzZxNTM0UFpQa1B4RDJvbmZjekQzbG1zOUVvV05qeWV3VHNvajlOMFF5c3VsUnVXZ0Z4blh5RFhhOXcwWXd1YjJQYVVrQlJfcHVtaDYyTWhmMFVyV3NNR3p6R3BNTXp1?oc=5",
+      "pub": "2026-06-22T05:03:05+00:00",
+      "id": "64d8cf2e0b4a0bf7"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Vietnam's DPP gap puts $53 bn textile exports at risk - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY21qMVRuRFF3dkNTN1Q3ZndJYm9PX0JNSGZfN29mYVdWOWlkRVFha2p6VFBHcmxTblI1dHpSZXhpakpteGM0aFB6Vk01bFRWbld3YU9sbDlJTUVGUjNDaVhjUHRIa2FsbVI4eXl0ZGtiUmxnRWd0dTZ4WE5KMjhHT0I0cjlCa20ya19nMEpjekhyaFh0UndhVlc5Q2VsX1FsUG0wa2lONkRWZG91MWJvZk94OFY1cE5DSkJEQzdRVlg?oc=5",
+      "pub": "2026-06-22T08:57:41+00:00",
+      "id": "24fd17727ec043fc"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Bangladesh Plans Provisional Licences to Accelerate Investment Projects - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXlFaTVUSnJHN1ctLWZ6d3BMMXBVZkFISW55SXhZelBIbHhJeHcyMWFqcTJPMEZfNUkyNEhiLW52VEFkdkdleE8zelFIWklqSTFVWUZYTUNyLUxrSFVYbU9PVUVGMXBYVHpEUk9CUXZFMEFMUjdCQi1OcGFqc3QweHNUTExURUFoNUtKWTZudW0tR19OTlhXNWtWaThIOXQ1akJLTlVuQzFCVVMxMTQ5ckJndkU0Qk9OQk9OTmVRQQ?oc=5",
+      "pub": "2026-06-22T13:08:54+00:00",
+      "id": "4e7c196570656a19"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Why ZDHC is a business necessity for textile & apparel exporters in Bangladesh - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUstMlNBbVUtYjBmZFp1ci1EYkhBcmJ1NTQ4dEl6QVdrRV9SbGpmbnJta2pIUDZ2ZXpRY3lvZmF4UVpEU2lFcGZReWpPNlhQZHF0Nk92eG94ekt6NmxXV1I1T1VwbV9ESU43MmxoU1BVYTlfbHp0UFVldEtNZXpyQ3B1aG1IM2pNZXdKeWh3R0ZuZFZXR0hWYXJDdjNuYk5LeVI1OER2Vk5ndkFY?oc=5",
+      "pub": "2026-06-22T02:03:05+00:00",
+      "id": "6213872a5192608b"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "PhD research at University of Zagreb leads to innovative patent in garment sizing technology - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3B1a1dmQVByU2ZuU3FBV2ZLMmgtblRfVF9FQkdjYmpPM0VGcnJCejlLb21jZDhDbjZTdEVNMG03X1dKUUZYUGNDMU5acGVxWTBkeGhxcFk5cC1VczhrbFN1Z0tRNld0V3hLYjdrNUp5Und2YTRpdWwyTmxSMng5NjRyTFZJZzBmT0xaa2JSdll2UlFCc1JkMnhhdjhrV2NTMEpGWjdxTElRTDczbGJvUzRfUFNqSXAtMldtdFpLTjRwUQ?oc=5",
+      "pub": "2026-06-22T10:33:05+00:00",
+      "id": "49ffd8967a748305"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Bangladesh Targets 14-Day Business Start-up Process as Government Pushes Reform Agenda - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbFRUMUFEamEtV2pFNWUtR1dYN1Z3YkR3NnhLdEJGODNsU295VzQ4LXd2WmxFMTBLbzJkcGVDOVRlYVhCRFNyWkVObFBCMlFCd1hqai1SY1ZJbm5oNzlmV3NaVWxqRjZfT2lNdy0tamtMZFdoZzQyVkk1dnpVZUJONnhFbGFFU1R3OF9pM0VJWVpyUkNmVk81bHBLR2FjbEFZNVhwd04wV3hkTnQ5eWJrNzZNZXhKREVzMHgtUV9aV2J4X1pKdVRicnBCT0F4MTA?oc=5",
+      "pub": "2026-06-22T10:14:09+00:00",
+      "id": "2e937f1ae36a3dc3"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "EU tests expose garment labelling failures - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDA5WVl0UDBybUhZdjZTcVJFYmlpN2JnUl93ZUw4S2x1WjhYSzlxV3FESjlmdmtvME5UMDU0ZkxqV0NnOVM5Nkl2bE1DQ09IaTJMQkZqMDdDNXRPcjZEZTRrUVJZM1RpZF9qYmN6UnY1MVlKQ3EtaEhhWVRSeUtDLUVQWHdWQjJIeXBFbGhTbENYZ2lhejVZczlBdjNzYktMOE1RallrUQ?oc=5",
+      "pub": "2026-06-22T11:59:23+00:00",
+      "id": "db1c46aca840aa72"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "| Vietnam's DPP gap puts $53 bn textile exports at risk - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzBwLTZrVTNlenFDQWh6NG1NVVAtVHJLaTdoc3NrS2VKSENvTTAxSl9sbTVGTUN3Z2F5OUhUU0Fldy1RZFhqSzFxTVktd2U1YVBQNFZKTWIwTU5ialRYWFRFS1U3X2QtYVQtX2d0OGFrdE9qbWF4dDBxNm01WS0tRC1sQ3NnTWwxZFBJc2hrUGNMYWVjempIbGxCVkpvWXh2QlZOQmlvd0JyZUVXcUstSGxRMHZ2MEpyamlrSDlSUkgwRG02bFM0UktVU1M?oc=5",
+      "pub": "2026-06-22T08:37:37+00:00",
+      "id": "b3810173b9a4ada3"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Ecommerce Europe calls for flexible Digital Product Passport rules for apparel sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3lVWmgwOHVrZk9wV2tRUnVVQjZlMTFkRnh5N21VdHdXRzluMTZTdzhOV3htcjA0blRaRExKY2wxdmlZT241REVPWF9WMDV0dWhWRkxOUkdZUzZxNTM0UFpQa1B4RDJvbmZjekQzbG1zOUVvV05qeWV3VHNvajlOMFF5c3VsUnVXZ0Z4blh5RFhhOXcwWXd1YjJQYVVrQlJfcHVtaDYyTWhmMFVyV3NNR3p6R3BNTXp1?oc=5",
+      "pub": "2026-06-22T05:03:05+00:00",
+      "id": "64d8cf2e0b4a0bf7"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Iceberg del Espacio y la Tierra",
+      "link": "https://www.reddit.com/r/IcebergEsp/comments/1ucj48a/iceberg_del_espacio_y_la_tierra/",
+      "pub": "2026-06-22T12:23:57+00:00",
+      "id": "45d62ddc255eae92"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "My rapidly growing collection",
+      "link": "https://www.reddit.com/r/VHS/comments/1uccthv/my_rapidly_growing_collection/",
+      "pub": "2026-06-22T06:27:00+00:00",
+      "id": "2eedbe3b38d88517"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Built my boys a box fort this morning…. This is the result.",
+      "link": "https://www.reddit.com/r/cats/comments/1ubvhog/built_my_boys_a_box_fort_this_morning_this_is_the/",
+      "pub": "2026-06-21T17:12:56+00:00",
+      "id": "57294a6c19ec949b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh Targets 14-Day Business Start-up Process as Government Pushes Reform Agenda - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbFRUMUFEamEtV2pFNWUtR1dYN1Z3YkR3NnhLdEJGODNsU295VzQ4LXd2WmxFMTBLbzJkcGVDOVRlYVhCRFNyWkVObFBCMlFCd1hqai1SY1ZJbm5oNzlmV3NaVWxqRjZfT2lNdy0tamtMZFdoZzQyVkk1dnpVZUJONnhFbGFFU1R3OF9pM0VJWVpyUkNmVk81bHBLR2FjbEFZNVhwd04wV3hkTnQ5eWJrNzZNZXhKREVzMHgtUV9aV2J4X1pKdVRicnBCT0F4MTA?oc=5",
+      "pub": "2026-06-22T10:14:09+00:00",
+      "id": "2e937f1ae36a3dc3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh Plans Provisional Licences to Accelerate Investment Projects - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXlFaTVUSnJHN1ctLWZ6d3BMMXBVZkFISW55SXhZelBIbHhJeHcyMWFqcTJPMEZfNUkyNEhiLW52VEFkdkdleE8zelFIWklqSTFVWUZYTUNyLUxrSFVYbU9PVUVGMXBYVHpEUk9CUXZFMEFMUjdCQi1OcGFqc3QweHNUTExURUFoNUtKWTZudW0tR19OTlhXNWtWaThIOXQ1akJLTlVuQzFCVVMxMTQ5ckJndkU0Qk9OQk9OTmVRQQ?oc=5",
+      "pub": "2026-06-22T13:08:54+00:00",
+      "id": "4e7c196570656a19"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA's 43rd AGM vows united efforts to tackle RMG sector challenges - dailyasianage.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDdvV1hGd21VM09LalZpVVg2ZlpsUzRTYTVwakZWRHRkTllJTDhsUUc3d0FuU2tOUnlpMkhITmFXYjR2U1d6Sy1ZRm9OdFMtbGJrWW1CRXd2TGJWbi1EOExrT2F0SHBvczRzM0szaHlxeXBjR3NlTC1GRVZHLUhmNTVvUVByS2IwWFh5Uy1ocF9idENiTmJ0eEJyT3VyUng3dzVEZHU5V0U?oc=5",
+      "pub": "2026-06-22T10:27:52+00:00",
+      "id": "5fb20cd814f1f727"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Ecommerce Europe calls for flexible Digital Product Passport rules for apparel sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3lVWmgwOHVrZk9wV2tRUnVVQjZlMTFkRnh5N21VdHdXRzluMTZTdzhOV3htcjA0blRaRExKY2wxdmlZT241REVPWF9WMDV0dWhWRkxOUkdZUzZxNTM0UFpQa1B4RDJvbmZjekQzbG1zOUVvV05qeWV3VHNvajlOMFF5c3VsUnVXZ0Z4blh5RFhhOXcwWXd1YjJQYVVrQlJfcHVtaDYyTWhmMFVyV3NNR3p6R3BNTXp1?oc=5",
+      "pub": "2026-06-22T05:03:05+00:00",
+      "id": "64d8cf2e0b4a0bf7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ বাজারে রপ্তানি ধাক্কা - Bangla Barta",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SejVfWmtTTHpPcXJlQ2xPRWxvMWJHUm1xZy1ObjV4Ri1HODFTYWNIeGVNU21uX0VmOGg0ZUREU2FkQXBNTy1idzM1d0xaWnI5a0c2WjNwWUs3NEpU?oc=5",
+      "pub": "2026-06-22T03:28:00+00:00",
+      "id": "f40255a520cecf5e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "চ্যালেঞ্জের মুখে পোশাকশিল্প - news24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KODZ6WnFYam91ejFobUo2TXcyVkotLTV1a2pMQXdGX3Y1azdzUGh6WFhKV0xGVnZxRktOV0luTUpSOXFfNXk2U1FhbTdPbHc?oc=5",
+      "pub": "2026-06-22T09:37:34+00:00",
+      "id": "6d1818f0cfd2426f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউতে পোশাক রফতানি কমেছে ৬৪০ মিলিয়ন ডলার - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14bHpJc1VMVjAyMXZrWVpVNFlzZlBrS19ZVmF6aUhmRklvSk9uRkYtd2JjZ2FZSG9zOU9CdjJWLS1mVEpobThqMDJMMEZNdXRabzdEUFJuQ0pVdlJVWk9v?oc=5",
+      "pub": "2026-06-21T18:07:00+00:00",
+      "id": "82e58ef53c674762"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চ্যালেঞ্জের মুখে পোশাকশিল্প - news24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KODZ6WnFYam91ejFobUo2TXcyVkotLTV1a2pMQXdGX3Y1azdzUGh6WFhKV0xGVnZxRktOV0luTUpSOXFfNXk2U1FhbTdPbHc?oc=5",
+      "pub": "2026-06-22T09:37:34+00:00",
+      "id": "6d1818f0cfd2426f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউ বাজারে রপ্তানি ধাক্কা - Bangla Barta",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SejVfWmtTTHpPcXJlQ2xPRWxvMWJHUm1xZy1ObjV4Ri1HODFTYWNIeGVNU21uX0VmOGg0ZUREU2FkQXBNTy1idzM1d0xaWnI5a0c2WjNwWUs3NEpU?oc=5",
+      "pub": "2026-06-22T03:28:00+00:00",
+      "id": "f40255a520cecf5e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে অবস্থান হারাচ্ছে বাংলাদেশের পোশাক - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KM0tOa01UQ25Sd2FMNVpuWFdaR1AyRHU1R0pfS1Q0VWwwZHJsVHhrTHRQS1ppZnZ6Sy1BMUJleHdyRVFXYWZPcjBFX2hSZFZkbTJ4cS1DQ2FBVHZiUnM4NkVYUnY4QQ?oc=5",
+      "pub": "2026-06-21T20:35:36+00:00",
+      "id": "f5f0a639485d5a29"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তৈরি পোশাক রপ্তানিতে মূল্য সংযোজন কমেছে - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQTlFZWlGeC1LSExFU0xuVVJQOGF6b2FBRFBWZU9VYXNDakNNMTM5M0JqVzlxd2laZzBtSDQtNHJuR25xY2ZxZ2dnc3E5b1p0dE5NdW4tckUyem1uUlA2NHNZamRqbGRLRXd6Nk9VR3pYU1nSAXNBVV95cUxOQ0E5RWVpRngtS0hMRVNMblVSUDhhem9hQURQVmVPVWFzQ2pDTTEzOTNCalc5cXdpWmcwbUg0LTRybkducWNmcWdnZ3NxOW9adHROTXVuLXJFMnptblJQNjRzWWpkamxkS0V3ejZPVUd6WFNZ?oc=5",
+      "pub": "2026-06-22T03:30:00+00:00",
+      "id": "eb6ccee6c0732552"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "দাম কমিয়ে ইউরোপের বাজার দখলের চেষ্টা চীনের, বিপাকে বাংলাদেশ - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3TjJEeks0OU84ZGo4b2tFV3ZxZEJCcEEwMjBjUDZoR1hPZW9DTXc4dXppWGtYYlZlWW9uQlhZS3VDV1FkbWcwWWZJQVlFcnJZdU8wamNtWGR5MWk4czBubFZ6UUlZbW80SERtRTdnZEtoaGZiMkE?oc=5",
+      "pub": "2026-06-21T19:50:43+00:00",
+      "id": "5cdaeb177cda7614"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতে ১০০ বিলিয়ন ডলারের বড় সম্ভাবনা দেখছে বিজিএমইএ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3YjU4LWhST3NrT2RoYkcyUDNOcUpLeVRYbUF0akV1LVJmdGtxUVJZQnpGMThvRUpOb2xMcjNKLWxVdW1sbzhOdjRxSDMtWl9jSDNNV2hnUQ?oc=5",
+      "pub": "2026-06-21T14:15:12+00:00",
+      "id": "498bdfc00e98c3fd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গাজীপুরে এপেক্স হোল্ডিংসের চার কারখানা অনির্দিষ্টকালের জন্য বন্ধ ঘোষণা - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NSkJFczJrSzZkRjc0Y0VjWnR0UXQzczc4cWdKLXkzRHJrT1QtUWFHMFJqdTQwanN1dUhDQ1pDU0hCVE8xOVRNSjR2S0tqdloza3RrWlZJZlhDcVhBbGdMMk45RExxYUxtTjhoR0NKS0s5TUxOSUHSAXZBVV95cUxPTUpCRXMya0s2ZEY3NGNFY1p0dFF0M3M3OHFnSi15M0Rya09ULVFhRzBSanU0MGpzdXVIQ0NaQ1NIQlRPMTlUTUo0dktLanZaM2t0a1pWSWZYQ3FYQWxnTDJOOURMcWFMbU44aEdDSktLOU1MTklB?oc=5",
+      "pub": "2026-06-22T08:34:00+00:00",
+      "id": "bb92db4dde75441e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শান্ত-মারিয়ামে এআইয়ের প্রভাব নিয়ে সভা অনুষ্ঠিত - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaWthXzQ2a2RVd1N4dmRGa0pUNkpSb1VTck54RmJ2X0wtZFRJRVJaay1VMlhiMHhRTEFZUFVTbE9TcDV2Y2haRnFqcEtGOVNnTi1BU2Vpb0ZFNlIwd05LYzItTQ?oc=5",
+      "pub": "2026-06-22T07:58:21+00:00",
+      "id": "0d61af4417ae1e0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেশরক্ষায় সর্বোচ্চ ত্যাগের আহ্বান নৌবাহিনী প্রধানের - Chattolar Khabor",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xZEthaG84c3ZQZTlLY2ZzOVl5Z2VFWmxVWTh2dTNaY2toT0o0djBSd1MwYTN0NTlOZ1ZqMmdzbVRLM3NUNjAtNkVUQlJSQ0cta3ZzQm45OA?oc=5",
+      "pub": "2026-06-21T14:46:47+00:00",
+      "id": "24f1a4cf6b76ee09"
+    }
+  ]
 }
