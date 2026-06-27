@@ -1,37 +1,5 @@
 {
   "seen": {
-    "7812efec8c79f2d8": "2026-05-28T06:15:35.458767+00:00",
-    "b84823722b27a472": "2026-05-28T06:15:35.458767+00:00",
-    "266375f646c8d1db": "2026-05-28T06:15:35.458767+00:00",
-    "748be930b965218a": "2026-05-28T06:15:35.458767+00:00",
-    "d9486f3504816fd3": "2026-05-28T06:15:35.458767+00:00",
-    "a57d2119ae2924e8": "2026-05-28T06:15:35.458767+00:00",
-    "ecec0c0e082fcc8c": "2026-05-28T06:15:35.458767+00:00",
-    "bbed7197a90426d3": "2026-05-28T06:15:35.458767+00:00",
-    "9b2f1af940363526": "2026-05-28T06:15:35.458767+00:00",
-    "0b35b72e2a4268ff": "2026-05-28T06:15:35.458767+00:00",
-    "5dc2958cc912f5da": "2026-05-28T06:15:35.458767+00:00",
-    "ab2cdbe367898ad9": "2026-05-28T06:15:35.458767+00:00",
-    "6d4f1f3acd24e638": "2026-05-28T06:15:35.458767+00:00",
-    "fa7c78d51fb87d4c": "2026-05-28T06:15:35.458767+00:00",
-    "c263e47fbb272042": "2026-05-28T06:15:35.458767+00:00",
-    "e10b6d079a5dbb7d": "2026-05-28T06:15:35.458767+00:00",
-    "6c9b8da956312053": "2026-05-28T06:15:35.458767+00:00",
-    "2719a957fc5b5b94": "2026-05-28T06:15:35.458767+00:00",
-    "58b5149ec112326f": "2026-05-28T06:15:35.458767+00:00",
-    "44e7fafca2542e87": "2026-05-28T06:15:35.458767+00:00",
-    "746da864eeebf4f9": "2026-05-28T06:15:35.458767+00:00",
-    "c8a5028188afc3d7": "2026-05-28T06:15:35.458767+00:00",
-    "22759fb1ebbb4389": "2026-05-28T06:15:35.458767+00:00",
-    "f210438e357228dd": "2026-05-28T06:15:35.458767+00:00",
-    "68d5fcfc9548868e": "2026-05-28T06:15:35.458767+00:00",
-    "97a44289adec5893": "2026-05-28T06:15:35.458767+00:00",
-    "87eadf6c70f009ae": "2026-05-28T06:15:35.458767+00:00",
-    "e03e7011d550ad00": "2026-05-28T06:15:35.458767+00:00",
-    "09676ca0001998bf": "2026-05-28T06:15:35.458767+00:00",
-    "f8a21f1a02e9e436": "2026-05-28T06:15:35.458767+00:00",
-    "2c7b52e8e9c61969": "2026-05-28T06:15:35.458767+00:00",
-    "e561be8f25767381": "2026-05-28T06:15:35.458767+00:00",
     "cf62af1053ef533f": "2026-05-28T11:40:40.417751+00:00",
     "612f3fce20338bf2": "2026-05-28T11:40:40.417751+00:00",
     "a4dad765c48e05f8": "2026-05-28T11:40:40.417751+00:00",
@@ -2310,7 +2278,116 @@
     "2ebeaf3059431ecf": "2026-06-26T16:19:49.751858+00:00",
     "0f704019275cc45e": "2026-06-26T16:19:49.751858+00:00",
     "895ab2b948e298d4": "2026-06-26T16:19:49.751858+00:00",
-    "6144acf4fadea726": "2026-06-26T16:19:49.751858+00:00"
+    "6144acf4fadea726": "2026-06-26T16:19:49.751858+00:00",
+    "23dd19f9df3eab2d": "2026-06-27T10:11:37.253419+00:00",
+    "b5604a6dc9d68e9a": "2026-06-27T10:11:37.253419+00:00",
+    "275f612e7bf9038f": "2026-06-27T10:11:37.253419+00:00",
+    "8883224d052791b1": "2026-06-27T10:11:37.253419+00:00",
+    "897c7fdc9c7c27c7": "2026-06-27T10:11:37.253419+00:00",
+    "80e725d21c315cb3": "2026-06-27T10:11:37.253419+00:00",
+    "6483b12a86960850": "2026-06-27T10:11:37.253419+00:00",
+    "5e19504bb0a3d58e": "2026-06-27T10:11:37.253419+00:00",
+    "4ddd10c841f4a5d7": "2026-06-27T10:11:37.253419+00:00",
+    "d6544106bc237189": "2026-06-27T10:11:37.253419+00:00",
+    "b36c94de38ad1928": "2026-06-27T10:11:37.253419+00:00",
+    "c2203ba853b36df0": "2026-06-27T10:11:37.253419+00:00",
+    "13aedbce8c32cf1f": "2026-06-27T10:11:37.253419+00:00",
+    "bdc0e4f9ad5d878a": "2026-06-27T10:11:37.253419+00:00",
+    "850890358228a195": "2026-06-27T10:11:37.253419+00:00",
+    "0b8b0385fd22e915": "2026-06-27T10:11:37.253419+00:00",
+    "760ef50574aa311d": "2026-06-27T10:11:37.253419+00:00",
+    "fa5fad5cd0d2d325": "2026-06-27T10:11:37.253419+00:00",
+    "9b3459bfa55d81b1": "2026-06-27T10:11:37.253419+00:00",
+    "7eb1c549ba38215a": "2026-06-27T10:11:37.253419+00:00",
+    "26908072f9bddcd5": "2026-06-27T10:11:37.253419+00:00",
+    "e952d0150a9c6002": "2026-06-27T10:11:37.253419+00:00",
+    "9da1b104c17a9792": "2026-06-27T10:11:37.253419+00:00",
+    "a041e7dd5c1a2af7": "2026-06-27T10:11:37.253419+00:00",
+    "14b977b8a9212940": "2026-06-27T10:11:37.253419+00:00",
+    "d004f26820033af4": "2026-06-27T10:11:37.253419+00:00",
+    "5877e87c03039093": "2026-06-27T10:11:37.253419+00:00",
+    "4348505ea33ab821": "2026-06-27T10:11:37.253419+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| Cut electricity bills by 25%: The tech retailers are quietly adopting - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUlhrRTl2R3AzNzZlWml1S3JpN2U0cXNTUG5XZGtsUG5vaXJlR1NzdXlfZ0lobVN0ZWZQR09KNEVnQ2xXY1FCWUo4dU85Sm16NGRfTUJUNjltQWFUREpoVXRsOWNzNnRwUzV6RjQycnRjenRTeDBaMS1OQVVwSVVrNnJjVW9rUElNc2dERXNTTk1GZnliZ0x1cGhGRlZsa2NHTVlTVDRwTEhsa0lldHB3eDZGNzhaZGxMX1BaTDNlS2JlcmE5SkV3XzJoU2dnYTFSX0NkRzVUMEFiYjdONHNGSmZPd0NjcktLcTRWMUpwUGVfd3pD?oc=5",
+      "pub": "2026-06-27T03:56:37+00:00",
+      "id": "26908072f9bddcd5"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Le Creuset, Breville and more: the Prime Day kitchen upgrades we’re shopping now - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDctZS16S0ItVGctNld1cWRMbEg2TmNSblJTQXluMU5rWGVvcElob3M2OUVxeUFFS0RNdFhvZmtKbjBMR21ydmdGbkMtQTdvdWVfOVJTY1BSdnAzNlc0d1dobWdRaHlxSGduQjAzNkc3YlZkaWc1ZmFCVThxVTktRWxidlhIRl9heUpRRGd2UQ?oc=5",
+      "pub": "2026-06-26T23:34:08+00:00",
+      "id": "e952d0150a9c6002"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Powercreep has left poor Sickle in the dust - but what to do?!?",
+      "link": "https://www.reddit.com/r/LowSodiumHellDivers/comments/1ugi6bk/powercreep_has_left_poor_sickle_in_the_dust_but/",
+      "pub": "2026-06-26T20:32:36+00:00",
+      "id": "9da1b104c17a9792"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Just got my first figure",
+      "link": "https://www.reddit.com/r/starwarsblackseries/comments/1ugdw42/just_got_my_first_figure/",
+      "pub": "2026-06-26T17:51:26+00:00",
+      "id": "a041e7dd5c1a2af7"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Happy with my mix of staples and fun finds this month",
+      "link": "https://www.reddit.com/r/Cd_collectors/comments/1ugcdds/happy_with_my_mix_of_staples_and_fun_finds_this/",
+      "pub": "2026-06-26T16:55:11+00:00",
+      "id": "14b977b8a9212940"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Why are so many garment factories closing in Bangladesh? (Part 01) - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBGUlNqY0hUbjBhWm9lSVJHZVkwNkhlemZBRm1rcV9TeE40aFp3NWY3alBsdXJsUzNpb296T25ham9DZ2RzSkxmX2dnbzBMMEhRUFV2WXpYX3R0YVVNZmxCakZlV2ppdFlUdmxOUmI3enl3ODdJSFVVVXFDS1BFeTJpN3cwd1FURXRKUklYdVFXc1VKbWpaQTZ6aw?oc=5",
+      "pub": "2026-06-27T05:38:40+00:00",
+      "id": "d004f26820033af4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Why are so many garment factories closing in Bangladesh? (Part 01) - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBGUlNqY0hUbjBhWm9lSVJHZVkwNkhlemZBRm1rcV9TeE40aFp3NWY3alBsdXJsUzNpb296T25ham9DZ2RzSkxmX2dnbzBMMEhRUFV2WXpYX3R0YVVNZmxCakZlV2ppdFlUdmxOUmI3enl3ODdJSFVVVXFDS1BFeTJpN3cwd1FURXRKUklYdVFXc1VKbWpaQTZ6aw?oc=5",
+      "pub": "2026-06-27T05:38:40+00:00",
+      "id": "d004f26820033af4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Why are so many garment factories closing in Bangladesh? (Part 01) - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDBGUlNqY0hUbjBhWm9lSVJHZVkwNkhlemZBRm1rcV9TeE40aFp3NWY3alBsdXJsUzNpb296T25ham9DZ2RzSkxmX2dnbzBMMEhRUFV2WXpYX3R0YVVNZmxCakZlV2ppdFlUdmxOUmI3enl3ODdJSFVVVXFDS1BFeTJpN3cwd1FURXRKUklYdVFXc1VKbWpaQTZ6aw?oc=5",
+      "pub": "2026-06-27T05:38:40+00:00",
+      "id": "d004f26820033af4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রূপালী ব্যাংকে ইনোভেশন প্রদর্শনী ও শ্রেষ্ঠ উদ্ভাবনী উদ্যোগ নির্বাচন - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kY3ZGaThfZ3phaXhDZlNNanRreXR3SXhmYXJoY1RMSHFfSVQ0RWRlNjAzc2JaZU5LNVNHY3MtbzB5bGUxVlVQdGkxQkI4U0pfUjRKdEJZaVBlUU54a3RwZUx4dlNVbnQ4?oc=5",
+      "pub": "2026-06-26T14:23:01+00:00",
+      "id": "5877e87c03039093"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রাজধানীতে আজ যেসব কর্মসূচি রয়েছে - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeGlOd3IyTENyODk1U19WYzF4U2g2dzVESW5jRC1XUUk0VmNxSFlfaWlUM2d1dkF5TVVkNjNZZFk0YmU2aEw0dTloSjg4cHpQU3c?oc=5",
+      "pub": "2026-06-27T04:54:57+00:00",
+      "id": "4348505ea33ab821"
+    }
+  ]
 }
