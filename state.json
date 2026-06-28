@@ -1,40 +1,5 @@
 {
   "seen": {
-    "1a289cf010862746": "2026-05-29T11:32:17.671677+00:00",
-    "95c9d95875bedd3b": "2026-05-29T11:32:17.671677+00:00",
-    "c8b2af54a5327167": "2026-05-29T11:32:17.671677+00:00",
-    "6ba902ea6c8b03c4": "2026-05-29T11:32:17.671677+00:00",
-    "331009c98df7472f": "2026-05-29T11:32:17.671677+00:00",
-    "92ea195a6a2a33b1": "2026-05-29T11:32:17.671677+00:00",
-    "fce7446ae7f73798": "2026-05-29T11:32:17.671677+00:00",
-    "bdeeeeeee0ae5ef9": "2026-05-29T11:32:17.671677+00:00",
-    "df9d8bc22edc46c8": "2026-05-29T11:32:17.671677+00:00",
-    "4d97a052d563f3f0": "2026-05-29T11:32:17.671677+00:00",
-    "37df6536d26964af": "2026-05-29T11:32:17.671677+00:00",
-    "69f62a67a795dacc": "2026-05-29T11:32:17.671677+00:00",
-    "c8d8dc229511785a": "2026-05-29T11:32:17.671677+00:00",
-    "3d5fb1e400bae00e": "2026-05-29T11:32:17.671677+00:00",
-    "7f0b2c60fdace354": "2026-05-29T11:32:17.671677+00:00",
-    "b4b8c409b3879c63": "2026-05-29T11:32:17.671677+00:00",
-    "9cdcc91aaf66ed67": "2026-05-29T11:32:17.671677+00:00",
-    "e93a701d01050630": "2026-05-29T11:32:17.671677+00:00",
-    "51cb43d08e14b1a7": "2026-05-29T11:32:17.671677+00:00",
-    "05cec0cb09531cca": "2026-05-29T11:32:17.671677+00:00",
-    "11fe427937c43ef2": "2026-05-29T11:32:17.671677+00:00",
-    "8dcef8e3cc3dcb76": "2026-05-29T11:32:17.671677+00:00",
-    "46ae7ba65503a553": "2026-05-29T11:32:17.671677+00:00",
-    "c98dd8065aaea4e1": "2026-05-29T11:32:17.671677+00:00",
-    "c789773e951b7f09": "2026-05-29T11:32:17.671677+00:00",
-    "f5e91443d4e2e9d5": "2026-05-29T11:32:17.671677+00:00",
-    "c6a661707189c8e9": "2026-05-29T11:32:17.671677+00:00",
-    "5a5316d339d01b9f": "2026-05-29T11:32:17.671677+00:00",
-    "ef23e6bd249ac9ae": "2026-05-29T11:32:17.671677+00:00",
-    "f611f8f8816f4b52": "2026-05-29T11:32:17.671677+00:00",
-    "b243ebc1c2f6e91d": "2026-05-29T11:32:17.671677+00:00",
-    "1e0e2d765390fb58": "2026-05-29T11:32:17.671677+00:00",
-    "c8872f92e680760a": "2026-05-29T11:32:17.671677+00:00",
-    "547046d606be574d": "2026-05-29T11:32:17.671677+00:00",
-    "3afd7badb0642e8c": "2026-05-29T11:32:17.671677+00:00",
     "8b2e0d5abfa5df1a": "2026-05-29T17:35:47.063011+00:00",
     "e9b979ad14cc0e93": "2026-05-29T17:35:47.063011+00:00",
     "76e663c5373028c1": "2026-05-29T17:35:47.063011+00:00",
@@ -2319,7 +2284,37 @@
     "696814a138307ab9": "2026-06-28T10:29:43.672616+00:00",
     "7874de3bc938440b": "2026-06-28T10:29:43.672616+00:00",
     "b4f587e1cd055ecd": "2026-06-28T10:29:43.672616+00:00",
-    "3ae04327947675d6": "2026-06-28T10:29:43.672616+00:00"
+    "3ae04327947675d6": "2026-06-28T10:29:43.672616+00:00",
+    "b51f97151f92cea8": "2026-06-28T15:19:34.874220+00:00",
+    "0a39868a133b3f50": "2026-06-28T15:19:34.874220+00:00",
+    "0b1f6136f88fe628": "2026-06-28T15:19:34.874220+00:00",
+    "e206220401e22dcf": "2026-06-28T15:19:34.874220+00:00",
+    "d2b61a95a1fcad54": "2026-06-28T15:19:34.874220+00:00",
+    "38169ee05edfdc02": "2026-06-28T15:19:34.874220+00:00",
+    "6d88fd667d40ea01": "2026-06-28T15:19:34.874220+00:00",
+    "30e559e9b25e3a88": "2026-06-28T15:19:34.874220+00:00",
+    "0c1cf6dcb4f9b6ee": "2026-06-28T15:19:34.874220+00:00",
+    "19988861796feb23": "2026-06-28T15:19:34.874220+00:00",
+    "8a869a21f3e54671": "2026-06-28T15:19:34.874220+00:00",
+    "160035f33fa656fc": "2026-06-28T15:19:34.874220+00:00",
+    "d0bf683c7a677de8": "2026-06-28T15:19:34.874220+00:00",
+    "40a9dec01d37bb7d": "2026-06-28T15:19:34.874220+00:00",
+    "402942d52bbe5ecd": "2026-06-28T15:19:34.874220+00:00",
+    "09badefe1db43237": "2026-06-28T15:19:34.874220+00:00",
+    "5d98e665b68d02e0": "2026-06-28T15:19:34.874220+00:00",
+    "8c277cbd16760430": "2026-06-28T15:19:34.874220+00:00",
+    "2cff8957be4776dd": "2026-06-28T15:19:34.874220+00:00",
+    "e5ab3ee36482e3c7": "2026-06-28T15:19:34.874220+00:00",
+    "ff2a8f179c50056d": "2026-06-28T15:19:34.874220+00:00",
+    "be19ee838beca20a": "2026-06-28T15:19:34.874220+00:00",
+    "b080d648977e68d8": "2026-06-28T15:19:34.874220+00:00",
+    "cf962346ef7f8da9": "2026-06-28T15:19:34.874220+00:00",
+    "0201d7635bf46e30": "2026-06-28T15:19:34.874220+00:00",
+    "9b5777f57afac866": "2026-06-28T15:19:34.874220+00:00",
+    "f55879c2886a295a": "2026-06-28T15:19:34.874220+00:00",
+    "7080b93645bb4556": "2026-06-28T15:19:34.874220+00:00",
+    "b1f3e0e0310926f0": "2026-06-28T15:19:34.874220+00:00",
+    "5feaed3160118c24": "2026-06-28T15:19:34.874220+00:00"
   },
   "yesterday_items": [
     {
@@ -2457,6 +2452,86 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTGk1OURZTkIzXzJVOW1LLXc1WkxHa1g3MTZ2Z3dKZzBsa3VoN280NjZoelhDYjdadW5RLWpDb0twY0g2MTVlMnMtUFJZS1HSAU9BVV95cUxPTkxpNTlEWU5CM18yVTltSy13NVpMR2tYNzE2dmd3SmcwbGt1aDdvNDY2aHpYQ2I3WnVuUS1qQ29LcGNINjE1ZTJzLVBSWUtR?oc=5",
       "pub": "2026-06-27T14:56:00+00:00",
       "id": "3ae04327947675d6"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Play Day today!",
+      "link": "https://www.reddit.com/r/bassoon/comments/1uhy4mn/play_day_today/",
+      "pub": "2026-06-28T14:03:10+00:00",
+      "id": "ff2a8f179c50056d"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "KlyTrading Alerts Join The Trading Discord Server",
+      "link": "https://www.reddit.com/r/KlyTrading/comments/1uhxa8k/klytrading_alerts_join_the_trading_discord_server/",
+      "pub": "2026-06-28T13:26:41+00:00",
+      "id": "be19ee838beca20a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "রপ্তানি আয়ে বড় পতনের মুখে পোশাক খাত - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kSnluZEdVWnNxZHlZNDBvQmVub2RpSE5kSkJ5c3NnUmFmZnZfS0xVXzY1d3VxUWdfd2lVcG9EbVQ3aDRrcWFkaFQ5bDZtRUJDSUM2UGZ3QQ?oc=5",
+      "pub": "2026-06-28T11:15:55+00:00",
+      "id": "b080d648977e68d8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দুই বছরে বন্ধ ৪৫৭ শিল্পপ্রতিষ্ঠান, বেকার হাজার হাজার শ্রমিক - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CaE9fdTIxNzlJbS01U1ZrMGEtTXJNVGItUG5NUUxacE5yY1JXb1YzRVJsdXJzRlQtSmxZbGJ6UFI5WUp3TVhLLUVhUGR3SHdwSUVheGxNWlpXUQ?oc=5",
+      "pub": "2026-06-28T09:50:00+00:00",
+      "id": "cf962346ef7f8da9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দুই বছরে দেশে ৪৫৭টি শিল্পপ্রতিষ্ঠান বন্ধ, কর্মসংস্থান হারিয়েছেন হাজারো শ্রমিক - DesheBideshe",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNTjVnSktBTmtSUnJoVDRHbFVpZm9HS20tZmp6WmZzMDhNUmFnWVNuZmVjNi1yaVlYeElyNjB4aTVRbXpZTXI5aFF4OF84Y2Roa1EyNlVmLUxnR1NDQnhSc2VpTXhhZUtjVE9EMTRPb3RxQjB1a2hYVU15NzNfOWVDcGE1aVo3dkRzaGFtR0JZbVM1X2wxU1dWa0RLMTFoM0djWnJrZzRTYVdKX3VrYzlLTVFuOXBxbGpnallOblVpRld5UlFXVWJwcVVxODRMNGRTLS1SMjlRX0QwdTJkZmREQlRoQlB1bGlXMmJ3ZmtmLXB6d0NlemZ4SEo4bTlDbE5TRExlVUtuVVhCd21XLVBORVFzRjZoc1pUTmEyQ0VFWE9ybk1EWFJPUjhZbGpoaHloZWVwVFF0MUkwM0dwLTZ5X2RwUGg4dFQzUWR5amZSbw?oc=5",
+      "pub": "2026-06-28T06:29:55+00:00",
+      "id": "0201d7635bf46e30"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "২৯ কোটি টাকার বকেয়া আয়কর একসঙ্গে পরিশোধ করল বিএসসিএল - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdVZfbmxreWhiNmFZVm81RjhfZ3l0UU1ub2psZERQdlAyel8zSjNjOS1RdzVlR2tZTDZ5SXJSc1JzSTBLbVpBR2Q5WTJ2NnZyck9vVHRRYzRsOVpsdDhuWDFBQzZRQjFm?oc=5",
+      "pub": "2026-06-28T12:31:54+00:00",
+      "id": "9b5777f57afac866"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিনিয়োগবান্ধব পরিবেশ গড়তে দ্রুত সংস্কার করছে সরকার - কালবেলা",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RjF0dGdOUHoxOHVQa0lQSkN5Wmt2MF85Ujk1TWxjWFdPQ2RZeEVQbjBqT3E3cmRyRThrTnZ3VjlaNHRCR2UxcVhnSWF4cWtoRDFmb3c2eFpiVEUzQXl3?oc=5",
+      "pub": "2026-06-27T21:01:13+00:00",
+      "id": "f55879c2886a295a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিনিয়োগবান্ধব পরিবেশ গড়ে তুলতে দ্রুত সংস্কার কার্যক্রম বাস্তবায়ন করছে সরকার - বাণিজ্যমন্ত্রী - দ্যা নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQlNlblJkZ0Q1cGdVWXZscWpVWk5WMmI5VEFzeEg2d2w4VVlBMHBVSzBMWTRHZDBmUzlHb1c1aTQ0c2ZwdURMX1huNEFGekhrNFJzbHEzZU5LMWExYzBuZUthVTJLWjhkRklRN0hhaDFJd0RuVndnTDZSNFBheUxfcFdNRWtBd1drUmJRMGdjR2poZWJFVG0wdk1BX2VTQlRIYWNjdllISmFTQ2EtekdubG1HdmlNemdpTHgzVGo5R1E3cjlHT2RKNDJvTGlRMjA1bkZXQTkzaS1uYXl3LXlaLWVZbHFZbnBjU1lvUURacGZ5ZVpCc29VM1M1ZVZKcmowRnNtTElfM3NadlMxbkRxTVNCYXFPOUx3OHRHQW02WFhhbEM1bEVkYjUtd2ZYQUp6aVZPUkxHbGhNakRpU05nZ1o5eGo?oc=5",
+      "pub": "2026-06-27T15:50:00+00:00",
+      "id": "7080b93645bb4556"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বুয়েটে ২০২৫–২৬ শিক্ষাবর্ষের নবীন শিক্ষার্থীদের পরিচিতি সভা অনুষ্ঠিত - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc2g2YWZzeDVNV0p3dXJybVl4cFNEYlJMdUlFdWgyb29aQmR6d1E0d3RTbTVOdTQ4dEJ3djhXZXJjZElyLTVTR0tXTzc1UzdnRnI3MzNibkFreXZ2U3VGT3Fva2toRkdv?oc=5",
+      "pub": "2026-06-27T15:20:25+00:00",
+      "id": "b1f3e0e0310926f0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শিল্প খাতে সংকট, দুই বছরে বন্ধ ৪৫৭ প্রতিষ্ঠান - sharenews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CcThoTV9jc2l3Ui1CMmtGczd2MTM3V1hzS2RoV3k2eWVvcnlSbk5Ua3F4cUN5eXZYTXNYR3JnUjF5WW5xM21SQnFYOGNjX2U5WWVhcTFOeWgzckhjRmc?oc=5",
+      "pub": "2026-06-28T06:28:47+00:00",
+      "id": "5feaed3160118c24"
     }
   ]
 }
