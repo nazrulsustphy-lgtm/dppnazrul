@@ -1,31 +1,5 @@
 {
   "seen": {
-    "b60a4aa29589e89f": "2026-05-30T15:10:57.187579+00:00",
-    "04a0f3fc18925e53": "2026-05-30T15:10:57.187579+00:00",
-    "2f62dcf86a9a15a4": "2026-05-30T15:10:57.187579+00:00",
-    "fb8f4e220f7b6817": "2026-05-30T15:10:57.187579+00:00",
-    "cb9bc75be2a5c473": "2026-05-30T15:10:57.187579+00:00",
-    "e6b6708b40404c46": "2026-05-30T15:10:57.187579+00:00",
-    "46970b665414ebe1": "2026-05-30T15:10:57.187579+00:00",
-    "9de1524886e3eae3": "2026-05-30T15:10:57.187579+00:00",
-    "cfedf06b4958250c": "2026-05-30T15:10:57.187579+00:00",
-    "722480ebcbdceb6e": "2026-05-30T15:10:57.187579+00:00",
-    "9cab51659735ff06": "2026-05-30T15:10:57.187579+00:00",
-    "59fc663eeaaa6916": "2026-05-30T15:10:57.187579+00:00",
-    "797a616d0aaff174": "2026-05-30T15:10:57.187579+00:00",
-    "e9938850050c9e62": "2026-05-30T15:10:57.187579+00:00",
-    "b8fe83a56c6f3373": "2026-05-30T15:10:57.187579+00:00",
-    "4af5870ba311d0bb": "2026-05-30T15:10:57.187579+00:00",
-    "ae79b8f0c23b3576": "2026-05-30T15:10:57.187579+00:00",
-    "7d54660e4ad87c0b": "2026-05-30T15:10:57.187579+00:00",
-    "79d64d106aa9efb4": "2026-05-30T15:10:57.187579+00:00",
-    "41b80518fdceec17": "2026-05-30T15:10:57.187579+00:00",
-    "a2e3b4bc3ae40168": "2026-05-30T15:10:57.187579+00:00",
-    "61a1ead3dcf48cfc": "2026-05-30T15:10:57.187579+00:00",
-    "d60b851d27d6c2e9": "2026-05-30T15:10:57.187579+00:00",
-    "4c3b0f3def206d3c": "2026-05-30T15:10:57.187579+00:00",
-    "d8002301b55db9b3": "2026-05-30T15:10:57.187579+00:00",
-    "5fe1469a00dbead0": "2026-05-30T15:10:57.187579+00:00",
     "177c80e13777ea2a": "2026-05-31T10:18:19.261584+00:00",
     "71232806b837b7a7": "2026-05-31T10:18:19.261584+00:00",
     "827a9bca701cdabf": "2026-05-31T10:18:19.261584+00:00",
@@ -2319,7 +2293,34 @@
     "1bd1f75248c60021": "2026-06-29T12:37:12.561011+00:00",
     "a070e9e92906743c": "2026-06-29T12:37:12.561011+00:00",
     "4d8d5860aeac27f7": "2026-06-29T12:37:12.561011+00:00",
-    "6869ad13a6b4cd20": "2026-06-29T12:37:12.561011+00:00"
+    "6869ad13a6b4cd20": "2026-06-29T12:37:12.561011+00:00",
+    "627c535e0d418ca6": "2026-06-29T16:53:33.400615+00:00",
+    "c9f0c7e112e84dd7": "2026-06-29T16:53:33.400615+00:00",
+    "5feede108cb8d85d": "2026-06-29T16:53:33.400615+00:00",
+    "a222963a91c83473": "2026-06-29T16:53:33.400615+00:00",
+    "63bbdf7b0f8f1c2b": "2026-06-29T16:53:33.400615+00:00",
+    "97e8a99e88872ffd": "2026-06-29T16:53:33.400615+00:00",
+    "4a65c01828b0cbc4": "2026-06-29T16:53:33.400615+00:00",
+    "507bc167f447aebf": "2026-06-29T16:53:33.400615+00:00",
+    "32e2f0e40ff3e1e2": "2026-06-29T16:53:33.400615+00:00",
+    "30993855833c4e2f": "2026-06-29T16:53:33.400615+00:00",
+    "b6b3085ec037274c": "2026-06-29T16:53:33.400615+00:00",
+    "44523982eb49fa3c": "2026-06-29T16:53:33.400615+00:00",
+    "63afdf937d091fb2": "2026-06-29T16:53:33.400615+00:00",
+    "7c724878abf880b9": "2026-06-29T16:53:33.400615+00:00",
+    "f6bb671a9144de5e": "2026-06-29T16:53:33.400615+00:00",
+    "7ef7716013c5408b": "2026-06-29T16:53:33.400615+00:00",
+    "9994a40ba040b0a7": "2026-06-29T16:53:33.400615+00:00",
+    "1bc779b586583cbb": "2026-06-29T16:53:33.400615+00:00",
+    "d59cb430ae6be571": "2026-06-29T16:53:33.400615+00:00",
+    "b3e25432f164084d": "2026-06-29T16:53:33.400615+00:00",
+    "b370ed0f99cb729d": "2026-06-29T16:53:33.400615+00:00",
+    "f33f3f941389ba81": "2026-06-29T16:53:33.400615+00:00",
+    "6ce4b604275dbf93": "2026-06-29T16:53:33.400615+00:00",
+    "f8211f7f52a5f5c3": "2026-06-29T16:53:33.400615+00:00",
+    "3067ecb04e92ed42": "2026-06-29T16:53:33.400615+00:00",
+    "63257980e8b57d01": "2026-06-29T16:53:33.400615+00:00",
+    "443a372c731e50e4": "2026-06-29T16:53:33.400615+00:00"
   },
   "yesterday_items": [
     {
@@ -2625,6 +2626,102 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INUZPS2xZUHJFcThUcjBpQVhUaVBtM01LM2pEeXFyM3o2NVJaNEVkRldKTjJNVlRXVzd3SklveGNzVHNsYjE4YWdpOHdmal9vbFJMSlhOWUZ3N1g0UHBwSW1pVmVRam5J?oc=5",
       "pub": "2026-06-28T13:01:57+00:00",
       "id": "6869ad13a6b4cd20"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Germany, France and Netherlands push EU action against ultra-fast fashion - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1cwSlp4MVRpaDR3dElmcVExN212UW5ENEN1MzBoc20zRlBmMWVYYklMQXZvQkdRVnFRRzF1MENEUUpIaW10MlZpaTk2UjdHNGZwRVNvZUlXc2s4WnlPY19ZYWRiZ2tCajFYVU43SHNkSlJycGxiSGhhYTRkS05raUJHMkE3eWk1MUp3X2lzTkdIRENRT2gtQjNsUjhnYjJvdWtMc0VJdw?oc=5",
+      "pub": "2026-06-29T12:18:47+00:00",
+      "id": "d59cb430ae6be571"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Emma the artist (and new group pov)",
+      "link": "https://www.reddit.com/r/EmmaMyers/comments/1uitf5h/emma_the_artist_and_new_group_pov/",
+      "pub": "2026-06-29T14:03:28+00:00",
+      "id": "b3e25432f164084d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Future of Bangladesh’s RMG industry: Why operational excellence will define the next decade - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2FRa3Z2T3N1UVVPZGkwWmJRek9FNXJSRmJkT29uOGlZX0V0R0d6Y19raW1lTWU2cEdyQk5Td2l4OGxsRmFvbG16NTAwMUxZekZxMlM0Sk5nUmVycVVOS2s1UGl5MEJvQ1VuaDUyTjBlUmxkcFpmUi1HUEl4ejBfLXZGWTV6RDg2S2RaNUIzTFdneUw2bmlLOUVPazl5MFZNZ3VGZ3hQUDU4WkFnTUZUUTctQlBIc3Jk?oc=5",
+      "pub": "2026-06-29T11:33:47+00:00",
+      "id": "b370ed0f99cb729d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Future of Bangladesh’s RMG industry: Why operational excellence will define the next decade - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2FRa3Z2T3N1UVVPZGkwWmJRek9FNXJSRmJkT29uOGlZX0V0R0d6Y19raW1lTWU2cEdyQk5Td2l4OGxsRmFvbG16NTAwMUxZekZxMlM0Sk5nUmVycVVOS2s1UGl5MEJvQ1VuaDUyTjBlUmxkcFpmUi1HUEl4ejBfLXZGWTV6RDg2S2RaNUIzTFdneUw2bmlLOUVPazl5MFZNZ3VGZ3hQUDU4WkFnTUZUUTctQlBIc3Jk?oc=5",
+      "pub": "2026-06-29T11:33:47+00:00",
+      "id": "b370ed0f99cb729d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ধারাবাহিকভাবে কমছে রপ্তানি - NewsNow24",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XdndsNDY4Xy1ydmlrQ2JndUhISm1zdkNnQm9JRDItcFJreVlOMWVKTDRaenBad1VQZ2hiZ3lncXN2QzRhSHMxY01lT3p5TUJxcW1IWjU2dmNCMzBLLXc?oc=5",
+      "pub": "2026-06-29T01:30:53+00:00",
+      "id": "f33f3f941389ba81"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউতে শুল্কমুক্ত বাজার ধরে রাখতে দ্বিমুখী কৌশলে বাংলাদেশ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQWXdYODA4aFNsRF9kMldYSzRiV2VSVmNUSGZnOTRRV1Y3RmozUDBpMnk0WHFnX3E1d1RDYlhWUUp2Z01uWWZsWlllX0FrZm50ZkZSQXlGaw?oc=5",
+      "pub": "2026-06-29T14:30:12+00:00",
+      "id": "6ce4b604275dbf93"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ধারাবাহিকভাবে কমছে রপ্তানি - NewsNow24",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XdndsNDY4Xy1ydmlrQ2JndUhISm1zdkNnQm9JRDItcFJreVlOMWVKTDRaenBad1VQZ2hiZ3lncXN2QzRhSHMxY01lT3p5TUJxcW1IWjU2dmNCMzBLLXc?oc=5",
+      "pub": "2026-06-29T01:30:53+00:00",
+      "id": "f33f3f941389ba81"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে শুল্কমুক্ত বাজার ধরে রাখতে দ্বিমুখী কৌশলে বাংলাদেশ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQWXdYODA4aFNsRF9kMldYSzRiV2VSVmNUSGZnOTRRV1Y3RmozUDBpMnk0WHFnX3E1d1RDYlhWUUp2Z01uWWZsWlllX0FrZm50ZkZSQXlGaw?oc=5",
+      "pub": "2026-06-29T14:30:12+00:00",
+      "id": "6ce4b604275dbf93"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "গাজীপুরে ঝুট ব্যবসা দখলের চেষ্টা, কারখানার সামনে শতাধিক মোটরসাইকেল নিয়ে মহড়া - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95amxfM2dZWklIdWt3M2lWa2FtbkhidGdBLW91R3ZBZ0hHdmtsXzhUWlNvenUxbk04Wk1XRzBBQk1UU3FHWXppWjdKSkV6bmZKMGNvNk9HUVJzSlQ0WmI4Z01qaHNFT0d00gF2QVVfeXFMT2M4ZVdDR3hFOU1BRFRaMFVzejZoelFJdDdUS2g5bXh4QnlsS285c1hJYm5CLVdNN0haczBwa0UtN183MUFNdXY2TnlPdk5neFFVRmdQQlRWUDhMWWZrM2tzdjUxZ1pvbndaOHRLN2RVWFlHaGZiUQ?oc=5",
+      "pub": "2026-06-29T12:50:29+00:00",
+      "id": "f8211f7f52a5f5c3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এনবিআরের নতুন চেয়ারম্যান আহসান হাবিব - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IeHhoeWcwNm1VNVJBbFdWb21aU195VzE3bUU1MkRzQVFlS1lVeFNDWXhWVzNCLS1yaG03RTlZMzFONHBqc29BWHphVHJzczhvVWlyV0twYTMwQmZ0MWR0QWRlYVlFQQ?oc=5",
+      "pub": "2026-06-29T12:40:56+00:00",
+      "id": "3067ecb04e92ed42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এলজিইডি-ক্রিলিকের নলেজ ম্যানেজমেন্ট সিস্টেম উন্নয়নে কর্মশালা অনুষ্ঠিত - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iMmZ2OXRvZ0s3T1lSY1EzQWp6aUdSV0hQRWFEWDd3QWd0cWNRTGpOaW1tQ0p6cXRBeXp1S2hDb2JXejliN1dWV09VQWpOdUNabktJMm1CY1JNOFh5VlJPRmhnSHNqQQ?oc=5",
+      "pub": "2026-06-29T12:26:24+00:00",
+      "id": "63257980e8b57d01"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিএসইসির উদ্যোগে ‘নতুন আইপিও: প্রস্তুতি, চ্যালেঞ্জ ও তালিকাভুক্তির রোডম্যাপ’ শীর্ষক সেমিনার অনুষ্ঠিত - Orthosongbad",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMWRlOFBDSVNsM2hocHpXWHZWSUVGYXFhMFRST2NRUXgzUVgyWkZjTERvc1ByX1YtUjR4N3JCcmtETG9qdFlzcUZGbGxPSzdCbUtabm1CX0hqNVpSLVAxYUk0ZEQ1LWxjWkVLZzkwMVg5UjJwZXpUV01fY1YxbEl6TzBsOThmbGV6OHhVMGdrOFp4bm10RXh4SVp3TXdZZGFzbEIxcy1CZmM5a3g0Y09UOWRZRkhBZEg1aktuODFTaFNwbm10WlFJczlVS1I2MEZscm4wNGdBWG5FcHNwTFV3TDFKQVpEa0laQ3JQV3RQMlVmT2hGb3F1QkNNZXR5dW9UNVBPUXpYMWpNS19Kb3ZyenllSHc4UkgxS3NBYkRmNlp3bGhmX1k1SWlNUGROV3NzY1VnUm9tdDl2b3NHYndkRjR30gHCAkFVX3lxTE0xZGU4UENJU2wzaGhweldYdlZJRUZhcWEwVFJPY1FReDNRWDJaRmNMRG9zUHJfVi1SNHg3ckJya0RMb2p0WXNxRkZsbE9LN0JtS1pubUJfSGo1WlItUDFhSTRkRDUtbGNaRUtnOTAxWDlSMnBlelRXTV9jVjFsSXpPMGw5OGZsZXo4eFUwZ2s4WnhubXRFeHhJWndNd1lkYXNsQjFzLUJmYzlreDRjT1Q5ZFlGSEFkSDVqS244MVNoU3BubXRaUUlzOVVLUjYwRmxybjA0Z0FYbkVwc3BMVXdMMUpBWkRrSVpDclBXdFAyVWZPaEZvcXVCQ01ldHl1b1Q1UE9Relgxak1LX0pvdnJ6eWVIdzhSSDFLc0FiRGY2WndsaGZfWTVJaU1QZE5Xc3NjVWdSb210OXZvc0did2RGNHc?oc=5",
+      "pub": "2026-06-29T12:49:07+00:00",
+      "id": "443a372c731e50e4"
     }
   ]
 }
