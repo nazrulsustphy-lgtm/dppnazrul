@@ -1,28 +1,5 @@
 {
   "seen": {
-    "177c80e13777ea2a": "2026-05-31T10:18:19.261584+00:00",
-    "71232806b837b7a7": "2026-05-31T10:18:19.261584+00:00",
-    "827a9bca701cdabf": "2026-05-31T10:18:19.261584+00:00",
-    "f7987d52b09912df": "2026-05-31T10:18:19.261584+00:00",
-    "88fc439ddf20c73d": "2026-05-31T10:18:19.261584+00:00",
-    "57635809a907befd": "2026-05-31T10:18:19.261584+00:00",
-    "3e76f48183bd658c": "2026-05-31T10:18:19.261584+00:00",
-    "512bb74f1df94e5a": "2026-05-31T10:18:19.261584+00:00",
-    "61cc92a1999fe124": "2026-05-31T10:18:19.261584+00:00",
-    "90329c698a555ddc": "2026-05-31T10:18:19.261584+00:00",
-    "b2058b9623c90ada": "2026-05-31T10:18:19.261584+00:00",
-    "424513b623350f9e": "2026-05-31T10:18:19.261584+00:00",
-    "f0a46dfdbc0b78b3": "2026-05-31T10:18:19.261584+00:00",
-    "c0fa92f78d42c965": "2026-05-31T10:18:19.261584+00:00",
-    "b3ee2d74bdc5e395": "2026-05-31T10:18:19.261584+00:00",
-    "c588ea71ea975f0d": "2026-05-31T10:18:19.261584+00:00",
-    "9adc48b6470e131e": "2026-05-31T10:18:19.261584+00:00",
-    "8c2d932589e40005": "2026-05-31T10:18:19.261584+00:00",
-    "fc0f13c9a0f9cc4e": "2026-05-31T10:18:19.261584+00:00",
-    "3cdb56c36b60c0c6": "2026-05-31T10:18:19.261584+00:00",
-    "019b2e945e649efc": "2026-05-31T10:18:19.261584+00:00",
-    "49bc0a61806713bc": "2026-05-31T10:18:19.261584+00:00",
-    "fcdcf7c644b09d0d": "2026-05-31T10:18:19.261584+00:00",
     "ee08963485df1767": "2026-05-31T15:18:38.982226+00:00",
     "fd49afb1dc1d27ef": "2026-05-31T15:18:38.982226+00:00",
     "59095299f74974a7": "2026-05-31T15:18:38.982226+00:00",
@@ -2320,7 +2297,166 @@
     "f8211f7f52a5f5c3": "2026-06-29T16:53:33.400615+00:00",
     "3067ecb04e92ed42": "2026-06-29T16:53:33.400615+00:00",
     "63257980e8b57d01": "2026-06-29T16:53:33.400615+00:00",
-    "443a372c731e50e4": "2026-06-29T16:53:33.400615+00:00"
+    "443a372c731e50e4": "2026-06-29T16:53:33.400615+00:00",
+    "3346397eea24ce5a": "2026-06-30T11:11:58.108221+00:00",
+    "ec8f622399381602": "2026-06-30T11:11:58.108221+00:00",
+    "03b7af9d5a9e9472": "2026-06-30T11:11:58.108221+00:00",
+    "e74a81c0a3fe7fd5": "2026-06-30T11:11:58.108221+00:00",
+    "cc04a8a42b2a67aa": "2026-06-30T11:11:58.108221+00:00",
+    "56e390deddccf8c5": "2026-06-30T11:11:58.108221+00:00",
+    "19207257b69a7c05": "2026-06-30T11:11:58.108221+00:00",
+    "7d674a74e7c388fe": "2026-06-30T11:11:58.108221+00:00",
+    "ca62010eab68a118": "2026-06-30T11:11:58.108221+00:00",
+    "788972e80e543f81": "2026-06-30T11:11:58.108221+00:00",
+    "95392474bde0900f": "2026-06-30T11:11:58.108221+00:00",
+    "3a89049504beb029": "2026-06-30T11:11:58.108221+00:00",
+    "9fefe06cb30a905c": "2026-06-30T11:11:58.108221+00:00",
+    "851bf6e6d101db31": "2026-06-30T11:11:58.108221+00:00",
+    "bd4cdee3b111cafd": "2026-06-30T11:11:58.108221+00:00",
+    "11a53099a655b68b": "2026-06-30T11:11:58.108221+00:00",
+    "1cb79385df041779": "2026-06-30T11:11:58.108221+00:00",
+    "46002e26fa6a184c": "2026-06-30T11:11:58.108221+00:00",
+    "892c831b7b9c3bf7": "2026-06-30T11:11:58.108221+00:00",
+    "3f3403d2cdd1fcc1": "2026-06-30T11:11:58.108221+00:00",
+    "fea864369c5490d2": "2026-06-30T11:11:58.108221+00:00",
+    "992a647d1943b6cd": "2026-06-30T11:11:58.108221+00:00",
+    "522cbc9ed945ba78": "2026-06-30T11:11:58.108221+00:00",
+    "be3cab3da4b699ec": "2026-06-30T11:11:58.108221+00:00",
+    "240b83c4b0f1e005": "2026-06-30T11:11:58.108221+00:00",
+    "d345cea728341e48": "2026-06-30T11:11:58.108221+00:00",
+    "ea9540fa13f6f5f9": "2026-06-30T11:11:58.108221+00:00",
+    "1a9beed542b168b2": "2026-06-30T11:11:58.108221+00:00",
+    "9bf7a7ae983cf3cb": "2026-06-30T11:11:58.108221+00:00",
+    "d835b38ddb59cc70": "2026-06-30T11:11:58.108221+00:00",
+    "051539ec0ff30ea4": "2026-06-30T11:11:58.108221+00:00",
+    "091b59f8e9779dd1": "2026-06-30T11:11:58.108221+00:00",
+    "f14821ac20e654df": "2026-06-30T11:11:58.108221+00:00",
+    "aedd38cae1f0716f": "2026-06-30T11:11:58.108221+00:00",
+    "64f59d7c087c513b": "2026-06-30T11:11:58.108221+00:00",
+    "21124760ee074822": "2026-06-30T11:11:58.108221+00:00",
+    "affdddd54157ef39": "2026-06-30T11:11:58.108221+00:00",
+    "6ef97df6947432d5": "2026-06-30T11:11:58.108221+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "A Third of Clothing Labels Are Wrong. Paperwork Won’t Fix It. - Impakter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHNnRW5XUVYydVhwUkVMUTZTQWhObWxjSVc0eHl3SkZLQTFtcW4ydngtZGJVZHk0bS16VVBJT2tFNDY1UWNaTHVwXzNVRWsyb1RheENTWFdKTTFCS0RzOFlRZi16VjhHSmNna1UxRTZ2TjRWZkk0X2hUWGNwcGl4cE0tV09fSGM?oc=5",
+      "pub": "2026-06-30T10:30:42+00:00",
+      "id": "1a9beed542b168b2"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "A Third of Clothing Labels Are Wrong. Paperwork Won’t Fix It. - Impakter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHNnRW5XUVYydVhwUkVMUTZTQWhObWxjSVc0eHl3SkZLQTFtcW4ydngtZGJVZHk0bS16VVBJT2tFNDY1UWNaTHVwXzNVRWsyb1RheENTWFdKTTFCS0RzOFlRZi16VjhHSmNna1UxRTZ2TjRWZkk0X2hUWGNwcGl4cE0tV09fSGM?oc=5",
+      "pub": "2026-06-30T10:30:42+00:00",
+      "id": "1a9beed542b168b2"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Moda UE: stop distruzione invenduti e nuove regole Ecodesign - HUB Style",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlJuaHlKbzVJSGlvd2MyZVFGd0dJVFN3RTNSTTdaeUU1bEIxMi1Wb0pPS29FWlE4bTBDLXhKbjl6dGhTLUxzdmJMUU9DWTdhN0d2ZEE2RVJ6S3dDaER6b2hlVlkyakdZNHI5QV9NOW8xY21qRkpFc25DcXhjRlZfWFA0ZGh3SzlfMGNHWlhYNEd4YkJpRkNuZTRkN2NmRFlXTERCT1YzMTlaNGJhUEI1M2NEbGRiTVJld0hVLUEtR2E?oc=5",
+      "pub": "2026-06-29T15:08:33+00:00",
+      "id": "9bf7a7ae983cf3cb"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "European Fashion and Apparel Industry 2025-2026",
+      "link": "https://www.reddit.com/r/RealBusinessEurope/comments/1ujlix0/european_fashion_and_apparel_industry_20252026/",
+      "pub": "2026-06-30T10:34:47+00:00",
+      "id": "d835b38ddb59cc70"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Team Café La Leche is ready for a fun day 🙌🏻😃☕ Happy Tuesday, my friends 🥰",
+      "link": "https://www.reddit.com/r/Replikatown/comments/1ujhfa3/team_café_la_leche_is_ready_for_a_fun_day_happy/",
+      "pub": "2026-06-30T06:35:03+00:00",
+      "id": "051539ec0ff30ea4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "India emerges as major rival to Bangladesh's RMG export to EU market - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHh1dGUwSHRxWDRSVjdxWnlCUkFiY1MtSUs3alpOZ0t1WWs0SUpBQ3JFd0xRWU5UeXdvYjE4QjAzZ1Q5OWFQNmdXVXJwNnhRdktvV29yM2J0bzVnNlEyM3NqV2FwQ0xLZ205cm9xellQa0d2SVFNbzFlVXpFdE1QQUZFM29KZEctUEt5TjhzVEJYS0hDbXlaT3A2czJ3Z0RkU2ZLWGhCOEhTVmFs?oc=5",
+      "pub": "2026-06-30T02:30:10+00:00",
+      "id": "091b59f8e9779dd1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "A new frontier for Bangladesh's textile diversification - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDd2RElMNGQtMmpIVVprRjZ3alVJMWx2QXh3N1ZyWnFvT200MFNpZHNzcGY4WTBhMkd1N1NkbVUyZnQ2RkphZUFhWUhlSW01Y0lidXVacC1PZ3F6TWItVTJ1Wi1OWXZxUEVNTzljQWhpYmVFakpBXzRETEN5M3pHSHFnbTZzZDNqcTZDbGQ0bw?oc=5",
+      "pub": "2026-06-30T05:34:06+00:00",
+      "id": "f14821ac20e654df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh Garment Exports to EU Fall 19% Amid Energy Crisis and Weak Global Demand - Webvarta News Agency",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYy12ZE9NakJQZUw1YjVVRHpWWXFKcXNMa3NvT2xlNzdna1RCNkxKNzI3WUpsVW9VbkhQbjFmeWRyQ2lYbXQzOWlQQ0g2MXVCeWFfTHBlU2l1cXllaHJJUjEyYzQ2TkVsYkphUVdtMUZiY2RsUTEyVkdSeF95LWVDNHVkOHZGTGtsaFhkdU93?oc=5",
+      "pub": "2026-06-29T16:59:55+00:00",
+      "id": "aedd38cae1f0716f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "India emerges as major rival to BD's RMG export to EU mkt - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmFvREdlcGFISTZYTWZxeE9sNzBxRkNMRElMaFdfakw2UlBrZzg2S3VyUVBWXzBtS2l2Z1JVcS1ILVJjT1ZYSmVDOWx5dXgySmR0VF95MFFfYldaMW5GZWsyTktxLXp5Z0J1N3ZaNHhKS2htSC1NUk5FSGFUeVo0MjJhbjJEamhJTEhCZFg5bHR2LS1sNGkwWWVPMTdsdWJWWHJzUXZkdUk1Y2xRaXlTdm1PeXVfLVQ0aGw3ZjRGV25iRFEwcXZr0gHHAUFVX3lxTE1SYW9ER2VwYUhJNlhNZnF4T2w3MHFGQ0xESUxoV19qTDZSUGtnODZLdXJRUFZfMG1LaXZnUlVxLUgtUmNPVlhKZUM5bHl1eDJKZHRUX3kwUV9iV1oxbkZlazJOS3EtenlnQnU3dlo0eEpLaG1ILU1STkVIYVR5WjQyMmFuMkRqaElMSEJkWDlsdHYtLWw0aTBZZU8xN2x1YlZYcnNRdmR1STVjbFFpeVN2bU95dV8tVDRobDdmNEZXbmJEUTBxdms?oc=5",
+      "pub": "2026-06-29T18:00:00+00:00",
+      "id": "64f59d7c087c513b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Chinese investment proposals target Bangladesh’s recycled textile manufacturing, export infrastructure - Apparel Resources",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLWVDZ09uaEVBalkteXFGSkY2R1l2MlIwOU42UWk3VVZBUDd0YmpMX2I1ZWFjRjBic0JhM0dlVHpnN2lmQ1puTWd0a0JyWnRpRHFKYk04VVRZTjQ0MVp4VEYtRUFPQ004QktFY1VLSWxURDJDclNlaDkzZGJJM2ZSOUkxcmJfVjUzdmh3cWFsOUZZbEVZbUd3RmdINEVMVVhTU25yVjVVc0lpcEEwRWw3V2tDdnhiS000VHlCWDJkYmNHaXhOTkU0RHFhT2VpaHRDRElsYW5BYTRCczNDVG1BcXk2bEhaUk1XMWhNUkJXTQ?oc=5",
+      "pub": "2026-06-30T09:53:25+00:00",
+      "id": "21124760ee074822"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh Garment Exports to EU Fall 19% Amid Energy Crisis and Weak Global Demand - Webvarta News Agency",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYy12ZE9NakJQZUw1YjVVRHpWWXFKcXNMa3NvT2xlNzdna1RCNkxKNzI3WUpsVW9VbkhQbjFmeWRyQ2lYbXQzOWlQQ0g2MXVCeWFfTHBlU2l1cXllaHJJUjEyYzQ2TkVsYkphUVdtMUZiY2RsUTEyVkdSeF95LWVDNHVkOHZGTGtsaFhkdU93?oc=5",
+      "pub": "2026-06-29T16:59:55+00:00",
+      "id": "aedd38cae1f0716f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ-যুক্তরাষ্ট্রের পোশাক আমদানি নেতিবাচক, দুশ্চিন্তায় বাংলাদেশ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRzdMcDdXdGx0ZVIxeldzQXFURnI4RVEyRkFOOHJMTHpNN0ZhU0VBM0FlcDBOSTU5RXVGVk1nbFl4ZjllenVIQllCUmJFblHSAU9BVV95cUxPS0c3THA3V3RsdGVSMXpXc0FxVEZyOEVRMkZBTjhyTEx6TTdGYVNFQTNBZXAwTkk1OUV1RlZNZ2xZeGY5ZXp1SEJZQlJiRW5R?oc=5",
+      "pub": "2026-06-30T04:42:00+00:00",
+      "id": "affdddd54157ef39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউ-যুক্তরাষ্ট্রের পোশাক আমদানি নেতিবাচক, দুশ্চিন্তায় বাংলাদেশ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRzdMcDdXdGx0ZVIxeldzQXFURnI4RVEyRkFOOHJMTHpNN0ZhU0VBM0FlcDBOSTU5RXVGVk1nbFl4ZjllenVIQllCUmJFblHSAU9BVV95cUxPS0c3THA3V3RsdGVSMXpXc0FxVEZyOEVRMkZBTjhyTEx6TTdGYVNFQTNBZXAwTkk1OUV1RlZNZ2xZeGY5ZXp1SEJZQlJiRW5R?oc=5",
+      "pub": "2026-06-30T04:42:00+00:00",
+      "id": "affdddd54157ef39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "নভেরা আহমেদের অবদান নতুন প্রজন্মের কাছে তুলে ধরতে হবে - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81LWlBSkdBR0hpTUIyeGxKXzB2VkxKT0twVFE3VTh6ZUJySDNtWloxNlg5R1VQajNqbUZKeV9ZaWRLRm5BaGFjclJYdUVhUTJfeUkycUVWRWFPdDlT0gFqQVVfeXFMTlRvX0Q2V2tyUElyUHNZOW5paHFQR3BHTVV1RXVaWS0xVXN6MDRWQThVeFhveVdoU2J5bFdiTWxOY0dValVid2ZZVmQ3N000cUk3U003bmdCbzlWZVp6UjJhNDRRRXlwdG1Zdw?oc=5",
+      "pub": "2026-06-30T10:18:17+00:00",
+      "id": "6ef97df6947432d5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ইইউ-যুক্তরাষ্ট্রের পোশাক আমদানি নেতিবাচক, দুশ্চিন্তায় বাংলাদেশ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRzdMcDdXdGx0ZVIxeldzQXFURnI4RVEyRkFOOHJMTHpNN0ZhU0VBM0FlcDBOSTU5RXVGVk1nbFl4ZjllenVIQllCUmJFblHSAU9BVV95cUxPS0c3THA3V3RsdGVSMXpXc0FxVEZyOEVRMkZBTjhyTEx6TTdGYVNFQTNBZXAwTkk1OUV1RlZNZ2xZeGY5ZXp1SEJZQlJiRW5R?oc=5",
+      "pub": "2026-06-30T04:42:00+00:00",
+      "id": "affdddd54157ef39"
+    }
+  ]
 }
