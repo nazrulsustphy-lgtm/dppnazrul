@@ -1,27 +1,5 @@
 {
   "seen": {
-    "ee08963485df1767": "2026-05-31T15:18:38.982226+00:00",
-    "fd49afb1dc1d27ef": "2026-05-31T15:18:38.982226+00:00",
-    "59095299f74974a7": "2026-05-31T15:18:38.982226+00:00",
-    "3745009946b956c9": "2026-05-31T15:18:38.982226+00:00",
-    "48eb35a8bceb39f8": "2026-05-31T15:18:38.982226+00:00",
-    "161febac221c9ee4": "2026-05-31T15:18:38.982226+00:00",
-    "205cbba6e6788c78": "2026-05-31T15:18:38.982226+00:00",
-    "6be984fa81dff8a7": "2026-05-31T15:18:38.982226+00:00",
-    "2c43588a992a042f": "2026-05-31T15:18:38.982226+00:00",
-    "eccdf37b88cb50c0": "2026-05-31T15:18:38.982226+00:00",
-    "240de1ecdaf4f07c": "2026-05-31T15:18:38.982226+00:00",
-    "0a034560538192f1": "2026-05-31T15:18:38.982226+00:00",
-    "5e5dbb427088ca5c": "2026-05-31T15:18:38.982226+00:00",
-    "80d4953ab87e1d84": "2026-05-31T15:18:38.982226+00:00",
-    "63f2dcdf360b8e3d": "2026-05-31T15:18:38.982226+00:00",
-    "0ef2cb0e643122eb": "2026-05-31T15:18:38.982226+00:00",
-    "ae903e3b9f7df6b4": "2026-05-31T15:18:38.982226+00:00",
-    "80bf6be713e9f901": "2026-05-31T15:18:38.982226+00:00",
-    "f955742b14c3279a": "2026-05-31T15:18:38.982226+00:00",
-    "261ecf609cd42b97": "2026-05-31T15:18:38.982226+00:00",
-    "6bb275074121953e": "2026-05-31T15:18:38.982226+00:00",
-    "fe17d0caa53ccd8c": "2026-05-31T15:18:38.982226+00:00",
     "d1d9c33f1edb7aa4": "2026-06-01T13:40:01.089563+00:00",
     "9963f3c648eb02a6": "2026-06-01T13:40:01.089563+00:00",
     "eb91f4351f40956f": "2026-06-01T13:40:01.089563+00:00",
@@ -2335,7 +2313,36 @@
     "64f59d7c087c513b": "2026-06-30T11:11:58.108221+00:00",
     "21124760ee074822": "2026-06-30T11:11:58.108221+00:00",
     "affdddd54157ef39": "2026-06-30T11:11:58.108221+00:00",
-    "6ef97df6947432d5": "2026-06-30T11:11:58.108221+00:00"
+    "6ef97df6947432d5": "2026-06-30T11:11:58.108221+00:00",
+    "06418bc7ca61e52c": "2026-06-30T16:23:49.628127+00:00",
+    "5d492bf37f89fa3e": "2026-06-30T16:23:49.628127+00:00",
+    "b5ad1781e1fa1bfc": "2026-06-30T16:23:49.628127+00:00",
+    "93cb7d1f2397bf66": "2026-06-30T16:23:49.628127+00:00",
+    "3f2e29c012f4daba": "2026-06-30T16:23:49.628127+00:00",
+    "8c882034614d6d45": "2026-06-30T16:23:49.628127+00:00",
+    "445fd61d67bfcac5": "2026-06-30T16:23:49.628127+00:00",
+    "fa695fe80e52774b": "2026-06-30T16:23:49.628127+00:00",
+    "0a98aec83e6ac945": "2026-06-30T16:23:49.628127+00:00",
+    "e961a3183e7cb23c": "2026-06-30T16:23:49.628127+00:00",
+    "3591111cae8cdecc": "2026-06-30T16:23:49.628127+00:00",
+    "3771cd9750145aee": "2026-06-30T16:23:49.628127+00:00",
+    "ea4a8c26fb33b47b": "2026-06-30T16:23:49.628127+00:00",
+    "3e23a5780a1cee75": "2026-06-30T16:23:49.628127+00:00",
+    "b5d0542fcabd3a67": "2026-06-30T16:23:49.628127+00:00",
+    "2f1b84c4200f5023": "2026-06-30T16:23:49.628127+00:00",
+    "3ea80ea56d5e81f2": "2026-06-30T16:23:49.628127+00:00",
+    "70d64b24cb7de0d5": "2026-06-30T16:23:49.628127+00:00",
+    "429d505c3bea8d9e": "2026-06-30T16:23:49.628127+00:00",
+    "b64ef572c34c8484": "2026-06-30T16:23:49.628127+00:00",
+    "48ab82c2f00118b7": "2026-06-30T16:23:49.628127+00:00",
+    "3ab602603590a696": "2026-06-30T16:23:49.628127+00:00",
+    "7ba2d6628bc69842": "2026-06-30T16:23:49.628127+00:00",
+    "027c5e79e83f6329": "2026-06-30T16:23:49.628127+00:00",
+    "ea4d427dac8ef414": "2026-06-30T16:23:49.628127+00:00",
+    "9b96eafef4400ef1": "2026-06-30T16:23:49.628127+00:00",
+    "1a29e03baa93e5f5": "2026-06-30T16:23:49.628127+00:00",
+    "d44da442b3be56b6": "2026-06-30T16:23:49.628127+00:00",
+    "c823fde1e47b2ed5": "2026-06-30T16:23:49.628127+00:00"
   },
   "yesterday_items": [
     {
@@ -2457,6 +2464,54 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRzdMcDdXdGx0ZVIxeldzQXFURnI4RVEyRkFOOHJMTHpNN0ZhU0VBM0FlcDBOSTU5RXVGVk1nbFl4ZjllenVIQllCUmJFblHSAU9BVV95cUxPS0c3THA3V3RsdGVSMXpXc0FxVEZyOEVRMkZBTjhyTEx6TTdGYVNFQTNBZXAwTkk1OUV1RlZNZ2xZeGY5ZXp1SEJZQlJiRW5R?oc=5",
       "pub": "2026-06-30T04:42:00+00:00",
       "id": "affdddd54157ef39"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Taiwan Leads the Green Shift: Discover Tomorrow’s Circular Textile Solutions - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVQ2ZzlRaThGZ0NTVlhXNnZENzVPMkM3S2I5dUtvRGlpVWVqMGE4WXFISnRrWHRzclhBbHNGUDQ1OVV2emN1S0ctTDVTbWNPXzVaZ3ItTUlxaDFLWlNMVFBOM0tWMmJKWjc0U0Q5N0Z0Vlc0VTZHdGhYdFRyZHRJVm1VTzZZMVpObjdSMS1wNXFIcjFnVWF4QXJqLUJzYXp2eHFaWkdxTmdHNk9nZ1JrdTlEZU16ZFNkbU5rckNQOGlSTEs5V1prSA?oc=5",
+      "pub": "2026-06-30T15:29:02+00:00",
+      "id": "ea4d427dac8ef414"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Chinese investment proposals target Bangladesh’s recycled textile manufacturing, export infrastructure - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdm1lbmo4ZkZHSzhjNkUxTHlEREtQcTlQLTZrWnpTb1lyMm9wLW9sV1R0YWROVDlQVGlzUE9MRWdMdm80b2JxRGpzMWg0MUVZNDRPMU5Pc1NWNTBrYmRvanZPZVUxUGV5SUlDeS1BOHBDd2lCUDhmSHJCZmx4cklhWVRybjFHR1c5YS1veVlqSXFrWkhqQ1RqWXc0N2t1Nk5WNE1tYjlLbDhVZXBycGd2Qmota0NjWXAtY3dva3Q3Y05BU3NfRURSM1JqejFPc0x5SnFJOF9yYzdVazl1Nkp4aG01QXI0LXo2RnN4YzVSZ1RQSmM?oc=5",
+      "pub": "2026-06-30T10:02:56+00:00",
+      "id": "9b96eafef4400ef1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BB launches Tk 30b refinance scheme to boost export diversification - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1TSWJOaW1EdHpSNEg5OVdTY2Voc3FYZUJaa2RGbVdrQmlUMWQyQk9xaEwzMTRfcjZjbGg1bl93bG9KNmdUSkNsWHZxOG0ydjViOUJsRGVpRkswWEp2U1RhbmVCb1hTajVmbDNPSTRaV2dFZHIweWd6a0FzSnFEcElXYk1TTjJNVVE2dXlYU3E5b3FfZzdUX3N3YWc2Z0hQVHJSMHJpX2lFQVkxeDdV?oc=5",
+      "pub": "2026-06-30T10:30:11+00:00",
+      "id": "1a29e03baa93e5f5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Chinese investment proposals target Bangladesh’s recycled textile manufacturing, export infrastructure - Apparel Resources Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdm1lbmo4ZkZHSzhjNkUxTHlEREtQcTlQLTZrWnpTb1lyMm9wLW9sV1R0YWROVDlQVGlzUE9MRWdMdm80b2JxRGpzMWg0MUVZNDRPMU5Pc1NWNTBrYmRvanZPZVUxUGV5SUlDeS1BOHBDd2lCUDhmSHJCZmx4cklhWVRybjFHR1c5YS1veVlqSXFrWkhqQ1RqWXc0N2t1Nk5WNE1tYjlLbDhVZXBycGd2Qmota0NjWXAtY3dva3Q3Y05BU3NfRURSM1JqejFPc0x5SnFJOF9yYzdVazl1Nkp4aG01QXI0LXo2RnN4YzVSZ1RQSmM?oc=5",
+      "pub": "2026-06-30T10:02:56+00:00",
+      "id": "9b96eafef4400ef1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "দেশে গার্মেন্ট কারখানা বন্ধের কারণ কী? - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oa0toQ1VUTjVUSmIwaFZQMkktQ0Vtc214RFFoN05oaHZ6dTQybkVLVlhOSjZrTktfdFRZeTFVeHMzTkQ5STI3R3VoMmdsUWpxQ0RTMlFR?oc=5",
+      "pub": "2026-06-30T13:45:45+00:00",
+      "id": "d44da442b3be56b6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মুসলিমদের উপেক্ষা করে অ্যান্ডি বার্নহাম কি যুক্তরাজ্যের প্রধানমন্ত্রী হতে পারবেন - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WTjRNZXdxd1FjdVQwS18xT2diRWJFUUUwWFM5YlRSMGNTcmNtbGZtQ0wzY2ZycEpROERNbmxacWJhdlBkOGdSYlFadlA0c2QyTWthb2hsT2hFdzF1eXJN0gFsQVVfeXFMTzFoT1JCRHB4SzZHZFA4c0RIZE5lMnFHSWlMeVVDcVg0X0poLWZWQTAtNjNmNVdrWVhOMkM1Wm9BY2QyVDFwX0ZDdkY3UDBONk9JVThsYWdmMkxSVTlfWGZmbmpidGF0UEF5OERD?oc=5",
+      "pub": "2026-06-30T12:18:35+00:00",
+      "id": "c823fde1e47b2ed5"
     }
   ]
 }
