@@ -1,41 +1,5 @@
 {
   "seen": {
-    "a8ca4a7bd9e1e76f": "2026-06-12T11:45:46.604157+00:00",
-    "159f7d53a55c074c": "2026-06-12T11:45:46.604157+00:00",
-    "a59aaba74ddf341c": "2026-06-12T11:45:46.604157+00:00",
-    "253161adc6e16d1e": "2026-06-12T11:45:46.604157+00:00",
-    "85e140bab7d16f61": "2026-06-12T11:45:46.604157+00:00",
-    "1c9fb8e7feaf8711": "2026-06-12T11:45:46.604157+00:00",
-    "8903451ccf17caa1": "2026-06-12T11:45:46.604157+00:00",
-    "50c94248a882e601": "2026-06-12T11:45:46.604157+00:00",
-    "17e0334a22cc128b": "2026-06-12T11:45:46.604157+00:00",
-    "a7b2f2ce1c40304a": "2026-06-12T11:45:46.604157+00:00",
-    "177ff0532bef572f": "2026-06-12T11:45:46.604157+00:00",
-    "df1b3f7b73673c61": "2026-06-12T11:45:46.604157+00:00",
-    "82a34ea5b122b134": "2026-06-12T11:45:46.604157+00:00",
-    "74e95ed5e0fbeace": "2026-06-12T11:45:46.604157+00:00",
-    "0fed10221eee2618": "2026-06-12T11:45:46.604157+00:00",
-    "259ff76ee3f49515": "2026-06-12T11:45:46.604157+00:00",
-    "110bea02aae1d576": "2026-06-12T11:45:46.604157+00:00",
-    "f627b0eb4f7eb312": "2026-06-12T11:45:46.604157+00:00",
-    "d826a8283bddcc40": "2026-06-12T11:45:46.604157+00:00",
-    "f373b66964f65542": "2026-06-12T11:45:46.604157+00:00",
-    "b4449b0ebd9a9ff7": "2026-06-12T11:45:46.604157+00:00",
-    "ea83f74bcb26ca05": "2026-06-12T11:45:46.604157+00:00",
-    "72af98299632e8ab": "2026-06-12T11:45:46.604157+00:00",
-    "8c2036384110aed1": "2026-06-12T11:45:46.604157+00:00",
-    "4f5e05679d637cd1": "2026-06-12T11:45:46.604157+00:00",
-    "c16f1b43e0b6b8ac": "2026-06-12T11:45:46.604157+00:00",
-    "ec0a1abd378d4884": "2026-06-12T11:45:46.604157+00:00",
-    "2d04093dd4308722": "2026-06-12T11:45:46.604157+00:00",
-    "ef6d004017f4039d": "2026-06-12T11:45:46.604157+00:00",
-    "5fc2460cdede6549": "2026-06-12T11:45:46.604157+00:00",
-    "a0960115419c3ebc": "2026-06-12T11:45:46.604157+00:00",
-    "c9ee4c844f8060b6": "2026-06-12T11:45:46.604157+00:00",
-    "d22618a8b8802226": "2026-06-12T11:45:46.604157+00:00",
-    "b013a2d37bf1c9f4": "2026-06-12T11:45:46.604157+00:00",
-    "98ce6f70e275fb7a": "2026-06-12T11:45:46.604157+00:00",
-    "0d64dc354600628a": "2026-06-12T11:45:46.604157+00:00",
     "ad706d8257d6e6f3": "2026-06-12T16:45:55.488588+00:00",
     "a98f6ef5cf24c521": "2026-06-12T16:45:55.488588+00:00",
     "73cbb385cc15c927": "2026-06-12T16:45:55.488588+00:00",
@@ -2369,7 +2333,45 @@
     "0cde18b478a3cf77": "2026-07-12T09:52:48.118629+00:00",
     "edf6dbe03d51ed71": "2026-07-12T09:52:48.118629+00:00",
     "7ee99cc124832323": "2026-07-12T09:52:48.118629+00:00",
-    "8837bfba255b2cf9": "2026-07-12T09:52:48.118629+00:00"
+    "8837bfba255b2cf9": "2026-07-12T09:52:48.118629+00:00",
+    "7a13dec4d69f6bee": "2026-07-12T14:58:58.040999+00:00",
+    "fcfad921134755fe": "2026-07-12T14:58:58.040999+00:00",
+    "b3048c17ec563172": "2026-07-12T14:58:58.040999+00:00",
+    "3750f1eff11a8404": "2026-07-12T14:58:58.040999+00:00",
+    "654d57f3792d3607": "2026-07-12T14:58:58.040999+00:00",
+    "5b247dd777d2b8d2": "2026-07-12T14:58:58.040999+00:00",
+    "846a47f1c9ffdf18": "2026-07-12T14:58:58.040999+00:00",
+    "184474bcc9646b2b": "2026-07-12T14:58:58.040999+00:00",
+    "3e57bca5df2e686d": "2026-07-12T14:58:58.040999+00:00",
+    "55f373897b998908": "2026-07-12T14:58:58.040999+00:00",
+    "33be4322568a9940": "2026-07-12T14:58:58.040999+00:00",
+    "b73cb4a716fd995f": "2026-07-12T14:58:58.040999+00:00",
+    "8c6bcd5fef5b2549": "2026-07-12T14:58:58.040999+00:00",
+    "5bdd44c4223d21b5": "2026-07-12T14:58:58.040999+00:00",
+    "52042ccbb0d1dda1": "2026-07-12T14:58:58.040999+00:00",
+    "06a7330408924e39": "2026-07-12T14:58:58.040999+00:00",
+    "aafb4fc850a6cf89": "2026-07-12T14:58:58.040999+00:00",
+    "99b1cafe88d01470": "2026-07-12T14:58:58.040999+00:00",
+    "a894746ae62cd660": "2026-07-12T14:58:58.040999+00:00",
+    "89af017890980628": "2026-07-12T14:58:58.040999+00:00",
+    "c112381b52a08a60": "2026-07-12T14:58:58.040999+00:00",
+    "a85abcb8df461326": "2026-07-12T14:58:58.040999+00:00",
+    "aa485f564d930f32": "2026-07-12T14:58:58.040999+00:00",
+    "8865427672e62f15": "2026-07-12T14:58:58.040999+00:00",
+    "168eaec7f1f07c0d": "2026-07-12T14:58:58.040999+00:00",
+    "f768455340c7394e": "2026-07-12T14:58:58.040999+00:00",
+    "963f354e69a7f6cb": "2026-07-12T14:58:58.040999+00:00",
+    "b7de9a44f157313b": "2026-07-12T14:58:58.040999+00:00",
+    "a37e379bd5ff291b": "2026-07-12T14:58:58.040999+00:00",
+    "9a94f424bae59734": "2026-07-12T14:58:58.040999+00:00",
+    "de012688780a7d6b": "2026-07-12T14:58:58.040999+00:00",
+    "d2a1a2fe4db05e51": "2026-07-12T14:58:58.040999+00:00",
+    "9611be927e362bff": "2026-07-12T14:58:58.040999+00:00",
+    "c4914026edab4363": "2026-07-12T14:58:58.040999+00:00",
+    "a543a5f8b1453abc": "2026-07-12T14:58:58.040999+00:00",
+    "0991a6b57d5af756": "2026-07-12T14:58:58.040999+00:00",
+    "0cb97efe0f64f310": "2026-07-12T14:58:58.040999+00:00",
+    "504a77be8ea49dc1": "2026-07-12T14:58:58.040999+00:00"
   },
   "yesterday_items": [
     {
@@ -2539,6 +2541,150 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VWJwWmdoNER2Zy1jS3JJRm9Jc1ZQamRndm5CUWhlS0JSOWFidF9SaTJYaUQyU2RVdTZvVnhXNHZkc1RkZ24zcjFzYXJHZmxpS09uM1hn?oc=5",
       "pub": "2026-07-11T16:15:26+00:00",
       "id": "8837bfba255b2cf9"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Investigative Report: The \"independent analysts\" defending Sony's disc ban actually work for Wall Street — and the gaming media forgot to mention it.",
+      "link": "https://www.reddit.com/r/PS6/comments/1uug7zs/investigative_report_the_independent_analysts/",
+      "pub": "2026-07-12T13:57:59+00:00",
+      "id": "c112381b52a08a60"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Investigative Report: The \"independent analysts\" defending Sony's disc ban actually work for Wall Street — and the gaming media forgot to mention it.",
+      "link": "https://www.reddit.com/r/PlayStation_X/comments/1uug52m/investigative_report_the_independent_analysts/",
+      "pub": "2026-07-12T13:54:37+00:00",
+      "id": "a85abcb8df461326"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Investigative Report: The \"independent analysts\" defending Sony's disc ban actually work for Wall Street — and the gaming media forgot to mention it.",
+      "link": "https://www.reddit.com/r/PhysicalGames/comments/1uug3w6/investigative_report_the_independent_analysts/",
+      "pub": "2026-07-12T13:53:19+00:00",
+      "id": "aa485f564d930f32"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Investigative Report: The \"independent analysts\" defending Sony's disc ban actually work for Wall Street — and the gaming media forgot to mention it.",
+      "link": "https://www.reddit.com/r/PlayStation_X/comments/1uug3bc/investigative_report_the_independent_analysts/",
+      "pub": "2026-07-12T13:52:38+00:00",
+      "id": "8865427672e62f15"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "গাজীপুরে বন্ধ হলো ৮ হাজার শ্রমিকের কারখানা, কারণ কী - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wdWVweGhHSURYYU5oanQyVThjd3N6aWVLY0dtUjVaZnIzdXBxSE9WbENMcFZvTXNvY2Q5NHkyeU5nMTd2dF9xcWpTTkRWWlpmaEF5cWRtMmJjaXFlc0dQdjdRQTRpR2Ru0gF2QVVfeXFMT1VreklhOEtmRTlZRWxQOFh3eDhYNFg4ekRVNDRWSjVjZHNENklKcE1FWEZnYTFwcmFKSGxaZ3pNVVRHY0d1bDlicXlkbk1xcWhDS1Q3RVFRWHhDYzd4YkdVQW51REQzbERwS1A4YkU2Yy04cm5SUQ?oc=5",
+      "pub": "2026-07-12T08:57:54+00:00",
+      "id": "168eaec7f1f07c0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চীনা বিনিয়োগ ও প্রযুক্তিগত সহযোগিতা বাড়াতে বিজিএমইএ-ওকাইব বৈঠক | বাণিজ্য | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUTJNQlhxN2ZaUjJIbENXTThGc296RTgtTGVCb1MwTVZDRGd0Q3N5SUxmQ0Q0NFlqUi1lMWExeERMZE9vcndqSVB5RktKRjgwUDBhSktR?oc=5",
+      "pub": "2026-07-12T11:23:00+00:00",
+      "id": "f768455340c7394e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ ও ওভারসিজ চাইনিজ অ্যাসোসিয়েশন ইন বাংলাদেশে এর মতবিনিময় সভা - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzYWFkNUp4NWFkeFpEdGtQTFdoeWtGRENub051VTdoMUc1N2ZYcGt3X1gtWW9xa0l1X09uai1relNLUV9HbDJ2UndVQTZOaEst?oc=5",
+      "pub": "2026-07-12T12:12:41+00:00",
+      "id": "963f354e69a7f6cb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তৈরি পোশাক খাতে বিনিয়োগ আকর্ষণে বিজিএমইর সঙ্গে কাজ করবে ওকাইব - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tc3FWVkZFb1h5SmFOLThMSDdtUHJqY1U3clJiRm9DVE05R29hbjlfZy1sWXNoSnhsbFZfLU9QWFpoNFAxZG5XOHYyNURsZDDSAU9BVV95cUxOLXNxVlZGRW9YeUphTi04TEg3bVByamNVN3JSYkZvQ1RNOUdvYW45X2ctbFlzaEp4bGxWXy1PUFhaaDRQMWRuVzh2MjVEbGQw?oc=5",
+      "pub": "2026-07-12T10:24:00+00:00",
+      "id": "b7de9a44f157313b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশের পোশাক শিল্পে চীনা বিনিয়োগ বাড়াতে উদ্যোগী বিজিএমইএ - The Daily Cosmic Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjVhdTRIdHM3dUVDbzdWNmZiZVc2LXlNTE5NTnJwSS1uc3hDV3dLbjR5NENmSFRvUXY3bFE3UkVMRFMyUVptWUZOM0tYZENxbmIxZjZnSTlOWU9ySG1valRNX1VLRGJQZlFBdFJWOWU0aEhjT2VHUFlsOUE1RWNQNHY1UnNOTE9TWlUzNk5SZnZoSGdiaHZUaUVUNURwaEhwb1NfMUkyQXQ3ZFJVeWFxNTdzcmk1Z3JTUHpuczZzUWY?oc=5",
+      "pub": "2026-07-12T07:41:54+00:00",
+      "id": "a37e379bd5ff291b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতের উন্নয়নে চীনা বিনিয়োগ ও প্রযুক্তি চায় বিজিএমইএ - BanglaPress24",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2Y0M2UzN1lXYkJMSHZ6eDJidlZhMnozM2ZCYWhXemVNSlpuc2w1TXJLOXd1LW41MW1Zak5LX29jUTBuQTQ1TnhxTkxlRkVGVFVOVFRROE9Mc3lpbEpvM0NjT2lRRmYySUVBa0FDMzIzejNHTlZha1FqMXhldzN1YXZjb0RxOUY0MlhGWWUwejJFVEgtUkE?oc=5",
+      "pub": "2026-07-12T02:25:00+00:00",
+      "id": "9a94f424bae59734"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শান্ত–মারিয়াম বিশ্ববিদ্যালয়ের শিক্ষার্থীদের বর্ণিল গ্র্যাজুয়েশন ফ্যাশন শো অনুষ্ঠিত - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GdHpMT1RIQWxjbURvNUQ3QWo5TTJqa1VBZ0dnc3FwTlNYZ0Jsa0lHM1R6dXVodEhrUlk5bG1oZXRISG93RHh0Zy1KR0hTN01KcndJejdra3BkTzAxeVh0QXhBbm9CRTFlSUthdGVsbE5JZ9IBckFVX3lxTE9GdHpMT1RIQWxjbURvNUQ3QWo5TTJqa1VBZ0dnc3FwTlNYZ0Jsa0lHM1R6dXVodEhrUlk5bG1oZXRISG93RHh0Zy1KR0hTN01KcndJejdra3BkTzAxeVh0QXhBbm9CRTFlSUthdGVsbE5JZw?oc=5",
+      "pub": "2026-07-12T12:28:00+00:00",
+      "id": "de012688780a7d6b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ কারখানায় বিনিয়োগে আগ্রহী চীন, পোশাক খাতে নতুন অংশীদারত্বের সম্ভাবনা - Risingbd.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KLVhnaVJ3NlRuZW8xWmNYVGE3Z3gzWWI2NDVtLUNKemRDY183VHNfU3UyRmVPWGdjQ2FFX1plRkh5SS1UU2RWZ3dUOWRwQnNjTmfSAVJBVV95cUxPSi1YZ2lSdzZUbmVvMVpjWFRhN2d4M1liNjQ1bS1DSnpkQ2NfN1RzX1N1MkZlT1hnY0NhRV9aZUZIeUktVFNkVmd3VDlkcEJzY05n?oc=5",
+      "pub": "2026-07-12T12:20:00+00:00",
+      "id": "d2a1a2fe4db05e51"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতে যৌথ বিনিয়োগে আগ্রহ চীনা উদ্যোক্তাদের - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVURpZHIwc1dVc3o2SkxvcDdmbmhRRW05QU9kQmItM0FhMVhqaDMzdUREZ05UeThwRmlScElZazhnbWtLLUFSbFY5OVRLRVBvbVhPOW5PQXMtMXB4dTZuQU9sdDl4U1hDLXZVM29uaFpNdnBRUjZFdWNJRnZPYm9wY3JubHhOS3MtNXRqV2ZNZjU0UDBVSnpxNFVHWUJTalpyQnY3aUFCZlQ0aGxiLTNEWFUyX1o?oc=5",
+      "pub": "2026-07-12T10:02:00+00:00",
+      "id": "9611be927e362bff"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "‘ফটিকছড়ি উত্তর’ উপজেলার সদর যৌক্তিক স্থানে স্থাপনের দাবিতে ঢাকায় মানববন্ধন - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxQZ3dsaHB2MGJVb3h3N3pESUVLQ0lHTk5qZHpHZGFQdUpESGNVVFE2RmZqb0Frb1F1QW1HZjJ2NTFQa3pXOW8wdGlFOVppd25qTXBpcFM4TjlLNTJZazBZNWE3QmI3dE5SOHc4R3QzQzhUTjZQLUU2UWN3UmpaNG8zbnNsWVFTRncxSG4wNS1hRmM3WnVCel9uMDJVLXA2STR6M1JNVVZNYlJVYURiWllHNmdQTGowdnNKdTVwNGNpUm9STjFXaDdTTGt1aXR0c1o5WldLWDFvV0lOdHhyR184TTJwUzh2MlZ6U0c1bExvWXRDZGJidjVwMmRrSnlpekFUVUdDZ1pnbi0tTEVkMDd0MXVDZzJEc2ZldjA4WGFGbTg2c0tlaHRLaHRCcDQ5eXRIcF8wV2Vfa1ZIUlp4S2E0QjRHZHpGdmxWNDVmS0ZJZ0lVMGtiS1ZWc0tWMFVSaGRZTlNXQ2duTC0wZjMyM2ExbllTNkJKcDdFekwzZlR1aWEtaElub2VOdkpBNWRoSmh2NmNnX1Bic25Hb0hCRG9zdGltLXVjNGpfb09Va0t5MldUZzNYOVRiWEZ3OXVCYzkwaVlyTlE4bnFxd1FrMXQ3bHFTOWpfbEFzdkZmaXNvbUlXX2FIZkNWb0RsV1dGWmVMQm84clNicFcwQ3dlLTc4YVpFRHJIZEQweDlFZ1hmcW16MkxkNWphaVV30gGfBEFVX3lxTE9vU1NrVURabXhxWGlZSTBWOWYzM09ERjRyQWFndzNlMV9kNC1kdkEySVVHN0ZRQ3dza2x0ZGpfa3N3aXYyM3dNc19paDVPM1psSFRrYWFleWRCWlplRDhtd0hBWnFoOUY0c3JDRmJlTmZmRV9fQWdBWFBEWVZPMzZ1SGFkckVEMnVBemhxZ2xydDI0UnBKOVVkYnZZQlBaVmJQcnoyb05yYWN3ZE5rRDlOWm5YWGxTVWYtZEV4RVlVVXlzdER0MWVWQ05JZEt5SWhralVVcExMNTVSQlYxYkV4d3BHUTh2aS1nbFV4TUtlY0MzTTlFdXNVSDEtdEd0bERLeEJSRGJ5eDdIRDBnUjhTb0piQWEtQmp0YXdOdGpxM19PZWQ1eDJLNmpidVQ1TmUwS1g4TXhUT0hkMGFMby1vcERudmw0OWh2enh6N2RoRzNESzg2bW1ScXRIMG5WbnE3X3gwVF9rMzBXbjRycm9MRGtKLUhsVElWX29HaUh1NnkxWmk4OEFBamZVLVpnVjg1aUFVandzUGVXZnZLTzBIUUxiTjlKVzVrSm9UR1ZQMDFJZ2RJNU4tZ0NYQ2MxdkVCWVpLVm5MZmlUNll5UTdobDlReWhOX3dfRVZmYkhEWWN2V3VVUG1RT0k4SE4xaVcxSm4zRlhCdFFVY2ZaOF9qX1QzZ0hzVkgtNlZOdFY1S01xTG5iUEZUOXNYWk1law?oc=5",
+      "pub": "2026-07-12T13:43:35+00:00",
+      "id": "c4914026edab4363"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বস্ত্র খাতে প্রণোদনা বাড়িয়ে ৫ শতাংশ করল বাংলাদেশ ব্যাংক - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YVnFzdDlIMzhlcGpPRmIzdVpXUlRoa2poSmliWWthRl9iY0p1c2JZdkhmR1pMQ29VQkNQb0xWU2wzbVlnVmFPM0pGYWhMaVFLZnJWdHp1S1FtaHlwb0hoY01B?oc=5",
+      "pub": "2026-07-12T12:33:53+00:00",
+      "id": "a543a5f8b1453abc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতে নগদ সহায়তা বাড়ালো বাংলাদেশ ব্যাংক - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtTGs2Q2Jub0MwTGpHRUd4MGEyS08yX2JFZkp6bkU3VnVteE9RZ3Z3VTA4OHFVTTUwV2JDRDc0enlDZ1RseTJ4TW1CeFFfTGfSAU9BVV95cUxQLUxrNkNibm9DMExqR0VHeDBhMktPMl9iRWZKem5FN1Z1bXhPUWd2d1UwODhxVU01MFdiQ0Q3NHp5Q2dUbHkyeE1tQnhRX0xn?oc=5",
+      "pub": "2026-07-12T13:04:00+00:00",
+      "id": "0991a6b57d5af756"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দুই বছরে বন্ধ ৫০০ পোশাক কারখানা, কর্মহীন দেড় লাখ শ্রমিক - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sbks3VS1mTjJpbkhlN3lLMnpVQm9MaXFGOXU1d2pTWFRZUUxXZnhnd3M3aEUtdEN1eDN4ajlOTFZwWmo2MmFrSkdfeUEwY25RMXdFTGRhWWlPeDQ?oc=5",
+      "pub": "2026-07-11T16:31:00+00:00",
+      "id": "0cb97efe0f64f310"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ পোশাক কারখানায় বিনিয়োগে আগ্রহী চীনা ব্যবসায়ীরা - bdtoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMmJIWXZiMWt4MHhHWTlqU1pMdDV6MHozSUJ1VjR3ZUlPVGZDZzBoMGxabUdteVdWRlhEdXVwWVRCVVJYQjlTUGF3RQ?oc=5",
+      "pub": "2026-07-12T12:07:00+00:00",
+      "id": "504a77be8ea49dc1"
     }
   ]
 }
