@@ -1,39 +1,5 @@
 {
   "seen": {
-    "b3aaad799654750b": "2026-06-20T15:46:22.692058+00:00",
-    "a4cc73a9bbee6bb9": "2026-06-20T15:46:22.692058+00:00",
-    "7e678ad979b9163a": "2026-06-20T15:46:22.692058+00:00",
-    "0f4290e787e2f820": "2026-06-20T15:46:22.692058+00:00",
-    "029fa1e7fa393071": "2026-06-20T15:46:22.692058+00:00",
-    "867cacd65c4322a3": "2026-06-20T15:46:22.692058+00:00",
-    "5892435b97582236": "2026-06-20T15:46:22.692058+00:00",
-    "5c8cdc148d4e62ba": "2026-06-20T15:46:22.692058+00:00",
-    "b398ce7b30d2a22e": "2026-06-20T15:46:22.692058+00:00",
-    "51b4ab971de1cc72": "2026-06-20T15:46:22.692058+00:00",
-    "35d5ea1252b06c45": "2026-06-20T15:46:22.692058+00:00",
-    "7fefacb49d1643ae": "2026-06-20T15:46:22.692058+00:00",
-    "fb95efc26cce0e20": "2026-06-20T15:46:22.692058+00:00",
-    "f9412b0fc3d00b98": "2026-06-20T15:46:22.692058+00:00",
-    "914f207f54c5de86": "2026-06-20T15:46:22.692058+00:00",
-    "886f44565ba142c8": "2026-06-20T15:46:22.692058+00:00",
-    "18e8313979c3c0d2": "2026-06-20T15:46:22.692058+00:00",
-    "7a2326cbf071cc43": "2026-06-20T15:46:22.692058+00:00",
-    "f98bc7034611bfb5": "2026-06-20T15:46:22.692058+00:00",
-    "bb253ba065a75068": "2026-06-20T15:46:22.692058+00:00",
-    "4eb2f65f595b7175": "2026-06-20T15:46:22.692058+00:00",
-    "0401eab342061c5e": "2026-06-20T15:46:22.692058+00:00",
-    "f2eb193daf120b50": "2026-06-20T15:46:22.692058+00:00",
-    "bcc1842e3e2d19d5": "2026-06-20T15:46:22.692058+00:00",
-    "6f1397dff3df3bdd": "2026-06-20T15:46:22.692058+00:00",
-    "31d055efeaef3565": "2026-06-20T15:46:22.692058+00:00",
-    "9a2ae6facc3581e9": "2026-06-20T15:46:22.692058+00:00",
-    "434b99c1ed617c88": "2026-06-20T15:46:22.692058+00:00",
-    "2e29b924a440d2ba": "2026-06-20T15:46:22.692058+00:00",
-    "4a42355294c49ffb": "2026-06-20T15:46:22.692058+00:00",
-    "46aef2dea5561bed": "2026-06-20T15:46:22.692058+00:00",
-    "021d9fb3be511bb5": "2026-06-20T15:46:22.692058+00:00",
-    "658720d25f38f6bb": "2026-06-20T15:46:22.692058+00:00",
-    "9b48ee46016d7396": "2026-06-20T15:46:22.692058+00:00",
     "5259c182ce5cee4b": "2026-06-21T11:18:22.183818+00:00",
     "11397ea6356a0015": "2026-06-21T11:18:22.183818+00:00",
     "6a186cc6dde7696e": "2026-06-21T11:18:22.183818+00:00",
@@ -2454,7 +2420,51 @@
     "ad8f379b34bd4b57": "2026-07-20T10:54:36.289477+00:00",
     "b6586d3c81fb423d": "2026-07-20T10:54:36.289477+00:00",
     "92affce703350cd6": "2026-07-20T10:54:36.289477+00:00",
-    "362612db62f1f308": "2026-07-20T10:54:36.289477+00:00"
+    "362612db62f1f308": "2026-07-20T10:54:36.289477+00:00",
+    "ee3d8891f3376659": "2026-07-20T15:52:50.936988+00:00",
+    "2591c72c4ae999b4": "2026-07-20T15:52:50.936988+00:00",
+    "e4784ede461ae872": "2026-07-20T15:52:50.936988+00:00",
+    "bd77027a5dfa1f8c": "2026-07-20T15:52:50.936988+00:00",
+    "c3f937111aeb1a8f": "2026-07-20T15:52:50.936988+00:00",
+    "4dab31ca37c31a19": "2026-07-20T15:52:50.936988+00:00",
+    "04e8e67e93327f06": "2026-07-20T15:52:50.936988+00:00",
+    "4ba5dafb2986b32d": "2026-07-20T15:52:50.936988+00:00",
+    "8439e3e9b3269437": "2026-07-20T15:52:50.936988+00:00",
+    "ba4a9b622f9d68a3": "2026-07-20T15:52:50.936988+00:00",
+    "0db0dbac9dc437df": "2026-07-20T15:52:50.936988+00:00",
+    "399198a6a2824508": "2026-07-20T15:52:50.936988+00:00",
+    "87f114c27f91b66d": "2026-07-20T15:52:50.936988+00:00",
+    "5ca5d39989a1f12f": "2026-07-20T15:52:50.936988+00:00",
+    "c0177d7c4650c277": "2026-07-20T15:52:50.936988+00:00",
+    "e49d8b0b5b312682": "2026-07-20T15:52:50.936988+00:00",
+    "1fcdbb3a12389043": "2026-07-20T15:52:50.936988+00:00",
+    "a786e90360ca46d1": "2026-07-20T15:52:50.936988+00:00",
+    "47b46d402a2ae54b": "2026-07-20T15:52:50.936988+00:00",
+    "26e1995295295ff9": "2026-07-20T15:52:50.936988+00:00",
+    "32ef7dd950806a85": "2026-07-20T15:52:50.936988+00:00",
+    "20390c298daf6fc5": "2026-07-20T15:52:50.936988+00:00",
+    "43b164532da64d6f": "2026-07-20T15:52:50.936988+00:00",
+    "62938416c0696592": "2026-07-20T15:52:50.936988+00:00",
+    "7c7cfb2e89a67936": "2026-07-20T15:52:50.936988+00:00",
+    "132a6499ec440f3d": "2026-07-20T15:52:50.936988+00:00",
+    "7dcdc08cab1b9295": "2026-07-20T15:52:50.936988+00:00",
+    "a525c23d292e9256": "2026-07-20T15:52:50.936988+00:00",
+    "7c2e3a3c8f4958c8": "2026-07-20T15:52:50.936988+00:00",
+    "50f79f0b62a3a5ab": "2026-07-20T15:52:50.936988+00:00",
+    "de23d2a59a83de03": "2026-07-20T15:52:50.936988+00:00",
+    "e67dc36ef252d910": "2026-07-20T15:52:50.936988+00:00",
+    "de8eb7151a216556": "2026-07-20T15:52:50.936988+00:00",
+    "200f28104bb77ce1": "2026-07-20T15:52:50.936988+00:00",
+    "8edd94d25f748640": "2026-07-20T15:52:50.936988+00:00",
+    "d44d992aaf065dc3": "2026-07-20T15:52:50.936988+00:00",
+    "6f77bc71ed7874a6": "2026-07-20T15:52:50.936988+00:00",
+    "2b2ecb95e526556e": "2026-07-20T15:52:50.936988+00:00",
+    "b89a07b59bcbf1bb": "2026-07-20T15:52:50.936988+00:00",
+    "b3c200722940682a": "2026-07-20T15:52:50.936988+00:00",
+    "d9c4b483006da27a": "2026-07-20T15:52:50.936988+00:00",
+    "8a50703a92370be8": "2026-07-20T15:52:50.936988+00:00",
+    "e04119e2adc4c8ed": "2026-07-20T15:52:50.936988+00:00",
+    "46f42437ea5e246f": "2026-07-20T15:52:50.936988+00:00"
   },
   "yesterday_items": [
     {
@@ -2832,6 +2842,166 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPLXFUbFNmY2s5NVhiTkg4NzlqMjdBQXRzWi11ZTdDYXZLVXhkQ1VzbnlTVGxrM2xOeVdURmJSZ3gwU3BHeHFWNHZIbWZBTVRCUEl3Z1NB?oc=5",
       "pub": "2026-07-20T06:11:54+00:00",
       "id": "362612db62f1f308"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "ECOS warns ESPR risks over-relying on consumer data in green fashion push - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUdoUi02WWJ3dU1SMTNfRmk2VGpOVk14YkpJLTdRcFhrTExqUUwtWGRoRVlmN2VCOEVHbnF2Ymx0VHp2UXh4QzV0bUIwSnREQWtMRkJCdGRBX05HaUNGbW1vbnN0VHlsdFBXVHpMYVlzQTQydDNfR1ZLXzdYUVY4dl9Lckt5Qk8tbm5TLUduWFhTV1hZeUE?oc=5",
+      "pub": "2026-07-20T11:29:43+00:00",
+      "id": "a525c23d292e9256"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "ALADIN project aims to advance circular textile production in Europe - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0RmVndHUUNRcERIdTBSYUdxOEFhV2tFTmhFOEg1SnUxU3d5U3dCX092UHd2WWNUckhWeG5UanFPNlM0d0dMcTJwUllVTjB2Z1YwbW5Qa18zc3FtVUtwc29EUG8xbGU3eExKSDZpLVRUNjZiSmNNTGQ5SFZvaHREV0Ytal9qZUFCT2tibzNtSnJsMDBqSi1aMVpJYm5MZw?oc=5",
+      "pub": "2026-07-20T11:27:27+00:00",
+      "id": "7c2e3a3c8f4958c8"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "ESPR Establishes Strict Ecodesign and Digital Product Passport Rules for Apparel - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZelQ2TEQ2NkpZUEJrSkVOUFJtUy1tNmxiT0FpMjlBSmt1dl9ab0ZFVDNMal8zb0VVY0VrbjlPZ2ZlQ1NOVHhIakVScFV5eU1odlc5bndtUGs3TFE3aC1sa2RicUVQSm1tVkprQmhhQVoyend3SGhRMw?oc=5",
+      "pub": "2026-07-20T11:41:39+00:00",
+      "id": "50f79f0b62a3a5ab"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "What Is the EU ESPR Ban and How It Affects Kenyan Textile Exporters - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVNxMEE2UllZMW41N2kzOTd5a0hFWi0yRWFPSGNRTHVTdjNXaTBFUU41U054RFdmT0xvU1VlZnppQ1E1blhiTlpqa19MdFlkMGduVWJOQlNZTTNFTllxbjlNeEZvSTJVQ01yNHYzM3VFRmhFQzB5Sk9qaFR3M0RkWmVFSlBtY2pKMEZrMTJ1QjR0QVoxQVB6d2dvWlprWXRzaW1z?oc=5",
+      "pub": "2026-07-20T06:51:20+00:00",
+      "id": "de23d2a59a83de03"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "ECOS warns ESPR risks over-relying on consumer data in green fashion push - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUdoUi02WWJ3dU1SMTNfRmk2VGpOVk14YkpJLTdRcFhrTExqUUwtWGRoRVlmN2VCOEVHbnF2Ymx0VHp2UXh4QzV0bUIwSnREQWtMRkJCdGRBX05HaUNGbW1vbnN0VHlsdFBXVHpMYVlzQTQydDNfR1ZLXzdYUVY4dl9Lckt5Qk8tbm5TLUduWFhTV1hZeUE?oc=5",
+      "pub": "2026-07-20T11:29:43+00:00",
+      "id": "a525c23d292e9256"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "ESPR Establishes Strict Ecodesign and Digital Product Passport Rules for Apparel - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZelQ2TEQ2NkpZUEJrSkVOUFJtUy1tNmxiT0FpMjlBSmt1dl9ab0ZFVDNMal8zb0VVY0VrbjlPZ2ZlQ1NOVHhIakVScFV5eU1odlc5bndtUGs3TFE3aC1sa2RicUVQSm1tVkprQmhhQVoyend3SGhRMw?oc=5",
+      "pub": "2026-07-20T11:41:39+00:00",
+      "id": "50f79f0b62a3a5ab"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "From Policy to Practice: Challenges of Environmental Data Generation and Digital Product Passport Readiness for Circular Garments Under EU Circular Textile Regulation - Stockholm Environment Institute",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00eXhpUnQzRXhVYVIxLTlnVXFrODZkVDJkMjJNNm9CeGg5NjF1NFRmLWsxUlFVb3BzbXZtbkdsX3oyYmJIQVlsMVo4SFJtOTdIZEZlVUVrSWF4VTQ1enhlVDNMYUVOTFZyQXR0VHNscVdwQQ?oc=5",
+      "pub": "2026-07-20T12:51:05+00:00",
+      "id": "e67dc36ef252d910"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Large companies in the EU have been banned from destroying unsold clothing and footwear - ЭкоПолитика",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0ZzLW5QNHNITE5janJZQVdmNkpnYWZ4UUcxdzlUZnUyWXUyZHNRQ052dGhhTUs0c21QYmVPSzhQbmFCanpnV3Z6a3RQbXZveGJCWjlrTWZEemM4a3lQUjFqMFZPMjc2VXYtcVZ1QTRBN3dBTTBCWjNybkdUbkxwVExkS1I2UGpiUnpkWWlBbXAweGNZQWtiejF1amJzRmVhZ1NfazZkeXQ5azZsU19HNFV6TktBZGxubTB4UmJkZw?oc=5",
+      "pub": "2026-07-20T09:23:27+00:00",
+      "id": "de8eb7151a216556"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "ESPR Establishes Strict Ecodesign and Digital Product Passport Rules for Apparel - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZelQ2TEQ2NkpZUEJrSkVOUFJtUy1tNmxiT0FpMjlBSmt1dl9ab0ZFVDNMal8zb0VVY0VrbjlPZ2ZlQ1NOVHhIakVScFV5eU1odlc5bndtUGs3TFE3aC1sa2RicUVQSm1tVkprQmhhQVoyend3SGhRMw?oc=5",
+      "pub": "2026-07-20T11:41:39+00:00",
+      "id": "50f79f0b62a3a5ab"
+    },
+    {
+      "section": "international",
+      "source": "Just-Style",
+      "title": "ECOS warns ESPR risks over-relying on consumer data in green fashion push",
+      "link": "https://www.just-style.com/features/ecos-warns-espr-risks-over-relying-on-consumer-data-in-green-fashion-push/",
+      "pub": "2026-07-20T10:29:43+00:00",
+      "id": "200f28104bb77ce1"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "How do you protect yourself when coupled ESG standards increase personal liability?",
+      "link": "https://www.reddit.com/r/Compliance_Advisor/comments/1v1oyk1/how_do_you_protect_yourself_when_coupled_esg/",
+      "pub": "2026-07-20T15:36:40+00:00",
+      "id": "8edd94d25f748640"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Wie sichern Sie sich ab, wenn gekoppelte ESG-Normen die persönliche Einstandspflicht verschärfen?",
+      "link": "https://www.reddit.com/r/Compliance_Advisor/comments/1v1out2/wie_sichern_sie_sich_ab_wenn_gekoppelte_esgnormen/",
+      "pub": "2026-07-20T15:32:46+00:00",
+      "id": "d44d992aaf065dc3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Experts urge technological adoption for strong, competitive apparel industry - daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWNsNndpYlhONlFEU2lLVjNGTTNSYWw0Yi1KTXBlWU52VmpqU19yYlJrVE5aaURVckpFY0ZKTUNiVzBWU2NkMnVDT3YyMkJ0eTVaY0VxdHp6Q1hPUGJpbmdTVGpOMVRTUEo5RHFySU5uNUhDTlRhbUdnVUF1ZWVYdy1CcURvQ3BNUzNnVF96QlBIQW1UVUQ5eVcxU1d1SWlOdnZUcG5YMUZRY0xQVWJkM1pIcUJKdkwx?oc=5",
+      "pub": "2026-07-20T14:40:46+00:00",
+      "id": "6f77bc71ed7874a6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh Apparel Sector Seek Govt. Aid After Chattogram Port Floods - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnZOUjhiM1ZtdzczelMzdXpQWV9ZSTNjM1NCcXlFMDZKV2RVSnB1eFFIdVpWQlpYcmpldE9va21EcS1kaTNacjluVWVuR3FXcTZpMHhMQXV2X2YxSVFJLXVBWFNIT3NYQUNSTFA2Y1ZQYTU2UnRXQUVCVTNLSGlZTFdlVXkycjdnbmhhbHVtWHR5c21jaGpITWtHYWZFdFBOZDZkQk5XdkVNYnVzTDhzRElPc2QyRGNfNkxCdQ?oc=5",
+      "pub": "2026-07-19T21:15:38+00:00",
+      "id": "2b2ecb95e526556e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "IFIC Bank remains beyond government control despite one-third state ownership - Bonik Barta",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMNDEwZFF2a3JBMVlwX2dVclNuTnpkVVVLM1pDaUdILVpXT2FQbGZ6T19WcTJITjhZRXd0Q0c2NHZmamVwWkZ3dnFGV2IyUnAyNVg3SF9QTUhGNHFkQkdyLQ?oc=5",
+      "pub": "2026-07-19T22:35:38+00:00",
+      "id": "b89a07b59bcbf1bb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ-র সঙ্গে মুক্তবাণিজ্য চুক্তি না হলে পোশাক রপ্তানি হ্রাসের আশঙ্কা - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1R2VWlEUFQzRkpVSlBlN1dxRWJ2YkZnbWJUSEY4NkVrdVVBdDlXYU9qTzR6QmJ1SVdxekxleFR3b19RdDlPanRfQkdrbEpNZFlxVDFlbW5fdw?oc=5",
+      "pub": "2026-07-20T10:55:00+00:00",
+      "id": "b3c200722940682a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "স্পেনে বাংলাদেশের রপ্তানি বেড়েছে ৭ শতাংশ, সামনে অবারিত সুযোগ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAweVNsRHloZWptZERtb2V0S0JhOFVhRURPcUhkei1IWEVTTFFwb1RwNU1kWUhqeGttUzNHamdqcXF6SXQwX2RGbnNFWTdDa03SAU9BVV95cUxQMHlTbER5aGVqbWREbW9ldEtCYThVYUVET3FIZHotSFhFU0xRcG9UcDVNZFlIanhrbVMzR2pnanFxekl0MF9kRm5zRVk3Q2tN?oc=5",
+      "pub": "2026-07-20T14:15:00+00:00",
+      "id": "d9c4b483006da27a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এলডিসি উত্তরণ পরবর্তী ইউরোপে পোশাক রপ্তানি বিপর্যয়ের আশঙ্কা - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNam5pdWlLZlFZelB3NlFCenhqMER4TnZjTlRCR1JOVDdCMDRYUUFCeENDVXRrNUhsWlR2dGlfdnUxSHhqMUlRQ2dQTmdESFFuQ1J4emdFSmdMeUF2dlJkM0VuYXNBanVGTk5kTVNDdmxrakZvbm5JT0VvQng3X2hKSnhjcDBaZkJXWUtkN2NpTTRaa2dFNVV4N0V3dEJ5VmpiMXBObmhuQnB1QVlzbTc1VzgzVThCSHFucU9ad1dB?oc=5",
+      "pub": "2026-07-20T10:56:00+00:00",
+      "id": "8a50703a92370be8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "স্পেনে বাংলাদেশের রপ্তানি বেড়েছে ৭ শতাংশ, সামনে অবারিত সুযোগ - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnBmYThNSFVYOHd0TXY0dzFnQnJwYmpzX05vMXFPakZJaXozdGptYWZsM1ZxZDBwX2FDWGkzWlpMT245ODhNcEJiZ193eHJvUVE0ZXZDZkU5X1nSAU9BVV95cUxQMHlTbER5aGVqbWREbW9ldEtCYThVYUVET3FIZHotSFhFU0xRcG9UcDVNZFlIanhrbVMzR2pnanFxekl0MF9kRm5zRVk3Q2tN?oc=5",
+      "pub": "2026-07-20T14:15:00+00:00",
+      "id": "e04119e2adc4c8ed"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দায়বদ্ধতা থেকে কার্যকর প্রভাবের বার্তায় ‘সাসটেইনেবিলিটি সামিট’ অনুষ্ঠিত - Sarabangla",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwM0hreEpCYjBqTE40Z0tFbUx4WnQzWDhwR08zRUtnWDZfMFRHUlcwMmZRQUZkUkhaT01ZQWdyOWlkSGQxQXB3eWdLcXFQMmN1emNTM2lTUDcwVmdGUjVROWxBRmhLV3FVSWRZSEpRTUo?oc=5",
+      "pub": "2026-07-20T09:29:00+00:00",
+      "id": "46f42437ea5e246f"
     }
   ]
 }
