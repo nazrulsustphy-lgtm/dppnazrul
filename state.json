@@ -2496,7 +2496,320 @@
     "6bd2ec3cba6b13c4": "2026-07-22T15:43:34.121179+00:00",
     "1259e00af63d0c0c": "2026-07-22T15:43:34.121179+00:00",
     "02dbf45eb9ceecc6": "2026-07-22T15:43:34.121179+00:00",
-    "c56b03bd3f2d6e65": "2026-07-22T15:43:34.121179+00:00"
+    "c56b03bd3f2d6e65": "2026-07-22T15:43:34.121179+00:00",
+    "03c620ff949081f0": "2026-07-23T10:25:00.100556+00:00",
+    "f75833549e83a4c0": "2026-07-23T10:25:00.100556+00:00",
+    "11db3db7ffbda5db": "2026-07-23T10:25:00.100556+00:00",
+    "a3eb6e27144480a6": "2026-07-23T10:25:00.100556+00:00",
+    "fd55c3d8409f9cd1": "2026-07-23T10:25:00.100556+00:00",
+    "dded497f3eb03072": "2026-07-23T10:25:00.100556+00:00",
+    "88a6fbb1d28aea69": "2026-07-23T10:25:00.100556+00:00",
+    "838df5a24fd74f48": "2026-07-23T10:25:00.100556+00:00",
+    "1a956de37ff99418": "2026-07-23T10:25:00.100556+00:00",
+    "8d4f9d34641ad406": "2026-07-23T10:25:00.100556+00:00",
+    "a4e9437552396394": "2026-07-23T10:25:00.100556+00:00",
+    "a41ca44a9c35358b": "2026-07-23T10:25:00.100556+00:00",
+    "a582260757871e1f": "2026-07-23T10:25:00.100556+00:00",
+    "930e8c0bfecd2640": "2026-07-23T10:25:00.100556+00:00",
+    "e5c662df4fc4d07a": "2026-07-23T10:25:00.100556+00:00",
+    "632326f343864eae": "2026-07-23T10:25:00.100556+00:00",
+    "b282c5f3b6cb87b5": "2026-07-23T10:25:00.100556+00:00",
+    "ad845087e68d43fa": "2026-07-23T10:25:00.100556+00:00",
+    "b886e2e31e14f195": "2026-07-23T10:25:00.100556+00:00",
+    "24b7812a1f23258c": "2026-07-23T10:25:00.100556+00:00",
+    "3a1be8d09d36fe47": "2026-07-23T10:25:00.100556+00:00",
+    "a70797b27d4bad4f": "2026-07-23T10:25:00.100556+00:00",
+    "56140e49f42b475d": "2026-07-23T10:25:00.100556+00:00",
+    "d01aaaa4d9e3e754": "2026-07-23T10:25:00.100556+00:00",
+    "eb9f1673a67a2e51": "2026-07-23T10:25:00.100556+00:00",
+    "e033565e82fdbdb1": "2026-07-23T10:25:00.100556+00:00",
+    "d7ef9a6b4ac3268d": "2026-07-23T10:25:00.100556+00:00",
+    "f28f3e6877ef7484": "2026-07-23T10:25:00.100556+00:00",
+    "be40861af46e185f": "2026-07-23T10:25:00.100556+00:00",
+    "cd09b9f9e98d7a99": "2026-07-23T10:25:00.100556+00:00",
+    "64a63a60767a720b": "2026-07-23T10:25:00.100556+00:00",
+    "6a8edea923783080": "2026-07-23T10:25:00.100556+00:00",
+    "d3814c6b5654d2df": "2026-07-23T10:25:00.100556+00:00",
+    "ab53431ecb243a42": "2026-07-23T10:25:00.100556+00:00",
+    "fb7f314d8f7b8702": "2026-07-23T10:25:00.100556+00:00",
+    "add475de1ce62ea7": "2026-07-23T10:25:00.100556+00:00",
+    "13f314d0ccf1788c": "2026-07-23T10:25:00.100556+00:00",
+    "71c2ee0f02ea2358": "2026-07-23T10:25:00.100556+00:00",
+    "f6b4ec75764952a9": "2026-07-23T10:25:00.100556+00:00",
+    "0b8805a522781001": "2026-07-23T10:25:00.100556+00:00",
+    "00678ce90252f007": "2026-07-23T10:25:00.100556+00:00",
+    "88dbc6dd758fe508": "2026-07-23T10:25:00.100556+00:00",
+    "223a7e267294a042": "2026-07-23T10:25:00.100556+00:00",
+    "0a29b6cb42fb02e1": "2026-07-23T10:25:00.100556+00:00",
+    "96d704c1e1175a63": "2026-07-23T10:25:00.100556+00:00",
+    "b58f1f1170e2dbe7": "2026-07-23T10:25:00.100556+00:00",
+    "bb9248bbe65770b3": "2026-07-23T10:25:00.100556+00:00",
+    "c35a1c7363ddd923": "2026-07-23T10:25:00.100556+00:00",
+    "3bd52304f326a12a": "2026-07-23T10:25:00.100556+00:00",
+    "4d52b6b422a4f00b": "2026-07-23T10:25:00.100556+00:00",
+    "c3fa8e68968eaf48": "2026-07-23T10:25:00.100556+00:00",
+    "59b8a48d9fa545d2": "2026-07-23T10:25:00.100556+00:00",
+    "78f8f92b44919412": "2026-07-23T10:25:00.100556+00:00",
+    "dd34027591263934": "2026-07-23T10:25:00.100556+00:00",
+    "82ac6043264c7872": "2026-07-23T10:25:00.100556+00:00",
+    "b442324e3f32cd8a": "2026-07-23T10:25:00.100556+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "EU Commission launches Digital Product Passport Registry - INSIGHT EU MONITORING",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmx2R1RIMU9SeHJ6TmNjdDduTHV0di1OZ3RBNFVCN2htS2xTS0JJbDBld2hQQklqNnE2RGw3bnZCVlhBV1N5VnFsZjh6clhpb0c1UHlTN3QxaGxTdHZUVEZWWEZNdUs5SUhITEQ5bGhCUlB5eFdWQllYcjBSNFZ1WEtEVG9NZW5rM2hFekRqVkZjSWVXeENqY0VOX0ZYNjN2NkZDa0hfMnRQM2d1SGZnbDhhdnRkeGw5TVdHNV9IQlk?oc=5",
+      "pub": "2026-07-22T21:58:09+00:00",
+      "id": "f28f3e6877ef7484"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Supplier data gap threatens DPP rollout - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckNIY3hhUXU4Xzh6SGlJTUF1dktjaTlSdnNXbVd3LU1NTHJDdzd5cEhQLVBPZlZfZnphSF9PTHFfYmIyWjYxWFB6ZjFWbnJQYmdwY1FSMkVDN2lGLWdVcnNYVDhadFFxYzhPbTM5Tkc1LW5LOFFtVWVPZ2pEZVR2RXZBT1ExbFVxTFlWVzJvS2o2T1MwSU10aEV5TG5WMDQ?oc=5",
+      "pub": "2026-07-23T09:52:41+00:00",
+      "id": "be40861af46e185f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Supplier data gap threatens DPP rollout - Ecotextile News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckNIY3hhUXU4Xzh6SGlJTUF1dktjaTlSdnNXbVd3LU1NTHJDdzd5cEhQLVBPZlZfZnphSF9PTHFfYmIyWjYxWFB6ZjFWbnJQYmdwY1FSMkVDN2lGLWdVcnNYVDhadFFxYzhPbTM5Tkc1LW5LOFFtVWVPZ2pEZVR2RXZBT1ExbFVxTFlWVzJvS2o2T1MwSU10aEV5TG5WMDQ?oc=5",
+      "pub": "2026-07-23T09:52:41+00:00",
+      "id": "be40861af46e185f"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Meiji milk available in S&R",
+      "link": "https://www.reddit.com/r/Cebu/comments/1v45rlo/meiji_milk_available_in_sr/",
+      "pub": "2026-07-23T06:31:47+00:00",
+      "id": "cd09b9f9e98d7a99"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Digital Product Passport initiative may represent one of the strongest long-term enterprise use cases for Vechain",
+      "link": "https://www.reddit.com/r/Vechain/comments/1v3v7ej/digital_product_passport_initiative_may_represent/",
+      "pub": "2026-07-22T22:22:56+00:00",
+      "id": "64a63a60767a720b"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Digital Product Passports Will Turn Product Data into Customer Content",
+      "link": "https://www.reddit.com/r/MarketingTrenches/comments/1v3lv8n/digital_product_passports_will_turn_product_data/",
+      "pub": "2026-07-22T16:53:32+00:00",
+      "id": "6a8edea923783080"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA, GRI sign strategic partnership to boost sustainability transparency in garment sector - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0lCQ0pVRmE1RXRkWDRYTFo4elBXRkVKTzN0OTVSWjYxbVFrbDZNbnctbEdJbTdhR0xYMWh2MDMwQ1dWZS1wV0RwM3owVV9ZNUE2WUlnRWIybWNxTzhFb3FicTFwX29CTGNDRUNuNFZNaHVWc3Fad3FFeFlFNWNsQ0tlZW5KNy11N2EtNUFKenFDRmJTQmVUaGk1ZGRaMVZmeXpyTEJIaHdnaVRVNDdGcWhZYUplYkZ3TTgxQy130gHDAUFVX3lxTE5QT0gzSWlZZGpKVmNaTHRINngyRWJOYWpzTk1VUHRVTEpGeUt4Rmx5VlZseEpmRWhQZUthUi1KZWpyWk1MdUNpaDQtaV9MVkVBUFJUTjlhM0U5bmE4OC14Q3ZtRTlmUWhaemNrREV4SF8zMXZ5eGdkM250WklxOTB0QnMwdU14eTl4VTFfbmc3WTFIaWVxRXY0QjVXNllOMHNkMVZuYlVFeUtOMnp6M0NISHJveU8zNWlLUUZ6V3hiRUZSUQ?oc=5",
+      "pub": "2026-07-23T08:50:00+00:00",
+      "id": "d3814c6b5654d2df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "PM forms panel to address textile sector challenges - daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SSnpIYTBNeF9MdWFGMmZDbmpMSEdEdEQ3QkdUQ0FPSGxZcjRVU2JKNXlHZEtHWkRTamRwLWF3ZVo5YjdiNU1Hd0hzYzZvUWFCYnlnbVNJTXM?oc=5",
+      "pub": "2026-07-22T21:21:08+00:00",
+      "id": "ab53431ecb243a42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Beyond RMG: Bangladesh's leading export earners FY26 - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlIydmtPVVJpRVZpUmkyUTJySjNmOC13REVWLVdFUF9lZVNCNVpQcXpJaWhtb3VhWHFkVFJZdUxuVVd6N1pneHZQeEM2Rk9OVXpsNkQ0MnBhcUtyeWhkVjRwblhFeW80dlZRM3NqbldXcF9YSkFJOUd0cVNUZURtRkRiZHBDT0Z3VXNlRXpyU3E2RWlpSFBCd2puSF81WWdmV3fSAacBQVVfeXFMTW9odXQ5cGY5ejJYQnhXRlVfdDVFSzdfZUNrZ0xITmtjZ1luMWtGX3lZSjZIbHZxY3lBR2VvQUhIRGF4NXg2NENiMVRZS05pOXJuQWpjTmV1ZFYtRUVZdG8zNFlhcmpqczAweUdEanVmY2FoaDUxTk56YjItclRlNVBGZkpRWWkwOWM5UEJOTF8tZlpaNGM1dUgtNXZBd0k2bkIwY2QtdDg?oc=5",
+      "pub": "2026-07-23T07:50:00+00:00",
+      "id": "fb7f314d8f7b8702"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, GRI sign strategic partnership to boost sustainability transparency in garment sector - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0lCQ0pVRmE1RXRkWDRYTFo4elBXRkVKTzN0OTVSWjYxbVFrbDZNbnctbEdJbTdhR0xYMWh2MDMwQ1dWZS1wV0RwM3owVV9ZNUE2WUlnRWIybWNxTzhFb3FicTFwX29CTGNDRUNuNFZNaHVWc3Fad3FFeFlFNWNsQ0tlZW5KNy11N2EtNUFKenFDRmJTQmVUaGk1ZGRaMVZmeXpyTEJIaHdnaVRVNDdGcWhZYUplYkZ3TTgxQy130gHDAUFVX3lxTE5QT0gzSWlZZGpKVmNaTHRINngyRWJOYWpzTk1VUHRVTEpGeUt4Rmx5VlZseEpmRWhQZUthUi1KZWpyWk1MdUNpaDQtaV9MVkVBUFJUTjlhM0U5bmE4OC14Q3ZtRTlmUWhaemNrREV4SF8zMXZ5eGdkM250WklxOTB0QnMwdU14eTl4VTFfbmc3WTFIaWVxRXY0QjVXNllOMHNkMVZuYlVFeUtOMnp6M0NISHJveU8zNWlLUUZ6V3hiRUZSUQ?oc=5",
+      "pub": "2026-07-23T08:50:00+00:00",
+      "id": "d3814c6b5654d2df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, GRI sign strategic partnership to boost sustainability reporting in RMG sector - United News of Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbXBnTkpCREF4RllvXzc2MTNqR2czYTB6dHlQa3MyM3lKeW9FNkVGUWFWVE9kbDV2cnpRUGZoanhVdVo4NEs0dmptaGNMSlZ5S2tROFdoMEZpeVktY1oyWkR3TjZJcmV2OWFidkhPS0xMUHd6N3E3eHZaV2ZQeWo0d1lTNHdxT1FqOVZmeDluNVJKa2VkSDJ1V1ZFV2JSNGpuSUkyeTdiRmxiazZVdU10LVg2bGw5OTVqRnplckZYNUNWRG5NWjVVYU13?oc=5",
+      "pub": "2026-07-23T09:15:12+00:00",
+      "id": "add475de1ce62ea7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BKMEA, Swaniti propose Indo-Bangla textile decarbonisation alliance - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMmJxSlVmdTlFOTR0UnVoSFpBQzVzT19CZjFyTkdQU1VKSWRKSmhuTkdjcmRyeEVQYXJSMmNjakFpLUZIOVlKRXFoelRwYUEzb1ViUE0xaFlVVWl1eF9pY2kya3RKc1IxT2JuMDRVbDNuMWh2T096dHI2S2lTU0hXMUs0RzJOa09HLURxRjBsUHBUUjRySjczUW4wM3VXU25VQnVRQWV2eXdNdE9CQXhpbjBMNlVXM0ZqaTJPbWJZaVBPNm5MOHZDc0MxZ251Z0RFVmlLVE5UV0xKNXE1?oc=5",
+      "pub": "2026-07-22T13:01:10+00:00",
+      "id": "13f314d0ccf1788c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "PM forms panel to address textile sector challenges - daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SSnpIYTBNeF9MdWFGMmZDbmpMSEdEdEQ3QkdUQ0FPSGxZcjRVU2JKNXlHZEtHWkRTamRwLWF3ZVo5YjdiNU1Hd0hzYzZvUWFCYnlnbVNJTXM?oc=5",
+      "pub": "2026-07-22T21:21:08+00:00",
+      "id": "ab53431ecb243a42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Government prioritises energy security, technology adoption to strengthen Bangladesh's apparel competitiveness - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWk5HNERBb1RTaS1uZ2Zfczc0RlozOTZGMzV2V3FrVUNUMFdnT0kxeExlUThxMHV3VzJmZjJSbnlDZDdOa3ViZE9XX1NJLXM0Rlc3QndxNEdILUIxN0drU2Nja0szc2V4VHhURG9qSTdqbjFHUHpyVUl2dVUxbzVzbktGeW9wU1ZaRDRaUHlycFpHc2xfb0tqTUQwUGRXY2xKRkIyVEQwckNkdFBYVl9qbTU2QTFOdWRJYTN6M1dubU9kSkNpcUt5LVJmQ1I4UDhaZmU4TG1rRWJOUU5ySVpEa2NMZnA?oc=5",
+      "pub": "2026-07-22T15:18:41+00:00",
+      "id": "71c2ee0f02ea2358"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "PM assures full backing for garment industry growth - Bangladesh Post",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzNBRTRtOU5mX3ViUkVrWUhMTDBjc0poUTc0UngwaHZxV2hoa2xFeUtoS2NVdldsWXlLMElqZFpfbTg2QWFFSXFqWGJPSUJuVTROQWVmX2lnRmQ3dEY2Y05pbDhGOXZuRDRTV0dyNE9VQS0ydGgzSTlFcTRDWl9jR3NqMFJmbUNMelBhcGNVbXZCZENtMUE?oc=5",
+      "pub": "2026-07-22T22:42:12+00:00",
+      "id": "f6b4ec75764952a9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক শিল্পের জন্য প্রধানমন্ত্রীর কাছে নীতিগত সহায়তা চাইলো বিজিএমইএ - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSmY4Y2xjSnBwNWRBUnZRbHJLQWt0Z2xOVjZycWhsaGZTR1NXTGZiTEE2dmpVUnl0Sm0wZUg3bGZUZHdGM2hVUU5EbW10VzJjZUE?oc=5",
+      "pub": "2026-07-22T13:44:42+00:00",
+      "id": "0b8805a522781001"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "তৃতীয় ভাসমান টার্মিনাল স্থাপন নিয়ে আগামী মাসের মধ্যেই সিদ্ধান্ত: প্রধানমন্ত্রী - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNMUpVSG1UenRPQ0FsdVozTW0zMFJuV1VrMWdSZE1jaW5IblB5LWFfamc4LW83eXNIcUoySHpxTy1ZT2EyM19JWmRDRThHRFRCdXFsbWJmOFdZZHRQY21SYUFUVnhGZE96NEFVeWZLb2xWU05JLTNwZEF0cndUcFJNMzEwaDlJUkxlNjNwS0FQaFJrNmE0OVpDM05Kd3I2aVFaNVA4dElOQTlXLW5xd3Y3S2V2SWdKR3B0cWJIcHpMLXZPc25hcVhJRzJucGl4U3MwVnI5QksxODVfU1o4M3AyTURRcTF6S0czTnczc0ZiXzhkSTRXdWtZY2xBOXdiZWtkYXVYZVJZVDJoRGRxQk5ZVVZoSDkwWkZuZDNYZnlOay1nTTFERkhwSFhEOVYzRFI5UjdKSGVaUWk0UkdtaHlpbVliRk1qa2FUWXpCOGhBN3REMzhCWXhDV0RZUXpycURwMThQa1RwM2VqN0VrdWhQLVVwSTJDU1l2azJKWnNzTjFrd3ZZZzNndHNGRHZHZFV1c0VOdUZGUm95UDZFdEdvaTdPN19UcHBXMzltc3FCSjNsbGdZcFpxR0RsMjNkUGtWZV8yWWVwaTRaS2JFZkdBMmc0YkhSUEtDal9tQ2I4T1pqR2tVMV96WlpFcDkzdEtzdUxzRkZrWFF4cWFEdm1GdU5RVVZ6SFhsaEg4ZGRXV2Z5ZHduWGhLeVIwOW9tV0VBT2RDZDA5S0JEakpoeVduMzdrbGhrSWvSAbcEQVVfeXFMTTFKVUhtVHp0T0NBbHVaM01tMzBSbldVazFnUmRNY2luSG5QeS1hX2pnOC1vN3lzSHFKMkh6cU8tWU9hMjNfSVpkQ0U4R0RUQnVxbG1iZjhXWWR0UGNtUmFBVFZ4RmRPejRBVXlmS29sVlNOSS0zcGRBdHJ3VHBSTTMxMGg5SVJMZTYzcEtBUGhSazZhNDlaQzNOSndyNmlRWjVQOHRJTkE5Vy1ucXd2N0tldklnSkdwdHFiSHB6TC12T3NuYXFYSUcybnBpeFNzMFZyOUJLMTg1X1NaODNwMk1EUXExektHM053M3NGYl84ZEk0V3VrWWNsQTl3YmVrZGF1WGVSWVQyaERkcUJOWVVWaEg5MFpGbmQzWGZ5TmstZ00xREZIcEhYRDlWM0RSOVI3SkhlWlFpNFJHbWh5aW1ZYkZNamthVFl6QjhoQTd0RDM4Qll4Q1dEWVF6cnFEcDE4UGtUcDNlajdFa3VoUC1VcEkyQ1NZdmsySlpzc04xa3d2WWczZ3RzRkR2R2RVdXNFTnVGRlJveVA2RXRHb2k3TzdfVHBwVzM5bXNxQkozbGxnWXBacUdEbDIzZFBrVmVfMlllcGk0WktiRWZHQTJnNGJIUlBLQ2pfbUNiOE9aakdrVTFfelpaRXA5M3RLc3VMc0ZGa1hReHFhRHZtRnVOUVVWekhYbGhIOGRkV1dmeWR3blhoS3lSMDlvbVdFQU9kQ2QwOUtCRGpKaHlXbjM3a2xoa0lr?oc=5",
+      "pub": "2026-07-22T15:21:27+00:00",
+      "id": "00678ce90252f007"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক খাতের সংকট নিরসনে প্রধানমন্ত্রীর কাছে সহায়তা চাইলো বিজিএমইএ - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxNWHNsWmNyNFp0RWhkT09FVXBPbS1GdDdMczJ4Z2g3eWN5NUt6V0hpTHBuS2pQRE5GeWhnZ0ZyUW9rS0g2c2x2QU5IMWl3SUVTQWJPeVVPb0pJd1BBM0V4ZDlHVXVwX0NjNzdlLXVLWXZhbFZDSmpYRUU0RnFiTU1DLWMtT1RrTlQyeDZ4VkVRbFNua2ZHSUN5UlJnOEtsRFpjQVJGNWpTTmJ1MC1uUkU1cmtRWjE4eWcxbkVETDA4MmpyU2I0d0JsZnBXajI0a3RfS1hVb1JnRnBuZGg4RVNkbkxFYThuTDZLbWY4OE1BX0k3cjlnTlgta21oVlRiVm9zTngtaU5ZeWZ2ZnotaGs0Qk9jbjltcmZYNl9ZYUNRLVQ1Szc3SHp4SWd4R1RLaW93NFozeE9WTVpDekktSWVFUUdpdG12TXhSekdFbk5DOXVtUmNxVGR4VlJDSndFX1dWdkNPeXRzeGJ6VWVMc2JaMS1UQ0xuRldTUkliTU5NSWNyQW1GOXFKcHBIaFBUTUZreUJDaG5RZmp5YkF6TXhOQ21nNmtnam93YWFiQnVnZTBXZ2gxNm02eHFvSUliUVF0bWZJQ0YxUFJLRVJvRWVkeTV4X2xwbC0tZU5yODV0NVJJbmNZZlI1bEFXU2ZFdFRvQVhfamhzMXZyZXlBSmFRdmkxcjNCNVItaDRQbTM5X2hFaDJDWXFjY0lTWUFqLVhpbVRrb2pNdHRfRG9mc1hrY2FMa0lBX0xyazVHUDhYQXVCX20tXy1KVVZHdGJUZXY2Z05RaU8yRzd4ZngtQk4wLTV4NmV0YXJTOFlxZFhYRHRtemh5YlJabHg2NlZjQdIB_gRBVV95cUxNWHNsWmNyNFp0RWhkT09FVXBPbS1GdDdMczJ4Z2g3eWN5NUt6V0hpTHBuS2pQRE5GeWhnZ0ZyUW9rS0g2c2x2QU5IMWl3SUVTQWJPeVVPb0pJd1BBM0V4ZDlHVXVwX0NjNzdlLXVLWXZhbFZDSmpYRUU0RnFiTU1DLWMtT1RrTlQyeDZ4VkVRbFNua2ZHSUN5UlJnOEtsRFpjQVJGNWpTTmJ1MC1uUkU1cmtRWjE4eWcxbkVETDA4MmpyU2I0d0JsZnBXajI0a3RfS1hVb1JnRnBuZGg4RVNkbkxFYThuTDZLbWY4OE1BX0k3cjlnTlgta21oVlRiVm9zTngtaU5ZeWZ2ZnotaGs0Qk9jbjltcmZYNl9ZYUNRLVQ1Szc3SHp4SWd4R1RLaW93NFozeE9WTVpDekktSWVFUUdpdG12TXhSekdFbk5DOXVtUmNxVGR4VlJDSndFX1dWdkNPeXRzeGJ6VWVMc2JaMS1UQ0xuRldTUkliTU5NSWNyQW1GOXFKcHBIaFBUTUZreUJDaG5RZmp5YkF6TXhOQ21nNmtnam93YWFiQnVnZTBXZ2gxNm02eHFvSUliUVF0bWZJQ0YxUFJLRVJvRWVkeTV4X2xwbC0tZU5yODV0NVJJbmNZZlI1bEFXU2ZFdFRvQVhfamhzMXZyZXlBSmFRdmkxcjNCNVItaDRQbTM5X2hFaDJDWXFjY0lTWUFqLVhpbVRrb2pNdHRfRG9mc1hrY2FMa0lBX0xyazVHUDhYQXVCX20tXy1KVVZHdGJUZXY2Z05RaU8yRzd4ZngtQk4wLTV4NmV0YXJTOFlxZFhYRHRtemh5YlJabHg2NlZjQQ?oc=5",
+      "pub": "2026-07-22T13:41:58+00:00",
+      "id": "88dbc6dd758fe508"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আম উৎপাদনে বিশ্বমঞ্চে সাফল্য থাকলেও রপ্তানিতে নানামুখী সংকট - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoeklCczJNd05Jd3RFVXlxZ25LWE85SlNHdldBWGVJRkRsZTlxbThVWlhOQ3RYdHQ0b2JzUTlfay1ycTVaUm5ZbEZhaVZyVG1weWNkdW1PWFJqcWpEa0Q0YXlTTy1iYUZx?oc=5",
+      "pub": "2026-07-22T14:45:56+00:00",
+      "id": "223a7e267294a042"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ভিনফাস্ট ইউরোপ, ফিলিপাইন ও ইন্দোনেশিয়ায় ৫,০০০-এর বেশি বৈদ্যুতিক গাড়ি রপ্তানি করে। - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHI0NXFNcGNoWEh3WDVQU1VRVVBHN0lvaFcxcGRBZ0tmRWNYREMwOEVvUVhXY004dC0xMFBWSXRheWVjRjZZMF8yMkgyNklaZ01uXzl0VFNBalVNdG5xZDdlc0o3Y0ZXZFB6OUktaDhNZExoeWNocnFpc2tHc0tFMXVsa0staWJrc0dOU2ttMk1vdjhqSmJ5Qks1SG5heFhYZzE4?oc=5",
+      "pub": "2026-07-22T22:00:11+00:00",
+      "id": "0a29b6cb42fb02e1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জিআরআই-বিজিএমইএ অংশীদারত্ব পোশাক খাতে সাসটেইনেবিলিটি বাড়াবে - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNNTktV0ZDNlRKR0tycFdnWGpmOTBhOU9JS2NUNnVMcVF3VlpYcUYtaVNJNFdpRlNXcy1lby1JVjNhb0lRQXZaS25ISjNtY2M1aXJYeGd0dy1LVFnSAU9BVV95cUxOYUVhaEdsMmppdnJYeGZ0ekpIRXJ4OVZCWmc5ZnFrX3JhTnl1VXdER1VhOVBBdlhNRWhLSHNDX0c5SkdfMS1ZQXA4UTJUNUpz?oc=5",
+      "pub": "2026-07-23T09:29:00+00:00",
+      "id": "96d704c1e1175a63"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জিআরআই-বিজিএমইএ অংশীদারত্ব পোশাক খাতে স্বচ্ছতা জোরদার - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wNDg2ajB4bmUxYm1PaWtkQ1N5S1h0aTlMdkdwSG0zRm9uSWxHd1RaYjB3SWV1Uld6bW1vcFBMQzRUMTFiQkRVVjJnMExOVjZF?oc=5",
+      "pub": "2026-07-23T10:17:16+00:00",
+      "id": "b58f1f1170e2dbe7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বৈঠকে গ্যাস-বিদ্যুতের নিরবচ্ছিন্ন সরবরাহ চাইলেন বিজিএমইএর নেতারা - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xUXdCMlZvUzZQdmprWVVTOEdDQVpnNFJNQ01QbXJCcXhQU0ZsODFyQW56b2hoTEx2UUpxOEhwbDFrUERYQkVCekxLMkZLdFBMSXBDaXJ4dW1BR2lheDdwdUxsNkRXd9IBc0FVX3lxTE5wN2JJbVJlQzJrMjFrOUltUGJtUEVaSWZyXzZJUnJTWVY0cWtHZ29kMjFrbFhnUWJkMFktckZGOXd5Wi1jQS15TEg0NkRfUDhHTEduV2s4RmoyUTBWNWM4SllfLW0wN2lidWt5blZXaWw5dG8?oc=5",
+      "pub": "2026-07-22T15:51:56+00:00",
+      "id": "bb9248bbe65770b3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গ্যাস–বিদ্যুতের নিশ্চয়তায় বিশেষ ব্যবস্থার অনুরোধ বিজিএমইএর - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMi5AVBVV95cUxPYjctX2Jnemo4bzF5aUZpRlZxRFp3aEI0M19iLUlJUGFoM1BRN1ktaXpJQXd3eFl3WTNRNTZtT3BEV3lxOUxoOFFFWXBKVjJrSWFLNFNkTGYzQWd0SWhmcWtZVkFsQnhLbEFWNml3cnN0M1gxaWFIeDdNVndudV9UUFMwbzVzSHFGUWxRUG8xWHdER3BnMWRZd1p3dWdpNHFYcFpkeGlRUF9tWHZFWGJ5ZmVSV1BkUXVPQUpkUnVCTG5MLTZ3ZnBSYlJDbnQxVjFsR19FemQwZGpuRjlhN0xhWUlKTXJxYU54OHRUVHpEeG1EQUhGX0pKZVNrYlJLV2IxUEFCcWM5MWZXSjlJbXVJLTRCVUcyMlBmd1MzT3JGbERHaTdWajdoRFh2b0FQVURRYXFvNFJtM3NjeF9PZ21aVURnM1RYUzVuc0ZvVktJQW1MTnhIWXV4TVBaX1BGLU9UUjlpeC1GSnN4cTFkd212LXJHRXdGWXMyeWtRaGU5bmFOWHVsakpoMndhRGsxdTgyQWg5SUloaFVSd1hlbERDdEQ3ZnRLTkVjc29ETGpxVUxoaTE1YmJ3eXB2MVFNQjRYRlIxTFdzRnFMMzFwRmhUVU11VkIyZUtLU1l1dG03MlVlOWtZV2o3aF9NeXJGSEtMMlhyM1lqMzdSMHJWamxwYWdjdGVTNzEtcnlwTEF3bm9yOXVpQnhyOEhNajZOdDZhSC1sXzdkQzR5eWljd3FsS0gxVVNTTFhjaEh0VE1rNWF3RXVIcHZKWHlqUHotWGhaRXpaN0FrM3dqQ3RkNkNkcVN6QnpTeWZwSXNrREd0Wk1tWnd4NmZ6Qk4xVVcwdUJsZlExTDBBRlRSLXExbV9tZUk2eUVvOVItcHBSY0Q3SXdsSkFpNEp2SWFJSVYxd2RfeDRsZ290STd4YUNqNlRzTzc5RkxKTTFBQ2FNZXR1LVlHQThaMm9lQTNyRmQ5Q00xanVYSA?oc=5",
+      "pub": "2026-07-22T16:38:55+00:00",
+      "id": "c35a1c7363ddd923"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ প্রতিনিধিদলের বৈঠক - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WXM4TEJDNkkwSnEtMl9ITldNREc4OVlzNkJHUUFXb0QzTUVtQ3dTZHdxS2RtQ3pSLUJ3YjVxNlFnT2V5QlVXRTg3UUhXeG9OTExETDdRODRiaEIzZ0NucXRB?oc=5",
+      "pub": "2026-07-22T19:44:13+00:00",
+      "id": "3bd52304f326a12a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের সংকট নিরসনে প্রধানমন্ত্রীর কাছে নীতিগত সহায়তা চেয়েছে বিজিএমইএ - Sonalinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZzVjZHRBREZGQ2pPcXdPZlBnMzNSUjNKYndqUnE4cVVpVzFka0k3WDMzS0tySzlGaUVvYkhfbi1RY2hFek9rZ1V0aEIwQ016UzFwdm9UVVN2XzlJTUNR?oc=5",
+      "pub": "2026-07-22T14:51:00+00:00",
+      "id": "4d52b6b422a4f00b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এক বছরের মধ্যে জ্বালানি সমস্যা সমাধানের আশ্বাস - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wZmF4NTVOMGUzd3Z1OU9fN3h0ZF93d3A0R01ya3NZRE9rWWlSMEpLVVlCcVdaa2hpUk9UalpmN2ZDVE8yOGxhWkl6eER2Qm5GNV9ock9GMV8?oc=5",
+      "pub": "2026-07-22T18:00:00+00:00",
+      "id": "c3fa8e68968eaf48"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের বিকাশে প্রয়োজনীয় সব ধরনের উদ্যোগ নেওয়া হবে - Shomoyer Alo",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmQWZXeWc0VjRyRTlWR0w5STJIZGRQeXhMTFdESktfM2pEeFNMSEZBaDdKY2FiME9wUGtUR0RVLWd1OEJDdktXU3Mta0RVdUh4?oc=5",
+      "pub": "2026-07-23T01:39:33+00:00",
+      "id": "59b8a48d9fa545d2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গ্যাস-বিদ্যুতে বিশেষ ব্যবস্থা চায় বস্ত্র ও পোশাক খাত - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPTDZ0cGtBNUpNUF9NaDltR0lNYzZNcEtNN2JzMGtjUk1Cd0tjeXBLdmllV2Y0WUYyQy1ST0JFcUlaX2NTOG9mT2NZQXVxRnJqdGVkT0lfMW1RV3VKYzZJSmY3Q1NVdlFBQlQtQUNsTDdrejI4V3ZzYXR1TkJPcUtKdUFvVWFQMHFtNlJGVGNyZldKQmlZem1vZFhiUW9NZG1WeFg3MXRKbkJLVGY4V09oZGFFM3FRektXV2NOeENCS0dYSHFqT0pDUFVOV2VWQ0tUaXJJQ2plb2tjVHZJcjJsUDlxc1VWdUdyZDE2Tl8xYjQyQXJoNG1NZzBsVUt3WEtDbjJPNUtDdXVVQzU1RkRlN2o2RE1QdDBOd1J0LXRpcjRxQ0d4UUExcFhCX09IZExORl92RFM0RXUwUXN3RFE4TUVPUEdYcHBYajBhSTJQbi1qU1Q2Tl8tdlgwYTh0djNfNU95eXdfdjQ2REVWWVFkM1ZHU3ZwQ3N5WDdUZE5PMFZLOUI3QVhKREVWUkxXcWVmMENvXzRKWnM0eXZZY1hBZ3VVOEdXTXEtVGxKRjk3Nmg2QVNpUFdpOENZRnd3XzFhNWdGNTFDZVgybGtzMTZIbXYzek5qZEFBUjJtb3RXZlM1UGxZTGhERV9TcnN0RXlwTW5Rc1dkUnpfeWtleEJnOXNjb2RjOTJGX0NMQ0t0bzlucG1zdmZfejFxLVAwbDZnQkNvX2IxNUhCQ2YzbkZWbXpOYjhiRGJkTlU5d3dPTHpVT0t1Rk9DYmNFLWYxWFU1U3ZDOTN0YjJzWnFpdnFtOUxQSV9zZmppaV9WQndrRjFETXpC?oc=5",
+      "pub": "2026-07-23T02:26:07+00:00",
+      "id": "78f8f92b44919412"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রধানমন্ত্রীর সঙ্গে বিজিএমইএ প্রতিনিধিদলের বৈঠক - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kMEtjNVNPUklyUmtsUFo1UjdyNnc4UklQRTJDUVJhRzZrN2poZ2JMRkdkVkFiV1dlcXZRQ09fUGN0X1l4Nkx3Z3BucDZvRklxM0Zrc2N6MVdBR0JZaUE?oc=5",
+      "pub": "2026-07-22T14:35:00+00:00",
+      "id": "dd34027591263934"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের বিকাশে প্রতিবন্ধকতা দ্রুত দূর করার নির্দেশনা প্রধানমন্ত্রীর - Sonalinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hSTVNU1J5YWtSWTIyenBoeWhlOHJnVEo5MGVmOXROUzc2aXZhVFJ0UWYyVFljTFVic3VXc0tUZzdCSjdDblFMYVc4eXFwbkNUYVpDVTZFMVRuTXc?oc=5",
+      "pub": "2026-07-22T23:47:00+00:00",
+      "id": "82ac6043264c7872"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের বিকাশে যা প্রয়োজন সরকার সবই করবে: প্রধানমন্ত্রী - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14NGt5VU5oTUttWjNkXy1DXzg4VVVRc1ZVT3NaUXMtejJXRmdsclY3cHEzVkM5d2lVX1lKZ3kwak1Cc3JHTE5nS2hHZm9ZUQ?oc=5",
+      "pub": "2026-07-22T14:12:00+00:00",
+      "id": "b442324e3f32cd8a"
+    }
+  ]
 }
