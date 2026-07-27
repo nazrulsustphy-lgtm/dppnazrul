@@ -1,33 +1,5 @@
 {
   "seen": {
-    "23dd19f9df3eab2d": "2026-06-27T10:11:37.253419+00:00",
-    "b5604a6dc9d68e9a": "2026-06-27T10:11:37.253419+00:00",
-    "275f612e7bf9038f": "2026-06-27T10:11:37.253419+00:00",
-    "8883224d052791b1": "2026-06-27T10:11:37.253419+00:00",
-    "897c7fdc9c7c27c7": "2026-06-27T10:11:37.253419+00:00",
-    "80e725d21c315cb3": "2026-06-27T10:11:37.253419+00:00",
-    "6483b12a86960850": "2026-06-27T10:11:37.253419+00:00",
-    "5e19504bb0a3d58e": "2026-06-27T10:11:37.253419+00:00",
-    "4ddd10c841f4a5d7": "2026-06-27T10:11:37.253419+00:00",
-    "d6544106bc237189": "2026-06-27T10:11:37.253419+00:00",
-    "b36c94de38ad1928": "2026-06-27T10:11:37.253419+00:00",
-    "c2203ba853b36df0": "2026-06-27T10:11:37.253419+00:00",
-    "13aedbce8c32cf1f": "2026-06-27T10:11:37.253419+00:00",
-    "bdc0e4f9ad5d878a": "2026-06-27T10:11:37.253419+00:00",
-    "850890358228a195": "2026-06-27T10:11:37.253419+00:00",
-    "0b8b0385fd22e915": "2026-06-27T10:11:37.253419+00:00",
-    "760ef50574aa311d": "2026-06-27T10:11:37.253419+00:00",
-    "fa5fad5cd0d2d325": "2026-06-27T10:11:37.253419+00:00",
-    "9b3459bfa55d81b1": "2026-06-27T10:11:37.253419+00:00",
-    "7eb1c549ba38215a": "2026-06-27T10:11:37.253419+00:00",
-    "26908072f9bddcd5": "2026-06-27T10:11:37.253419+00:00",
-    "e952d0150a9c6002": "2026-06-27T10:11:37.253419+00:00",
-    "9da1b104c17a9792": "2026-06-27T10:11:37.253419+00:00",
-    "a041e7dd5c1a2af7": "2026-06-27T10:11:37.253419+00:00",
-    "14b977b8a9212940": "2026-06-27T10:11:37.253419+00:00",
-    "d004f26820033af4": "2026-06-27T10:11:37.253419+00:00",
-    "5877e87c03039093": "2026-06-27T10:11:37.253419+00:00",
-    "4348505ea33ab821": "2026-06-27T10:11:37.253419+00:00",
     "8e4cb4d30b1d345c": "2026-06-27T15:17:30.810453+00:00",
     "739d004f8ca59f11": "2026-06-27T15:17:30.810453+00:00",
     "4467fe544e17d71f": "2026-06-27T15:17:30.810453+00:00",
@@ -2565,7 +2537,46 @@
     "1c8b63f8b89b3d24": "2026-07-27T05:53:02.213176+00:00",
     "9edd9b3d6ff49d71": "2026-07-27T05:53:02.213176+00:00",
     "eae7817c3bf20c1d": "2026-07-27T05:53:02.213176+00:00",
-    "ea74f8a72a04638c": "2026-07-27T05:53:02.213176+00:00"
+    "ea74f8a72a04638c": "2026-07-27T05:53:02.213176+00:00",
+    "fff30b9233c88521": "2026-07-27T11:26:24.994294+00:00",
+    "731a5a3ab8eb9d1d": "2026-07-27T11:26:24.994294+00:00",
+    "5f7dcce51bb3bc85": "2026-07-27T11:26:24.994294+00:00",
+    "0287be6ccbe17b8d": "2026-07-27T11:26:24.994294+00:00",
+    "c7731d4f7a2d3f43": "2026-07-27T11:26:24.994294+00:00",
+    "239f2bd48a2afcc7": "2026-07-27T11:26:24.994294+00:00",
+    "23fa62f0e6683a7f": "2026-07-27T11:26:24.994294+00:00",
+    "77a66c002519d93b": "2026-07-27T11:26:24.994294+00:00",
+    "2f111fa5b298640e": "2026-07-27T11:26:24.994294+00:00",
+    "cc09e5cf13e51448": "2026-07-27T11:26:24.994294+00:00",
+    "26f176448fb6067c": "2026-07-27T11:26:24.994294+00:00",
+    "dddc11ddb7dd1b8d": "2026-07-27T11:26:24.994294+00:00",
+    "893c723c02b26739": "2026-07-27T11:26:24.994294+00:00",
+    "4ea2a35fa40f2598": "2026-07-27T11:26:24.994294+00:00",
+    "cc68bdac11b8dc65": "2026-07-27T11:26:24.994294+00:00",
+    "a04cf3137448e015": "2026-07-27T11:26:24.994294+00:00",
+    "802aaa4ca8a540db": "2026-07-27T11:26:24.994294+00:00",
+    "a20d2e8d21d5e538": "2026-07-27T11:26:24.994294+00:00",
+    "1cf8603bef47368a": "2026-07-27T11:26:24.994294+00:00",
+    "c37b406b8ced4da5": "2026-07-27T11:26:24.994294+00:00",
+    "eecdbc9775a237e2": "2026-07-27T11:26:24.994294+00:00",
+    "6777ffdcaec6b7a7": "2026-07-27T11:26:24.994294+00:00",
+    "cd25fe3a5e99a9b9": "2026-07-27T11:26:24.994294+00:00",
+    "54353f844a824935": "2026-07-27T11:26:24.994294+00:00",
+    "17cd1779079f2cf3": "2026-07-27T11:26:24.994294+00:00",
+    "f5998fb87b21f967": "2026-07-27T11:26:24.994294+00:00",
+    "371b044a92003a93": "2026-07-27T11:26:24.994294+00:00",
+    "98be426a5d74453b": "2026-07-27T11:26:24.994294+00:00",
+    "afa0885c9ad258c8": "2026-07-27T11:26:24.994294+00:00",
+    "264d71bc7c6abf6b": "2026-07-27T11:26:24.994294+00:00",
+    "7fa5194c82c3b268": "2026-07-27T11:26:24.994294+00:00",
+    "fa37171a22321f2c": "2026-07-27T11:26:24.994294+00:00",
+    "325b2ba151e11e9d": "2026-07-27T11:26:24.994294+00:00",
+    "70cdfeb6577c5bc1": "2026-07-27T11:26:24.994294+00:00",
+    "0e13386c4d28ba74": "2026-07-27T11:26:24.994294+00:00",
+    "9dbd0bb0f485ccf8": "2026-07-27T11:26:24.994294+00:00",
+    "2d387978e407e74a": "2026-07-27T11:26:24.994294+00:00",
+    "9203d168b3cdfc2a": "2026-07-27T11:26:24.994294+00:00",
+    "00443956502b4349": "2026-07-27T11:26:24.994294+00:00"
   },
   "yesterday_items": [
     {
@@ -2602,14 +2613,6 @@
     },
     {
       "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Policy framework on development of Manmade Fiber sector to entering into GSP+ tenure after 2029 in EU market - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTJUVGRYNnlmUmkyOG8zMkdEUVRBZk8zamRCTUVZSHc1Z0lOektJczdadnhJbUxkU29iQVgyQ1h0VFJvZTQtd3pRN0ZMQlRuMS13OFExQThWRFlsdUFXMUhoM25pQlFiMUc2X3MxNHE2amh4WUxuMjl0a0ZYN2tsWU9JOFotQkN4OTYyTFF5UGFFaVVXNnFrUWpvTE1iNXNMWUcyZTUxRksxU2VualNQYzhRalpjZ2VnYl93ZTBXYnIwaURoMmdDYlVtYVcxZGtJVjhWdmpn?oc=5",
-      "pub": "2026-07-25T10:43:54+00:00",
-      "id": "7e60b1f9db7580ed"
-    },
-    {
-      "section": "bangladesh",
       "source": "GoogleNews: BGMEA/BKMEA EU",
       "title": "BGMEA, ASSET project review EBT progress; certificates awarded to 2,328 RMG trainees - United News of Bangladesh",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2hzdlVCSmtsMnlEM080RGR2eGpBVWFhV2Z4MzJqbzdiT1pQWE9hZ0JXdDR5Y2U5UHNCUGJ4MDEza2F6TlVfeW9qOVkxWWN0eWoyZU5TaElabGhvLTFYalFpa2hUbmdBRGt3Zmc2bnA4bnpMRGNSLXNLUkZEN21UVnVSVm1wMEUtR0szdGZwek1LN1NpUWNKdGtENEFLSk83YlA1SUFIWVA4b21UYWFuSnZOaEhjOWRnbFhhUXJWYXFzRk0?oc=5",
@@ -2631,22 +2634,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzl4dW1WRWJPWE1ncHZRTlVkMWRnSWVIc3NFakVoeGFSZHlxakR5SlNZYXFnbm5lQ0RBbElhdHFFdnZIUXVEYUszWlNfNFcwSVRSZGtuVW1vYnBURUVBdVliNnlrc0M3eHZ6SlFoSXA0eGdrOVRRZ0RaZWgxUC1tb1NHWXdYemxqMm9mYTlJeUFJMEJyNUI2cmFXSHVGWFhlT3ZsY2hSa05qc214Vld0VVJmazVyeE9hMWVF0gHAAUFVX3lxTFBvdC01U0ZPLVdFVjJsMWQ3YmpaZFkwUW9GY1hlWHJHNXY2bUtGLVlvb3lTTF9oTm5MbmY5NEdmSEVwOXphTWVIOXd3VE9qazJwXzBhcUFTSldGYS1pUVBMOWJzU1dyUWJqNmJFak8wdU15dzNBNXJOTWhhendBa2VHMGxxVVAzREY1bE82RTYtRGVxTURjNko0a0E3Rk9ISlR6QmNWY3hsemxuR1FsNDZPbXBZYlZiUnVYTnFkaE5HWg?oc=5",
       "pub": "2026-07-25T17:55:00+00:00",
       "id": "e9994caa2133f06f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Policy framework on development of Manmade Fiber sector to entering into GSP+ tenure after 2029 in EU market - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTJUVGRYNnlmUmkyOG8zMkdEUVRBZk8zamRCTUVZSHc1Z0lOektJczdadnhJbUxkU29iQVgyQ1h0VFJvZTQtd3pRN0ZMQlRuMS13OFExQThWRFlsdUFXMUhoM25pQlFiMUc2X3MxNHE2amh4WUxuMjl0a0ZYN2tsWU9JOFotQkN4OTYyTFF5UGFFaVVXNnFrUWpvTE1iNXNMWUcyZTUxRksxU2VualNQYzhRalpjZ2VnYl93ZTBXYnIwaURoMmdDYlVtYVcxZGtJVjhWdmpn?oc=5",
-      "pub": "2026-07-25T10:43:54+00:00",
-      "id": "7e60b1f9db7580ed"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Policy framework on development of Manmade Fiber sector to entering into GSP+ tenure after 2029 in EU market - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTJUVGRYNnlmUmkyOG8zMkdEUVRBZk8zamRCTUVZSHc1Z0lOektJczdadnhJbUxkU29iQVgyQ1h0VFJvZTQtd3pRN0ZMQlRuMS13OFExQThWRFlsdUFXMUhoM25pQlFiMUc2X3MxNHE2amh4WUxuMjl0a0ZYN2tsWU9JOFotQkN4OTYyTFF5UGFFaVVXNnFrUWpvTE1iNXNMWUcyZTUxRksxU2VualNQYzhRalpjZ2VnYl93ZTBXYnIwaURoMmdDYlVtYVcxZGtJVjhWdmpn?oc=5",
-      "pub": "2026-07-25T10:43:54+00:00",
-      "id": "7e60b1f9db7580ed"
     },
     {
       "section": "bangladesh",
@@ -3047,6 +3034,86 @@
       "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxNeUFtMDNmRzhKd3AzRkxYUVlMbDdBMGFDb0FTUTFNb2ZlNG12U3hWakRwWTVoZ094ZHRIYXdjM24tUkFRamstYk9xZ1huVl9UWGh1RW9jempTcXlXd3VRRDRPckl0VkdpbmRTNzhCZFowSkFlUXpHVENQU0h0bVRtcU4zSnQ2X0tTM0RqazJJQUVKM3Vsa0ZMWEsxZFVzdnJWSjV2aGR6U3lvNHpxcVZmNUxUZHVlSnBZZmR6emc2SUdiUEpBNDF5dUNVcU5aR1lOVUJVQ0ZwNi04YWRzcEFGWkt4WkZ4djhITlEzdkhtaXhfRklCZmJ6T0ZraUNoRk1sMHJlN3JneTRuSE5UVVI5WUVtUlZoeTM2QzNaN3RCcDFYOGRIaVJxZHFCbHdTc2RUbmVOeDUteUIzX25OUDNibkZWMGJ6dVRoWlZpTF9xb1BNbDVPb25ySlV2RTNCaHczNXRyZWJtZllITi1hcEZLTWNULVRuSUk3UzlKYUVDUFdWRF9UUzFELUptclRMR2kwSzJsaHcycjNWTDE5SWpyal8ybjUwZkV6My1UT1hYbXpGLUpIdVZYUUNxdmdYZ3dGR2pVQV9TVXNvQ2x6NzR6VndhZTFtQ3VSbXdoWG5PWTIwSFZwUEg0bkx1c2VBRmRmSXJyYUpkUFd1enlqYWFGeDJGWVRVU0xUczRNdWRvYVNFckxnNzBTVk9lYmlBZ1c5WGYwWjBWWi13VlNTR3pHVklyOWltNi1FcXgzMVV0eHBUMXdjZ2x2QnV6UktHYmFO0gHQBEFVX3lxTE15QW0wM2ZHOEp3cDNGTFhRWUxsN0EwYUNvQVNRMU1vZmU0bXZTeFZqRHBZNWhnT3hkdEhhd2Mzbi1SQVFqay1iT3FnWG5WX1RYaHVFb2N6alNxeVd3dVFENE9ySXRWR2luZFM3OEJkWjBKQWVRekdUQ1BTSHRtVG1xTjNKdDZfS1MzRGprMklBRUozdWxrRkxYSzFkVXN2clZKNXZoZHpTeW80enFxVmY1TFRkdWVKcFlmZHp6ZzZJR2JQSkE0MXl1Q1VxTlpHWU5VQlVDRnA2LThhZHNwQUZaS3haRnh2OEhOUTN2SG1peF9GSUJmYnpPRmtpQ2hGTWwwcmU3cmd5NG5ITlRVUjlZRW1SVmh5MzZDM1o3dEJwMVg4ZEhpUnFkcUJsd1NzZFRuZU54NS15QjNfbk5QM2JuRlYwYnp1VGhaVmlMX3FvUE1sNU9vbnJKVXZFM0JodzM1dHJlYm1mWUhOLWFwRktNY1QtVG5JSTdTOUphRUNQV1ZEX1RTMUQtSm1yVExHaTBLMmxodzJyM1ZMMTlJanJqXzJuNTBmRXozLVRPWFhtekYtSkh1VlhRQ3F2Z1hnd0ZHalVBX1NVc29DbHo3NHpWd2FlMW1DdVJtd2hYbk9ZMjBIVnBQSDRuTHVzZUFGZGZJcnJhSmRQV3V6eWphYUZ4MkZZVFVTTFRzNE11ZG9hU0VyTGc3MFNWT2ViaUFnVzlYZjBaMFZaLXdWU1NHekdWSXI5aW02LUVxeDMxVXR4cFQxd2NnbHZCdXpSS0diYU4?oc=5",
       "pub": "2026-07-27T04:45:26+00:00",
       "id": "ea74f8a72a04638c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Global trade policy activity rises to series high: WTO-IMF - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcG9QTndfQjNTbllrbFZGVzNYZ3NKNDRtRWZTY3hEc0JLMXpoSVBiOUpnWFBKWTVVVGRXWDdqXzNDVkNoVW5feUdJTFNQZ3NtdFFiX0I3amxEbU92UTRnc1RNNTY4LS03WTVOY2YyOFZmczdiS0pxNWVWbEpqWC1MbXV2ckhjOTF6aGJnNzd6Uk93bnhIVFV5YWF0anl2cm9ndVdLU2RHQU9GZmJ1RzEzaTFyR2RLNEthSHlWZ2JpazlVaEs5aURTUExsOHh3cmFR?oc=5",
+      "pub": "2026-07-27T04:54:39+00:00",
+      "id": "325b2ba151e11e9d"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Jordan's textile-RMG exports to US to be exempt from customs duties - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2RsYlBNRm9lNzN6RUJ2ZlFweDhpcklmYzBHcnZjNmxUUnVEb2twNW44S3NWM3k0TDNNbWFhcDVSZ3ZvNlBEZ1BFQWIwb0Ftejdnck9xaUVCYXcteXBzOTllZGdGT2F1NnlDcVg0YVNrWEVjNGlCZEhDVDVBX2x1ZVk5MVBrWDZKR0NfWmxXWTNDOUViLVpJdFotUkxiQ3BzUmlCQzFzaDdEN1dMVnJIeElTRmpEMW9BNUNXUmdtQmd2WDJZR0ZvTVR1U1hQc0Y2Nm1BV0xEcWZPYUp1M2F0eg?oc=5",
+      "pub": "2026-07-27T06:12:14+00:00",
+      "id": "70cdfeb6577c5bc1"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Equitec Proprietary Markets Llc added 8.4M shares of APLD, making it by far the largest position in their portfolio (77.19%)",
+      "link": "https://www.reddit.com/r/APLDSTOCK/comments/1v7udm4/equitec_proprietary_markets_llc_added_84m_shares/",
+      "pub": "2026-07-27T08:28:11+00:00",
+      "id": "0e13386c4d28ba74"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Jordan's textile-RMG exports to US to be exempt from customs duties - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2RsYlBNRm9lNzN6RUJ2ZlFweDhpcklmYzBHcnZjNmxUUnVEb2twNW44S3NWM3k0TDNNbWFhcDVSZ3ZvNlBEZ1BFQWIwb0Ftejdnck9xaUVCYXcteXBzOTllZGdGT2F1NnlDcVg0YVNrWEVjNGlCZEhDVDVBX2x1ZVk5MVBrWDZKR0NfWmxXWTNDOUViLVpJdFotUkxiQ3BzUmlCQzFzaDdEN1dMVnJIeElTRmpEMW9BNUNXUmdtQmd2WDJZR0ZvTVR1U1hQc0Y2Nm1BV0xEcWZPYUp1M2F0eg?oc=5",
+      "pub": "2026-07-27T06:12:14+00:00",
+      "id": "70cdfeb6577c5bc1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Women losing jobs in Bangladesh’s ready-made garment industry: Report - IANS LIVE",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd002VWg4RVJpSlc4dklnMDB0dV9PRTNpYXFvVEt3TUMwamtzNEs5bmtKbkpfUXgwcjJPeGdCWkpjRDU1cDA5WklzVFNTR3hENlp2bUpMcnp6ZnlzSTd6WW9HaXFIMUlpejZvVm1aeHd3NHNiOTM2T2F6NElkd2d1enBORU9vUkZPQjhTalE2X1AxcldJWHpLS2FBYjA?oc=5",
+      "pub": "2026-07-27T08:26:00+00:00",
+      "id": "9dbd0bb0f485ccf8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Bangladesh's gas disruption raises costs across textile supply chain - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXlZRnV6VUQtT2J1d0E5NmhmdkdDN2VXM3VhZWM5ZGo1cHlyWTFnTUlKdE9BT1c0UTdEWmtlTzJIVE5ndHU4R0pUWkVISk9vZmNobXpHLVVydlItbUl1Y0FfX05ULWtuRVZlZkh4cnZaWjlBR2FqMlcxOHRiZ1RPeEhGaEpZaEJBeko0TWRDUW02WE1Uem11dFdhVlM1Yjgy?oc=5",
+      "pub": "2026-07-27T08:08:58+00:00",
+      "id": "2d387978e407e74a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Jordan's textile-RMG exports to US to be exempt from customs duties - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2RsYlBNRm9lNzN6RUJ2ZlFweDhpcklmYzBHcnZjNmxUUnVEb2twNW44S3NWM3k0TDNNbWFhcDVSZ3ZvNlBEZ1BFQWIwb0Ftejdnck9xaUVCYXcteXBzOTllZGdGT2F1NnlDcVg0YVNrWEVjNGlCZEhDVDVBX2x1ZVk5MVBrWDZKR0NfWmxXWTNDOUViLVpJdFotUkxiQ3BzUmlCQzFzaDdEN1dMVnJIeElTRmpEMW9BNUNXUmdtQmd2WDJZR0ZvTVR1U1hQc0Y2Nm1BV0xEcWZPYUp1M2F0eg?oc=5",
+      "pub": "2026-07-27T06:12:14+00:00",
+      "id": "70cdfeb6577c5bc1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh's gas disruption raises costs across textile supply chain - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXlZRnV6VUQtT2J1d0E5NmhmdkdDN2VXM3VhZWM5ZGo1cHlyWTFnTUlKdE9BT1c0UTdEWmtlTzJIVE5ndHU4R0pUWkVISk9vZmNobXpHLVVydlItbUl1Y0FfX05ULWtuRVZlZkh4cnZaWjlBR2FqMlcxOHRiZ1RPeEhGaEpZaEJBeko0TWRDUW02WE1Uem11dFdhVlM1Yjgy?oc=5",
+      "pub": "2026-07-27T08:08:58+00:00",
+      "id": "2d387978e407e74a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দক্ষ মানবসম্পদ গড়তে ‘ওয়ার্কশপ উইথ হেড অব এইচআর ২০২৬’ অনুষ্ঠিত - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fTm1HUTUtV0sxMDZaN0pNNl9hRDkwSUhZVGRLSy1vWXNhbXFrTURJaThLdGZkVnpjQnJXZTVKc3E4MGRNRTlWVHhLV29EVkFLdFRrNXNZS3Q5dmdKeGlvSGhJUDB6OTE2amJXWm5TTmdVT0JPend5Sw?oc=5",
+      "pub": "2026-07-26T16:34:39+00:00",
+      "id": "9203d168b3cdfc2a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিপিএএমইএ’র নির্বাচন ১ আগস্ট, সভাপতি পদে দুই প্রার্থী - চাটগাঁ নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOWXdTM1RWSTlKQVVXaGxudFNzZ3Vyb1lGOU1tQlJVb3dzMmNwVDdvRzkyVEtzdGRiNHpfUFJIYzg5VmlqX0x1cU54czdFNHhuWVJSd1pRSnE0ZXhrTUJ4bGpsdVV4a2wwUTQ5VzNwTGV2bjg3OGlhTXdOaHdkbThUTzg3VXJaVFJZakdPN1NFb1FKOFp4Vi0wUnFLaXhsdHdSS09UUmlPMVlzeHIzVFkySHFWMW5NS0stcW1rMjdXb296ek5wRE5Mb2ZqVjhqaldJYlR2bVBlc3A4LWZvb3E1aEdGbEQ1NUxmenFMSFphYWZ1SjFVeEp3UkhGSHN4UzRUX2t5bVdoQ0xjLUllV21uNUNQLXhCVVJmSXRfcTNfMU9PWm4zM3NzNVRVU1Ixa1Ra?oc=5",
+      "pub": "2026-07-26T13:42:41+00:00",
+      "id": "00443956502b4349"
     }
   ]
 }
