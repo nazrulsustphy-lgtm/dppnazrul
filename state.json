@@ -1,40 +1,5 @@
 {
   "seen": {
-    "8e4cb4d30b1d345c": "2026-06-27T15:17:30.810453+00:00",
-    "739d004f8ca59f11": "2026-06-27T15:17:30.810453+00:00",
-    "4467fe544e17d71f": "2026-06-27T15:17:30.810453+00:00",
-    "601e1a57beba0f01": "2026-06-27T15:17:30.810453+00:00",
-    "2184e7df3a5d7cdf": "2026-06-27T15:17:30.810453+00:00",
-    "f860b19e8891f808": "2026-06-27T15:17:30.810453+00:00",
-    "813037c47bbc381b": "2026-06-27T15:17:30.810453+00:00",
-    "bfbfd498ed839c03": "2026-06-27T15:17:30.810453+00:00",
-    "071ac0e8eb96c83d": "2026-06-27T15:17:30.810453+00:00",
-    "60882cb9d4ee43f2": "2026-06-27T15:17:30.810453+00:00",
-    "310f034c97e33c7d": "2026-06-27T15:17:30.810453+00:00",
-    "3b02d2b01718508c": "2026-06-27T15:17:30.810453+00:00",
-    "6cb99bbbae59f128": "2026-06-27T15:17:30.810453+00:00",
-    "693881acda696105": "2026-06-27T15:17:30.810453+00:00",
-    "a213b27fd66ce495": "2026-06-27T15:17:30.810453+00:00",
-    "2f72a49fffc65a2c": "2026-06-27T15:17:30.810453+00:00",
-    "21a24ec2162c9d79": "2026-06-27T15:17:30.810453+00:00",
-    "32b3e8170b89d03f": "2026-06-27T15:17:30.810453+00:00",
-    "ffb819d5b74a7816": "2026-06-27T15:17:30.810453+00:00",
-    "62f9e7a02d6ea002": "2026-06-27T15:17:30.810453+00:00",
-    "1c84336f738be712": "2026-06-27T15:17:30.810453+00:00",
-    "0edfa276385fdcfe": "2026-06-27T15:17:30.810453+00:00",
-    "bd4b1c9b486536fd": "2026-06-27T15:17:30.810453+00:00",
-    "97e1301ef46ae35a": "2026-06-27T15:17:30.810453+00:00",
-    "fa0c8ad8567f8273": "2026-06-27T15:17:30.810453+00:00",
-    "61629ae528eae382": "2026-06-27T15:17:30.810453+00:00",
-    "1f5aee0193b6ce3b": "2026-06-27T15:17:30.810453+00:00",
-    "b099f3f52de3e460": "2026-06-27T15:17:30.810453+00:00",
-    "8629fc2b598112d8": "2026-06-27T15:17:30.810453+00:00",
-    "71bf818a1190aab8": "2026-06-27T15:17:30.810453+00:00",
-    "6fee4645828b7623": "2026-06-27T15:17:30.810453+00:00",
-    "05e53890d548ff6c": "2026-06-27T15:17:30.810453+00:00",
-    "44fa25a6f199b121": "2026-06-27T15:17:30.810453+00:00",
-    "9f2d6cc1eacedb7a": "2026-06-27T15:17:30.810453+00:00",
-    "2342f9ec638a56e7": "2026-06-27T15:17:30.810453+00:00",
     "008d7920b205470d": "2026-06-28T10:29:43.672616+00:00",
     "fda0254a1183b285": "2026-06-28T10:29:43.672616+00:00",
     "159697eb5d769b37": "2026-06-28T10:29:43.672616+00:00",
@@ -2576,7 +2541,33 @@
     "9dbd0bb0f485ccf8": "2026-07-27T11:26:24.994294+00:00",
     "2d387978e407e74a": "2026-07-27T11:26:24.994294+00:00",
     "9203d168b3cdfc2a": "2026-07-27T11:26:24.994294+00:00",
-    "00443956502b4349": "2026-07-27T11:26:24.994294+00:00"
+    "00443956502b4349": "2026-07-27T11:26:24.994294+00:00",
+    "abd9ebd8bc693e9e": "2026-07-27T16:22:43.056915+00:00",
+    "96a6474eea58e593": "2026-07-27T16:22:43.056915+00:00",
+    "d525d5a1cf0b6927": "2026-07-27T16:22:43.056915+00:00",
+    "eeb0fd4bc42798b0": "2026-07-27T16:22:43.056915+00:00",
+    "82dac714e43c7dd7": "2026-07-27T16:22:43.056915+00:00",
+    "655b97133ea4c24e": "2026-07-27T16:22:43.056915+00:00",
+    "fc5db72b67181741": "2026-07-27T16:22:43.056915+00:00",
+    "8d8d0210f8bf770a": "2026-07-27T16:22:43.056915+00:00",
+    "70a7a62666194734": "2026-07-27T16:22:43.056915+00:00",
+    "33e03a63c9d818d3": "2026-07-27T16:22:43.056915+00:00",
+    "e6a49b300118ddfc": "2026-07-27T16:22:43.056915+00:00",
+    "3f86fe48462eed0e": "2026-07-27T16:22:43.056915+00:00",
+    "a71a32e6526bb8c9": "2026-07-27T16:22:43.056915+00:00",
+    "c585fa78860a07fa": "2026-07-27T16:22:43.056915+00:00",
+    "2e707b6de75a5d4a": "2026-07-27T16:22:43.056915+00:00",
+    "c6969a1414deda60": "2026-07-27T16:22:43.056915+00:00",
+    "7d1a5b8431c73983": "2026-07-27T16:22:43.056915+00:00",
+    "329fb0964b73c4dd": "2026-07-27T16:22:43.056915+00:00",
+    "07bab5de1b88f946": "2026-07-27T16:22:43.056915+00:00",
+    "62e31c4dbd47b926": "2026-07-27T16:22:43.056915+00:00",
+    "1361b22cf1023f14": "2026-07-27T16:22:43.056915+00:00",
+    "f362653da199d457": "2026-07-27T16:22:43.056915+00:00",
+    "90b513119d6d57d3": "2026-07-27T16:22:43.056915+00:00",
+    "e3041b2b38bef008": "2026-07-27T16:22:43.056915+00:00",
+    "67a0ed9d87ca4a97": "2026-07-27T16:22:43.056915+00:00",
+    "84c07dab002defd6": "2026-07-27T16:22:43.056915+00:00"
   },
   "yesterday_items": [
     {
@@ -2610,14 +2601,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHFyU2FJUGlXQTEtZnNveEJDVnN2LVF3OU5QazhaQ1loQkhHdDFNYVowZ1FmZkxaMHpiaXgwQVVJSEEwWVc5UlJQaFU1VkwtOUdsLXlZWlpjcWhMT1k4NWdtMlNSM0hxY1M5TGwta0RhQUxzRFpOa2Rfdy1iSUFaTUYxZlVxa2g3LTBXX2YyaVRkWmxQbWhoNXAzRktyczBBSVNQN3FoQ2JkVG5NeE40?oc=5",
       "pub": "2026-07-25T17:42:29+00:00",
       "id": "3a5a5127b8f97dfb"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "BGMEA, ASSET project review EBT progress; certificates awarded to 2,328 RMG trainees - United News of Bangladesh",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2hzdlVCSmtsMnlEM080RGR2eGpBVWFhV2Z4MzJqbzdiT1pQWE9hZ0JXdDR5Y2U5UHNCUGJ4MDEza2F6TlVfeW9qOVkxWWN0eWoyZU5TaElabGhvLTFYalFpa2hUbmdBRGt3Zmc2bnA4bnpMRGNSLXNLUkZEN21UVnVSVm1wMEUtR0szdGZwek1LN1NpUWNKdGtENEFLSk83YlA1SUFIWVA4b21UYWFuSnZOaEhjOWRnbFhhUXJWYXFzRk0?oc=5",
-      "pub": "2026-07-25T12:15:28+00:00",
-      "id": "7c7d0f796d5f3ac1"
     },
     {
       "section": "bangladesh",
@@ -2670,14 +2653,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "দক্ষ জনবল তৈরিতে বিজিএমইএর অ্যাসেট প্রকল্পের কর্মশালা - Jagonews24.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00STFYTU9MaVE3Q3hOdnRpbVdYbmgxQk5yYklLa3dGcU1GZ3dJbkg5VXpRd05fY015VXllS045dnZCelRNWXpVM3hFMl9jU1FGS19Vbl9rZWZXcXPSAU9BVV95cUxNZ2pEM09nZHRUYWJGdTBXd1E4WGp6Y3FJZEFGLWljVDJxWXZBOFhGMVoxTi1ScmpOT2FJdEtuckpwa3psRTVpTWxhTWlnNmhr?oc=5",
-      "pub": "2026-07-25T14:07:00+00:00",
-      "id": "ca5de008b330124f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "বিজিএমইএ ASSET প্রকল্পের ‘EBT’ পর্যালোচনা কর্মশালা ও সনদ বিতরণ - BD Bulletin",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91aTQ5bmZzdnRyMzQyNy1NajFfemtnalBXYzF0SVQ1R01HNjdLd2kwUHFhcV9peGhVV0hVUzExd0dWSG1kUkFTTmR1TXhjMkQt?oc=5",
       "pub": "2026-07-25T19:23:20+00:00",
@@ -2710,34 +2685,10 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ইডিএফ থেকে ঋণ পাবে তিন খাত - SAMAKAL",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMmdYXzdldTAteGlETGtubW82aHNnV0FHSjJRdEt5NVBuY0xNZEdkRzRHYjlkTDg5MnA0Zm9lbVhsc0E5SmN6U0Q0aFBxUTlwbkZYZVRxdkx1eWZleVR1QW40cHpNYWJoaDZ6dDU4ZGNvZHp0M2tXT2FidTZfQVBKWkZoNDMtOUtadl9qdnk3U0Z4N1BVY2Z1dHQwaTJTWTcxOEcyZm9aZktOQ1hTTnZlNEJ3clRLMVZtQndkZmlhMUlaUFBYcHA2N1ZkYmNPN3dBcC0xNXFtTWVGYXgwel9YN3VkNWk4OG9kNDE4UG1Yajc3TlBQTFVWRmJzU29wMmRMY203TDQ1UzhRb3drNVVlVzc2UG8yNFV5RUhyYlBGd2JJM3YyRmp3UWtVaXczeTAxNF9qbEJFQk5xSHh1dVRQMW10SFJUZ2VfeXB1T2M0ZUJ2S1ViS2FvdEsxYURJSUd0UnlvRGlDZkg?oc=5",
-      "pub": "2026-07-25T15:00:58+00:00",
-      "id": "d21bd9bf7da10d21"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "সীমান্তে ৯ নারীকে পুশইনের চেষ্টা, বিজিবির বাধায় ব্যর্থ বিএসএফ - NTV BD",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YdzVEYkZtWngxbDFNQW1JSjJvX2ZXRElncWx5MDc2U0w3MUdpNUtnYldmX3pRVzJ3b0hlenAtRG95MzVQYnlWbUFIT3pSWExtVkNhTGpvT2JJaXhldlNsWWdR?oc=5",
       "pub": "2026-07-25T19:57:27+00:00",
       "id": "0f395a7d292475ae"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "জাতীয় অর্থনৈতিক লক্ষ্য অর্জনে দক্ষ মানবসম্পদের বিকল্প নেই - দেশ রূপান্তর",
-      "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQXzQwUHZtNXlCYmV4LU1TM1ozMnQzMHJkN3lHSzB4bzdXcktUU1hsdTFQdm54SEVMZlV2Rmc1NDdQMGVjZWNqT0dGZzNDVTlVVncwZGFLM2ltVnRtV3pkUEtPSkZsa3ZYOC01RXdPeHQwTjduM09ZNldoeVJPdGwzMTZwNjlPYmdMZjA4Nm5ob21XM2hJZkVEdnBCZ0FuM2RLYUo2VnlFRTNGdmpva0EyakhHSDhRd1gyUUhPSWh4dTl6cmdMMTY5UHBXQVBTeDN1S1U5ZkxFOGVaMm5EQm1kZW9OcDFHWWlrWEF6ZXBoNGYxOUVybEVmX2ZLUDEtbERoWkRndUJBdVNBdmFzMDhrOTZuTk1BSlRXRHlCRjBoQWtQZW9jMzVUV0Q4Nl9KZ1Z6MmdNeTR2MXZhQnd4YXVUVG5KcE1kOGlRUFdyaUQ3SVVlbWRxQVBPV25BS2lhamtUOGFNbjJsWGh3MGltQk5qcy1vZ2tyeThaRHpESVRwSjdhQWpxZHQ1UmZwRU1MdG5wbUNvdnhBTTNtNEpJWXVWaTVieGVKTWJpTE8tck83Z1h5d29Dd2Q2NjBTbG9zaDVMb1ViNXZVZ293bWVPcjNNZW45eUNsbTRJNTY2cnR4Snp1b24tUVRsMFVIOHEtMGhLaHNxd2pvRk9EQUp2ZXpnNl90dVg1SExkLVlzM3dkZE40RlExNmJPUUNBMG9BbGpIT3EzWWE1UzlyRHdHTDE2UlNwLTBCQVE3UzRjaEJYMNIBxARBVV95cUxNV193Q2pocngwaWZxeElnQ1djaXBpREgyNmpTS3FHWWZBMVJGcVl4VTBZT2lIN0szY01mYmtpcFJjTHBKZTRhcEJFRHNYcXZ2QTk3SVJvUkpOWnNiNHlTYjFFRmNtZi1mOWFDWXVqcXhZbFpZZ3VEdXo3LW9RMi1uU0tySTc1MHBGYjJ6ZHJRRVU3RHBqaFhlYjQ4ZVBEbVhQMEZzNWxpTmZTQ3o3d2R0ak01OWltVkxaeThqQzhuVGxTNFFjSGJZQUdqWFRQeE5rWkh0eFoyeHE0YWU0YzM2eHhIVjNXVE1Nd3BJTWxTMzdrMmNmdmh1T19OVkJIWGN2c0pFTHVlY0xSQW1Id05EVjB2M1Z1RjROYlp3Mk0tTUdaWGtkbE93WTl6T2QyRVpmY2ZYSk5OR2pFYVZJeXExUVZVZU9ndGpRTUZpc2RZQUZLWUMtekNFUUpscGdGMkNJNVNfN1ZsX2RxZnNYZlJCOG9lNXlJVDFsWjVPWmtPQkNVcWp1YmZJSTRfSXpEZ2ZVeExXRmRMcmtBSzBHXzU0WnZFSnp4VEhSOXZFUmZpMjQyelRkUVFxQUFtZzRhMG92YV85Q25fUk9EYjVCYUlocFAzeVA3Mm9yM2dKbnJDUy1DZWpNblhqYmVtVm43dVJDSlpobWtHRllmNW5Oa19HN1pKczdqYTA1amJYMGdZX0xkSHkwRERvSFhDUWZVSFcxbkVkTDhxUWkwcXRfeFVMTzJmVWkxeUpDRUVfbXA3Ykk4YXVE?oc=5",
-      "pub": "2026-07-25T15:07:27+00:00",
-      "id": "c10e64432b5bfaf6"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বিইউএফটিতে সিসিপি কর্মসূচির উদ্বোধন, সনদ বিতরণ ও চাকরি মেলা অনুষ্ঠিত - The Daily Campus",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xR3p1b1VCcnVhOGYwNHE4ZkxoejB6V0laUHdrcnBvX3VWMnZqWkN0WHpvdk12ZmlpU1BneVBZWWpZeVFUNUdvWVBjRkhNTkVHSUNfUlJrZm1XYnBNaWxRaGhWQzN0OEXSAWdBVV95cUxOMUd6dW9VQnJ1YThmMDRxOGZMaHoweldJWlB3a3Jwb191VjJ2alpDdFh6b3ZNdmZpaVNQZ3lQWVlqWXlRVDVHb1lQY0ZITU5FR0lDX1JSa2ZtV2JwTWlsUWhoVkMzdDhF?oc=5",
-      "pub": "2026-07-25T14:19:34+00:00",
-      "id": "15d246983cb8cecd"
     },
     {
       "section": "bangladesh",
@@ -2914,14 +2865,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQbnhndVduNEVkT3ZsTFE5TGRUbk1MbC1ta0ZqWm5Sdnppa3UtSG5sRGp3bENJb0R5b09wNjJFWnhxa2VxUHpvVEtLVThjeFhRUzlENGlqZHpkaThEMDVRVWNaZFdmVkdmM01BZERMeDctMllWZ1Y3dU1PR3lad2hpalJSZURoUjVES3VaR1VuZXV4ai1RNl93U0NLX1AyejVkQ1I2WVhiOVQ0NUk3YXBrTWY4VFdWTWRyWG90WTdOU3p5NG1wR01fbTFWdEhDeW5DcXQxdTJncTM4YTVycUdFYzZRdXZLQWVFMk9DQlhlYktiUWVTWkVrMmtHUk41ZEtxM0JyM05xQkdVeEFscHFFSUlBT0plcGlNVTJaRnRRWkd0NjJjTWI1cFJaT3FsaDdxYjVZNUI3eWpST1BuWm1JcXB3T1Y5RGJOV3kzWtIBzAJBVV95cUxQbnhndVduNEVkT3ZsTFE5TGRUbk1MbC1ta0ZqWm5Sdnppa3UtSG5sRGp3bENJb0R5b09wNjJFWnhxa2VxUHpvVEtLVThjeFhRUzlENGlqZHpkaThEMDVRVWNaZFdmVkdmM01BZERMeDctMllWZ1Y3dU1PR3lad2hpalJSZURoUjVES3VaR1VuZXV4ai1RNl93U0NLX1AyejVkQ1I2WVhiOVQ0NUk3YXBrTWY4VFdWTWRyWG90WTdOU3p5NG1wR01fbTFWdEhDeW5DcXQxdTJncTM4YTVycUdFYzZRdXZLQWVFMk9DQlhlYktiUWVTWkVrMmtHUk41ZEtxM0JyM05xQkdVeEFscHFFSUlBT0plcGlNVTJaRnRRWkd0NjJjTWI1cFJaT3FsaDdxYjVZNUI3eWpST1BuWm1JcXB3T1Y5RGJOV3kzWg?oc=5",
       "pub": "2026-07-26T11:51:22+00:00",
       "id": "2eb4e9e9c0ea25d4"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "যুক্তরাষ্ট্রের নতুন শুল্ক বাংলাদেশি পণ্য রপ্তানিতে কী প্রভাব ফেলবে - ভোরের কাগজ",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdXk1eTNGTG9wdXF2b3lONFVpRnlYcHBTbWVwODBmNFBNZW9XSTF3MDF2NjA1WW1oTFF1VDV2ZkNxcW4yU0hyX1BabkNSM2FSREd0RFJR?oc=5",
-      "pub": "2026-07-25T15:20:00+00:00",
-      "id": "a97dd2f9b4463e29"
     },
     {
       "section": "bangladesh",
@@ -3114,6 +3057,46 @@
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOWXdTM1RWSTlKQVVXaGxudFNzZ3Vyb1lGOU1tQlJVb3dzMmNwVDdvRzkyVEtzdGRiNHpfUFJIYzg5VmlqX0x1cU54czdFNHhuWVJSd1pRSnE0ZXhrTUJ4bGpsdVV4a2wwUTQ5VzNwTGV2bjg3OGlhTXdOaHdkbThUTzg3VXJaVFJZakdPN1NFb1FKOFp4Vi0wUnFLaXhsdHdSS09UUmlPMVlzeHIzVFkySHFWMW5NS0stcW1rMjdXb296ek5wRE5Mb2ZqVjhqaldJYlR2bVBlc3A4LWZvb3E1aEdGbEQ1NUxmenFMSFphYWZ1SjFVeEp3UkhGSHN4UzRUX2t5bVdoQ0xjLUllV21uNUNQLXhCVVJmSXRfcTNfMU9PWm4zM3NzNVRVU1Ixa1Ra?oc=5",
       "pub": "2026-07-26T13:42:41+00:00",
       "id": "00443956502b4349"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Bangladesh begins 800-acre China-backed industrial zone in Chattogram - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaNlBHQmZSQXc1Rm9wenNLeTUzTi1yeHhUOHBaZUY1MUZlbGVYOU1SN2I0TTlkZlRDRWd4STYwTThWeFpTQjJMUlRPcmlxMkNEZkx3TFlrZ1c4UXdTMW9FM3VncmE2VnJTckZReE4xTGdCYkNIVGpMYVZjM21jZ2syNlo2SzZ2cVhTelpSeC1RSnluM0h5Vk5oZjFQMTJvWUxGRFpjajdudERPaWFYMG4yZGttMjBMeGJrU3JRZ0QwdnZFbHFXQ2k4Z0ZlMGp0SW00VVplRWdvNEFxMWdHMTRkUQ?oc=5",
+      "pub": "2026-07-27T10:09:02+00:00",
+      "id": "f362653da199d457"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "EU Made It Harder for Luxury Brands to Destroy Unsold Goods - The Fashion Law",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3RnVmxYbkc5Q0E4em9YLUdLSXBvQWJnRFU2WWZhMkcwMk1GcDE3dVZqMzJqZmozZzZoSHREZmt2eDE1dU1Sb0xXNGZuejhxTnJjVlhIZVRjSl8wWGpxVnZiOW80djFzdmNrWmxLakE4UjRiOFczZjJpaURpQ3Foamg1TGxzSFlSa3JBVEZUMG16VGVIVHdGSkd2MllVX2tGUUl3cDVCZw?oc=5",
+      "pub": "2026-07-27T12:04:35+00:00",
+      "id": "90b513119d6d57d3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ফিলিস্তিনের কিশোরীকে আবেগঘন বার্তা স্প্যানিশ প্রধানমন্ত্রীর - parbattanews",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOemNYX2xERHdYRzhpdWJrVi1ZWVFla3FmVVhyYUlGek1WaXBWMWk1R0pEdUphaTZNLVhXcHZGUjNTY2FkTnpnU2lCVTM2WFZfR0VjTzRiRGxUQmlHQjdKMlprd0JSZmtGdVp5bzhwVGdxQ1Q0Mnl3U0tQVldYczZiNVM4aVRDWGJTZDA2SDU0LWtZWEFhX29LRzdqdERoVlN2ZEQ1RXhsZ1FIbElSNEZIckdyWnM0SkxUQ2txQkRNUDBva0VIMXBURC02UEJRRFBfazFTejB3bUsxdEpTa1FfQ3YxZ3FRQmhjb3YyTTN0N3hHYmk1WWJrR3o3dlNBT1lzZlRvejBQQWkwUkJvRVNFUmNCY1NnRE9na2FLR3ZHZm5EZU4zY016aDd4OEdaeHJ5a3NISGRrQXdzUzdBNk5icl9qTS0wblVnZ3BRT05BNNIB1AJBVV95cUxNTVNGN2hoY3VwOFdLZUFQaFFvM2xQazBfQ3dEcXFySURNQUJ6SmdkUlJWbm1QWDZlWVhPWjFFclJuZHlNN1N3UzRPR2swVnFQMkppX1BKNkZldHNNRy16bXRmU3ZmUWhpb1hidTZEblV1OGlHdTFsWHk5TjNUaENVQWpteDNuQy1mLW94djRJQTVHSDI1SzhLOVUxWUl3cTFJWVFoeFNWaDlQQnc1VE5IdnVORUJhYUFsUFZac3AzVDdlQmljXzJCQm5xMkhlQ3prU01uU3FzLU9NQjdwa3UxQzcteFFKQ2RleWh5cEQzRHh0R2Uwd1Bab3o4LUx4cHlXOUExVkZ0bTJzMUhLVzlsTGloRDM2VHNrdzVsUzJfZVhhc0dUT1FSSDlBd0JvNlFYOUtVTzFxSXQ0c3NwUTlVM0VEclh3VzJQT2VIXy1OUDNoNmJV?oc=5",
+      "pub": "2026-07-27T14:02:01+00:00",
+      "id": "e3041b2b38bef008"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ভিয়েতনামের কাছে অবস্থান হারিয়ে বাংলাদেশ তৃতীয় - Daily Naya Diganta",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tbUNlU2RnelhYT2VCc3BBRlgxdzd2cGFBZXJxNGdia0pCMkEtcWY4M2FfRndIdlFsMFZoencxa0IyOFBIZmJNWnFDT1BQRWtHOGR3NnYyVWwzakxQRjU4cElxbw?oc=5",
+      "pub": "2026-07-27T11:45:06+00:00",
+      "id": "67a0ed9d87ca4a97"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেশে যাত্রা শুরু করল বিদ্যুৎ সাশ্রয়ী বাতির প্রতিষ্ঠান ‘হেইগা’ - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxPbF9kTEFCaVRLT21BLTFYT25vMHNiOE5jT3otSXk5VlFVLUZjcVBqdG0yLVVwVmlxU3MzRHdyOW9RTEhQUjRMWFlaeHBGRlNad0JwYVVvLU5xdzluSTlWbTFDejRtVFIxcEgwUkVYeFZGNVBwZ1VTX0dyY3BHOFBud0dpMUt2T3BnRTVtWTNCRXM1RVdHNk5oTnNvNXZsVmdiblBUUWFYYlRwUDJMZWhLbC1rVTdQalo5SGZHT3dMdkxDZnRTb093Q2V6T3dCX1Q1U00xS2tvbXMwUFJKeUdPTWVROEdLd0hTTkpDRURJTHR4UlpRWE8wMVBxR3lvQWlqNG9ZQ0owR3p4dXNpMlNDZ2U2aTJQWXViMG1ueTRtRTR5SUdzZGxvU0lGaUNoTm55QlFfRWd5cGNRc2pDdGhqU1lsaWVWSVhscmdLTXFOLUY3ejNhTWU3UkpFNHJyc242Smh2Z09FeVhlWlBnZDF2UWlyNnlDdXMyX0xRcHV0cl9penZ4TFFqMl9WaGFfQ0NtMkhrV3JWWU5iaUtZWmJZZm9tZTh2aTRvTzhWYS05alVHbFB2N3l3ZV9RcDBwaDVVT1FndUlDWWIzQ196SFVwUVBTblJXaGNlSFIzTHVXVHBxcEEwVy1UMEt2OVpqSENSSVg3MmZFRGVJYlpaQmRWVmJlRTB5dFY1TzJMWUFBSjNPMjTSAZMEQVVfeXFMT2xfZExBQmlUS09tQS0xWE9ubzBzYjhOY096LUl5OVZRVS1GY3FQanRtMi1VcFZpcVNzM0R3cjlvUUxIUFI0TFhZWnhwRkZTWndCcGFVby1OcXc5bkk5Vm0xQ3o0bVRSMXBIMFJFWHhWRjVQcGdVU19HcmNwRzhQbndHaTFLdk9wZ0U1bVkzQkVzNUVXRzZOaE5zbzV2bFZnYm5QVFFhWGJUcFAyTGVoS2wta1U3UGpaOUhmR093THZMQ2Z0U29Pd0Nlek93Ql9UNVNNMUtrb21zMFBSSnlHT01lUThHS3dIU05KQ0VESUx0eFJaUVhPMDFQcUd5b0FpajRvWUNKMEd6eHVzaTJTQ2dlNmkyUFl1YjBtbnk0bUU0eUlHc2Rsb1NJRmlDaE5ueUJRX0VneXBjUXNqQ3RoalNZbGllVklYbHJnS01xTi1GN3ozYU1lN1JKRTRycnNuNkpodmdPRXlYZVpQZ2QxdlFpcjZ5Q3VzMl9MUXB1dHJfaXp2eExRajJfVmhhX0NDbTJIa1dyVllOYmlLWVpiWWZvbWU4dmk0b084VmEtOWpVR2xQdjd5d2VfUXAwcGg1VU9RZ3VJQ1liM0NfekhVcFFQU25SV2hjZUhSM0x1V1RwcXBBMFctVDBLdjlaakhDUklYNzJmRURlSWJaWkJkVlZiZUUweXRWNU8yTFlBQUozTzI0?oc=5",
+      "pub": "2026-07-27T10:05:03+00:00",
+      "id": "84c07dab002defd6"
     }
   ]
 }
