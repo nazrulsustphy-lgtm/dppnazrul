@@ -1,30 +1,5 @@
 {
   "seen": {
-    "3c354a297b212b9b": "2026-07-01T16:27:46.209344+00:00",
-    "38586a3dcc6d5812": "2026-07-01T16:27:46.209344+00:00",
-    "a61738d28d46c43d": "2026-07-01T16:27:46.209344+00:00",
-    "c28db1d6dc3a8538": "2026-07-01T16:27:46.209344+00:00",
-    "d24858fa087612f5": "2026-07-01T16:27:46.209344+00:00",
-    "fb8ad4c7327dae2d": "2026-07-01T16:27:46.209344+00:00",
-    "78d2e99ee4113682": "2026-07-01T16:27:46.209344+00:00",
-    "3cf82b3d02413461": "2026-07-01T16:27:46.209344+00:00",
-    "7161aaf33374f047": "2026-07-01T16:27:46.209344+00:00",
-    "93f9df0a0a222a93": "2026-07-01T16:27:46.209344+00:00",
-    "86a6e66cc373b5df": "2026-07-01T16:27:46.209344+00:00",
-    "5e8a7b8b64991fd7": "2026-07-01T16:27:46.209344+00:00",
-    "e702858657854215": "2026-07-01T16:27:46.209344+00:00",
-    "649aad35ae278eb6": "2026-07-01T16:27:46.209344+00:00",
-    "cf06e79d546c397e": "2026-07-01T16:27:46.209344+00:00",
-    "2ea15aeeabf178a5": "2026-07-01T16:27:46.209344+00:00",
-    "abf5548acc7d1319": "2026-07-01T16:27:46.209344+00:00",
-    "8fef999bc48b6f89": "2026-07-01T16:27:46.209344+00:00",
-    "4a7137e8c7a8a71b": "2026-07-01T16:27:46.209344+00:00",
-    "88d665afd54f972a": "2026-07-01T16:27:46.209344+00:00",
-    "937e258bdb3f9e8f": "2026-07-01T16:27:46.209344+00:00",
-    "3d35087a925b2a2d": "2026-07-01T16:27:46.209344+00:00",
-    "7a1fff119e227316": "2026-07-01T16:27:46.209344+00:00",
-    "4d158d97e5a6a540": "2026-07-01T16:27:46.209344+00:00",
-    "6cb2e597e2849b31": "2026-07-01T16:27:46.209344+00:00",
     "5a43eb2da6d3104e": "2026-07-02T10:43:18.343658+00:00",
     "6a9453f3a8a359fe": "2026-07-02T10:43:18.343658+00:00",
     "762c739e905fa5e0": "2026-07-02T10:43:18.343658+00:00",
@@ -2665,7 +2640,33 @@
     "9ecd81bbcd1bd0c8": "2026-07-31T16:01:37.385085+00:00",
     "12d34a7fd1634316": "2026-07-31T16:01:37.385085+00:00",
     "1c89adebed0a1794": "2026-07-31T16:01:37.385085+00:00",
-    "ec80a7f1621d4e08": "2026-07-31T16:01:37.385085+00:00"
+    "ec80a7f1621d4e08": "2026-07-31T16:01:37.385085+00:00",
+    "e48db4118e77e382": "2026-08-01T05:30:00.382134+00:00",
+    "a79eadc1c5873f2e": "2026-08-01T05:30:00.382134+00:00",
+    "06d1a526b4eea023": "2026-08-01T05:30:00.382134+00:00",
+    "4750a3b9f0cc52ec": "2026-08-01T05:30:00.382134+00:00",
+    "ab5df1eb68de0556": "2026-08-01T05:30:00.382134+00:00",
+    "9423152be1ae9705": "2026-08-01T05:30:00.382134+00:00",
+    "18cb9b1c40147ae6": "2026-08-01T05:30:00.382134+00:00",
+    "ac3c3fb2a383fbf3": "2026-08-01T05:30:00.382134+00:00",
+    "43bae3b372e40e8f": "2026-08-01T05:30:00.382134+00:00",
+    "939bbe59b3c64ba6": "2026-08-01T05:30:00.382134+00:00",
+    "552332762bad097f": "2026-08-01T05:30:00.382134+00:00",
+    "e89d6f460bf66752": "2026-08-01T05:30:00.382134+00:00",
+    "b4be94b8acd7ac9c": "2026-08-01T05:30:00.382134+00:00",
+    "829cb15ed859b9bc": "2026-08-01T05:30:00.382134+00:00",
+    "15261a4bb225a707": "2026-08-01T05:30:00.382134+00:00",
+    "bbd8a5a9764d70a0": "2026-08-01T05:30:00.382134+00:00",
+    "f5aca82aee54f658": "2026-08-01T05:30:00.382134+00:00",
+    "a6589eafce3b9d50": "2026-08-01T05:30:00.382134+00:00",
+    "c3f14ad79a40ed78": "2026-08-01T05:30:00.382134+00:00",
+    "defdb6ff23836b71": "2026-08-01T05:30:00.382134+00:00",
+    "c844afb5b756a3e2": "2026-08-01T05:30:00.382134+00:00",
+    "479e52209f1de33a": "2026-08-01T05:30:00.382134+00:00",
+    "b1090a8f110685e6": "2026-08-01T05:30:00.382134+00:00",
+    "5834d0f52ffbcd0d": "2026-08-01T05:30:00.382134+00:00",
+    "23e9b2e76209e88f": "2026-08-01T05:30:00.382134+00:00",
+    "bb5f78ed3c668d36": "2026-08-01T05:30:00.382134+00:00"
   },
   "yesterday_items": [
     {
@@ -2899,6 +2900,62 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLXdtellmX1lGR3lNenE1c3FHV29hNWYzZU00T0czMG8tcV82VHNxaVl2bzBxS29wX0NvLWNuOUo1UlVLY3NqLS0yakRqQlJzdmtwMw?oc=5",
       "pub": "2026-07-31T14:51:53+00:00",
       "id": "ec80a7f1621d4e08"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Turkiye Should Help Cambodia Upgrade Textiles, Not Sell More Clothes - Cambodianess",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1NDMUJlQlVBRHZSRE5IX0hjck44RlluNUg2cmM0UW5jNlRPSUV6NWlVb3VuV2ptUXB6THl6Y2ZNbXV4STItVkE3QUE0YndrLVVfSTZpVWRsZVdWUXF5eE1pU2I1TmV5QkxaX3dsb3JTLWItdDVJRTJfRWZMRUd3OENRRzJGUEdleUYzLVNMQnNIMWRBQjF3TU0xSktnQ1ROU0JZemZBWQ?oc=5",
+      "pub": "2026-07-31T13:18:47+00:00",
+      "id": "c844afb5b756a3e2"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "EU ban on destroying unsold clothes and shoes comes into force - Open Access Government",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXhXQ18yRmpXelNLck9kWGxvaWJuYUREOGxOQlBGSFQwdFpwVjNtdmhmWkxiS2RWa1BUWVJweDg1M1pzZ0J2cmV3UXhUQzhjbThUSDNZeGQ0UFVWWmYwV1luOVBaekw4cFNrOFpHWUt6aUNlS1REa3JIX2M5Mm1hUUFkQktYVXNNTjBVaERJaXMwNGtsdmdnVzNDSk9LdDlzMlFIRHUxWVVsdkk?oc=5",
+      "pub": "2026-07-31T13:09:33+00:00",
+      "id": "479e52209f1de33a"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Flair classic upgraded pressure gauge reading?",
+      "link": "https://www.reddit.com/r/FlairEspresso/comments/1vbzqz4/flair_classic_upgraded_pressure_gauge_reading/",
+      "pub": "2026-07-31T18:51:26+00:00",
+      "id": "b1090a8f110685e6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Bangladesh’s $45 billion MMF opportunity begins where cotton reaches its limit - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2E3NEFYRG9qOWRyblE2MVFfdGhZWVoxal9DZV9zek13SWI1d0N2bW92Z2VqVWR5ckkxTzZhZFZFWFl4YzR5RkhyajZvYVludDdOUmVCSWVkUGV5dHVwbVVPWnhlSVNXQnhaTjRhYW4tbGFMOExBd2V6a1RPOXVlc1Q5cHdUTFZaeFJhd05Gc2dyeklWWEFQaGhuVU1wZXpTd21qQ096Vlc4Qlc3?oc=5",
+      "pub": "2026-08-01T04:08:22+00:00",
+      "id": "5834d0f52ffbcd0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh’s $45 billion MMF opportunity begins where cotton reaches its limit - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2E3NEFYRG9qOWRyblE2MVFfdGhZWVoxal9DZV9zek13SWI1d0N2bW92Z2VqVWR5ckkxTzZhZFZFWFl4YzR5RkhyajZvYVludDdOUmVCSWVkUGV5dHVwbVVPWnhlSVNXQnhaTjRhYW4tbGFMOExBd2V6a1RPOXVlc1Q5cHdUTFZaeFJhd05Gc2dyeklWWEFQaGhuVU1wZXpTd21qQ096Vlc4Qlc3?oc=5",
+      "pub": "2026-08-01T04:08:22+00:00",
+      "id": "5834d0f52ffbcd0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "পোশাক খাতে উৎপাদন ব্যাহত, রপ্তানিতে শঙ্কা - Protidiner Sangbad",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Xy0wSGxDSlpQbVdBLUFqY016Q2VmZWdPZmpDZkJUZUNnSEhqdjhFdVU2MHEwdG1DellSMnU1ZkxXRVFVSGxxME5kQnRNMktoVDdFWHhBaGVmYkFpZzRxMHNFeGpzTWhtNHdHVTNleUNJQXBzU3Z3?oc=5",
+      "pub": "2026-07-31T19:20:45+00:00",
+      "id": "23e9b2e76209e88f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ছাত্রদল নেতা এইচ এম আবু জাফরের উদ্যোগে ১০০০ বৃক্ষরোপণ | খবর | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkNQN3VkRFlEMkZ1ZWN3eU93d3dVR0pPNW1Rb3VqMTY3RTNVLWQ1XzBSeVFnOFpfSWZWbkFKcnRzc2FhSDk0LUc4a1JZWlRnLURPeQ?oc=5",
+      "pub": "2026-07-31T16:55:00+00:00",
+      "id": "bb5f78ed3c668d36"
     }
   ]
 }
