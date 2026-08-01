@@ -2666,7 +2666,34 @@
     "b1090a8f110685e6": "2026-08-01T05:30:00.382134+00:00",
     "5834d0f52ffbcd0d": "2026-08-01T05:30:00.382134+00:00",
     "23e9b2e76209e88f": "2026-08-01T05:30:00.382134+00:00",
-    "bb5f78ed3c668d36": "2026-08-01T05:30:00.382134+00:00"
+    "bb5f78ed3c668d36": "2026-08-01T05:30:00.382134+00:00",
+    "80a7324756dbc14d": "2026-08-01T10:01:39.970977+00:00",
+    "588e7f11e39731f1": "2026-08-01T10:01:39.970977+00:00",
+    "7738ee972c8b30c8": "2026-08-01T10:01:39.970977+00:00",
+    "009fdd32e9aa2925": "2026-08-01T10:01:39.970977+00:00",
+    "9f9096b61c76ce29": "2026-08-01T10:01:39.970977+00:00",
+    "5c1b546f15166c0f": "2026-08-01T10:01:39.970977+00:00",
+    "df72783cf72e23a0": "2026-08-01T10:01:39.970977+00:00",
+    "320a3e0c4db1e129": "2026-08-01T10:01:39.970977+00:00",
+    "1042f0fce97ca167": "2026-08-01T10:01:39.970977+00:00",
+    "e5973032f403ed6a": "2026-08-01T10:01:39.970977+00:00",
+    "9171609977d45005": "2026-08-01T10:01:39.970977+00:00",
+    "161ee9e9d00e0281": "2026-08-01T10:01:39.970977+00:00",
+    "1ec475bb751864ed": "2026-08-01T10:01:39.970977+00:00",
+    "b197084a1772e40f": "2026-08-01T10:01:39.970977+00:00",
+    "bbfd3417db2f1241": "2026-08-01T10:01:39.970977+00:00",
+    "4b7c58252d5d5f8d": "2026-08-01T10:01:39.970977+00:00",
+    "161b6d99684d7ce7": "2026-08-01T10:01:39.970977+00:00",
+    "ac7094d0e7afbe7d": "2026-08-01T10:01:39.970977+00:00",
+    "8558d25f61286c68": "2026-08-01T10:01:39.970977+00:00",
+    "9dbe3ca24e1d92c8": "2026-08-01T10:01:39.970977+00:00",
+    "9b9ba4808eaccd17": "2026-08-01T10:01:39.970977+00:00",
+    "b7efeb0611f768ae": "2026-08-01T10:01:39.970977+00:00",
+    "7a33710ff6f75db3": "2026-08-01T10:01:39.970977+00:00",
+    "9506a935b9451368": "2026-08-01T10:01:39.970977+00:00",
+    "8063c5c7e1c0f18c": "2026-08-01T10:01:39.970977+00:00",
+    "0cfe83c92d07f743": "2026-08-01T10:01:39.970977+00:00",
+    "de2cd1880118b7db": "2026-08-01T10:01:39.970977+00:00"
   },
   "yesterday_items": [
     {
@@ -2956,6 +2983,54 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkNQN3VkRFlEMkZ1ZWN3eU93d3dVR0pPNW1Rb3VqMTY3RTNVLWQ1XzBSeVFnOFpfSWZWbkFKcnRzc2FhSDk0LUc4a1JZWlRnLURPeQ?oc=5",
       "pub": "2026-07-31T16:55:00+00:00",
       "id": "bb5f78ed3c668d36"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "39%.",
+      "link": "https://www.reddit.com/r/u_TreVerum/comments/1vchxnt/39/",
+      "pub": "2026-08-01T08:41:55+00:00",
+      "id": "b7efeb0611f768ae"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ’র নতুন মহাসচিব হিসেবে যোগ দিলেন ড. সাহেদুল ইসলাম - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RjFPTV8yM1d1LVExNV9uelN1aXp6VFI2QlFnVDIwQXdSQUtKbjczZzV3UmlKV3EwUW5MOVRnZ1FTbTNpb0cyRlhkTlo5Z19qdHc?oc=5",
+      "pub": "2026-08-01T09:24:58+00:00",
+      "id": "7a33710ff6f75db3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ’র নতুন মহাসচিব হিসেবে যোগ দিলেন মেজর জেনারেল সাহেদুল ইসলাম - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Q19DU0NhclJkZzQ5RW9uSnRYMzctdHJ4a21nN1FfNlVkdEgzZUFZb1RHTmJkMU42ZzRhN1ZtVVN4YmJRaVB3VVNxbkpUTTZuV256Q0piUnQ?oc=5",
+      "pub": "2026-08-01T09:37:00+00:00",
+      "id": "9506a935b9451368"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দায়িত্ব নিলেন বিজিএমইএর নতুন মহাসচিব ড. সাহেদুল - United News of Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxOREo1bGdXSHduZjBiaFEtYXpweEZBVDQwRG5rNkhVTmxEbmVzcWxYdFpoWUp6WFFDc1Q5NmpmbUJqa2QwQWNBVmhIamhKc3l0NHk4WHQxUTZQeXY1UDNtQU83VWtzelMydTNUQ0VaTFdfbWx3S0JCX3ozckFDWnpPSDViY3FuUy02Y2w4WVlFd0RGa2ZDSmlTOXZCalp4dFpfR3V4U3FERFVwRG1fTmNlVUhfSDQwZlFwbmhQMzk3THRIMnZsc0QwMG9SSno0cG4yQWVqeUVWVzV4OHZSX3R5djhIbndKOGZNZ0RUdGI3OG14WFR4Qk54X1YydDV2UXNvaE1TZndqMnN1TnJPdkxtdWJ4ZEZ3V1BCZ3pOV0RlQTVtWlRXQWJhVGUtWEhqTGs3LWoyRjAxNDVGSDA3SG9NNmVjT1h0d2l2T0wyYzA0MGhmYXI1WEdyeVpkdnB5eV9iZ1pVZmFFUmFGMWYybjJYV0gzRjM5a3lWbURkWU1pNkZYSWtiNERWT2kyNHVzdEpRYXhfNktwLWIwck9FU09aaGhFazZGblJIVkFRdERkWXVMQnZEbGJUdDVIcnZrTWRudkNzVFNMbm9aa0gxY1FRVXBoT29hRDlzT2N0Z2lxN2NOYlFNcFIwcnBxTVl0bHdBbFRTQWU5VHBuQU01anhxcU5mZ2pxUk9EbU4wOER1SjY4T0JLWjZ4M0hkcVJ6ckNIUm9kdkdYcmdRVV9xR2QxeWVhSTRLazVPNEk1VWdyRE1CSXRuQWxydXBiSkxJekVGYm0tWW54NFZzNXpobms5MXpNV0o0cTNGQWNQaFg5QlY2elJwYkdGbS1Ba1JtS2xralkxTzN3TkZ1Q1NYa0VPR2lHWGdHaWZqMnM1ZTlqTQ?oc=5",
+      "pub": "2026-08-01T09:36:00+00:00",
+      "id": "8063c5c7e1c0f18c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিইউএফটিতে ‘আবদুল্লাহ হিল রাকিব অডিটোরিয়াম’ উদ্বোধন - Protidiner Sangbad",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6d2dYZjNOMXFJLWRsbFhVdkxDaURTNE1XaGpHdmJiV1FSV3NGampkYVIwUHAzUi16aGs5S3R3YUg0Y05SVjdfX2o5QUZrYnFoaHVSTGM4ZFAzLUtzRWc?oc=5",
+      "pub": "2026-08-01T05:55:01+00:00",
+      "id": "0cfe83c92d07f743"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গার্মেন্ট টেক বিডি এএসসিএম কনটেস্টে বাংলাদেশের সেরা সাত, চ্যাম্পিয়ন আসাদুজ্জামানের গন্তব্য হংকং - 国际在线",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNkthLXpOcnEzUEdFdnNYNGgzQlUxd3pVZWJocWt2V29MakxBNFRYS0c5MXAwU2laZzJPODhaZHlhSFI1LVQ2VTdKMVRwT0NzSVZ6MkhzM1p5RWxScC1KaUMwMjI?oc=5",
+      "pub": "2026-07-31T18:36:54+00:00",
+      "id": "de2cd1880118b7db"
     }
   ]
 }
