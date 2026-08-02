@@ -1,54 +1,5 @@
 {
   "seen": {
-    "53c0373214682aaa": "2026-07-03T10:38:42.029058+00:00",
-    "e1a579dd08fd366a": "2026-07-03T10:38:42.029058+00:00",
-    "922419249196702a": "2026-07-03T10:38:42.029058+00:00",
-    "e0789029cefe25bd": "2026-07-03T10:38:42.029058+00:00",
-    "36b4481ad0885f19": "2026-07-03T10:38:42.029058+00:00",
-    "5edb89e1cfb8ac13": "2026-07-03T10:38:42.029058+00:00",
-    "27ee2ca605451086": "2026-07-03T10:38:42.029058+00:00",
-    "24154b4c62038098": "2026-07-03T10:38:42.029058+00:00",
-    "a4516ecc38cfdc24": "2026-07-03T10:38:42.029058+00:00",
-    "c6347380435bc89f": "2026-07-03T10:38:42.029058+00:00",
-    "5be9cbd766232753": "2026-07-03T10:38:42.029058+00:00",
-    "11130c0d365ec31d": "2026-07-03T10:38:42.029058+00:00",
-    "d7c0dd63dd531c1c": "2026-07-03T10:38:42.029058+00:00",
-    "e88b11ddb72771d5": "2026-07-03T10:38:42.029058+00:00",
-    "f44fc4281e97d4ca": "2026-07-03T10:38:42.029058+00:00",
-    "37d6ed5b5b18fa3e": "2026-07-03T10:38:42.029058+00:00",
-    "e804215e9aa46ddc": "2026-07-03T10:38:42.029058+00:00",
-    "9e580549ce14504a": "2026-07-03T10:38:42.029058+00:00",
-    "083c32d9e1fb9aff": "2026-07-03T10:38:42.029058+00:00",
-    "9e92349472758417": "2026-07-03T10:38:42.029058+00:00",
-    "623c232551ea59dd": "2026-07-03T10:38:42.029058+00:00",
-    "46ebd5f0690a1b15": "2026-07-03T10:38:42.029058+00:00",
-    "f2f336b32e571d18": "2026-07-03T10:38:42.029058+00:00",
-    "44d444d8674007f1": "2026-07-03T10:38:42.029058+00:00",
-    "9491be57465e9492": "2026-07-03T10:38:42.029058+00:00",
-    "6eb2570cded1165b": "2026-07-03T10:38:42.029058+00:00",
-    "0e78d9837d68d33f": "2026-07-03T10:38:42.029058+00:00",
-    "feadcc65f651a953": "2026-07-03T10:38:42.029058+00:00",
-    "340cd1363463eaad": "2026-07-03T10:38:42.029058+00:00",
-    "ac5b708bba349421": "2026-07-03T10:38:42.029058+00:00",
-    "48a5f74f73752afe": "2026-07-03T10:38:42.029058+00:00",
-    "b06d12e72ea0f557": "2026-07-03T10:38:42.029058+00:00",
-    "80524443b2532e49": "2026-07-03T10:38:42.029058+00:00",
-    "51d78d757f411627": "2026-07-03T10:38:42.029058+00:00",
-    "24448cb4a44d2c7f": "2026-07-03T10:38:42.029058+00:00",
-    "e8431f014cbbe2e1": "2026-07-03T10:38:42.029058+00:00",
-    "e57a52fcdc22f993": "2026-07-03T10:38:42.029058+00:00",
-    "5be250a61d89ab7b": "2026-07-03T10:38:42.029058+00:00",
-    "0f2b9f3048e0534a": "2026-07-03T10:38:42.029058+00:00",
-    "0ebd2a27eefdfad5": "2026-07-03T10:38:42.029058+00:00",
-    "ef54c70b1f8a2c0e": "2026-07-03T10:38:42.029058+00:00",
-    "8190a507e8aabad3": "2026-07-03T10:38:42.029058+00:00",
-    "f0a067f926e2b97d": "2026-07-03T10:38:42.029058+00:00",
-    "2ed9f52e57c55418": "2026-07-03T10:38:42.029058+00:00",
-    "5a72684c4e277ef2": "2026-07-03T10:38:42.029058+00:00",
-    "10b5c19ee92b7378": "2026-07-03T10:38:42.029058+00:00",
-    "348a4020a448a4d7": "2026-07-03T10:38:42.029058+00:00",
-    "59aed8ecc49700a7": "2026-07-03T10:38:42.029058+00:00",
-    "a51bba1e13a611ea": "2026-07-03T10:38:42.029058+00:00",
     "903274a4e0c48d52": "2026-07-03T15:53:01.084165+00:00",
     "3da922b25877ac15": "2026-07-03T15:53:01.084165+00:00",
     "4834a66402d3857e": "2026-07-03T15:53:01.084165+00:00",
@@ -2717,81 +2668,41 @@
     "4915ae4387766490": "2026-08-02T09:59:31.323293+00:00",
     "3beb98df135933fa": "2026-08-02T09:59:31.323293+00:00",
     "9d46cd4398eb740f": "2026-08-02T09:59:31.323293+00:00",
-    "e36bb943c26a4766": "2026-08-02T09:59:31.323293+00:00"
+    "e36bb943c26a4766": "2026-08-02T09:59:31.323293+00:00",
+    "fa3813a5652f00a3": "2026-08-02T15:04:14.933757+00:00",
+    "13f9f2e374aad842": "2026-08-02T15:04:14.933757+00:00",
+    "bccf5540e5342c72": "2026-08-02T15:04:14.933757+00:00",
+    "14fdacaa31cb0901": "2026-08-02T15:04:14.933757+00:00",
+    "90fb787da1fee3df": "2026-08-02T15:04:14.933757+00:00",
+    "436a6d461e63b81f": "2026-08-02T15:04:14.933757+00:00",
+    "0b40b6e74697a31c": "2026-08-02T15:04:14.933757+00:00",
+    "32ddc0d24b376abd": "2026-08-02T15:04:14.933757+00:00",
+    "b136a2b6e807b05b": "2026-08-02T15:04:14.933757+00:00",
+    "a0a0c7ecb401b21c": "2026-08-02T15:04:14.933757+00:00",
+    "f1eb0d402da2dc32": "2026-08-02T15:04:14.933757+00:00",
+    "e1c50b6dc675f7c5": "2026-08-02T15:04:14.933757+00:00",
+    "9c9b35e03fbdca3b": "2026-08-02T15:04:14.933757+00:00",
+    "b7e5a720d48efc66": "2026-08-02T15:04:14.933757+00:00",
+    "c71d94a438531c7c": "2026-08-02T15:04:14.933757+00:00",
+    "ce8af7a2e38731e1": "2026-08-02T15:04:14.933757+00:00",
+    "2c18328fa0ff4e0b": "2026-08-02T15:04:14.933757+00:00",
+    "3dbe6e4e41c56845": "2026-08-02T15:04:14.933757+00:00",
+    "ade3c9aea8cda24e": "2026-08-02T15:04:14.933757+00:00",
+    "ef707166e8a09cce": "2026-08-02T15:04:14.933757+00:00",
+    "e7357e6a82059049": "2026-08-02T15:04:14.933757+00:00",
+    "607fc7424f95d250": "2026-08-02T15:04:14.933757+00:00",
+    "6c7b0a55dee8908b": "2026-08-02T15:04:14.933757+00:00",
+    "33dd49bb30c56bc5": "2026-08-02T15:04:14.933757+00:00",
+    "3677ac7c83f95b32": "2026-08-02T15:04:14.933757+00:00",
+    "1bde38c5095f3869": "2026-08-02T15:04:14.933757+00:00",
+    "3bcd8a740bda0745": "2026-08-02T15:04:14.933757+00:00",
+    "e1fdf4d14809753d": "2026-08-02T15:04:14.933757+00:00",
+    "5859d2acbd92b797": "2026-08-02T15:04:14.933757+00:00",
+    "00cfeb7cc343628a": "2026-08-02T15:04:14.933757+00:00",
+    "a3d84bf711a93e24": "2026-08-02T15:04:14.933757+00:00",
+    "e69e4438ed45ea03": "2026-08-02T15:04:14.933757+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Innovation and Sustainability Are the New Blueprint for Textiles - Apparel Resources",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWdMWjRNNG0wLUluZk9obUtVemdKRzFkUUx5ek1Za3hUWEJtMmhWM0JYbUZmUVd2Xzljb3VxNTVtYkhobllVVnFQNHdYcWhCYVB2T1BBc3BIaEwwc19wVjJwRWZaejU2NXk2Rk95OG9wYk1FN2JDSTVPTFJ1c0ZneUhmS3ZjRHhOSkFxb1F2TmphaFpTek5qN04tMGswOU1iUXpV?oc=5",
-      "pub": "2026-07-31T11:33:23+00:00",
-      "id": "9670324f9ef61e08"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Turkiye Should Help Cambodia Upgrade Textiles, Not Sell More Clothes - Cambodianess",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzQzTEtydURvYXl6Z2pac0EtVzBSei0xdlFKN1VxQ3cwNDFMbWdjTVVSQXR5bWFNX1p2RFdVSzAwdVY0SnFqX0trSjNfRDZ2VXo2TTFHUTVoTzhBWGhfSF9WMGtra01VelNBOWhMTHg0Z2ZOZUdGMnQwbXc4VGhpU0ZYWlh1cXN4d3AxZTk0bUEyeUhseVlNM1MxTzhmclVuREE?oc=5",
-      "pub": "2026-07-31T13:18:47+00:00",
-      "id": "f36b10d9fc30c230"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "| South Korea's KRW 73 bn recycling push targets textile exports - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUY3aDZJM1NqMS0zYjNGWnlJTS1RTWlTeFdOVzFiNDlTLW5WNGJYRzRhdWVkRWk3d2pKTTJRWVNLYU9YX1RqV3Nsd3JnYlQ0aXlGT1JuTEZ1NXdjZ1RXLWs2eUpjeWpfT04zcUNETFBPWTRlNERVdUJsZWxmbmtpZ1hDV2QxNGpQWjlPbzdsdU05d3JLZUxUR0tUd2I5NUxabE5MSThrQUNWYTBpOF82UGhadjIzc1RQRG1uS1VrNjNHR04yM3owYndrdlRYVElkVEMwdllBTQ?oc=5",
-      "pub": "2026-07-31T11:49:52+00:00",
-      "id": "473e30df9eb84768"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| Trans-Caspian route emerges as Asia-Europe sourcing next freight hedge - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNnN5dFQ2eUZ5OUx2ZkhWZ0pIRTliRzZTakZieDRhdmNEWUJyUF84cUo3VUthOVFzaHhtSVpSMFFjNlZKMlBQR21EY0ZYSWxQYjNTYldXaHdpSFZ6T2ZhSXRKQVdWXzk3TlNWV2tNTjlVSHlodmNNRHYwRHJjb1ZYd1UyeEhyUDE1MWlZM1BDRG53bGhHV1NGeFl0OWVRMlNqeEN2MmEwR1hVVUs5Qy1NNklVMHRyeTRHcW9xOTZDamVmSEFTbGhoeGNsSlFONm9heGlBd0VOcExZZUhPaGZJSUZmZHVDQW9YVUNj?oc=5",
-      "pub": "2026-07-31T12:45:48+00:00",
-      "id": "9ecd81bbcd1bd0c8"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Bangladesh Bank updates forex regulations for export transactions - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXBBbk1nRVhpY0VUb1B5Q1lsT05YYWJKcjBuc2luUWJWQWFFYzZvRkhfUHk4Y2JRdVVOVjl3dTZrWGRPb2RTQVRoX1V0RFcxSnNvUy1mczB6SFNpejBfaGU5elN3WThhRnRfYzZ3NEdheXhwRjNLMmFXR2tXVHJ6VTAzQ3laN0lYNTF5b2tOa1hBdERqR0NTek5Hd0l2akFMb0RjU3RBXzNleDY4YzJKc1NPWGkzVC1xX3dQN1NKQXRoR0VnZExhREVXemQwVUVndGIzOUp2d3lzUVdlUUE?oc=5",
-      "pub": "2026-07-31T10:18:38+00:00",
-      "id": "12d34a7fd1634316"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Bangladesh Eyes 12% of $375B Global MMF Market - businesstimes-bd.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcC1tWVpKT0tWMVRoLW5qb1VteWwxaE5BdVdyRG9wVjNuVGJUMkNGbkMwaVZXYTFyclhGSHJwU2x0Ulg1T3FSWkkycHJLRHNuQ0dEUWhzRHhta1QtUUVOcm1fenM?oc=5",
-      "pub": "2026-07-31T11:23:32+00:00",
-      "id": "1c89adebed0a1794"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "গ্যাস সংকটে বিপর্যস্ত আশুলিয়ার শিল্পাঞ্চল, শিপমেন্ট বিলম্বে রপ্তানিতে শঙ্কা - Daily Bhorer Dak",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLXdtellmX1lGR3lNenE1c3FHV29hNWYzZU00T0czMG8tcV82VHNxaVl2bzBxS29wX0NvLWNuOUo1UlVLY3NqLS0yakRqQlJzdmtwMw?oc=5",
-      "pub": "2026-07-31T14:51:53+00:00",
-      "id": "ec80a7f1621d4e08"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Turkiye Should Help Cambodia Upgrade Textiles, Not Sell More Clothes - Cambodianess",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1NDMUJlQlVBRHZSRE5IX0hjck44RlluNUg2cmM0UW5jNlRPSUV6NWlVb3VuV2ptUXB6THl6Y2ZNbXV4STItVkE3QUE0YndrLVVfSTZpVWRsZVdWUXF5eE1pU2I1TmV5QkxaX3dsb3JTLWItdDVJRTJfRWZMRUd3OENRRzJGUEdleUYzLVNMQnNIMWRBQjF3TU0xSktnQ1ROU0JZemZBWQ?oc=5",
-      "pub": "2026-07-31T13:18:47+00:00",
-      "id": "c844afb5b756a3e2"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "EU ban on destroying unsold clothes and shoes comes into force - Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXhXQ18yRmpXelNLck9kWGxvaWJuYUREOGxOQlBGSFQwdFpwVjNtdmhmWkxiS2RWa1BUWVJweDg1M1pzZ0J2cmV3UXhUQzhjbThUSDNZeGQ0UFVWWmYwV1luOVBaekw4cFNrOFpHWUt6aUNlS1REa3JIX2M5Mm1hUUFkQktYVXNNTjBVaERJaXMwNGtsdmdnVzNDSk9LdDlzMlFIRHUxWVVsdkk?oc=5",
-      "pub": "2026-07-31T13:09:33+00:00",
-      "id": "479e52209f1de33a"
-    },
     {
       "section": "social",
       "source": "Reddit: ESPR/DPP search",
@@ -3311,6 +3222,118 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2NG9Oc29GbWhvM3hFcmVGcUhUa3RWVFFTb3ZiVHA5aktvMm42TTFrdU1ob21nQklSV2tjMjRtV2IyWnYtZ0lldU5rdFl5UQ?oc=5",
       "pub": "2026-08-02T05:27:00+00:00",
       "id": "e36bb943c26a4766"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Ich baue CertyLoop für den DACH-Möbelmarkt — würde mich sehr über euer Feedback freuen",
+      "link": "https://www.reddit.com/r/StartupDACH/comments/1vdh7e2/ich_baue_certyloop_für_den_dachmöbelmarkt_würde/",
+      "pub": "2026-08-02T12:46:28+00:00",
+      "id": "e7357e6a82059049"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউর ১৫ দেশে পোশাক রপ্তানি কমলেও স্পেনে বেড়েছে - gramerkagoj.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBicVZqaGVVUU4tLU5YUUpicEp6bjRQOHhCd0R1ZFBzcklCeEJObGtMT0J3Sm1XcGNmQVFfZUFqUXZndWw0NzllV1NpcDI0ejNGYm5OTA?oc=5",
+      "pub": "2026-08-02T13:20:00+00:00",
+      "id": "607fc7424f95d250"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাংলাদেশে ‘কালো তালিকাভুক্ত’ হচ্ছে এলপিপি? - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNTE5XS2hTMU1iXzhTRTlKcTl4Wm04ckl6emx2b2N2ZFppUWdxYlZMdER3b2FlR1VRaFlfeFM1eXJUNzhyZ3g2Q3hzTG1Dc21ESFh5SkpTclpiSDVLX054YjRrN3NKem01d3g0ckxxUldfUWdlaTZsTmtNZjVic1ZhOG5zVjVLSEV3QXloa1ljWG5qRnlYQjctRWFWNzJPeVRiTzlyR1d1WFNuNmVzNjBGYW50cTNfd3ZVcWZ5dXlDVlZBc3FUU1lnLW1uRWVpOFdrUW1PamlSTFVfaWxQM0twYkowcnlTUHJVSnhtRHc1Y2x3eUxhaVBJUEowTVFXZzY0dnpKMXlYZHp1eFhrUDVXNU5zYkhJWGNDbDdRbWo2enh6WjRXeEVlOW43MnBJOEhudHBCa0JtcFFteS1EMl9vTFlucnpzMHFDZUNTeE1oYktvWXVVR3YwcENQMmhHWl9EZWxNSmhCV1VGcmtiNXd0M3dxamhVTXZjbThsQmRTdWpLOG00NFlmbVdhZEJNa0hidUVTNGVmZW4wWGhhWUNqWFZpTEtnelpSMkJiSnNBLXVxSkFGRVotMTVUNkdITWpDeGNEa0NjZzB5bEE2WGVaQVo1Ymx5R2EwMm43UnRscWp0NkZCRXZEOFdHYU82ODZ0MkNOci1qaHlMUk9EWHNZdWZ2MnNURlM4cnJBbU1hZ3RqWFhDc0ViWHp2T1I4eVZpY0VZc2ExVdIBpwRBVV95cUxNTE5XS2hTMU1iXzhTRTlKcTl4Wm04ckl6emx2b2N2ZFppUWdxYlZMdER3b2FlR1VRaFlfeFM1eXJUNzhyZ3g2Q3hzTG1Dc21ESFh5SkpTclpiSDVLX054YjRrN3NKem01d3g0ckxxUldfUWdlaTZsTmtNZjVic1ZhOG5zVjVLSEV3QXloa1ljWG5qRnlYQjctRWFWNzJPeVRiTzlyR1d1WFNuNmVzNjBGYW50cTNfd3ZVcWZ5dXlDVlZBc3FUU1lnLW1uRWVpOFdrUW1PamlSTFVfaWxQM0twYkowcnlTUHJVSnhtRHc1Y2x3eUxhaVBJUEowTVFXZzY0dnpKMXlYZHp1eFhrUDVXNU5zYkhJWGNDbDdRbWo2enh6WjRXeEVlOW43MnBJOEhudHBCa0JtcFFteS1EMl9vTFlucnpzMHFDZUNTeE1oYktvWXVVR3YwcENQMmhHWl9EZWxNSmhCV1VGcmtiNXd0M3dxamhVTXZjbThsQmRTdWpLOG00NFlmbVdhZEJNa0hidUVTNGVmZW4wWGhhWUNqWFZpTEtnelpSMkJiSnNBLXVxSkFGRVotMTVUNkdITWpDeGNEa0NjZzB5bEE2WGVaQVo1Ymx5R2EwMm43UnRscWp0NkZCRXZEOFdHYU82ODZ0MkNOci1qaHlMUk9EWHNZdWZ2MnNURlM4cnJBbU1hZ3RqWFhDc0ViWHp2T1I4eVZpY0VZc2ExVQ?oc=5",
+      "pub": "2026-08-02T12:56:24+00:00",
+      "id": "6c7b0a55dee8908b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউর ১৫ দেশে পোশাক রপ্তানি কমলেও স্পেনে বেড়েছে - gramerkagoj.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBicVZqaGVVUU4tLU5YUUpicEp6bjRQOHhCd0R1ZFBzcklCeEJObGtMT0J3Sm1XcGNmQVFfZUFqUXZndWw0NzllV1NpcDI0ejNGYm5OTA?oc=5",
+      "pub": "2026-08-02T13:20:00+00:00",
+      "id": "607fc7424f95d250"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দক্ষ মানবসম্পদ তৈরিতে প্রশিক্ষণ জরুরি: বিজিএমইএ সহ-সভাপতি » খবরের সাথে সারাক্ষণ - Chattolar Khabor",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZUVQ4SUVnSzVLOHk5UlBzN2JQNlc3R3VPbDN1aU1WbkZBTi16ak1KMEk0S0d6Z0ZsVmZhUWJwcFl3ZkJwSnVaT0RpcUVoLWV4UDgyMTZuVQ?oc=5",
+      "pub": "2026-08-02T13:28:00+00:00",
+      "id": "33dd49bb30c56bc5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ’র নতুন মহাসচিব হিসেবে যোগ দিলেন ড. সাহেদুল ইসলাম - newszonebd.com",
+      "link": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOUXNoWHBQcHNWMlRhcHgyOGZYbVh2aTB6RlFnb2Z2VnZnN3E2X0U2bkxsRDlRZGIwUk01NG9kN2xFMjd2NF9Va1FqX1FwelZQc3ZzMUJkYmpMdXRnYzZzNDRkYU9QdEZCVjF4Z3A0QjBXN3J4dEdNeTFFcmVWbTMwWm5OY01od0M5WWNMLTVLRFhkU0FkUEpxNHhHM2pkc2tzT09WbVpoX0NLY1dvWHQzMWU2djhJRUpGZG54LW9ybU9CWVZMeEQyc0R5YlVDdEdQdDdZWEdnb19GVWlFajZKeEpGVnoyVkM1aGlYNXFjM2ZTYm1HMURMOEs5UkNBVUlFaE9HNVhoNWxNcVNoQWF3YWlObUExT3QteVVQTGRYM1NsMk1JV2xrNHJWLUx6VWU4NWMwOGZRT1lOY2Jqd2F0ZDJrVzRfWDc5aGFDaHYzbTNiRHFHR3lBeUc5VnJsc2FSNVNuTmdEVDVEMjI0cW1kNkhWUlkzVXRSSHk4aC1GbTdvLVV1cnFCSzY4Mk5HbjBNR3h0TUx3aUMzZW9nbjBYUktPY3RLVnA3YTNObnpad2VFd2lIVTdRMHpTZVltZmlkTjBUMVpPM05qR29fMUJ3X21OUnFCNFZYaGRobUV3dFNsR1BKSXNIUWdGcXNNdWJNaHZacG5lM2RGd1BaWWl5UDNmdkdtR0NFZzBvTWhPZ1ZEX3RIbG1wWnlEdE1mdmY3V1I3UGVrUGswcnRQZDhrX0ZHUzB2NE8ydnNZcTdLSjlrUVpCZmtjWktZNGVpWkp1bEZ3NTQ2d3d6anBjVmRaRWtHUldtTnFFMkhsZDlmLXhYakV2MHBjV2xVY2tSSk9nZlk4QVJBVGE4RVpNU2VUdDl1Um9Fcm5aZDdz0gGbBUFVX3lxTE5Rc2hYcFBwc1YyVGFweDI4ZlhtWHZpMHpGUWdvZnZWdmc3cTZfRTZuTGxEOVFkYjBSTTU0b2Q3bEUyN3Y0X1VrUWpfUXB6VlBzdnMxQmRiakx1dGdjNnM0NGRhT1B0RkJWMXhncDRCMFc3cnh0R015MUVyZVZtMzBabk5jTWh3QzlZY0wtNUtEWGRTQWRQSnE0eEczamRza3NPT1ZtWmhfQ0tjV29YdDMxZTZ2OElFSkZkbngtb3JtT0JZVkx4RDJzRHliVUN0R1B0N1lYR2dvX0ZVaUVqNkp4SkZWejJWQzVoaVg1cWMzZlNibUcxREw4SzlSQ0FVSUVoT0c1WGg1bE1xU2hBYXdhaU5tQTFPdC15VVBMZFgzU2wyTUlXbGs0clYtTHpVZTg1YzA4ZlFPWU5jYmp3YXRkMmtXNF9YNzloYUNodjNtM2JEcUdHeUF5RzlWcmxzYVI1U25OZ0RUNUQyMjRxbWQ2SFZSWTNVdFJIeThoLUZtN28tVXVycUJLNjgyTkduME1HeHRNTHdpQzNlb2duMFhSS09jdEtWcDdhM05uelp3ZUV3aUhVN1EwelNlWW1maWROMFQxWk8zTmpHb18xQndfbU5ScUI0VlhoZGhtRXd0U2xHUEpJc0hRZ0Zxc011Yk1odlpwbmUzZEZ3UFpZaXlQM2Z2R21HQ0VnMG9NaE9nVkRfdEhsbXBaeUR0TWZ2ZjdXUjdQZWtQazBydFBkOGtfRkdTMHY0TzJ2c1lxN0tKOWtRWkJma2NaS1k0ZWlaSnVsRnc1NDZ3d3pqcGNWZFpFa0dSV21OcUUySGxkOWYteFhqRXYwcGNXbFVja1JKT2dmWThBUkFUYThFWk1TZVR0OXVSb0VyblpkN3M?oc=5",
+      "pub": "2026-08-01T18:14:20+00:00",
+      "id": "3677ac7c83f95b32"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাওনা শোধ না করেই বাংলাদেশে অর্ডার স্থগিতের ঘোষণা পোলিশ পোশাক জায়ান্ট এলপিপি’র - rtvonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jcXBrUFlPZWNzQ01EQ0tsVWhqMFBubFp1MmVpUE5iVlNfbW83aGJrNERkZnl1WnlfcXU5Wk5zYUJXREdPVlZpekViSFd6TjAxM0E?oc=5",
+      "pub": "2026-08-02T07:55:00+00:00",
+      "id": "1bde38c5095f3869"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশে ‘কালো তালিকাভুক্ত’ হচ্ছে এলপিপি? - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxNTE5XS2hTMU1iXzhTRTlKcTl4Wm04ckl6emx2b2N2ZFppUWdxYlZMdER3b2FlR1VRaFlfeFM1eXJUNzhyZ3g2Q3hzTG1Dc21ESFh5SkpTclpiSDVLX054YjRrN3NKem01d3g0ckxxUldfUWdlaTZsTmtNZjVic1ZhOG5zVjVLSEV3QXloa1ljWG5qRnlYQjctRWFWNzJPeVRiTzlyR1d1WFNuNmVzNjBGYW50cTNfd3ZVcWZ5dXlDVlZBc3FUU1lnLW1uRWVpOFdrUW1PamlSTFVfaWxQM0twYkowcnlTUHJVSnhtRHc1Y2x3eUxhaVBJUEowTVFXZzY0dnpKMXlYZHp1eFhrUDVXNU5zYkhJWGNDbDdRbWo2enh6WjRXeEVlOW43MnBJOEhudHBCa0JtcFFteS1EMl9vTFlucnpzMHFDZUNTeE1oYktvWXVVR3YwcENQMmhHWl9EZWxNSmhCV1VGcmtiNXd0M3dxamhVTXZjbThsQmRTdWpLOG00NFlmbVdhZEJNa0hidUVTNGVmZW4wWGhhWUNqWFZpTEtnelpSMkJiSnNBLXVxSkFGRVotMTVUNkdITWpDeGNEa0NjZzB5bEE2WGVaQVo1Ymx5R2EwMm43UnRscWp0NkZCRXZEOFdHYU82ODZ0MkNOci1qaHlMUk9EWHNZdWZ2MnNURlM4cnJBbU1hZ3RqWFhDc0ViWHp2T1I4eVZpY0VZc2ExVdIBpwRBVV95cUxNTE5XS2hTMU1iXzhTRTlKcTl4Wm04ckl6emx2b2N2ZFppUWdxYlZMdER3b2FlR1VRaFlfeFM1eXJUNzhyZ3g2Q3hzTG1Dc21ESFh5SkpTclpiSDVLX054YjRrN3NKem01d3g0ckxxUldfUWdlaTZsTmtNZjVic1ZhOG5zVjVLSEV3QXloa1ljWG5qRnlYQjctRWFWNzJPeVRiTzlyR1d1WFNuNmVzNjBGYW50cTNfd3ZVcWZ5dXlDVlZBc3FUU1lnLW1uRWVpOFdrUW1PamlSTFVfaWxQM0twYkowcnlTUHJVSnhtRHc1Y2x3eUxhaVBJUEowTVFXZzY0dnpKMXlYZHp1eFhrUDVXNU5zYkhJWGNDbDdRbWo2enh6WjRXeEVlOW43MnBJOEhudHBCa0JtcFFteS1EMl9vTFlucnpzMHFDZUNTeE1oYktvWXVVR3YwcENQMmhHWl9EZWxNSmhCV1VGcmtiNXd0M3dxamhVTXZjbThsQmRTdWpLOG00NFlmbVdhZEJNa0hidUVTNGVmZW4wWGhhWUNqWFZpTEtnelpSMkJiSnNBLXVxSkFGRVotMTVUNkdITWpDeGNEa0NjZzB5bEE2WGVaQVo1Ymx5R2EwMm43UnRscWp0NkZCRXZEOFdHYU82ODZ0MkNOci1qaHlMUk9EWHNZdWZ2MnNURlM4cnJBbU1hZ3RqWFhDc0ViWHp2T1I4eVZpY0VZc2ExVQ?oc=5",
+      "pub": "2026-08-02T12:56:24+00:00",
+      "id": "6c7b0a55dee8908b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রাষ্ট্রমালিকানাধীন ব্যাংকের এমডি নিয়োগ করবে পর্ষদ, মনোনয়ন দেবে সরকার - Orthosongbad",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTl9Nb2hIWEk0MzVMSFdyZmN2YmdaTkZqUlNLcDh4MGZ1VnhWRmVtYnludms0R1U2VTFHb09IRS1hdzlVSEdKRVpoajQxbXRZZ21UMzdramQzVEJ2UUw2U3doRFVJTV9RTmtiNW5YNlpLN3JUQXZtb3NDNmxEY2g2Q1FSSU5KRFNYUnhTXzlvb2NJcEdwUWNfVmxNN19jWmlXSmdkanpSSFRQcVZPMFFKRVF2N1AtRFRoUjBja2lHZGRRWTBfQmh0NWMzMktyeS1TVmJYRFZ1WFNXUG9OWTEzR2hDakF2anhaeE9tSV8yd052MFJfSXV0eWxtT2NQa0NFODFzQ19LSFlSbXo5emNnOEY4cUxNVWF6ZkNLR1d2RG1uVWhzMHpFU3FOeHN1YTRSOHVLcWRYWU9BbHN3QTl3eWdac2Zpa1QySGpCcXZtN2c2UEEtT29B0gHXAkFVX3lxTE1OX01vaEhYSTQzNUxIV3JmY3ZiZ1pORmpSU0twOHgwZnVWeFZGZW1ieW52azRHVTZVMUdvT0hFLWF3OVVIR0pFWmhqNDFtdFlnbVQzN2tqZDNUQnZRTDZTd2hEVUlNX1FOa2I1blg2Wks3clRBdm1vc0M2bERjaDZDUVJJTkpEU1hSeFNfOW9vY0lwR3BRY19WbE03X2NaaVdKZ2RqelJIVFBxVk8wUUpFUXY3UC1EVGhSMGNraUdkZFFZMF9CaHQ1YzMyS3J5LVNWYlhEVnVYU1dQb05ZMTNHaENqQXZqeFp4T21JXzJ3TnYwUl9JdXR5bG1PY1BrQ0U4MXNDX0tIWVJtejl6Y2c4RjhxTE1VYXpmQ0tHV3ZEbW5VaHMwekVTcU54c3VhNFI4dUtxZFhZT0Fsc3dBOXd5Z1pzZmlrVDJIakJxdm03ZzZQQS1Pb0E?oc=5",
+      "pub": "2026-08-02T05:11:05+00:00",
+      "id": "3bcd8a740bda0745"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জুলাই মাসে এলো ৩৫ হাজার কোটি টাকার রেমিট্যান্স - Shomoyer Alo",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oS2h2VGVrck4tSTNaMktIajU2MktEU3J5aFp6blJuajVmUE9QamNwSkQtNTY2di1TdzBXemFnTXdTN1N5dnlBWUMtYWZPTnZj?oc=5",
+      "pub": "2026-08-02T13:16:13+00:00",
+      "id": "e1fdf4d14809753d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "মিরসরাইয়ে সহযোগী সহ যুবদল নেতা গ্রেফতার » খবরের সাথে সারাক্ষণ - Chattolar Khabor",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SbGF4alB0MUlnZktRWnBkTS10NE00WkdkaGRJby1VbFFBbEpPekN6Wi1QMWJJNi1LNl9Jb0NSNzNsYVdKVjgxRlYxVEhkdGdMb2dIVW5aVQ?oc=5",
+      "pub": "2026-08-02T14:22:24+00:00",
+      "id": "5859d2acbd92b797"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রূপালী ব্যাংকের পরিশোধিত মূলধন বেড়েছে প্রায় দ্বিগুণ - newszonebd.com",
+      "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxOS0lGVksxZ284UHROb29fOFRYd0JNdFVxdmJzM0RfcWhHajVEX1BNNFZsSmZad1dpZ3JrMFhsc1MzM2p3dmRWUW92ejZOSkRzdFNWQW4tTzVMdTh5b1k5Ykp4OXJmRW1ySW1Sd3FZRUNNREFsTlExTjhDUjF5bjNZYjlGVEM3TFBDSXdrZnZRbTFUU0NHUXE1djk4dXdhN1JfaWVnQjZ0QUNMV0VCUERzNWFfVjNuMU40SDBfRHMxeDZMQjJzZTVnc3FWTkttOXdFZENOZWM5VUMtdXdYZEpjaUJVOXNsdENmX2MyclBlRWZtbnRUY3lscmZvNF9wZEQ0dlRKaUUtaC1VLWRudkdrOGpVZFpPVXlXV2RnOHlKa21kbmpMYThQSHlNOGxkZHdEUzF0SjA1Q0xidFhObTVwMTFFR0d5N2lLdUUtcmdnLUZ6QTRLanFRUG9WRmV1UDlDNFVia2xXd0Jjc0oyVlIwWjZnRHpXaklEc191SGpfck8zemk1aVRzUWtHdXRnaDJTbWhkNmlWWUl5eFY0SEdqWE9ydUpYbmF3Vm1JNWxmbndQRzhhTkpCcjdFeXJJMEpBTHNPYWhfU2pnVUZBaUZ6cmhlOENtdklIX1dVT3N1Zl9QYVE5c2tRcjhFTnlFQnVaRXN6RDRXMTktVjFzazhzbl82WE5QVUNIRDlaNlU3OGF2d0htSHhDS3drNUV5cW53dmxleVRCOFN4ZVphaUsxVlM0Z0VQUWZZQmhUckN5WnE1Rjg2SUxjdlBLc0RFR0RwUGVpMDM3RURmb3dtc29IN2VoZTJmME1acjFCLXJ0MmJKelJs0gH0BEFVX3lxTE5LSUZWSzFnbzhQdE5vb184VFh3Qk10VXF2YnMzRF9xaEdqNURfUE00VmxKZlp3V2lncmswWGxzUzMzand2ZFZRb3Z6Nk5KRHN0U1ZBbi1PNUx1OHlvWTliSng5cmZFbXJJbVJ3cVlFQ01EQWxOUTFOOENSMXluM1liOUZUQzdMUENJd2tmdlFtMVRTQ0dRcTV2OTh1d2E3Ul9pZWdCNnRBQ0xXRUJQRHM1YV9WM24xTjRIMF9EczF4NkxCMnNlNWdzcVZOS205d0VkQ05lYzlVQy11d1hkSmNpQlU5c2x0Q2ZfYzJyUGVFZm1udFRjeWxyZm80X3BkRDR2VEppRS1oLVUtZG52R2s4alVkWk9VeVdXZGc4eUprbWRuakxhOFBIeU04bGRkd0RTMXRKMDVDTGJ0WE5tNXAxMUVHR3k3aUt1RS1yZ2ctRnpBNEtqcVFQb1ZGZXVQOUM0VWJrbFd3QmNzSjJWUjBaNmdEeldqSURzX3VIal9yTzN6aTVpVHNRa0d1dGdoMlNtaGQ2aVZZSXl4VjRIR2pYT3J1SlhuYXdWbUk1bGZud1BHOGFOSkJyN0V5ckkwSkFMc09haF9TamdVRkFpRnpyaGU4Q212SUhfV1VPc3VmX1BhUTlza1FyOEVOeUVCdVpFc3pENFcxOS1WMXNrOHNuXzZYTlBVQ0hEOVo2VTc4YXZ3SG1IeENLd2s1RXlxbnd2bGV5VEI4U3hlWmFpSzFWUzRnRVBRZllCaFRyQ3lacTVGODZJTGN2UEtzREVHRHBQZWkwMzdFRGZvd21zb0g3ZWhlMmYwTVpyMUItcnQyYkp6Umw?oc=5",
+      "pub": "2026-08-02T06:18:16+00:00",
+      "id": "00cfeb7cc343628a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বেনজীর আহমেদের জামিন বাতিলের চেষ্টা চলছে: স্বরাষ্ট্রমন্ত্রী » খবরের সাথে সারাক্ষণ - Chattolar Khabor",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUFuc0ZlWGwxOG5pX0FWbGV1U056QmN1STB0UEhCajk5LXB0c19XUGZnUXd3TnNyN2VsV1l5X0hhY2cwVHlGV1djMXFFWDN0WWtJQnZCQQ?oc=5",
+      "pub": "2026-08-02T13:27:29+00:00",
+      "id": "a3d84bf711a93e24"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিএমডব্লিউতে বড় ত্রুটি, হাজার হাজার গাড়ি প্রত্যাহার করছে সৌদি - newszonebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOSkJpbkJkMVR2UWdGeWprYmR6NmhGb3hBTkU4UndKSGNUdE5UWjVFOUctRXppMFVWc25FelgxZXBTQ2tiZ2RtU1pNZHZ0Ym5FenU3VGY3aTlPUDdGbzZ2UnUyM1Z1NGYtVUl3bmswcE9lN2hQWlYxTkpMSXFoaVMydkE5VmpxcWlWRVhRVGFtTGxURnFsMGp3QXVGWVNCREtKUmM3dklvVmhxZzAwTHFXVVRDQWpMU000NUlsZ3pKMUVXckkzdmlOV1JOQ2ZYcTdMZnZSRURCT2lhYldYa0F6VGQ3MnZqc055NjRDX2pfcUs1d1lrTFdIVjRuZHlJaUhWLWs0TjdnbGpKRXozT0dfcXVybVptMUwycEphWFRkNDVWTDBZVDUwM2d2R3F1YzBSSmdZa0paUmNyVl8zdnhDUmk4YWUwdkJxU1lpdVpla3JmNmM2NDlGWWtmYldSaUstaktXcjFsMktTVmYwUzRhUjljTnN1NzNpY182QUJla2xxaU4wQ1hRN2l6YzlxUzdBVkVpZ0FGak14U2JPVW9VOWx2SjFwcS00M21oVVZRY3FxUW0xYWdsWUFkbG53dW1NaDdsZ0lkLXJKdWtkZzdOdGVVQXl5OE9rc0JTXzRXY0pyZTZVYWdldmkyNlU1ZE82aUlBVno3bkd0R1NTQXl6cVRGTE9HSlJ0SWFTa2ZQaG1PWFhCZ0NoUl9oeU40NUJjb2NZbEhoQTV0X1N4TFhnRzhPeWRVTG5KM1JwaGQ5SFRnLWM0OGxyUEVJN0RoOWxRWXp6Y1NYajE2YlZFN25LX2E3S3hWMTl0b004TTgtSDVpdGVHMk1MNkM1X1ZtZng1M2psMEMtd19zWEhaUndYakdjdmktWXN1RUd5eVJOQ3pUMWVPTWhSNHVadUE4TlFwcTk3d1BWVXd3bTQyUkkxMGdBTEIxZDZVc3hF0gHLBUFVX3lxTE5WSXRTZHlzcDNHODVSZHlXSDVjNXE4eHNHa2pwYXRTWTVQeE8waVc4ZzVZQ0xERmJZMk9xTEFHekdHdF9kbEpXbG9KUXNpc1hVRnRJUVdaSzV1Qjl3NWN0UkZYWGs3NUVkb2tRRVZkYU03Z1hmQmJCT2kwc0JIMUtnZDVDenNnc3JfNGpSQkJ3RVBGajZsbTB0ZXJrclVNZThCak9DcWVkNFp0TGZKYVRscXRXdzc0WmFpWHQxaFN0bU9SMFlQRFRNWDJST0pEY3gyQ01ZT09md3MwMldka3VUMzN2NGxyLUpkakdkdHZvMFRpU1FuZkRWeDA0M0JZNTVTVnRnMFB4TnBoOFdMNF9FVGNEc185NGFodTVaYnFxSlZRNVhaT01MdXdtemVxemhGVG13aXdSTnQwYzhRQk5ZQi1YTVVQLWc1N3Fsbk84eVRaaVJuNHdNeGZnYUhrUTNFMWpWUGFvSWlxcXowZ0ZhS2Jjak5weGszZWZNbW0xWUs4eGw1Um1iUDNKcVQxbTg0N19rbi1CbnplT05hLWNiVVM5dDFLdjRyWFJ5X0prSVRVOVhsZU9rN1owY1hEb042aTM5SUVhSjV5cnJpdVo2X2NVMDBDRmZrZU5SYW5LTEs0UFFKenN4Y0o1LXBnb3JJSHFsSmVYY1JMSWdKYThKRXhEd0QwYmFjTV9wM1ZEN0FXcWJUTFo3ek53MGVZTnpLZllCM0xFYUpsQkIxSmZmRlhEM0ZORjJ1YlgwWW9yQ1VKdTNzclZfbG4wZ2ZwN0F4ZjRWNTNyMmp1ZWNWcE1IWnVfUkY5M05URTBCQzJsbnJ0YmlYOVJQdGhtMFMtZXZqcU0zbTJudjNSRE5qLTBCb0lnc2VLaWwtRGU3UTF2QjZmQVd0QWRNQ1JRRVpvd3lIMV9BY0tub1hTYk40QnkyMEFoa3drYTdzcUE?oc=5",
+      "pub": "2026-08-02T00:09:01+00:00",
+      "id": "e69e4438ed45ea03"
     }
   ]
 }
