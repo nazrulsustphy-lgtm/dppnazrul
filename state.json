@@ -1,57 +1,5 @@
 {
   "seen": {
-    "61680548aaad2e25": "2026-07-06T12:06:31.323342+00:00",
-    "c206b6c9a9860f0a": "2026-07-06T12:06:31.323342+00:00",
-    "3a07c09f58e1b4b8": "2026-07-06T12:06:31.323342+00:00",
-    "f1527969670678e8": "2026-07-06T12:06:31.323342+00:00",
-    "7b0862c985757883": "2026-07-06T12:06:31.323342+00:00",
-    "69b8299511d459b3": "2026-07-06T12:06:31.323342+00:00",
-    "d004ae8504caece4": "2026-07-06T12:06:31.323342+00:00",
-    "7d81114cc5385011": "2026-07-06T12:06:31.323342+00:00",
-    "d60506044f4b1fdd": "2026-07-06T12:06:31.323342+00:00",
-    "c721d76d812cfa22": "2026-07-06T12:06:31.323342+00:00",
-    "e2760a1778d56ad5": "2026-07-06T12:06:31.323342+00:00",
-    "538728c53d9f8033": "2026-07-06T12:06:31.323342+00:00",
-    "769ebc5341353952": "2026-07-06T12:06:31.323342+00:00",
-    "03aba9c1a6c8359e": "2026-07-06T12:06:31.323342+00:00",
-    "e99c818fc5412e3d": "2026-07-06T12:06:31.323342+00:00",
-    "88706c0bbe7d0a3b": "2026-07-06T12:06:31.323342+00:00",
-    "c294e0de7fa589e5": "2026-07-06T12:06:31.323342+00:00",
-    "45f7bf3537c48494": "2026-07-06T12:06:31.323342+00:00",
-    "08d001a24066d477": "2026-07-06T12:06:31.323342+00:00",
-    "f850bd10762c42ef": "2026-07-06T12:06:31.323342+00:00",
-    "2dea2a3e1200e840": "2026-07-06T12:06:31.323342+00:00",
-    "8fa66ff72e2fe30f": "2026-07-06T12:06:31.323342+00:00",
-    "8b1e15fff161230f": "2026-07-06T12:06:31.323342+00:00",
-    "e21d3844ba4bebe1": "2026-07-06T12:06:31.323342+00:00",
-    "b31705c09141bc06": "2026-07-06T12:06:31.323342+00:00",
-    "c19e03c8f25d7109": "2026-07-06T12:06:31.323342+00:00",
-    "1fc7b2f016802752": "2026-07-06T12:06:31.323342+00:00",
-    "f937c18232ab6612": "2026-07-06T12:06:31.323342+00:00",
-    "783857d76867e241": "2026-07-06T12:06:31.323342+00:00",
-    "602b7a0891590590": "2026-07-06T12:06:31.323342+00:00",
-    "f3ba54e5fa3c9eba": "2026-07-06T12:06:31.323342+00:00",
-    "d62d23f8f8c7ece3": "2026-07-06T12:06:31.323342+00:00",
-    "6a5a30af054534c3": "2026-07-06T12:06:31.323342+00:00",
-    "14511a56e993d05f": "2026-07-06T12:06:31.323342+00:00",
-    "3c93fd40ce7fde70": "2026-07-06T12:06:31.323342+00:00",
-    "7ec3b4ec617a2a26": "2026-07-06T12:06:31.323342+00:00",
-    "3917050387310ebe": "2026-07-06T12:06:31.323342+00:00",
-    "3b210dc7bf7bc5ad": "2026-07-06T12:06:31.323342+00:00",
-    "90aaca0f8a11e032": "2026-07-06T12:06:31.323342+00:00",
-    "98ff2c02635b4cfe": "2026-07-06T12:06:31.323342+00:00",
-    "3d79021c37724e4a": "2026-07-06T12:06:31.323342+00:00",
-    "77700323b56d4bad": "2026-07-06T12:06:31.323342+00:00",
-    "f9de61a7551e8e55": "2026-07-06T12:06:31.323342+00:00",
-    "4df23b9ebfe17373": "2026-07-06T12:06:31.323342+00:00",
-    "09668f3c0be913ff": "2026-07-06T12:06:31.323342+00:00",
-    "c82ec17a9c5154dc": "2026-07-06T12:06:31.323342+00:00",
-    "f0f2685c0abd61d0": "2026-07-06T12:06:31.323342+00:00",
-    "33cb0d8de9b08e2b": "2026-07-06T12:06:31.323342+00:00",
-    "9c126de4df0900ca": "2026-07-06T12:06:31.323342+00:00",
-    "2acb0169f18604ed": "2026-07-06T12:06:31.323342+00:00",
-    "bd1912390b3b5bd0": "2026-07-06T12:06:31.323342+00:00",
-    "582d1abf43bcfd01": "2026-07-06T12:06:31.323342+00:00",
     "499a1060c11192e8": "2026-07-06T16:52:47.254167+00:00",
     "837be3aabe649e97": "2026-07-06T16:52:47.254167+00:00",
     "bd8c4595940f6949": "2026-07-06T16:52:47.254167+00:00",
@@ -2916,73 +2864,44 @@
     "e75ec465eca703ff": "2026-08-05T10:37:49.261161+00:00",
     "3fecf51e71a0b360": "2026-08-05T10:37:49.261161+00:00",
     "eff33018c0c7cb7e": "2026-08-05T10:37:49.261161+00:00",
-    "94f8c0f54f3ee816": "2026-08-05T10:37:49.261161+00:00"
+    "94f8c0f54f3ee816": "2026-08-05T10:37:49.261161+00:00",
+    "f82bbabf5d7eefd2": "2026-08-05T16:01:43.009858+00:00",
+    "ec9c3db233f17df4": "2026-08-05T16:01:43.009858+00:00",
+    "bb587bf4a7eb98b9": "2026-08-05T16:01:43.009858+00:00",
+    "703e3d20c349433d": "2026-08-05T16:01:43.009858+00:00",
+    "57fcd40b4e5c050d": "2026-08-05T16:01:43.009858+00:00",
+    "fdd450a945c8a369": "2026-08-05T16:01:43.009858+00:00",
+    "c1f6a3cb7c222da9": "2026-08-05T16:01:43.009858+00:00",
+    "98c59ca1bf59fd39": "2026-08-05T16:01:43.009858+00:00",
+    "eeac1192ed0c57e7": "2026-08-05T16:01:43.009858+00:00",
+    "7bf71a55a21e58eb": "2026-08-05T16:01:43.009858+00:00",
+    "0cb1c1dece0d1396": "2026-08-05T16:01:43.009858+00:00",
+    "eb80ee06ef174067": "2026-08-05T16:01:43.009858+00:00",
+    "90336be32cd1462e": "2026-08-05T16:01:43.009858+00:00",
+    "f42cf463c0cdbf9c": "2026-08-05T16:01:43.009858+00:00",
+    "ded4b474ac18725b": "2026-08-05T16:01:43.009858+00:00",
+    "cd74c3ab2aff534d": "2026-08-05T16:01:43.009858+00:00",
+    "d614a07a0c9881f9": "2026-08-05T16:01:43.009858+00:00",
+    "1caedb28dbf22475": "2026-08-05T16:01:43.009858+00:00",
+    "b9609fe36a2d03b0": "2026-08-05T16:01:43.009858+00:00",
+    "49fcb617345d98fc": "2026-08-05T16:01:43.009858+00:00",
+    "f4a08a28413065c4": "2026-08-05T16:01:43.009858+00:00",
+    "3877663391d1914e": "2026-08-05T16:01:43.009858+00:00",
+    "349830cf76ec5d54": "2026-08-05T16:01:43.009858+00:00",
+    "c55667da7f0d4ce0": "2026-08-05T16:01:43.009858+00:00",
+    "f882683be4802022": "2026-08-05T16:01:43.009858+00:00",
+    "da2544e5f2c52b93": "2026-08-05T16:01:43.009858+00:00",
+    "4af28746aa567172": "2026-08-05T16:01:43.009858+00:00",
+    "f6b62b63c89ca40f": "2026-08-05T16:01:43.009858+00:00",
+    "6f331294c960d17d": "2026-08-05T16:01:43.009858+00:00",
+    "a0a066607cddbacb": "2026-08-05T16:01:43.009858+00:00",
+    "f46a92a4d10dcab1": "2026-08-05T16:01:43.009858+00:00",
+    "9550cfe6fad7cb95": "2026-08-05T16:01:43.009858+00:00",
+    "2d73c73216c7977e": "2026-08-05T16:01:43.009858+00:00",
+    "317c6ad56d634d25": "2026-08-05T16:01:43.009858+00:00",
+    "dc9f4a96b7064fa7": "2026-08-05T16:01:43.009858+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "৫ আগস্ট পোশাক কারখানায় ছুটি থাকবে কি না, জানাল বিজিএমইএ - NPB News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GVEw3VzhDclJ0ekN6THJUZFJOUXhTTDk3Yi03SWRlNi1GVW9ZbXJ3Y0hNYTJBVmpfMHM1b1poZm5vbHA2LVlGNkYxX09SSHc0?oc=5",
-      "pub": "2026-08-03T11:17:30+00:00",
-      "id": "3d3ec975da57152e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "৫ আগস্টে পোশাক কারখানায় ছুটি নিয়ে যা জানাল বিজিএমইএ - Janobani",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54R1phWTl3SUNKWmdNWmhBQ1dndjRJNFd4WXhqRXphaGc0MU95TTJ2UDhLX2JwZ0tPX213Nkw2UTV1Vk1FTTZETXNScw?oc=5",
-      "pub": "2026-08-03T11:07:00+00:00",
-      "id": "77ef865518a16a05"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh RMG to blacklist Poland’s LPP over $40m arrears - dhakatribune.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUtzbUI3bEF2ajFVbzY5SjJxUXF5eVgxVE9XN2w2ekM5UjVNT0RjVG1YMmlpdHUwa3lDcFBTNGd1UE5TZWVIVzVvb21sazV0WWhJMHFpcTJGdFlKUm81SEo3NEs1Vmh0SDJyU3ctTDNGVkVkbXhKNVV2NXpVY0RXYXBMbG13U3lsOGpQTVRKTGRTOHp0OTctQ01JbHlMZEJzcGhDODcxXy1aUdIBqgFBVV95cUxQLUtzbUI3bEF2ajFVbzY5SjJxUXF5eVgxVE9XN2w2ekM5UjVNT0RjVG1YMmlpdHUwa3lDcFBTNGd1UE5TZWVIVzVvb21sazV0WWhJMHFpcTJGdFlKUm81SEo3NEs1Vmh0SDJyU3ctTDNGVkVkbXhKNVV2NXpVY0RXYXBMbG13U3lsOGpQTVRKTGRTOHp0OTctQ01JbHlMZEJzcGhDODcxXy1aUQ?oc=5",
-      "pub": "2026-08-03T12:39:04+00:00",
-      "id": "0105c6c414f95fc8"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "RMG suffers blow as export shrinks in FY27 beginning - dhakatribune.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTBqdFlEZktobk1iVWRsZUc3eU5OS1h2dW5NX1VXdkc2UFVpVW9takZ1WUUya1RkRldwbHFjMGRlT2lvY1drT2pzcDNOTC1SdHp3dVhxSG00dlRYVVpLWGJwSkpLeGFLYkVVUEc2U0lsbWI0MlNYeXYyeU1pemZoRjBjdHdVd0wtc3JfQ3Y2T3nSAZYBQVVfeXFMT2RmVDltbUhzZUtkRTZoaFdUX0V6U3hfWHBnaGZWaXZiQk1iSThKYktHOWVST1BHdGpkelBlYUtnV0hxOHkweGFyVF9FRklpNjE0OVk4bTlUT0lVb2lRbW9FRldMWkZ5QkxfRjl6MTZ4ejFndm0zRS1aVFQ4RkctVzNXR0NDd1A3b3paYm83WnU0WXFsbjhB?oc=5",
-      "pub": "2026-08-03T13:05:52+00:00",
-      "id": "8e7a11ea560489ca"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "$1bn potential US investment in Bangladesh signals FDI revival - dhakatribune.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHBGQkYyQi1CQS1jeFFCUTM4M05ZcHRDd1o1X0hnLXBHYkh0Wnk5VUl5U2RXeXFBMFVHX0VHcWYtUWsxSThZdEZwYk1KbXJqbDB4TVFvb2E4NWZRbHZEMk9oUXRYNmZpVmZfQmkzVzdfZ2s1U3NIQTl4UWF0bzZMVDB2Q1lrN1Jmb0FvTnJGNU5TR2RiV1FrNkl30gGaAUFVX3lxTE5QcEZCRjJCLUJBLWN4UUJRMzgzTllwdEN3WjVfSGctcEdiSHRaeTlVSXlTZFd5cUEwVUdfRUdxZi1RazFJOFl0RnBiTUptcmpsMHhNUW9vYTg1ZlFsdkQyT2hRdFg2ZmlWZl9CaTNXN19nazVTc0hBOXhRYXRvNkxUMHZDWWs3UmZvQW9OckY1TlNHZGJXUWs2SXc?oc=5",
-      "pub": "2026-08-03T11:59:18+00:00",
-      "id": "ccbfe51805e23d1e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Bangladesh RMG to blacklist Poland’s LPP over $40m arrears - dhakatribune.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUtzbUI3bEF2ajFVbzY5SjJxUXF5eVgxVE9XN2w2ekM5UjVNT0RjVG1YMmlpdHUwa3lDcFBTNGd1UE5TZWVIVzVvb21sazV0WWhJMHFpcTJGdFlKUm81SEo3NEs1Vmh0SDJyU3ctTDNGVkVkbXhKNVV2NXpVY0RXYXBMbG13U3lsOGpQTVRKTGRTOHp0OTctQ01JbHlMZEJzcGhDODcxXy1aUdIBqgFBVV95cUxQLUtzbUI3bEF2ajFVbzY5SjJxUXF5eVgxVE9XN2w2ekM5UjVNT0RjVG1YMmlpdHUwa3lDcFBTNGd1UE5TZWVIVzVvb21sazV0WWhJMHFpcTJGdFlKUm81SEo3NEs1Vmh0SDJyU3ctTDNGVkVkbXhKNVV2NXpVY0RXYXBMbG13U3lsOGpQTVRKTGRTOHp0OTctQ01JbHlMZEJzcGhDODcxXy1aUQ?oc=5",
-      "pub": "2026-08-03T12:39:04+00:00",
-      "id": "0105c6c414f95fc8"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "UK reaffirms $2.7-bn trade finance support to Bangladesh - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkcxYmtHNFIybkNJUTVNR2VhcnBXUlZTSXh6UUVJLTZubTBfR0FWOHQ1ejFIYzZkQ2VoOWVEX1o2VnhrZC1YcG5MbGhZU2pXMWpTNzZZWGEzdXZoVjFaWDFKUlBLN0xQM2puRjc4Q3B0TnJHSXd3NW1tX2pvUHNmMDh5UG9Vc2lmVVJSNkQ2OTE1aEFpelJwdGhhVm5QYU1iVVkzWmdfQWhjeFNCVzgta1o4ckxmOU9IdDExLUxvVjJ3MmtuR08tV3lnQ3BRMVlt?oc=5",
-      "pub": "2026-08-03T13:32:06+00:00",
-      "id": "d400735522aee9fd"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বন্ধ হয়নি ডিবিএল পোশাক কারখানা, উৎপাদন স্বাভাবিক: বিজিএমইএ - Sonalinews.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xV0xtRG9aRU1EaHdEM0QzTTMzZnZRdnVqX0J2dUtaaGwtUVdWaUstR2c1YlFmdWlLaFJQbFVUNnM0WTVlZzNoeXJORy1iTHhZMC1QTXJ5YzJMZw?oc=5",
-      "pub": "2026-08-03T14:00:00+00:00",
-      "id": "eb3b2fe0e6f76f0a"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
@@ -2992,116 +2911,12 @@
       "id": "b5499a937fa48852"
     },
     {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "কারখানা বন্ধ নয়, গ্যাস–বিদ্যুতের সংকটে ছুটি সমন্বয় হচ্ছে: বিজিএমইএ - প্রথম আলো",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQUZxMzdCWF9SQUR1NHk4cWpZS0hKaW8ycjg5VHV5c2ozVzhZWjZkY3Vic3NXaVd5VFZSbDVqSElzWldmdEZvX19jY0pISDdrdXpUVklWSUxlYU5HUWxaVmduTU81RlXSAWdBVV95cUxPUkFGcTM3QlhfUkFEdTR5OHFqWUtISmlvMnI4OVR1eXNqM1c4WVo2ZGN1YnNzV2lXeVRWUmw1akhJc1pXZnRGb19fY2NKSEg3a3V6VFZJVklMZWFOR1FsWlZnbk1PNUZV?oc=5",
-      "pub": "2026-08-03T12:57:00+00:00",
-      "id": "a7b2bd404da18b67"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাক কারখানা বন্ধের খবর নিয়ে যা বললেন বিজিএমইএ - ভোরের কাগজ",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDU1JhUlBpcHJ0eWs5QlZkY3hMNkZrSUZfYjVfeTFfd1dnN2dLZC0wektUNE9RaXFKenFzLTNrd3VGa256YmlPeDdxU1VFektBbVgtX193?oc=5",
-      "pub": "2026-08-03T14:08:00+00:00",
-      "id": "cef2c55e2d6f6fc1"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ডিবিএলসহ বিভিন্ন কারখানা বন্ধের খবর ভিত্তিহীন, উৎপাদন সচল: বিজিএমইএ - Channel 24",
-      "link": "https://news.google.com/rss/articles/CBMilwZBVV95cUxNSkRVVnNEYWRIREhWcTdGVklJNHVEZC1ETFNLS0ZqOFRJRU16dUtCQ1lNX29TR0dQcWRqMWRVako1MHdncjkxdk4zcWFyWTdLbVZHSzRhbFNmTjFJd1dGc0pURGhnYmpiLW5sYjJTNVpIQVBaeG56TUZpdDM4c1hKd2x6a3dESmYyejBOajh1MXhDc0lQNWltczlyZU1ydmU4aGl1cURSNWlKd0RSQW05SnpGVzMxQmx6RnlEYnViRDczS3AxMzRNTG5qM0hVQUl4S0o3WlNKNDZUMG5ROUF1U3JHbEJqR0J0SG1zRUtLZldyU3NhcVVDMVFfOEJGN3ZMT3M3M1VzVldlRWpMQlhxNUVLMzgyWTZmdjBGWnNmdVVXMkd4Vjk0Q2VVbnU3ODZ3ZUk2WDdiazRmSk02MVlKZ19Ta0YwR1hjYnJjOEY3cTRSZG15eHFQazhmQVFndS1xNGVaNUlBdVVROENVYTRIbTlrY3Q4b21rXzFDQ3Qtc1licmhzdkFYM0ZkU3BERUQ2UjZhQ2RmMXppbTU3LVNZREoxT196ckJyRjJyRmRWZ1ZZNHRFX2hqMnN1ZUNlN0ZVTTkxZjlPUEphNWNBTWNvVEEyWlBTR2ZtTU44SHVCUGFRSTdtWXJlRmlSQ1QtR1E2MVhuVU42cDVjV2xwTzRwZHowMDdyQTM0YWpmLXZfeXNFTy1fOVg0cmNNMzJvSDVsVUthenFyVjdJWFhGYkc5OGhxbkJtVEhjZTE3LTFnQkFPXzMwNEQwUkN6TWtUYUFQeW1paTJQM1JGQWxETHAtdGpvdUF6blJOczhPcW5mczVFUUFTUFpmWU9EQ0g1NGx1bERnTEhvWC13YUtLdVpvbzdKR0VhTTg5OW1qbS1RanUyV3hUSklhQ3czWVdRbnk2aEV2LUdjYUxHSGt5MDJSX0ZKSjNCcjZBdTZfVU1URUo1VGg4UXB5aVV2dXlER3M0bWFKVnU3M3FGdVF4eDhLZG83N3dUVkJnWGRxektfejhaTDk2NzdfMUpVSE5pVlJUNEVTY29sOA?oc=5",
-      "pub": "2026-08-03T12:54:00+00:00",
-      "id": "b5343abc610f2bcd"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ডিবিএলসহ পোশাক কারখানা বন্ধের খবর ভিত্তিহীন: বিজিএমইএ - Views Bangladesh",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSlZzTDRsQlNfUDBrRHQyLWhqcFlOVnNpQm4tUzBFTWl2YnctU3hmbUYxdThHa2I1dlFicDhxeFZhZmVoVkdIbFd5bWVhQXROWjZWT3BFSlNEaUJ5ZTREWEMwYS1oNktoTjgyZTNrenRMYlo1MUYtYmlxTWFfbU5pQU1Yak5wY3k3eDctc0Ztckx5QQ?oc=5",
-      "pub": "2026-08-03T14:27:50+00:00",
-      "id": "1a9fb841e96cd017"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "প্রণোদনা পেতে বিজিএমইএর সর্বাত্মক সহযোগিতার আশ্বাস - Banglanews24",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0cjNfV2I4Z1AzRHJwekVwOG9FTTRvdnEyeXV3NllmVGJndGVHblpqdmYzT24xZXFzSEVhVW9QSjI0ODhZd3A4WlhEUEluUEtMM2xUNTRvelp6NDJJMmJtWnFJZ3NnTWhlODFTZlFHbXl6ekRUQmV3Ng?oc=5",
-      "pub": "2026-08-03T13:26:37+00:00",
-      "id": "e43ad665c0d806e7"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "অর্থ বছরের শুরুতেই পোশাক রফতানি কমেছে ১.৯২ শতাংশ - Bangla Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQNGtzLTlwcHY1ckpGV3dXcUtGdS1RanRidXJIdWpMSzhLVUhsbkV0YVRRd3hKQVI3UFRsLXhyOUI5djZORmJOa0NXS3RGdHk1R2p0ZkExa1dqcExZSjl2cThtMlVlMGZzeGNVcHlVSmk3UlhPSHROeTE1eU11S09lVGlPUnpPU1o4UnBnTHczbUxJUnBtTFU2M0YtNDUwNDhFZ1UzMnNJMW0zblFVS1RXVHpwTzVBbTk3Y2Q5T2EwNmFBX29xd0dLUjhMbDBYN2tZWkMxVndSS3N3UUZLT2Z3X29CNXZ4LWduRVZBMktwRDFVc1RFUVdCbEJwU09WVlgyYk5YRG1oUEVMX1l0QWczTmlveklmWWhQYWNYWm5UV2ZFam5BRTRHTzYzeWQ3cFJ3NDRWdnQ3djloTndQRVlaMWJkb09LdjhuajFtWXBiUldHdzVlZEFUT1NLYXZTSGRmcXV5T3RtY1Y5Zks3NzBCZU9IeTFwTDNIb09KbC04ZjBZSms1bUVFekpkbUxHbkxvNTlGeEVWMWZocWJIUEczQzAwRWwzZFRFYkZwaEVKRFloMllyZHBzck9fR0xsOHVsdmMyTXJhVzE0LVRhdXBNTWlqdEtVT1ZxWXV3eGN6c296R25sZUd6T2NXX3dKb1Iza0JSNUpmdzV6LWxrQWJDZzlORHNIelBuLWxPN29zdGdsYWNOTlUyMWhRMzc2X1hKTVQ1X0o5bVEyeWl4SGQ1RVNnSVVYQ3gtT1dUcVpMU0VaZG5KNkR4ajE2dE83X3NaU1gtRldNY0fSAdgEQVVfeXFMUDRrcy05cHB2NXJKRld3V3FLRnUtUWp0YnVySHVqTEs4S1VIbG5FdGFUUXd4SkFSN1BUbC14cjlCOXY2TkZiTmtDV0t0RnR5NUdqdGZBMWtXanBMWUo5dnE4bTJVZTBmc3hjVXB5VUppN1JYT0h0TnkxNXlNdUtPZVRpT1J6T1NaOFJwZ0x3M21MSVJwbUxVNjNGLTQ1MDQ4RWdVMzJzSTFtM25RVUtUV1R6cE81QW05N2NkOU9hMDZhQV9vcXdHS1I4TGwwWDdrWVpDMVZ3Uktzd1FGS09md19vQjV2eC1nbkVWQTJLcEQxVXNURVFXQmxCcFNPVlZYMmJOWERtaFBFTF9ZdEFnM05pb3pJZlloUGFjWFpuVFdmRWpuQUU0R082M3lkN3BSdzQ0VnZ0N3Y5aE53UEVZWjFiZG9PS3Y4bmoxbVlwYlJXR3c1ZWRBVE9TS2F2U0hkZnF1eU90bWNWOWZLNzcwQmVPSHkxcEwzSG9PSmwtOGYwWUprNW1FRXpKZG1MR25MbzU5RnhFVjFmaHFiSFBHM0MwMEVsM2RURWJGcGhFSkRZaDJZcmRwc3JPX0dMbDh1bHZjMk1yYVcxNC1UYXVwTU1panRLVU9WcVl1d3hjenNvekdubGVHek9jV193Sm9SM2tCUjVKZnc1ei1sa0FiQ2c5TkRzSHpQbi1sTzdvc3RnbGFjTk5VMjFoUTM3Nl9YSk1UNV9KOW1RMnlpeEhkNUVTZ0lVWEN4LU9XVHFaTFNFWmRuSjZEeGoxNnRPN19zWlNYLUZXTWNH?oc=5",
-      "pub": "2026-08-03T13:14:27+00:00",
-      "id": "06fefa48cb484b0a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "জুলাইয়ে তৈরি পোশাক রপ্তানি কমেছে ১ দশমিক ৯২ শতাংশ - অর্থসূচক",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQc0FlYzRlWnVhbF9LQk02cm5QeVk1VEJsV1RoQmJubmRndXROVUZ3TFZyb0JtQ0RjTldFcnhtVGpPcUprTmVJeWFvTGJsSmhBNS1DM0RMSGxwX2tsVVU2RS1xVzlxYy0teV9mbFlDOVBzdFdPbzdaaXU1dXphVXR6LTBMUUJvRnh6cEIzWUpVYTlZeHhuVWJXeHVzd0hJZXNyT1pKemxSWFlsR0RVT2hqMHdzR1hvLWRPUVFDZkIzRVFKUlBMa0Ztd3BwdWZTVFlBbldYN280YndaZjM1WjdsMW93SHVrY3FrTkRNUnNGcG9mUlE3VGc4UWRWWU1GMk5KdnppcTBoYlkxWmJOOU0zNUZBd09NRlRSVFowZXVDRWNPYXVlSjBvU3N5VDRDMWxqZDBoWmhhZFlCNGNHZXpUTWY2RUJHc3ZzNFgtUXNQS1V2ZUxFSWtJWg?oc=5",
-      "pub": "2026-08-03T14:49:48+00:00",
-      "id": "0de5b643debda76f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "৫ আগস্ট পোশাক কারখানা ছুটি? - দেশ রূপান্তর",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPNFdoanRPVFpqdEYzV19wcmpCSTBkZVVNMFdkamlkdENMalBCUUljUFUxMTkzdS1ycmlUVktTSVJ0WU8ycDdvWk5BbEdfVEhtVUd0ek53Qm02TnlyT0dHTGdyZ2FYY0RzZkVyODVNN19qRVhqTnJWTWt5X25BQzNuWVAzcDZpQkp6ODhGTUlxbUZZRGJVOEJhNnRDVVc4aTZoaFQ3SWFfWExuWkJfcEs4RmFwVGppWl9Wajc3SFMwb3RkY0dYdFlDN1ZPOHhVczlqLTEyRWRHamdfSVBBdm5WejY1Qi1HclU0ZU5NdlVQRzVxT0REcUFYSW9UWFlWcm0tVFpIVTBTZUtSOHcyek5uc2tlQldGS0NYazV2ZzYzdXA4alJlUFdQZ3N6bDB3UVhmWTNkQ0E1VDZmNTctaUJOcDREMHh4OWVPN1NRYjR5aGVuRTJxYU1XZm8xNm1NZzTSAd8CQVVfeXFMTzRXaGp0T1RaanRGM1dfcHJqQkkwZGVVTTBXZGppZHRDTGpQQlFJY1BVMTE5M3UtcnJpVFZLU0lSdFlPMnA3b1pOQWxHX1RIbVVHdHpOd0JtNk55ck9HR0xncmdhWGNEc2ZFcjg1TTdfakVYak5yVk1reV9uQUMzbllQM3A2aUJKejg4Rk1JcW1GWURiVThCYTZ0Q1VXOGk2aGhUN0lhX1hMblpCX3BLOEZhcFRqaVpfVmo3N0hTMG90ZGNHWHRZQzdWTzh4VXM5ai0xMkVkR2pnX0lQQXZuVno2NUItR3JVNGVOTXZVUEc1cU9ERHFBWElvVFhZVnJtLVRaSFUwU2VLUjh3MnpObnNrZUJXRktDWGs1dmc2M3VwOGpSZVBXUGdzemwwd1FYZlkzZENBNVQ2ZjU3LWlCTnA0RDB4eDllTzdTUWI0eWhlbkUycWFNV2ZvMTZtTWc0?oc=5",
-      "pub": "2026-08-03T10:53:08+00:00",
-      "id": "aca6b4f55cb5b5a3"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "৫ আগস্ট পোশাক শ্রমিকরা ছুটি পাচ্ছে কি? - bvnews24",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXbzRLaFE0QTZZa0JPbXdtLVl3cUZhRDZNc2RGY0dqa0NtdDZ1NWFxYTcxSEFIVkhHNWZkcW56U25BeGxZckpSUWxlZ3BkbDA5VzJhS0JGV1A?oc=5",
-      "pub": "2026-08-03T13:44:00+00:00",
-      "id": "fe82da4ac5d1d2f5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "নভেম্বরের মধ্যে নতুন বিআইএন ব্যবহারের নির্দেশ এনবিআরের - Orthosongbad",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPWnF0XzFUbHVnSkFMVlE5QTltcU9qdWRteThERVhPaHlhN2hndVFKaW5yWVNLRlk5LXA2Q1ZaM2dUcy1wblRPLXRiaUwySExNbHFhZUlCY2I0XzdaaWhiRzNjTlR4TEtERGxaU3ZJV05jQjhhQVJfTXN0NGpyM1Q5dHNYSzN5VGJVclc0T3ZhcWt4b0tiSmtDY1c1RUlZZ3FNTzNlLXlPTUp0cDJPc0xHdEFXeW1TdjZxRWRaWnlOaXZzLUJSMlA5blRPbkthX1hndDFSbzFQOS0yNVRWR2xiMG44S0hHYU56MW1faG5rc3pXcXB6WE0xRFNlaExaZkk2ZlFOLVZmLTV0YzdPbFNDY21YaWptWmd3LWo5T1NPdVJqbnFMV0NFcWVqSDctZHNJUXE5eW42S3NOOHlRaVdjc0Y2YklkU00xZzZtSDBR0gHOAkFVX3lxTE9acXRfMVRsdWdKQUxWUTlBOW1xT2p1ZG15OERFWE9oeWE3aGd1UUppbnJZU0tGWTktcDZDVlozZ1RzLXBuVE8tdGJpTDJITE1scWFlSUJjYjRfN1ppaGJHM2NOVHhMS0REbFpTdklXTmNCOGFBUl9Nc3Q0anIzVDl0c1hLM3lUYlVyVzRPdmFxa3hvS2JKa0NjVzVFSVlncU1PM2UteU9NSnRwMk9zTEd0QVd5bVN2NnFFZFpaeU5pdnMtQlIyUDluVE9uS2FfWGd0MVJvMVA5LTI1VFZHbGIwbjhLSEdhTnoxbV9obmtzeldxcHpYTTFEU2VoTFpmSTZmUU4tVmYtNXRjN09sU0NjbVhpam1aZ3ctajlPU091UmpucUxXQ0VxZWpINy1kc0lRcTl5bjZLc044eVFpV2NzRjZiSWRTTTFnNm1IMFE?oc=5",
-      "pub": "2026-08-03T14:13:15+00:00",
-      "id": "caf5343466bee4de"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "৫ আগস্ট সরকারি ছুটি, তবে সবাই পাচ্ছেন না - Ekushey TV",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yS1JXZUd4ZXlNZFlieGctR3dJNllpckZSM2VwS1dqVk0yNlJkU29kVWFIcjFKZUxpbmUzT050NWY1VnBCRFQ3c2w3M0xhUHZVZ3pFQnlzUEJHcjY3VTFXNnF0TjhKdw?oc=5",
-      "pub": "2026-08-03T12:07:00+00:00",
-      "id": "af5898eebcdf07e0"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "গ্যাস সংকটে উৎপাদন ব্যয় দ্বিগুণ, চাপে দেশের শিল্প ও রপ্তানি - Janobani",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OUng2RlBlaEVqdXhQWjFDWVhpdHNQaUdwUHNmMjNoNGFybUpEYl9yWjJjZVVoQ3FnS2FJYUZrUklZakF5OGxKbVk5Z0dONHZVdjdN?oc=5",
-      "pub": "2026-08-03T10:41:00+00:00",
-      "id": "e9010ed5290ea341"
-    },
-    {
       "section": "social",
       "source": "Reddit: ESPR/DPP search",
       "title": "دراسة اللغة الإنجليزية في كيب تاون 🇿🇦",
       "link": "https://www.reddit.com/r/u_Univworld/comments/1veo5dj/دراسة_اللغة_الإنجليزية_في_كيب_تاون/",
       "pub": "2026-08-03T19:58:11+00:00",
       "id": "66c6c91a08879cff"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Gas, power crisis forces DBL Group to shut garment factories - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGF3bnRfUlJmRmpmcEN1Sjl5QXRrak5ScHZ2VjdBSlROeENLUXQ3cEduRVFndzdId290OThYSDJyOVdXM3ZPcHRVekM2VUp0V0NIN2pwVHp5Zlg2bEwxRjFEdDJNaDhIVkdxS1dlREJnSmlzNUd3SmRjMFVYcTZOTHkxelRVaHVjRVpIVjFBdzB1T3BCQmh0TUkzdTdjTHRWUVE?oc=5",
-      "pub": "2026-08-03T12:50:17+00:00",
-      "id": "01119d228fcd1f24"
     },
     {
       "section": "bangladesh",
@@ -3142,22 +2957,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0Y2NnSHl4Q3EySGotOE5wTHptbTUzVjBxVnkyM2IwOUFIZnBBaDdkS0h2Nkdza1dGUW5HNE1HNU1VN0dfbmF4aUZjSVk?oc=5",
       "pub": "2026-08-03T18:53:00+00:00",
       "id": "4b692c5315a92f98"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ডিবিএলসহ বিভিন্ন কারখানা বন্ধের খবর ভিত্তিহীন : বিজিএমইএ - Kalerkantho",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTGVxQ2RUNW5Rd3VDdXBOVFdIbVF3OVl2UC1PT3djeTBfN19yTE1YRFZld1lKRmt3OVJfLTlLWk5oT0xYNkpqOG1pVXk2N2xvNFA3eDROSmptbkNZOUJUa05iNDROZVA3ckl1bFlzbw?oc=5",
-      "pub": "2026-08-03T13:30:57+00:00",
-      "id": "340a38b1be0bc05f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ডিবিএলসহ পোশাক কারখানা বন্ধের খবর ভিত্তিহীন: বিজিএমইএ - Orthosongbad",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxONDEybDRWMFBEUFdWeW00VTV2d1JoQTJSa1RvZ2hYQTdYRHlLWkhvbkF5WXQzZTdNeWIzM2RqMzBJc1hCOVVxYkRfdGJBSlBrWEwxc2FNa1FyV0Y4TF9YUjBWRV9PM0tuRXdLaDNneDAxa2NzelZPekFlQnVuT0VkekdQRy1QMlpvckVNLVhmN1pELWVCT21ON1dHeFVzbmd0OGlUSTdhYzlyZndtckhtSVRhenhoeGlPOE9wcVlPTjkxa2VtcDUzNkpuV2ZIMjdQSHh2cTBXdTd3NWl4eHFQTzIyU3RqeWJnbFU1d21RNGMxRl9CX1FMN0lhTnR4Tk5oNkw0Mzh0bF91WFBRNWszbzROMUhvZ2R3aDJZcDlobFB2OUtxT0ROLXJ4eFFqU1BpTThOQmdDdVdUSTFpMDZZMllEMG8wbzVVZUhGaVVR0gHOAkFVX3lxTE40MTJsNFYwUERQV1Z5bTRVNXZ3UmhBMlJrVG9naFhBN1hEeUtaSG9uQXlZdDNlN015YjMzZGozMElzWEI5VXFiRF90YkFKUGtYTDFzYU1rUXJXRjhMX1hSMFZFX08zS25Fd0toM2d4MDFrY3N6Vk96QWVCdW5PRWR6R1BHLVAyWm9yRU0tWGY3WkQtZUJPbU43V0d4VXNuZ3Q4aVRJN2FjOXJmd21ySG1JVGF6eGh4aU84T3BxWU9OOTFrZW1wNTM2Sm5XZkgyN1BIeHZxMFd1N3c1aXh4cVBPMjJTdGp5YmdsVTV3bVE0YzFGX0JfUUw3SWFOdHhOTmg2TDQzOHRsX3VYUFE1azNvNE4xSG9nZHdoMllwOWhsUHY5S3FPRE4tcnh4UWpTUGlNOE5CZ0N1V1RJMWkwNlkyWUQwbzBvNVVlSEZpVVE?oc=5",
-      "pub": "2026-08-03T14:32:43+00:00",
-      "id": "30db2204c8012d7f"
     },
     {
       "section": "bangladesh",
@@ -3374,14 +3173,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zOWx3OTZSbVU1ZjhZSUFsVElxVG5leEVKcE82a3BEVWRGaHlzeGlvU2dsLTBsTkFUWGdUZEljYWhQRDFUTTdJUGR1WVJ1ZFRZVDJxX1AtaDFpY1NaR3JpUHZvSjZBVWt3TFJxWnNrcENweTg?oc=5",
       "pub": "2026-08-04T06:26:00+00:00",
       "id": "bcca14fafb0a4705"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "অর্থবছরের প্রথম মাসে কমলো পোশাক রপ্তানি - dhakapost.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kdVRVZXVjZTZIYlFhTUJVbllLV3BraTI5VW5XY29teU5XV2d3RXd5R1cwQlB5eWRMNFdwRmFMS0NIclJNTDZmY1FmS3RZLVFoWGc?oc=5",
-      "pub": "2026-08-03T13:26:05+00:00",
-      "id": "acde5984df2eca44"
     },
     {
       "section": "bangladesh",
@@ -4014,6 +3805,102 @@
       "link": "https://news.google.com/rss/articles/CBMi5AZBVV95cUxOUUluX3JtUlZQbnVqRWdKekQyank5c3JvNWJrTkhvVk9famNGem5GdkhCeWQxckZaMnpSY0NhR3g4OFM3cnBObW8xVFF6Y21NX0RENV95X01Tbzh0cjJxZ0tHYllNMHdVYjZVR0hfSmFkTElDX29Feld1WWROWG45WFhVdlFxVFdXTEE1S0xkSzc3RVByYW5hTVYzOHBrS0JmVEpZeFdNWDUxamctVXg1YXo5WF83dzhWRG51TUQ3aFplSjZHdlVqbmVjRmRfS3hQQ1lzRlRaem03SjU2bmxJRGRsMjVWaW5lakRVYl9nV1QteklqNElSUk03TURhVDFqWkk1SGRrMnprd19EalcyWjBfdUJEeUgzSG12VDNReXdjajRseHhvTGNib3p4Ynk2OXp1WElfa3NjblNZNndybXR2OEI5MUJXVGRFa3ZlWFJUMEJYNHJtZ2FGTi1CbmhiTEpNbUg3OHB0SE8tRE1veFRBNWd4ZEFLbHlhUzJBRVB5ZzRyT0diVWRvMnJKSVdkbDRiUUp4ZTFmQXl6SE1fMnhsOXp4MEpLdXIwNnZHM1RuOHdqOHlzdHdjWXBudkR2RU9mMG5PRVNZZHZYakhZV2hEMlBiVk5CWWFIYmUtQmtYcDFlTnl5RUdwVkZLUXNtVUNIU2lSdU5rcF9jRHVfX3I5bW9MTXhyVEJULTUxUDY0QVpuemFuSzVSS2ZuZ1NwUVljemJRYjBVYi1QS0xvV2Z2c1dfaGdib0diQndJdURHWXZxZ2ZCTWRBRms3Y2Rpd0ZJdzhveDE4RTZYTnhySkNjUkpISVJIdjdITkhtOTNKYzAxQjZRc3p2RWtEVnpUWERJbU5YSUJSbTBGd09SNkotMmUwZUtYbHZqWHVUR096NlIwTEFCX1FneUc3MDNXd0t4blpYOGZxMTlxSkVERFIxZUZud1huQ3JaMnYwNUVRTU5LejFKcVVOZm51aEtZdFV3QU11RE1VRFFURGp4WHhhek5NVVJwSkUzNUhHdm9YM0F2WER2bVQ4Z0V0b0lsRDFIWGRUT21QRFVuYXF4QVBmcTVsTTdldW9iUi01SkZUNE1RdzBQdFBXdDFiUUI2c0plWDBjRUxlZmlCU3lieEZEQ041VWNDTllwbHFhdXdVTGlQ?oc=5",
       "pub": "2026-08-04T11:03:13+00:00",
       "id": "94f8c0f54f3ee816"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVUwSEFacGRvOWJSUUxLVkVkWDFkNUljVjlkaWdXQWVkZUc0TjdfcW1feUtwYVFxYXhkMWRDbmczY0pHTGRSWnR5RG1LOEpCeEdHWFVGbHdrTUhxMEl6Tl9rYVMwU1J0OXRSSmNya1B4d2Y3ZWxCd2JJVm5NUEJjRC15bzFCcjZzTzB5Q3NCR0o5dkVRTjdscnN5dllEeHVsRldEbnAzeGF5d0Nxb3VxQXhNVTNXYUlzSVFoNTIybDlmRUtV?oc=5",
+      "pub": "2026-08-05T13:43:13+00:00",
+      "id": "f882683be4802022"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Azilen Technologies Broadens Its Digital Product Passport Engineering Practice with End-to-End Enterprise Capabilities - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMWZXc2RuWWlxZy1iZktsYzhwTkNwYmI3TEpNZW9ZY3B0dmNnallpZlRBM0UzdGVSTno2WXM2MU9teU9KWkJMMUVyZWF4Sl96eFZ3UjFiZDRnTHRIYzdPNlQ1WnNIVGdvWXFndjJVN2hyNk10NlJrOXdoamwxaHl5YWJsOUJRVjZTOFRQUk1TQTRTOFhuOUhpcXlHN2pWdXIydE1uQTF3QmZEU1dOQ0NmbUJHbjAtdkN1NVZGakdkZ1VqVWR2ZWRYRUphU2g1QXVFRmRMSWdmN3dMQXdzaS1WR0daZExMUlJ5dXBqeGpzalFuMkU?oc=5",
+      "pub": "2026-08-05T12:48:05+00:00",
+      "id": "da2544e5f2c52b93"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEdnbTV5WWpCLVJlVWQyNVFmRzUwb2xFZHN0cjZUSU8wWjRYSEhQUkduVmhLZ2tiVmJSRUR2XzNMMlZVcTlNUmRJLXBHWl9KaUtYcW9RaDZhdy1SMFA2b3dNU2VXUnJKUldYMF9CN2NieEJ6Rkh2d2RmSHg0SG5TdXdIRnp5bHpNTzdTcTRMOG53TzMtMHBCVk1vXzVHSFNRdUE1YzZRclZpeHdiSFRYaEFEN0ZBbUJCR3k1dUlybHl6SW9VQ3A3cHpOa0ZRQVY5?oc=5",
+      "pub": "2026-08-05T11:03:08+00:00",
+      "id": "4af28746aa567172"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNy1HLVZPU0dpb0IyZURNNGZUTVhfT2daUXotazAzMDdpYTkwQUhWa0dCMFdnUkZqaDRDM3VSN2tlV2VzR2sxN1l2YVhIYVc3a2I0Tk9SZXdIWU1jQklmRlp1VkhQTUd3RlYyMG5lc0VITlduTWJKN0JzRW81SHZuU1ZzNHlfemp6TVYwbWFjaU54SVVsTjd3dWlFS3FqaW5YWGhOVGI1TTMxdmhTMU9fUUhwbGZ3WlVJSm9vU1Jsb3BYZHZqN1VYYmE5X1RMYVE?oc=5",
+      "pub": "2026-08-05T10:53:56+00:00",
+      "id": "f6b62b63c89ca40f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA, OCAB plan to attract Chinese investors to Bangladesh RMG sector - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTjRISnBSd1RkZ25RM2VRUm53X0NKMWRvRGNXUlBqbHd4ZzJkUVhrb1Q2WURfYkdGRzlrZnM4SE9mOGgtUWQtU2JvU3RSRkxzczVhWXlFcTl4Wi1VSVFGNFVJOU4zRTQtRlQyc3NxWk5yRzFXeEg5WGNUWEdPY0ZLb3RIXzY3WWxWZHdhdE1Dd0stZ21OOHdDSmFXYTBibVZnemFJQzJSY3FjdVUtcFRPQzdDX1dBX1ctRE9VTURwb3VQelBJcjRVMmJNZTlSSGVpV0ZLUG9JbzFwY3hwNVhvMUxtNA?oc=5",
+      "pub": "2026-08-05T14:22:25+00:00",
+      "id": "6f331294c960d17d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Asia's DPP divide will shape EU sourcing by 2029 - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkduWWlzNVhUYmNNSGVWVFZyNVIzNm1WMjVPRFFnQXJtTWVZVXNuMG9tbVZicVFfcHVHeU1tYnU0ZGZiQ29SeU1KVEphMlIwal9nemlmSjIyUzFmMXZTM1RIZ29BeFVCSkloYmtUSFpIQ05MUEpQNV94TDJMX2ZzRjhuaVNNbF9abWhKTHZ1ek1maFEtMWFZUXNFN0tubGY2QVExR09xZTFBeG90OVFJaDdxWUR1YTFKR0RjaUw4OE5zV2FsVFJj?oc=5",
+      "pub": "2026-08-05T13:15:59+00:00",
+      "id": "a0a066607cddbacb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, OCAB plan to attract Chinese investors to Bangladesh RMG sector - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTjRISnBSd1RkZ25RM2VRUm53X0NKMWRvRGNXUlBqbHd4ZzJkUVhrb1Q2WURfYkdGRzlrZnM4SE9mOGgtUWQtU2JvU3RSRkxzczVhWXlFcTl4Wi1VSVFGNFVJOU4zRTQtRlQyc3NxWk5yRzFXeEg5WGNUWEdPY0ZLb3RIXzY3WWxWZHdhdE1Dd0stZ21OOHdDSmFXYTBibVZnemFJQzJSY3FjdVUtcFRPQzdDX1dBX1ctRE9VTURwb3VQelBJcjRVMmJNZTlSSGVpV0ZLUG9JbzFwY3hwNVhvMUxtNA?oc=5",
+      "pub": "2026-08-05T14:22:25+00:00",
+      "id": "6f331294c960d17d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, BTMA join hands to support $100b apparel export goal - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW01cGVaaTk5cnpZdzVVSjkxaWd4N2ZZN254ZzRja1ltbDB5Q0MybGsyVDdJcHB1NGtYc291OUw4SGVzSGh5RmpJeHBoakRUcXZ1bDd0T1hsWHpySVN5ZXVCTnN6NVNzN2NYckp1ekNKNGdDR29BWUs3TjVobWJxVFRabU1VUzRUUXp3Mm5hVQ?oc=5",
+      "pub": "2026-08-05T10:41:15+00:00",
+      "id": "f46a92a4d10dcab1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, BTMA to host garment machinery fair in Dec to spur investment - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUFBNE1yaFNYbF8wdm1HTjBSTXNpdDVmYm1uWkRrN1UtN0xUQ2tldHBhWGxRSU1BdjhQVGNUS0tiNkRUeWt2emRKT2hUSVRfbWVLaE1Jd1VRSks4LUc0b2lxbDhEUGhYUVp3N3VoY0s5OE5wUmVfZ0g3Rmg3QXF6NE1RQWRDdk5oem00VmxYb1J0TFVHTFRqVVZQM3E3ZUNhSDNnVVFKM0xoaWpYWXJ1dDhqckxaNzE2enBUcU9fMTFkdTU3cWg1VXY1dDFqb2dVWWpMNWZMNHRfbFpC0gHcAUFVX3lxTE5ZQUE0TXJoU1hsXzB2bUdOMFJNc2l0NWZibW5aRGs3VS03TFRDa2V0cGFYbFFJTUF2OFBUY1RLS2I2RFR5a3Z6ZEpPaFRJVF9tZUtoTUl3VVFKSzgtRzRvaXFsOERQaFhRWnc3dWhjSzk4TnBSZV9nSDdGaDdBcXo0TVFBZEN2Tmh6bTRWbFhvUnRMVUdMVGpVVlAzcTdlQ2FIM2dVUUozTGhpalhZcnV0OGpyTFo3MTZ6cFRxT18xMWR1NTdxaDVVdjV0MWpvZ1VZakw1Zkw0dF9sWkI?oc=5",
+      "pub": "2026-08-04T18:00:00+00:00",
+      "id": "9550cfe6fad7cb95"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Vietnam to roll out $8.4-bn preferential credit programme for SMEs - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONzdXZFVnS3ZSTk1DY0JQQ0FYUWplSzBwZVhJa1NfS0p6cGFHcUoxNFJYR2N3SVBmR0pPdUpDcmdhWUZmQ0ptci03RlAyejU3Z0lVZ1JLbUo0bjg3aTJ5RE1vRDZTM3hwcTZTTy1hSDZ3Q3Ewa3RqOUF4c1EzQ19Rb0Uta1hSZHlBNGdSc3BSbkZib0pUSHFlQmdPbzdFT2haOGNPNlprTjRSdWMyZHBTdVpwX1FlZDZxVk9HVm9tRjFTcFpGYnJaeVR2dzJQVmtLeFo2SGVudXptVUF4cUE2QWdVQnNCRG9Q?oc=5",
+      "pub": "2026-08-05T13:34:08+00:00",
+      "id": "2d73c73216c7977e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ভারতের উত্তর-পূর্বাঞ্চলের রাজ্য মেঘালয় ও অরুণাচলে রেড অ্যালার্ট জারি - parbattanews",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdVBMVUNralQxZlFTcnZPUU54bFpxRlR6alUzbEZlQmlwODQ3SUZGaFBMc3RYdlNkWVdOSlZocXdfMzgzYTBka0JSZ1VtYkJ5UDJIMGdsM1VDT0lzUkJVMjhiUG1QS1RvaENlcGtWektsXzctSjJ6dlZXTnRvU3RRNXhBTmFNUHlOVzdFaU5feW45ZXhZdkwzdC1RLTBqdTR2dUZQNngxVDFGWkNfanVWQWp1dldNbHVWNTlNbVFUeUFKYlFwc01UR0RYbW9FT2V4THE4VFZlYU15SnhOLVVHZjJHS0JJUHh3RmJKUF9rUk51SkZEY05WR09FMjMyNmFCWkJXcXJOdXFJWVYyWXhkQndaN3hkeW0zbF9kYnl0NzAydzM1VTc0M1p5algyd29RNVdScGNneWJ5eEFhRFM5SGFpRFZVUlAxRmxXbHNEWdIB1AJBVV95cUxPUGlLaXk4ZGlsU3c2R2RPcWxpRTJqR1dGcThUZExWUG5nci1xcE9VbXpveUttQ1R6TGxJNXIta1JhMHN0M2ZWd2hBSVRpcW1SOE0yaGNJSEF2QkJZcHBRU1pCSjcxN0tmaS1MYWdKZ2FScldHLUpPRmgwSE1WSzBPMmN6Yi04VEpzQ0swX3doYV81dGtSbWV0NDk4WVVGZkduZ0dwZC1xUEdvNlZVZmdtclFlUG1CUnltVDNXejZteGE2M0VucHB3a01GbWdWbzUtQUQzd3IyV255YS1qN3pTT0ktVlFIRktUYW5BaGtNVDhaamlxMHJ6X1BudEZYdU9qdENUWUlfVjFuQ1lpS0xTM054QS1xckNkT3RKN3ZZNzFDUm96MW1RVllNUTFWS2hya0J3dno0T0UyMzFsRmFOOG1KaHdLc19HeE8zRVlJXzBUaTFh?oc=5",
+      "pub": "2026-08-05T12:36:54+00:00",
+      "id": "317c6ad56d634d25"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চীনা বিনিয়োগ ও যৌথ অংশীদারিত্বে বিজিএমইএ–ওকাইবের উদ্যোগ - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWYlBBT0t5ZXVqTmpSUlZqZ1A4dUtITkd6cWhnNWw4aEF0VXBqU3REUUpFcDFqZDJUNFVmTURDRHgxRVREWmJqcEpxTEFhWmVKcmJwRjFmOWg3dw?oc=5",
+      "pub": "2026-08-05T06:40:00+00:00",
+      "id": "dc9f4a96b7064fa7"
     }
   ]
 }
