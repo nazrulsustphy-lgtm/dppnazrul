@@ -1,43 +1,5 @@
 {
   "seen": {
-    "e7808878e3f38d10": "2026-07-08T10:21:14.128053+00:00",
-    "6018f7b5578a65d5": "2026-07-08T10:21:14.128053+00:00",
-    "bf4b334067e6ed90": "2026-07-08T10:21:14.128053+00:00",
-    "c723e485aea3bcd8": "2026-07-08T10:21:14.128053+00:00",
-    "e47a59905d18dd62": "2026-07-08T10:21:14.128053+00:00",
-    "03bf0897cf60d68a": "2026-07-08T10:21:14.128053+00:00",
-    "85969f8cdcf1b78a": "2026-07-08T10:21:14.128053+00:00",
-    "a749fa9d0a61d053": "2026-07-08T10:21:14.128053+00:00",
-    "719449cc822fc79c": "2026-07-08T10:21:14.128053+00:00",
-    "8dea417cdbe13be3": "2026-07-08T10:21:14.128053+00:00",
-    "0919105a6b62b56b": "2026-07-08T10:21:14.128053+00:00",
-    "f325fb2ede286f03": "2026-07-08T10:21:14.128053+00:00",
-    "c75763f3689dcc4b": "2026-07-08T10:21:14.128053+00:00",
-    "7cd3cdfe7ff73ff9": "2026-07-08T10:21:14.128053+00:00",
-    "b19bef2a175f6fb6": "2026-07-08T10:21:14.128053+00:00",
-    "82ef4f3c3435975f": "2026-07-08T10:21:14.128053+00:00",
-    "7de8382d92248e71": "2026-07-08T10:21:14.128053+00:00",
-    "4ce40d0c1cbd30c0": "2026-07-08T10:21:14.128053+00:00",
-    "ce5291fe77fd9901": "2026-07-08T10:21:14.128053+00:00",
-    "cff6d37cce4fecda": "2026-07-08T10:21:14.128053+00:00",
-    "c9f6a7c5cb4c318a": "2026-07-08T10:21:14.128053+00:00",
-    "cb7b8474794cdf86": "2026-07-08T10:21:14.128053+00:00",
-    "ed7c3ce9b41e6077": "2026-07-08T10:21:14.128053+00:00",
-    "e3d666cf9a25fae3": "2026-07-08T10:21:14.128053+00:00",
-    "d0ce3b0d213586e0": "2026-07-08T10:21:14.128053+00:00",
-    "35b2156bbfb3ea6d": "2026-07-08T10:21:14.128053+00:00",
-    "e17141fa23ddef63": "2026-07-08T10:21:14.128053+00:00",
-    "5c66099b0775910b": "2026-07-08T10:21:14.128053+00:00",
-    "b1785c2711919fb4": "2026-07-08T10:21:14.128053+00:00",
-    "38185a0350620a0f": "2026-07-08T10:21:14.128053+00:00",
-    "43586ed4561f5742": "2026-07-08T10:21:14.128053+00:00",
-    "95ac29310606e32c": "2026-07-08T10:21:14.128053+00:00",
-    "92d9213354a090e6": "2026-07-08T10:21:14.128053+00:00",
-    "348db8fd0d8d3d6e": "2026-07-08T10:21:14.128053+00:00",
-    "19922252eab261ea": "2026-07-08T10:21:14.128053+00:00",
-    "70b49fdd0a738ab4": "2026-07-08T10:21:14.128053+00:00",
-    "f55ef8efebd08331": "2026-07-08T10:21:14.128053+00:00",
-    "4d87d092e96e32f0": "2026-07-08T10:21:14.128053+00:00",
     "84911191595ec0b5": "2026-07-08T16:02:52.129423+00:00",
     "7724b7e92e54bcbd": "2026-07-08T16:02:52.129423+00:00",
     "c71db9e7bed7e8f5": "2026-07-08T16:02:52.129423+00:00",
@@ -2892,105 +2854,55 @@
     "e719073941d7673d": "2026-08-07T09:01:32.114973+00:00",
     "dd110a3699451f8b": "2026-08-07T09:01:32.114973+00:00",
     "6833eb41f57bf698": "2026-08-07T09:01:32.114973+00:00",
-    "1607261f48bce24c": "2026-08-07T09:01:32.114973+00:00"
+    "1607261f48bce24c": "2026-08-07T09:01:32.114973+00:00",
+    "716bdeb6ae994fc2": "2026-08-07T14:54:32.413045+00:00",
+    "c4c0da7e86a8a4aa": "2026-08-07T14:54:32.413045+00:00",
+    "cf0f34983d10dd24": "2026-08-07T14:54:32.413045+00:00",
+    "490376f56597f668": "2026-08-07T14:54:32.413045+00:00",
+    "4652babbd90fd677": "2026-08-07T14:54:32.413045+00:00",
+    "8bfa186d2381eec3": "2026-08-07T14:54:32.413045+00:00",
+    "8b3e7e02dba64a4c": "2026-08-07T14:54:32.413045+00:00",
+    "1e04b78cf6ed04f2": "2026-08-07T14:54:32.413045+00:00",
+    "a72e84065c7ac3de": "2026-08-07T14:54:32.413045+00:00",
+    "407675ce49142390": "2026-08-07T14:54:32.413045+00:00",
+    "ae84c575850946c5": "2026-08-07T14:54:32.413045+00:00",
+    "99731bd417d2c4f4": "2026-08-07T14:54:32.413045+00:00",
+    "b5f4a5ecbe35ca17": "2026-08-07T14:54:32.413045+00:00",
+    "7b3d59e002f2527a": "2026-08-07T14:54:32.413045+00:00",
+    "5aac51134c210b10": "2026-08-07T14:54:32.413045+00:00",
+    "0a854ef35b731f3e": "2026-08-07T14:54:32.413045+00:00",
+    "7a0b37cf156c5079": "2026-08-07T14:54:32.413045+00:00",
+    "46b0f085d4d7df6f": "2026-08-07T14:54:32.413045+00:00",
+    "6a64e90e76a45872": "2026-08-07T14:54:32.413045+00:00",
+    "ea2538ad16aa62ee": "2026-08-07T14:54:32.413045+00:00",
+    "cec7948edf527db1": "2026-08-07T14:54:32.413045+00:00",
+    "a07f0b3921ea0b45": "2026-08-07T14:54:32.413045+00:00",
+    "678351396ae918b0": "2026-08-07T14:54:32.413045+00:00",
+    "0e58fe2ebf935caa": "2026-08-07T14:54:32.413045+00:00",
+    "6c25b17029791ca6": "2026-08-07T14:54:32.413045+00:00",
+    "6dfed64a1ea22bdf": "2026-08-07T14:54:32.413045+00:00",
+    "2120a0b57d9d140c": "2026-08-07T14:54:32.413045+00:00",
+    "26266f1035a67063": "2026-08-07T14:54:32.413045+00:00",
+    "8b95cc830515ccda": "2026-08-07T14:54:32.413045+00:00",
+    "e225c1ed1fad4846": "2026-08-07T14:54:32.413045+00:00",
+    "1e49ddf88ec7ad05": "2026-08-07T14:54:32.413045+00:00",
+    "ffabb03cba5d5e17": "2026-08-07T14:54:32.413045+00:00",
+    "50b0d2ae9b17bf8a": "2026-08-07T14:54:32.413045+00:00",
+    "edf6d391e845bf5e": "2026-08-07T14:54:32.413045+00:00",
+    "909f02da69a2a38a": "2026-08-07T14:54:32.413045+00:00",
+    "2fb47e1b6c6cf404": "2026-08-07T14:54:32.413045+00:00",
+    "118f7710898d0796": "2026-08-07T14:54:32.413045+00:00",
+    "652b1bc5aacb0342": "2026-08-07T14:54:32.413045+00:00",
+    "2dd36d8486d3b85b": "2026-08-07T14:54:32.413045+00:00",
+    "c3e2dcf762c98237": "2026-08-07T14:54:32.413045+00:00",
+    "6040cc92b8dc9064": "2026-08-07T14:54:32.413045+00:00",
+    "01a9fccc454fe7a0": "2026-08-07T14:54:32.413045+00:00",
+    "183a6e254416c849": "2026-08-07T14:54:32.413045+00:00",
+    "c6aa34f9dd70d018": "2026-08-07T14:54:32.413045+00:00",
+    "ec4e17991534f246": "2026-08-07T14:54:32.413045+00:00",
+    "730786bbe74a2b0d": "2026-08-07T14:54:32.413045+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "Just-Style",
-      "title": "BGMEA, OCAB partner to drive Chinese investment in RMG sector",
-      "link": "https://www.just-style.com/news/bgmea-ocaib-bangladesh-rmg-sector/",
-      "pub": "2026-08-05T10:08:34+00:00",
-      "id": "11ebdb39358c573e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "চীনা বিনিয়োগ আকর্ষণ ও যৌথ অংশীদারত্বে বিজিএমইএ ও ওকাইবের বিশেষ উদ্যোগ - কালবেলা",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSzBhWGxwVnFZUDY3WUVuZTVyQm1UeTBNSG9jRWl3azZ3M09RbFJpbDk3YUJhTDluNVJxWEs3aEo5cmYwYjNWTTBGYXZHSnlXeXc?oc=5",
-      "pub": "2026-08-05T10:33:32+00:00",
-      "id": "e75ec465eca703ff"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVUwSEFacGRvOWJSUUxLVkVkWDFkNUljVjlkaWdXQWVkZUc0TjdfcW1feUtwYVFxYXhkMWRDbmczY0pHTGRSWnR5RG1LOEpCeEdHWFVGbHdrTUhxMEl6Tl9rYVMwU1J0OXRSSmNya1B4d2Y3ZWxCd2JJVm5NUEJjRC15bzFCcjZzTzB5Q3NCR0o5dkVRTjdscnN5dllEeHVsRldEbnAzeGF5d0Nxb3VxQXhNVTNXYUlzSVFoNTIybDlmRUtV?oc=5",
-      "pub": "2026-08-05T13:43:13+00:00",
-      "id": "f882683be4802022"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Azilen Technologies Broadens Its Digital Product Passport Engineering Practice with End-to-End Enterprise Capabilities - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMWZXc2RuWWlxZy1iZktsYzhwTkNwYmI3TEpNZW9ZY3B0dmNnallpZlRBM0UzdGVSTno2WXM2MU9teU9KWkJMMUVyZWF4Sl96eFZ3UjFiZDRnTHRIYzdPNlQ1WnNIVGdvWXFndjJVN2hyNk10NlJrOXdoamwxaHl5YWJsOUJRVjZTOFRQUk1TQTRTOFhuOUhpcXlHN2pWdXIydE1uQTF3QmZEU1dOQ0NmbUJHbjAtdkN1NVZGakdkZ1VqVWR2ZWRYRUphU2g1QXVFRmRMSWdmN3dMQXdzaS1WR0daZExMUlJ5dXBqeGpzalFuMkU?oc=5",
-      "pub": "2026-08-05T12:48:05+00:00",
-      "id": "da2544e5f2c52b93"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEdnbTV5WWpCLVJlVWQyNVFmRzUwb2xFZHN0cjZUSU8wWjRYSEhQUkduVmhLZ2tiVmJSRUR2XzNMMlZVcTlNUmRJLXBHWl9KaUtYcW9RaDZhdy1SMFA2b3dNU2VXUnJKUldYMF9CN2NieEJ6Rkh2d2RmSHg0SG5TdXdIRnp5bHpNTzdTcTRMOG53TzMtMHBCVk1vXzVHSFNRdUE1YzZRclZpeHdiSFRYaEFEN0ZBbUJCR3k1dUlybHl6SW9VQ3A3cHpOa0ZRQVY5?oc=5",
-      "pub": "2026-08-05T11:03:08+00:00",
-      "id": "4af28746aa567172"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "| EU DPP makes tier-3 traceability the next sourcing test - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNy1HLVZPU0dpb0IyZURNNGZUTVhfT2daUXotazAzMDdpYTkwQUhWa0dCMFdnUkZqaDRDM3VSN2tlV2VzR2sxN1l2YVhIYVc3a2I0Tk9SZXdIWU1jQklmRlp1VkhQTUd3RlYyMG5lc0VITlduTWJKN0JzRW81SHZuU1ZzNHlfemp6TVYwbWFjaU54SVVsTjd3dWlFS3FqaW5YWGhOVGI1TTMxdmhTMU9fUUhwbGZ3WlVJSm9vU1Jsb3BYZHZqN1VYYmE5X1RMYVE?oc=5",
-      "pub": "2026-08-05T10:53:56+00:00",
-      "id": "f6b62b63c89ca40f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "BGMEA, OCAB plan to attract Chinese investors to Bangladesh RMG sector - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTjRISnBSd1RkZ25RM2VRUm53X0NKMWRvRGNXUlBqbHd4ZzJkUVhrb1Q2WURfYkdGRzlrZnM4SE9mOGgtUWQtU2JvU3RSRkxzczVhWXlFcTl4Wi1VSVFGNFVJOU4zRTQtRlQyc3NxWk5yRzFXeEg5WGNUWEdPY0ZLb3RIXzY3WWxWZHdhdE1Dd0stZ21OOHdDSmFXYTBibVZnemFJQzJSY3FjdVUtcFRPQzdDX1dBX1ctRE9VTURwb3VQelBJcjRVMmJNZTlSSGVpV0ZLUG9JbzFwY3hwNVhvMUxtNA?oc=5",
-      "pub": "2026-08-05T14:22:25+00:00",
-      "id": "6f331294c960d17d"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| Asia's DPP divide will shape EU sourcing by 2029 - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkduWWlzNVhUYmNNSGVWVFZyNVIzNm1WMjVPRFFnQXJtTWVZVXNuMG9tbVZicVFfcHVHeU1tYnU0ZGZiQ29SeU1KVEphMlIwal9nemlmSjIyUzFmMXZTM1RIZ29BeFVCSkloYmtUSFpIQ05MUEpQNV94TDJMX2ZzRjhuaVNNbF9abWhKTHZ1ek1maFEtMWFZUXNFN0tubGY2QVExR09xZTFBeG90OVFJaDdxWUR1YTFKR0RjaUw4OE5zV2FsVFJj?oc=5",
-      "pub": "2026-08-05T13:15:59+00:00",
-      "id": "a0a066607cddbacb"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "BGMEA, OCAB plan to attract Chinese investors to Bangladesh RMG sector - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTjRISnBSd1RkZ25RM2VRUm53X0NKMWRvRGNXUlBqbHd4ZzJkUVhrb1Q2WURfYkdGRzlrZnM4SE9mOGgtUWQtU2JvU3RSRkxzczVhWXlFcTl4Wi1VSVFGNFVJOU4zRTQtRlQyc3NxWk5yRzFXeEg5WGNUWEdPY0ZLb3RIXzY3WWxWZHdhdE1Dd0stZ21OOHdDSmFXYTBibVZnemFJQzJSY3FjdVUtcFRPQzdDX1dBX1ctRE9VTURwb3VQelBJcjRVMmJNZTlSSGVpV0ZLUG9JbzFwY3hwNVhvMUxtNA?oc=5",
-      "pub": "2026-08-05T14:22:25+00:00",
-      "id": "6f331294c960d17d"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "BGMEA, BTMA join hands to support $100b apparel export goal - Apparel Views",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW01cGVaaTk5cnpZdzVVSjkxaWd4N2ZZN254ZzRja1ltbDB5Q0MybGsyVDdJcHB1NGtYc291OUw4SGVzSGh5RmpJeHBoakRUcXZ1bDd0T1hsWHpySVN5ZXVCTnN6NVNzN2NYckp1ekNKNGdDR29BWUs3TjVobWJxVFRabU1VUzRUUXp3Mm5hVQ?oc=5",
-      "pub": "2026-08-05T10:41:15+00:00",
-      "id": "f46a92a4d10dcab1"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Vietnam to roll out $8.4-bn preferential credit programme for SMEs - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONzdXZFVnS3ZSTk1DY0JQQ0FYUWplSzBwZVhJa1NfS0p6cGFHcUoxNFJYR2N3SVBmR0pPdUpDcmdhWUZmQ0ptci03RlAyejU3Z0lVZ1JLbUo0bjg3aTJ5RE1vRDZTM3hwcTZTTy1hSDZ3Q3Ewa3RqOUF4c1EzQ19Rb0Uta1hSZHlBNGdSc3BSbkZib0pUSHFlQmdPbzdFT2haOGNPNlprTjRSdWMyZHBTdVpwX1FlZDZxVk9HVm9tRjFTcFpGYnJaeVR2dzJQVmtLeFo2SGVudXptVUF4cUE2QWdVQnNCRG9Q?oc=5",
-      "pub": "2026-08-05T13:34:08+00:00",
-      "id": "2d73c73216c7977e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "ভারতের উত্তর-পূর্বাঞ্চলের রাজ্য মেঘালয় ও অরুণাচলে রেড অ্যালার্ট জারি - parbattanews",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdVBMVUNralQxZlFTcnZPUU54bFpxRlR6alUzbEZlQmlwODQ3SUZGaFBMc3RYdlNkWVdOSlZocXdfMzgzYTBka0JSZ1VtYkJ5UDJIMGdsM1VDT0lzUkJVMjhiUG1QS1RvaENlcGtWektsXzctSjJ6dlZXTnRvU3RRNXhBTmFNUHlOVzdFaU5feW45ZXhZdkwzdC1RLTBqdTR2dUZQNngxVDFGWkNfanVWQWp1dldNbHVWNTlNbVFUeUFKYlFwc01UR0RYbW9FT2V4THE4VFZlYU15SnhOLVVHZjJHS0JJUHh3RmJKUF9rUk51SkZEY05WR09FMjMyNmFCWkJXcXJOdXFJWVYyWXhkQndaN3hkeW0zbF9kYnl0NzAydzM1VTc0M1p5algyd29RNVdScGNneWJ5eEFhRFM5SGFpRFZVUlAxRmxXbHNEWdIB1AJBVV95cUxPUGlLaXk4ZGlsU3c2R2RPcWxpRTJqR1dGcThUZExWUG5nci1xcE9VbXpveUttQ1R6TGxJNXIta1JhMHN0M2ZWd2hBSVRpcW1SOE0yaGNJSEF2QkJZcHBRU1pCSjcxN0tmaS1MYWdKZ2FScldHLUpPRmgwSE1WSzBPMmN6Yi04VEpzQ0swX3doYV81dGtSbWV0NDk4WVVGZkduZ0dwZC1xUEdvNlZVZmdtclFlUG1CUnltVDNXejZteGE2M0VucHB3a01GbWdWbzUtQUQzd3IyV255YS1qN3pTT0ktVlFIRktUYW5BaGtNVDhaamlxMHJ6X1BudEZYdU9qdENUWUlfVjFuQ1lpS0xTM054QS1xckNkT3RKN3ZZNzFDUm96MW1RVllNUTFWS2hya0J3dno0T0UyMzFsRmFOOG1KaHdLc19HeE8zRVlJXzBUaTFh?oc=5",
-      "pub": "2026-08-05T12:36:54+00:00",
-      "id": "317c6ad56d634d25"
-    },
     {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
@@ -3001,27 +2913,11 @@
     },
     {
       "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "BGMEA, OCAB partner to drive Chinese investment in RMG sector - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU0ydWsyTFJXd2lHY2xRaXBCeGJyM2dsdV9IUFJtT0c5bkxENmJyZ0s1emZFWWpHSE1PRGFDbWhmRUJfUkJWVGJMdkI4TXhxeFFhS1ZCQTk0T2c1RUEyNjByeXNZcWc0UXhEWFp6ZFB2OC0zcG1YR0RWVkd2cGVMa1pyMHkzaWtaS0xKVkJMYTBFdWx5QkRVRklXemJlZw?oc=5",
-      "pub": "2026-08-05T11:08:34+00:00",
-      "id": "1bcb6a80a8f2a5fd"
-    },
-    {
-      "section": "bangladesh",
       "source": "GoogleNews: BGMEA/BKMEA EU",
       "title": "Exports slip 0.9% in July as RMG shipments fall despite strong sequential recovery - textiletoday.com.bd",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR19KRld3T21yRlExS0V4MTRoeE1vb0FnbGl3OTQzREVQbF9ZNDJfVXUtcVRINllrTHRYQ2VmcUhfblVlbW1Ebm1OVW1JUFNNYUhYQ1k0VGJlcWV1RXQ3TTlEMWhXNEM5aF9DR3VKQjV3bjU1RUV6eHRtT1N1dExWUy11Uzh1M2JSdDhKaWtIemFiTzRyUzd1RFFCaFpvQmlVSjFiM2Z5RThqU0FXRGptQURR?oc=5",
       "pub": "2026-08-06T04:22:55+00:00",
       "id": "b53dd656dad561dc"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "BGMEA, OCAB partner to drive Chinese investment in RMG sector - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU0ydWsyTFJXd2lHY2xRaXBCeGJyM2dsdV9IUFJtT0c5bkxENmJyZ0s1emZFWWpHSE1PRGFDbWhmRUJfUkJWVGJMdkI4TXhxeFFhS1ZCQTk0T2c1RUEyNjByeXNZcWc0UXhEWFp6ZFB2OC0zcG1YR0RWVkd2cGVMa1pyMHkzaWtaS0xKVkJMYTBFdWx5QkRVRklXemJlZw?oc=5",
-      "pub": "2026-08-05T11:08:34+00:00",
-      "id": "1bcb6a80a8f2a5fd"
     },
     {
       "section": "bangladesh",
@@ -3074,22 +2970,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "‘দুই বছরে বন্ধ শতাধিক পোশাক কারখানা, কমেছে ৪০ হাজার কর্মসংস্থান’ - thedhakaxpress.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qcVJfakZtdm1IRS1XWk5NaGtDV3QxdjlxYjBUakxlNFJlVUtYRmpNWnNObVdydlQwaFRtRmJFZTNMZmw1cTFOOVhYd2ROam5tYnYxdFRWalVyRTlnZl93ZzMzZEhIdw?oc=5",
-      "pub": "2026-08-05T11:47:00+00:00",
-      "id": "bec84d64fbad53e8"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "এফবিসিসিআইতে ১৬ সদস্যের সহায়ক কমিটি গঠন - arthosuchak.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdmJsSXJ3ejZXR0d6ajNCdUdWdXg3aXpwcDZZcVBsTy1Gdnh3aFV1U19rd0lfd0FkR1hYMllpLURtZnI1NmJJejNncmVGX3hXMkxrMGxhWWw3bmduUHIxdUVOSUFKNi0xNE81dkNQT0s1QVBzckhzM0ZJRXg0YWlCTllKeWZCN1hvUVNOSnFadVdTTjRWU2tIR0d3VzB2M1VJQzQ2c2xxeklnQkphS2xYUm1nUHNLaTZzTFduMDRBd003NTVRSjBWNlpZV0FLMlZDdFVWWUx3LXd2UGVraWlfOXhjNkxQSUFlc2JjaGRKWU5WY3J1NENkTVdhcWxDckxmcG5WYkNiRUJpaUN1aV84VUUwcTdkaWFVQ1J3RV9HMjVLWXcyekpxTDk0M2dORzF4SjVQMUF3S0ZSZTQ2QVVYRkdLZXhMLVBGdk4zVmRPcGNlbmo4Rm1n?oc=5",
-      "pub": "2026-08-05T10:29:09+00:00",
-      "id": "875a3d0ec200f23e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "ডিএনসিসি মেয়র নির্বাচন: তাবিথকে বেছে নিলো বিএনপি - দ্য ডেইলি স্টার বাংলা",
       "link": "https://news.google.com/rss/articles/CBMijwlBVV95cUxPUXJfQUJTd2FndEZJRUh6OURPWXM4Skc5MFFJdVFnWGZSdXY5aHRrdER4Z3Rzd0ZQeEtEdThGYmppRDJ5aE5vMEhlbjVTbFdITTBWcmNMZ2RLZjE2bUItblBvMUstdU1WdjFoQmczMnF3VjVQNTNHWW5GcW5DNmVuUzdZMFJZcmFzbXM1c3ZHZDdxQUo1RkROUERoOVBkYmVHc3ZabnIxV0tCMEhqTEVwV1dJLU5ELTgyTVdMRmQ3anRSbmJFbnJTNm9oSFNQbUdsSHN6UkNwZ2t6OWtPek5YYkNrTHJudHBlU1NtQm5BNl9GR3h2S05LMVpYeEhrN0ZjOTNvVWdnRnhBb3Q3bENOejhiOHAyTGhtbU5zcVVJOUZ1d0d3RE5iWTVGcHFRRGNvUURNTEU2SFZmN1NId0lFa2hxdnJYNjVkV1AyT0RJR3E2THh6U1lDclh0V0NqcXdlS25XLUJkVVI3YlRRRVgzd3dfcURkUGFlS093ZGtWYzFXQ2ZyVURiOVFpUHVRNFJILURlMklUUXBMbUdGczd6OUlMejlXT0FJSkNITS13N0VMVEJEQ3hwSEVzQkdlSE9EeUVUOWdqb3BzU1ZNVFpZa0w1eDdKNkNMTnRmTDFMVmFQdkNYTHRBenpuT0Y0N041S2h2bDBsSUF0aWJwaWhBN1NIcUxFQkozTFcwM0Z2dGVic0FYV0t0cF83OTlReTREems3c3ctNjFRT0RGRDlwWlBJYXJwR0p4Ym9DUTZqSjN4SU1pR3pnWnFjUFBRM2pNQWlnU1RGZE1wdkJ5WkpMSzRDTktSMG5qaVJMeTVCdlJpVkhRakQ3TFVtVkUzR2w1TV9xYzhMOWJfLXQ0SER1MzdpT2lKTkxYQXdZenJlTm9BQVROSG01bUdxWF9xellFalJ2LVgxYUJZbU5mYjVEYlNkT01GdzllbUt0ZnR0WkpjQ0w4S2NBeGRiTGlrSnYzQ3dxd01xVE1JTUpYcTROSXA1TDRDa2x5OUNQSWxjbTl0Q2x0MnNCM0NSOHEtMDlYYW02VFc0ZDYyR0hlMkE1MGxsQUxXVXlLM2h0dGhXazMtcU9PYldRMUpvSEIyZDJvc3poMG85TWVKbGUwYnlJLVR0UWdhUWx1Tkx5NVB6Vl9hWHlIaDhodnRXQm9uU1VlQXVhRm1RS2p4SDUwMWZibEpWQUxxRFl4Q1RsaVFfWjN6bENDM2FvMTk1VGljRnlUN01CZlFZMFMzUUEtQ2k1S0VHWWI3QmNGSklrcE8tT3pzX1htSWFINTJmNWlfSW5fZXVfTnF3OENBUEhXbFF3RmUzQ1E3Um5IajJraDk1Q05LUDZHalBMX1k1cmVvdVBOTFY5WUNFbG1EZEZRXzBLSEFuRWtWc25fSXBWV2dXdHNBRjhJVHo0WndwQlNqanRWcmh6dENhcG5rbEMtMWROZ09iZ3F2aVpOeU0xM3hLWjExV0FqcG9PSkxNckIzWFk4OWt6WTE3dkxOSTVDWjRWOGwtalZNc291T2Iwc3hCdTY3bGo2YlpmbHNzcHdFYkU?oc=5",
       "pub": "2026-08-05T15:52:00+00:00",
@@ -3134,14 +3014,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tbmppYjBISVRnQTdmOEZVeWpGc0xyLThMLXlzSWVzanl3ZmMtZFpqZ21UdFl4LUh5bDR1QkFyazR1RXRPZnZMeG56SW5lOHZSR214QjNIU2g0WS1pTFAwWGFoSDN2UQ?oc=5",
       "pub": "2026-08-06T09:20:18+00:00",
       "id": "aabda2d193e285da"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "BGMEA, BTMA join hands to support $100b apparel export goal - Apparel Views",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXlxSHBhR3pWcE1SdXNRdjRMYS1sZTBzYUs2MzQ1TVNQTU1FY29yZ3A2aUZUVUhCdGVEeUdha2lzX2paYVo5eXRMb3lMM2Utd3h2UUtyVWwxNFlNazk4LTd2WDV2R2dORmFhVEk2T2doNzhmQ0wzUWJoMXBIZi1YLU52bXo4Tk9DM3JxVVliT3k?oc=5",
-      "pub": "2026-08-05T10:42:13+00:00",
-      "id": "5b199c93384af2f8"
     },
     {
       "section": "bangladesh",
@@ -3542,6 +3414,142 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55NkpjRzRZRmx5b202UThlVnBUMTJBTWQzbUJObl9nRzhxdWhhSE9VUkFwbkJicW9CTU10WGprZm5LVVRVcG9hOC1nLXFVUGdfWHd5aUVXZkNyYXpIdk80?oc=5",
       "pub": "2026-08-07T05:15:00+00:00",
       "id": "1607261f48bce24c"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "| €1.80-3.50 DPP gap could turn compliance into a sourcing edge - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXg4UW44TkFma1ZvVk9YamI3QkNibWU1czZGX2lCUTFhZy1xX1R5X1BybWJFVnBmVEpNTGtpTG5NS0VQRFdOTTRPMVpsUzhxZ1pJVXdVdG5kbXlKOFRDamtqWUlPQ3lLRll2QnQ4b0d5NEF0RTVsNko4VTlKLXNZTzJvT0poUmE1YVNmR2xYaFBhUXFIbG5PWkNLYzZFaHRwTVNJcnNTbXVmUUdHcWtfOGtway1QcHRhVXA2WkkzbG5taDZEXzZmQ0JJbnM?oc=5",
+      "pub": "2026-08-06T15:15:16+00:00",
+      "id": "edf6d391e845bf5e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "How Europe’s new law will reshape the global fashion industry - Prothom Alo English",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1c281YVNmY2I4R3BIQmY4WWlrRVBKajEtbXRhUG1jVUpTN2dieVI2Rl9lQ3kzaXA2d3V3aVlLd2tSVEdLN0o1QjBKY3E2NWd5WXZvbllXV3BKcXMtWUlubnczaDVhX1JyV0wwVGcwT05RQdIBckFVX3lxTFB1c281YVNmY2I4R3BIQmY4WWlrRVBKajEtbXRhUG1jVUpTN2dieVI2Rl9lQ3kzaXA2d3V3aVlLd2tSVEdLN0o1QjBKY3E2NWd5WXZvbllXV3BKcXMtWUlubnczaDVhX1JyV0wwVGcwT05RQQ?oc=5",
+      "pub": "2026-08-07T10:45:56+00:00",
+      "id": "909f02da69a2a38a"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "| €1.80-3.50 DPP gap could turn compliance into a sourcing edge - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXg4UW44TkFma1ZvVk9YamI3QkNibWU1czZGX2lCUTFhZy1xX1R5X1BybWJFVnBmVEpNTGtpTG5NS0VQRFdOTTRPMVpsUzhxZ1pJVXdVdG5kbXlKOFRDamtqWUlPQ3lLRll2QnQ4b0d5NEF0RTVsNko4VTlKLXNZTzJvT0poUmE1YVNmR2xYaFBhUXFIbG5PWkNLYzZFaHRwTVNJcnNTbXVmUUdHcWtfOGtway1QcHRhVXA2WkkzbG5taDZEXzZmQ0JJbnM?oc=5",
+      "pub": "2026-08-06T15:15:16+00:00",
+      "id": "edf6d391e845bf5e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "EU packaging rules pose new challenges for Vietnam's exports - Tuoi Tre News | The News Gateway to Vietnam",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlFTQ1c3aURzQlotTWwza0pmcDd6N09QSnBsaHBYVE1odmNBVGwyLTlOUk9mR0s4U2p5SXhhclRuMVNlUUtiVkR0UHg0ZFo3Z1YtTzZsdkgwUV9UUEFHemxzSlFwODlEemtFcDRobjFnN0NjZ3huWVVCMmZLOTk4Zl9XNm0tYVF0THZ1OURfRGwxNUFjY2YwLXJGN0lUT0Q0MzM3VFBlbW8?oc=5",
+      "pub": "2026-08-07T07:09:00+00:00",
+      "id": "2fb47e1b6c6cf404"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "North Park",
+      "link": "https://www.reddit.com/r/PHFoodPorn/comments/1vhy9qr/north_park/",
+      "pub": "2026-08-07T11:42:01+00:00",
+      "id": "118f7710898d0796"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA, OCAB join hands to attract Chinese investment in RMG - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHk2ZEhVQ0E5a3U0RUJ3WmsxdGtuWmEwUzFvc0ZpSzNheUFQN3RGUU1FcXlMR21pbGZHcFh5ZWZLSVpYSnNVby1UTERTSHRDTVBtb3BGcC00VW0wRG1SOGU5dUtXbHgzU0lKWjVQcFZUZkl0TXV6ZnAxYXZQUWIyY2hrTnlYcGlPRnVYQ1haS2Q1V05ON3FkUkhBVmdGNFhIb3lkS2Jn?oc=5",
+      "pub": "2026-08-07T09:40:26+00:00",
+      "id": "652b1bc5aacb0342"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "S. Korea Eyes High-Value Shift in Bangladesh RMG - businesstimes-bd.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90X3N0QVNXV1V6RmNkTjE5ZllURldUbjlKbXMzMW5IdnJ5MW82UV9vLS1jWUhoVTlDNjNLeWF3dHVLRkRXMVdod0NfLU1sMkN6YTFhMXhUdUN4V2M?oc=5",
+      "pub": "2026-08-07T09:20:10+00:00",
+      "id": "2dd36d8486d3b85b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Italy's EU fabric imports rise 21% as textile exports fall 3.4% - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalJiZkNjVnYyS2dfblNzcGdIT3QwaktFX0RNUkxTNjZXZUlfNDM0bEdoMzlMLUFpRzU4VGFzQnkwdThUTEdyYjF1aVBYbWhGTWlDdjAyUjFEZXI1aGdwYzNLd2kyNzFFXzg0UXNYcllSNks2bjhvV2p4MGFmMHV4am9HS01udjRxai04Nmg0SUI3dkRJZVZkSm5DeHBybnhaMF9RM0xUWmFqTnJwOV9tSlRZMVBBVEpJd3hzYktOZHZyQzFvNzVqcVA2WHFXd3pTa3RBVGtIXzBFdw?oc=5",
+      "pub": "2026-08-07T09:02:25+00:00",
+      "id": "c3e2dcf762c98237"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "How Europe’s new law will reshape the global fashion industry - Prothom Alo English",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1c281YVNmY2I4R3BIQmY4WWlrRVBKajEtbXRhUG1jVUpTN2dieVI2Rl9lQ3kzaXA2d3V3aVlLd2tSVEdLN0o1QjBKY3E2NWd5WXZvbllXV3BKcXMtWUlubnczaDVhX1JyV0wwVGcwT05RQdIBckFVX3lxTFB1c281YVNmY2I4R3BIQmY4WWlrRVBKajEtbXRhUG1jVUpTN2dieVI2Rl9lQ3kzaXA2d3V3aVlLd2tSVEdLN0o1QjBKY3E2NWd5WXZvbllXV3BKcXMtWUlubnczaDVhX1JyV0wwVGcwT05RQQ?oc=5",
+      "pub": "2026-08-07T10:45:56+00:00",
+      "id": "909f02da69a2a38a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, OCAB join hands to attract Chinese investment in RMG - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHk2ZEhVQ0E5a3U0RUJ3WmsxdGtuWmEwUzFvc0ZpSzNheUFQN3RGUU1FcXlMR21pbGZHcFh5ZWZLSVpYSnNVby1UTERTSHRDTVBtb3BGcC00VW0wRG1SOGU5dUtXbHgzU0lKWjVQcFZUZkl0TXV6ZnAxYXZQUWIyY2hrTnlYcGlPRnVYQ1haS2Q1V05ON3FkUkhBVmdGNFhIb3lkS2Jn?oc=5",
+      "pub": "2026-08-07T09:40:26+00:00",
+      "id": "652b1bc5aacb0342"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Gas crisis ripples across economy - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcElBZUVSSEoyejVQXzNhSkZkcThoX3FIbDhVQWtReWMxQ2c4RDNhaDFGOWR1dE9uQTZXVGpRZjZ2S3NJeHNfQXo1VEk5YjJPVGdmd2o4RUkwZFY4cTltNC03YW9qbWtHV0FTVExyNk5Vdk16OW5XdHBjcGZzc0p0WS0tNmtNZnFFc1pNTjY4ZWlxdmR4Z2c?oc=5",
+      "pub": "2026-08-07T11:22:42+00:00",
+      "id": "6040cc92b8dc9064"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Overseas jobs hit five-year low amid Gulf uncertainty - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2tFMUdiVEFJdUlBTjZFMVFpWTA0S3g4dnBoS2VyMGloY285MktYQTdidlB4bnpIN1NzcS1lWV80NF9XNHR3ZURadXZKeTRxaVJpRGhfeml4aVVNalg2R09zMFQ4Tk1ud3NuQ3dLS2NKZV9sYllZTkpoRmdFNG5DS1poV2xnSXBrZ1ZMcTBNOHBCaWs2Z0YwUHJCdTRjY2pZMFMwWlBEZWJGbml3WVRnd2FR?oc=5",
+      "pub": "2026-08-07T04:51:25+00:00",
+      "id": "01a9fccc454fe7a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "ICCB urges India to ease trade barriers, expedite CEPA - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWZ0dkI5MUZLQ2lESFZreVprRi1XRE93UEM3VElONFJvRmVjR3RScDRoR2xfR3UwXzAtNkZhQy1YbjEwTWV1WmFsX0xaY3dzMWlfUDV4UHFrb0tmWkY0cXNXaHZqOHBhQl9Za3pzaURyenBfUFNVT0JxTkc4S2JiMk54Y0gway1oSEdJV0YwaHBLcWFCQ2xQSWRjRUxaM21LMmRiUlhHZjl1U0JMWHJGRmFwcGd5THFZbGhn?oc=5",
+      "pub": "2026-08-07T09:25:07+00:00",
+      "id": "183a6e254416c849"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Apparel bodies recommend 370 factories for govt stimulus - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUFtaUx4OVBGR3VMcmp4cUlPMUxnWlJuMFotLUxQNWk5QWxkWW45ZWJEa0pnN09pcGdNMC1GemJOUjNhX2RLQUdaNnBvckIzX0NzSUVZZmZwejl0Y3hrVk00RFhxVnFFbHlHdFlNUDJ5SHZRWEo1Wl85VkN4RXUyemJZQTFSWHNvUXRWcGIzbDQxNnZvakVlNldmTW9McllPOGZoLTBwdW1iOGo1YWhWUg?oc=5",
+      "pub": "2026-08-07T12:16:58+00:00",
+      "id": "c6aa34f9dd70d018"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Startup Bangladesh sells stake in Pulse Tech in first-ever exit - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDZiMWFCSG81a0NDTkYwTlFleGdNdDg3RldGLUVSSWxueGo2NmJHMHhFcTRacHBfZTJCVGxvWjZfNkJlSm1mb1RtT0NxM0hsTFJjeEhNeFVwTEpmRHRvanpmTl9RRlowckxBMVBpeFdYNDlEbFdCck01dGo3TnU3QldhX09jRWVaLW9SYkhyQnA2MVN3b2xnUi1zTTBSYmRETTFlaXFnT01iSDV1M1FkTW9nRklsbkE?oc=5",
+      "pub": "2026-08-07T08:22:36+00:00",
+      "id": "ec4e17991534f246"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh, South Korea sign CEPA to boost trade - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzdyeDRQdU9RZHR2aTBKUzFGVWNOdlRmWmVtbjNmNHZNSVprTE1TZzN2MmIwNjhudlUza3lwSkZSd2p4MFA3N0hNLXJYT1l2Z3Q4ckQzNHJYYUZBNXRaSks1Rlp3WnN0Q3NheHUyU2NVcC1fdzhoWGJqb0pQRUVQcHZIOURTTFQwdDFyYl81d1RTQ3BoNjQ5VmRTMA?oc=5",
+      "pub": "2026-08-07T09:44:29+00:00",
+      "id": "730786bbe74a2b0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "BGMEA, OCAB join hands to attract Chinese investment in RMG - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHk2ZEhVQ0E5a3U0RUJ3WmsxdGtuWmEwUzFvc0ZpSzNheUFQN3RGUU1FcXlMR21pbGZHcFh5ZWZLSVpYSnNVby1UTERTSHRDTVBtb3BGcC00VW0wRG1SOGU5dUtXbHgzU0lKWjVQcFZUZkl0TXV6ZnAxYXZQUWIyY2hrTnlYcGlPRnVYQ1haS2Q1V05ON3FkUkhBVmdGNFhIb3lkS2Jn?oc=5",
+      "pub": "2026-08-07T09:40:26+00:00",
+      "id": "652b1bc5aacb0342"
     }
   ]
 }
