@@ -1,35 +1,5 @@
 {
   "seen": {
-    "640cf613cb9c2d19": "2026-07-08T05:24:07.434867+00:00",
-    "470662ccebe9fbfd": "2026-07-08T05:24:07.434867+00:00",
-    "a671d9d5f34d3dc9": "2026-07-08T05:24:07.434867+00:00",
-    "f940d0c18047c3a4": "2026-07-08T05:24:07.434867+00:00",
-    "3141eb1220bd4fbc": "2026-07-08T05:24:07.434867+00:00",
-    "324758399ccb0737": "2026-07-08T05:24:07.434867+00:00",
-    "0382b2d627cdd9d3": "2026-07-08T05:24:07.434867+00:00",
-    "55d83f56fb93daf2": "2026-07-08T05:24:07.434867+00:00",
-    "de1fa6145a3e3dec": "2026-07-08T05:24:07.434867+00:00",
-    "493dcb37915d670d": "2026-07-08T05:24:07.434867+00:00",
-    "d8eebd43fbddef6a": "2026-07-08T05:24:07.434867+00:00",
-    "fc5e39bc3308b4d0": "2026-07-08T05:24:07.434867+00:00",
-    "254cc2592f0e44b2": "2026-07-08T05:24:07.434867+00:00",
-    "bb369f00c07094c6": "2026-07-08T05:24:07.434867+00:00",
-    "c89d53bc44c0e4b7": "2026-07-08T05:24:07.434867+00:00",
-    "4c838eb4b10c6c79": "2026-07-08T05:24:07.434867+00:00",
-    "acef8401b6b1718d": "2026-07-08T05:24:07.434867+00:00",
-    "4602ac0cf5443e55": "2026-07-08T05:24:07.434867+00:00",
-    "98f1902657f6841e": "2026-07-08T05:24:07.434867+00:00",
-    "94c8cb0fd7a3d258": "2026-07-08T05:24:07.434867+00:00",
-    "7671f9c211d38de5": "2026-07-08T05:24:07.434867+00:00",
-    "08009ab71b611f84": "2026-07-08T05:24:07.434867+00:00",
-    "409481c0d6a17447": "2026-07-08T05:24:07.434867+00:00",
-    "ae134e6081b48a81": "2026-07-08T05:24:07.434867+00:00",
-    "edb9bc7f1c7ebf62": "2026-07-08T05:24:07.434867+00:00",
-    "991669d7d3c76c0a": "2026-07-08T05:24:07.434867+00:00",
-    "10a894f3478e0001": "2026-07-08T05:24:07.434867+00:00",
-    "51dd2462f6ab8fa9": "2026-07-08T05:24:07.434867+00:00",
-    "931a93eaeb22a922": "2026-07-08T05:24:07.434867+00:00",
-    "3c038d5c8ee707f8": "2026-07-08T05:24:07.434867+00:00",
     "e7808878e3f38d10": "2026-07-08T10:21:14.128053+00:00",
     "6018f7b5578a65d5": "2026-07-08T10:21:14.128053+00:00",
     "bf4b334067e6ed90": "2026-07-08T10:21:14.128053+00:00",
@@ -2891,33 +2861,40 @@
     "15fc760d3c0eb537": "2026-08-07T04:27:09.221436+00:00",
     "4e648217eaedfc90": "2026-08-07T04:27:09.221436+00:00",
     "54fabdfc07c99e68": "2026-08-07T04:27:09.221436+00:00",
-    "f08cdde8a8eb6e51": "2026-08-07T04:27:09.221436+00:00"
+    "f08cdde8a8eb6e51": "2026-08-07T04:27:09.221436+00:00",
+    "acacdeff97aa67e9": "2026-08-07T09:01:32.114973+00:00",
+    "3a5a81429b1458d5": "2026-08-07T09:01:32.114973+00:00",
+    "101d9f64dddf5cb1": "2026-08-07T09:01:32.114973+00:00",
+    "87bad6a9e77ea83a": "2026-08-07T09:01:32.114973+00:00",
+    "3e208d60a64adde8": "2026-08-07T09:01:32.114973+00:00",
+    "f8bd06f0264b0f3a": "2026-08-07T09:01:32.114973+00:00",
+    "0de006c33736f474": "2026-08-07T09:01:32.114973+00:00",
+    "f5b09e6eb5071392": "2026-08-07T09:01:32.114973+00:00",
+    "77797a37bdf4cb10": "2026-08-07T09:01:32.114973+00:00",
+    "a39ec6edda7bbdb1": "2026-08-07T09:01:32.114973+00:00",
+    "0a68afce8fde8e23": "2026-08-07T09:01:32.114973+00:00",
+    "3855451b3191a1ea": "2026-08-07T09:01:32.114973+00:00",
+    "3ec40889e9fa0de7": "2026-08-07T09:01:32.114973+00:00",
+    "8a3bef2630c0b4a7": "2026-08-07T09:01:32.114973+00:00",
+    "d9b09608790f1858": "2026-08-07T09:01:32.114973+00:00",
+    "19bac1d3f4d77c93": "2026-08-07T09:01:32.114973+00:00",
+    "bc36781c36ccfcd2": "2026-08-07T09:01:32.114973+00:00",
+    "a18f42c3ead8c939": "2026-08-07T09:01:32.114973+00:00",
+    "480e47c382219342": "2026-08-07T09:01:32.114973+00:00",
+    "c3e91783efd30ded": "2026-08-07T09:01:32.114973+00:00",
+    "84f588c2c3313af8": "2026-08-07T09:01:32.114973+00:00",
+    "b23ed6907956f954": "2026-08-07T09:01:32.114973+00:00",
+    "cd0dd91b4f947ac7": "2026-08-07T09:01:32.114973+00:00",
+    "15cf13ddc954e85c": "2026-08-07T09:01:32.114973+00:00",
+    "e249290203dccefa": "2026-08-07T09:01:32.114973+00:00",
+    "93d44156fde672d0": "2026-08-07T09:01:32.114973+00:00",
+    "0f23f7e9e0ea44a5": "2026-08-07T09:01:32.114973+00:00",
+    "e719073941d7673d": "2026-08-07T09:01:32.114973+00:00",
+    "dd110a3699451f8b": "2026-08-07T09:01:32.114973+00:00",
+    "6833eb41f57bf698": "2026-08-07T09:01:32.114973+00:00",
+    "1607261f48bce24c": "2026-08-07T09:01:32.114973+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Europe's Digital Product Passport is raising the stakes for apparel SMEs - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGExTjRrTHV2RG1NNWxfcmZNc2h0TTVuQW90QVdmUG1FVEcxZUJxY00zU2k2UElBVzBEWkdzNEZ2V2ZPcVBHLVp4UzM1dDlVRy1xMFpUYWdmYXdEaF9Db0ZZdC1vbjRiNng2aGFydGNwRVRVQ0tFSm1OUjNKa1dFNWJ6LWdCUTRKWGhyS3V1bUQ4eVctRmpsTm1xRWpLaUtNN0l3YV93?oc=5",
-      "pub": "2026-08-05T05:37:55+00:00",
-      "id": "56afce970e27a1ef"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "Europe's Digital Product Passport is raising the stakes for apparel SMEs - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGExTjRrTHV2RG1NNWxfcmZNc2h0TTVuQW90QVdmUG1FVEcxZUJxY00zU2k2UElBVzBEWkdzNEZ2V2ZPcVBHLVp4UzM1dDlVRy1xMFpUYWdmYXdEaF9Db0ZZdC1vbjRiNng2aGFydGNwRVRVQ0tFSm1OUjNKa1dFNWJ6LWdCUTRKWGhyS3V1bUQ4eVctRmpsTm1xRWpLaUtNN0l3YV93?oc=5",
-      "pub": "2026-08-05T05:37:55+00:00",
-      "id": "56afce970e27a1ef"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: Ecodesign textiles",
-      "title": "Europe's Digital Product Passport is raising the stakes for apparel SMEs - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGExTjRrTHV2RG1NNWxfcmZNc2h0TTVuQW90QVdmUG1FVEcxZUJxY00zU2k2UElBVzBEWkdzNEZ2V2ZPcVBHLVp4UzM1dDlVRy1xMFpUYWdmYXdEaF9Db0ZZdC1vbjRiNng2aGFydGNwRVRVQ0tFSm1OUjNKa1dFNWJ6LWdCUTRKWGhyS3V1bUQ4eVctRmpsTm1xRWpLaUtNN0l3YV93?oc=5",
-      "pub": "2026-08-05T05:37:55+00:00",
-      "id": "56afce970e27a1ef"
-    },
     {
       "section": "international",
       "source": "Just-Style",
@@ -3015,14 +2992,6 @@
       "id": "317c6ad56d634d25"
     },
     {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "চীনা বিনিয়োগ ও যৌথ অংশীদারিত্বে বিজিএমইএ–ওকাইবের উদ্যোগ - NTV BD",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWYlBBT0t5ZXVqTmpSUlZqZ1A4dUtITkd6cWhnNWw4aEF0VXBqU3REUUpFcDFqZDJUNFVmTURDRHgxRVREWmJqcEpxTEFhWmVKcmJwRjFmOWg3dw?oc=5",
-      "pub": "2026-08-05T06:40:00+00:00",
-      "id": "dc9f4a96b7064fa7"
-    },
-    {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
       "title": "Govt devises five-year strategic plan to help revive ailing jute sector - The Financial Express",
@@ -3037,14 +3006,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU0ydWsyTFJXd2lHY2xRaXBCeGJyM2dsdV9IUFJtT0c5bkxENmJyZ0s1emZFWWpHSE1PRGFDbWhmRUJfUkJWVGJMdkI4TXhxeFFhS1ZCQTk0T2c1RUEyNjByeXNZcWc0UXhEWFp6ZFB2OC0zcG1YR0RWVkd2cGVMa1pyMHkzaWtaS0xKVkJMYTBFdWx5QkRVRklXemJlZw?oc=5",
       "pub": "2026-08-05T11:08:34+00:00",
       "id": "1bcb6a80a8f2a5fd"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Factories Shed Workers in Bangladesh Garment Sector - Cambodianess",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFpKaXltNVlhUU9FdHhUWXJEbGpNaUZiMUpDRV9vZ0Rrc1Y3LThqek1QaVRtamZ4OTMwcy1FVUVwZm5fdVRnYktaclFmdHpZQjN0OWFBMW5oMFNqbGt3RmNMWkp2SWRuX214QlpLQTc2akc4S3RrQWR2RlNJN2VRVWtiVVhSRHNWWUVIXw?oc=5",
-      "pub": "2026-08-05T07:24:26+00:00",
-      "id": "d76c73669375e07b"
     },
     {
       "section": "bangladesh",
@@ -3493,6 +3454,94 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUG9jX0hJVzFkRE0xUDRxT3J5LTFyR1VXUnRBclZNN2hULXdJSUtsZ0Y4aW1nV05YNFdUZzFoNmxFZEZlNUpWRUJkOFhSWDA?oc=5",
       "pub": "2026-08-06T13:44:00+00:00",
       "id": "f08cdde8a8eb6e51"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "UKFT publishes member exclusive Regulation & Policy Newsletter (Issue 7) - UKFT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlUc2lJVTAyQ1cyX3IwMFpBWC13VEp5XzJ1dUZYYVcydm9LaHRrZWlxWDFWU2dZVWk2VEFCY2lVNFlQdkFBRVdHdU95Xy1jblc5bzUwS1ZfSjFjS3dlZ1dENkdzYXI4Qzc4Tkl1T0ZyU3dxU245eVpqMW9CWl82QmlJbGpoS0xIWFhyX2ExZ3NHTHZn?oc=5",
+      "pub": "2026-08-07T08:37:07+00:00",
+      "id": "b23ed6907956f954"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Korean official see strong prospect of upgrading Bangladesh's RMG industry - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yNVVGMC10dFF0ekRQWmRNMEphRkF0ZGpRbmdsd2psZ3VhMXlXVzljeUhCVUh5VkdnU29zbWhuWjVWZmhFSzJSeERXejZoX0p0dDdR?oc=5",
+      "pub": "2026-08-07T04:56:28+00:00",
+      "id": "cd0dd91b4f947ac7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Bangladesh RMG growth flips 23.4 points as US basics lose $250 mn - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVERfR2NiS0h1YmVfUkZZUTREbnhvVFljb2ZlU1VpdjFlMlpFaU1jWk1UN25DMHBueHVfb21MUkpDcHhWT1NBdS1HeVYwVXBwMmQzWTlqeVFQSmlQVnJhZ1JKbXd3ekpibWNjelFxbnBhTkU5X3c2d0o3R1FFMmxNc0haN1J6bzNodnhFTXlBa3dRN0UySmRCenNacTdnQXptLWVGY2xZNDdqODZkUURXRE92MTYteUR3VlpVcnhKVUZsSkxIaUlVVkx4d2RJLXpU?oc=5",
+      "pub": "2026-08-07T07:31:59+00:00",
+      "id": "15cf13ddc954e85c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Korean official see strong prospect of upgrading Bangladesh's RMG industry - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yNVVGMC10dFF0ekRQWmRNMEphRkF0ZGpRbmdsd2psZ3VhMXlXVzljeUhCVUh5VkdnU29zbWhuWjVWZmhFSzJSeERXejZoX0p0dDdR?oc=5",
+      "pub": "2026-08-07T04:56:28+00:00",
+      "id": "cd0dd91b4f947ac7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Energy, not tariffs, will decide Bangladesh's export growth - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnVEckpkcUZ1QWxuemlLVkxjclpKa0lRN1hSZi1wVEoyMXM1NlU0aU5nMHNNa0NvMTQ1WUFnZTlGbUt3R0N1RlUyQmE1Y0tSSklhU05FbHJlS2FnTWNjSzhPYnVDelI0U1dIc3YwRV92M3NZMDVoUEhObUgzaS1IT1NubUtob0Zfa0V0c3I1Qks1UjlXR2NOS2N5XzJicGVmTFl3V05kTlM3bGhEc0NIQTdTWklTaHdvOTJnaHJaMlFCd1A2Y0JaVGZHYzljV0p4bmh2Y0xkdWNzdms?oc=5",
+      "pub": "2026-08-07T07:14:14+00:00",
+      "id": "e249290203dccefa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "US has refunded about $100bn in Trump tariffs - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0pLeUg2cnRuMmVtOU9sSXpRbkt3UE9OcjRpX0FXNHZ0RHBrbEZ6eDl5YUpCUUtNN1JUVzQ2eWo3YVBPZG5vVGQ5TjFBTHJDOTN0NWtTanZjbkdNbE1XaXpab0NvM0Foc2lTakxFU3ptVnFjRkxKeGlOdXlDNVJqeVlyMy1NNDlHUVNPdGNwcllEdkJ4Rnc4?oc=5",
+      "pub": "2026-08-07T08:15:56+00:00",
+      "id": "93d44156fde672d0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Japan confirms joint yen intervention with US, signals readiness for more action - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZvdU51bWVhek1VckRfTEh1WEpuMm1YUXNyTk9WNVAxczB5bkZIWlBkYnQ1MUF1ZXFYSmdpQ2hmdkJzUElBY1NDNUJIcXhITWlod1BkVFhXajRmblpDZWpFYzd6VmhiWXVPbVNKVFJHbkc2TnowVS0xckVBLXZWMGpQcGd5WjdaWmVxQWFvOTV0TkRWX0dnenZLMDh3R0k2bUF2ZldORHhkdml0WWljQUVLeE5BcTJxLXdQeUpR?oc=5",
+      "pub": "2026-08-06T18:49:42+00:00",
+      "id": "0f23f7e9e0ea44a5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ-ওয়েজলি বাংলাদেশ এর যৌথ উদ্যোগ - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2dkVQUWZlVEp0TU9DanZ3eXRQcFRqNjJOUjN6QWtmTk9FQ21UeXFKRk5qQ0ZVRmlDMWlHTWxfcC1FVXZneHdsSjF1WkNwdVRV?oc=5",
+      "pub": "2026-08-07T06:24:33+00:00",
+      "id": "e719073941d7673d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের দক্ষতা ও আর্থিক সচেতনতা বাড়াতে বিজিএমইএ-ওয়েজলি বাংলাদেশের যৌথ উদ্যোগ - lakhokantho.com",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORHFmVHpVRllMQmUxSW8xOGtiaTB3bmRJNm9jenNFNjhwaDE0bThoSXlWY29IX3dpckczZUk5UjRuZGJfVVZyV0J2V2lkR21qOHcxaEJkd0RJSzlNbWJ1YmhoWXNBSXRZajZPYTZSWTRtTkVNNEtzcnlBODJnYkhjR2hiSklwTmYza2JWQjhTVFhwSE5ETEd6SkpoSFJKbnd3QjlYd2FMMG93WFVtNFpfd0dmeW1XNHU0SWJTNzZ5aHVUUTZSLVFoMEVReGhkRnlSTkZ6bklUeG5SNlJNOE1uTDJhU295cUxRQ0lsaldpbnZneUxjRGZOaWpTT1dBaUtxOHJFOHN3eGI4Y0dNalRnN1BQcHBGOEZnTnJBS2haMV9mTjhTcG5lNUlpWjRmZFJES3QyWWdjXzk1ekZoRXBlZmxZbkVsc1F0S2hV?oc=5",
+      "pub": "2026-08-07T06:23:00+00:00",
+      "id": "dd110a3699451f8b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আবারও কমল স্বর্ণের দাম - dhakamail.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ISTBTd2V3VUZQUk96M2xkVlg2YmR0Tkg3bGViNWxieXlONlh1eVZSRlpHMEVaOVBPYlVTZUluUmI0TTlyU0otUURvano?oc=5",
+      "pub": "2026-08-07T04:54:00+00:00",
+      "id": "6833eb41f57bf698"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গ্যাস-বিদ্যুতের তাৎক্ষণিক সমাধান সম্ভব নয়: আশিক চৌধুরী - ক্যাম্পাস টাইমস",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55NkpjRzRZRmx5b202UThlVnBUMTJBTWQzbUJObl9nRzhxdWhhSE9VUkFwbkJicW9CTU10WGprZm5LVVRVcG9hOC1nLXFVUGdfWHd5aUVXZkNyYXpIdk80?oc=5",
+      "pub": "2026-08-07T05:15:00+00:00",
+      "id": "1607261f48bce24c"
     }
   ]
 }
