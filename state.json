@@ -1,30 +1,5 @@
 {
   "seen": {
-    "7c9de8de9f19bd65": "2026-07-09T06:18:11.658227+00:00",
-    "4eefd480f792c0a9": "2026-07-09T06:18:11.658227+00:00",
-    "7dd084bc0656ed9c": "2026-07-09T06:18:11.658227+00:00",
-    "c1fa5423f70622a0": "2026-07-09T06:18:11.658227+00:00",
-    "158cc496253f3d5d": "2026-07-09T06:18:11.658227+00:00",
-    "ba61a1a00bf6f095": "2026-07-09T06:18:11.658227+00:00",
-    "a2d20a137c1a9aa2": "2026-07-09T06:18:11.658227+00:00",
-    "df3ddc19fe4538f6": "2026-07-09T06:18:11.658227+00:00",
-    "fd435ec298b3d750": "2026-07-09T06:18:11.658227+00:00",
-    "3bd58ac7d510fa56": "2026-07-09T06:18:11.658227+00:00",
-    "bde927bead8a9479": "2026-07-09T06:18:11.658227+00:00",
-    "3a3a97497a7379cc": "2026-07-09T06:18:11.658227+00:00",
-    "9962be49b36e9af6": "2026-07-09T06:18:11.658227+00:00",
-    "922fb6b48d10a7c7": "2026-07-09T06:18:11.658227+00:00",
-    "62b40abceeda5d69": "2026-07-09T06:18:11.658227+00:00",
-    "96fad7fc5efc52fa": "2026-07-09T06:18:11.658227+00:00",
-    "54431a1542c8caca": "2026-07-09T06:18:11.658227+00:00",
-    "8eb7c5dcb6946a7d": "2026-07-09T06:18:11.658227+00:00",
-    "ddb5026375ddb763": "2026-07-09T06:18:11.658227+00:00",
-    "6d4f4d8da340d4f2": "2026-07-09T06:18:11.658227+00:00",
-    "f0af671c86f3ad02": "2026-07-09T06:18:11.658227+00:00",
-    "8988cb4c9bbb2478": "2026-07-09T06:18:11.658227+00:00",
-    "c788109244e70b04": "2026-07-09T06:18:11.658227+00:00",
-    "9ec9f48bc1ec3c6b": "2026-07-09T06:18:11.658227+00:00",
-    "ffbd8e35ddc2bc12": "2026-07-09T06:18:11.658227+00:00",
     "ae1f8674aac259f0": "2026-07-09T11:06:44.306414+00:00",
     "5f28476dd3ec60b2": "2026-07-09T11:06:44.306414+00:00",
     "df05231576a8f119": "2026-07-09T11:06:44.306414+00:00",
@@ -2888,33 +2863,36 @@
     "8a7367593f04891b": "2026-08-08T03:34:50.027835+00:00",
     "8421f8ad7b289054": "2026-08-08T03:34:50.027835+00:00",
     "5a51602602580479": "2026-08-08T03:34:50.027835+00:00",
-    "a11054c91b5de836": "2026-08-08T03:34:50.027835+00:00"
+    "a11054c91b5de836": "2026-08-08T03:34:50.027835+00:00",
+    "7944c1758a6da96f": "2026-08-08T08:44:14.719375+00:00",
+    "b00ee695b27fe946": "2026-08-08T08:44:14.719375+00:00",
+    "c55c03f5c9be7ca6": "2026-08-08T08:44:14.719375+00:00",
+    "97bd56208ca70ba9": "2026-08-08T08:44:14.719375+00:00",
+    "8c236e21d2661687": "2026-08-08T08:44:14.719375+00:00",
+    "ee53312dceabb704": "2026-08-08T08:44:14.719375+00:00",
+    "f87bcc96504274cf": "2026-08-08T08:44:14.719375+00:00",
+    "626432abf8d9853c": "2026-08-08T08:44:14.719375+00:00",
+    "b96af089e71458e4": "2026-08-08T08:44:14.719375+00:00",
+    "4f59f99003e69a3d": "2026-08-08T08:44:14.719375+00:00",
+    "dbe5507841900efd": "2026-08-08T08:44:14.719375+00:00",
+    "6437e2ae169af615": "2026-08-08T08:44:14.719375+00:00",
+    "f39010802a57b3d4": "2026-08-08T08:44:14.719375+00:00",
+    "1f2bd330468a7ebd": "2026-08-08T08:44:14.719375+00:00",
+    "90a845082d2b2da2": "2026-08-08T08:44:14.719375+00:00",
+    "45924b48a1ca7fc4": "2026-08-08T08:44:14.719375+00:00",
+    "7340dfdd43d76b35": "2026-08-08T08:44:14.719375+00:00",
+    "0e94728b22059b97": "2026-08-08T08:44:14.719375+00:00",
+    "606bf208da324698": "2026-08-08T08:44:14.719375+00:00",
+    "9e9fa526594276a2": "2026-08-08T08:44:14.719375+00:00",
+    "80860513a71fe16f": "2026-08-08T08:44:14.719375+00:00",
+    "2918bafdc8d8aa4a": "2026-08-08T08:44:14.719375+00:00",
+    "a08b852e3c05cb87": "2026-08-08T08:44:14.719375+00:00",
+    "a252838f32f32578": "2026-08-08T08:44:14.719375+00:00",
+    "4b9df5ca7a28e4d6": "2026-08-08T08:44:14.719375+00:00",
+    "48668a4553d54f9f": "2026-08-08T08:44:14.719375+00:00",
+    "8a86ae9efe2aaf92": "2026-08-08T08:44:14.719375+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Exports slip 0.9% in July as RMG shipments fall despite strong sequential recovery - textiletoday.com.bd",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR19KRld3T21yRlExS0V4MTRoeE1vb0FnbGl3OTQzREVQbF9ZNDJfVXUtcVRINllrTHRYQ2VmcUhfblVlbW1Ebm1OVW1JUFNNYUhYQ1k0VGJlcWV1RXQ3TTlEMWhXNEM5aF9DR3VKQjV3bjU1RUV6eHRtT1N1dExWUy11Uzh1M2JSdDhKaWtIemFiTzRyUzd1RFFCaFpvQmlVSjFiM2Z5RThqU0FXRGptQURR?oc=5",
-      "pub": "2026-08-06T04:22:55+00:00",
-      "id": "b53dd656dad561dc"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "এলপিপির ৭০ কোটি ডলারের\nক্রয়াদেশ নিয়ে অনিশ্চয়তা - প্রথম আলো",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWaWhycGd5SXBqdHlNNEpzMDR2czJSYS1nX25jUVktSzR3cTRGMzR1amRtcmV1Zy1tLXVwM0ZlTkstZlhhQ3dFT2k1RkkyeE5jSmIyX0p6SlcwTTA1NWhHX1JLaEZ1OEhPQ1hqVE03UWJ3T2vSAXNBVV95cUxQVmlocnBneUlwanR5TTRKczA0dnMyUmEtZ19uY1FZLUs0d3E0RjM0dWpkbXJldWctbS11cDNGZU5LLWZYYUN3RU9pNUZJMnhOY0piMl9KekpXME0wNTVoR19SS2hGdThIT0NYalRNN1Fid09r?oc=5",
-      "pub": "2026-08-06T04:02:00+00:00",
-      "id": "e1944c457758fdea"
-    },
-    {
-      "section": "bangladesh",
-      "source": "Prothom Alo (Bangla)",
-      "title": "এলপিপির ৭০ কোটি ডলারের তৈরি পোশাকের ক্রয়াদেশ নিয়ে অনিশ্চয়তা",
-      "link": "https://www.prothomalo.com/business/industry/v0a6n5lwt3",
-      "pub": "2026-08-06T04:02:58+00:00",
-      "id": "ff9184749735fdf9"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
@@ -2930,30 +2908,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByTjNWaXpqYWpFek5LVjRvTVNfcEsyc3gwUVp6UHpPczhEYkRNbWI3T180VVk0VUYwemxCRGhtOGVHcEdpTnM2YWVxdnBqZk1s?oc=5",
       "pub": "2026-08-06T09:39:58+00:00",
       "id": "dcb4198d25b1b9da"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "প্রথমবার পর্তুগালে ওষুধ রপ্তানি শুরু করল রেনাটা - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEprQ2hUWTBfUEEtZEMxR1BZTE1IMVJSbUZickJncWNaVzNYRkhxQTRlbXdkVFRmVnRSbGM0X3ljY3Z4OGx1bzB2UlVmQUVGU3pnUkFiaV9xZ0tmV2QxSGZ2ZlpsUmVKZDJzbHZrR09rQ29aNkU2c0U2bWF0UTVQaW5qSmpqRjlRTy1yeExGUHF5QVp5bkIzSFNqSWdPejhqVTlreFBlWTZrcnV4?oc=5",
-      "pub": "2026-08-06T06:52:00+00:00",
-      "id": "1fff680584f3f1d3"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "প্রথমবার পর্তুগালে ওষুধ রপ্তানি শুরু করল রেনাটা - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEprQ2hUWTBfUEEtZEMxR1BZTE1IMVJSbUZickJncWNaVzNYRkhxQTRlbXdkVFRmVnRSbGM0X3ljY3Z4OGx1bzB2UlVmQUVGU3pnUkFiaV9xZ0tmV2QxSGZ2ZlpsUmVKZDJzbHZrR09rQ29aNkU2c0U2bWF0UTVQaW5qSmpqRjlRTy1yeExGUHF5QVp5bkIzSFNqSWdPejhqVTlreFBlWTZrcnV4?oc=5",
-      "pub": "2026-08-06T06:52:00+00:00",
-      "id": "1fff680584f3f1d3"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "গাজীপুরে দুই শতাধিক কারখানায় তিন দিনের ছুটি - Bangla Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOU1pwMWg4SXJzeGZBRFJBbWFYbldCUWtGT3l4UEhfSDRYZlhUSTluSTBOLUdMT20xZ2dSZTFQRkhIRlRfM0Zla1djUFVJLUppakhBbzhJOFdDVjV1NGFhSmRaaXJTMmtaZWhMRGNSbEJQLXNoeEFhTGktaTZqQ05TQnF6Q3VvazJCU3JQa1BZZXRfMEp2OGxrQ3hJaFRZOEdDMF83dzNBcW9zQ0I5bHhXSnlTMTNMSVBIQ05ZdFA1RzBaWHNBeEdpdEFIV2xLQjRyUGhsLWMyUTFMa1VXblFMUFZPc21ZRmVoSEdCUktUY29naVo3VEZteGRCVE1LdG04Nkdob0dZUzBYRWNtejd0RUUyV1VrcUtSZHBpRDVaSDMtb1NpTTNLdFVMSlhldUlzQ2xyMEpGV0VmWXRBaHNCUzR5VzdfWGozNTAybkFvZTB0T09sQmtySkh5VjBNS2N6bnNqdzZxRThac0hVT2VTaHJFWjNxVVNKb19uMGo2N20xM1FFaE5CTXpCaTNuQlB0cEZYYlowV0VuVzQ3UmNlckk3cnRtSUM1ZEJMdm5KYU0zd2YyTWtOQVR4eGx4eEowWVRhVHhldXUzRFdjaGhjZU1MYTJFdkRtb3FHYjNCbGpVNVdnb3ZkMklMOFE0Ym5BUk9qS1JSd3djWkI5MmZYYWlJRVp0TFhrbEJua1AyT1FKbHZ1N052YjZqU3pLRnNyRFhxOWExVW1BZ9IBqgRBVV95cUxOU1pwMWg4SXJzeGZBRFJBbWFYbldCUWtGT3l4UEhfSDRYZlhUSTluSTBOLUdMT20xZ2dSZTFQRkhIRlRfM0Zla1djUFVJLUppakhBbzhJOFdDVjV1NGFhSmRaaXJTMmtaZWhMRGNSbEJQLXNoeEFhTGktaTZqQ05TQnF6Q3VvazJCU3JQa1BZZXRfMEp2OGxrQ3hJaFRZOEdDMF83dzNBcW9zQ0I5bHhXSnlTMTNMSVBIQ05ZdFA1RzBaWHNBeEdpdEFIV2xLQjRyUGhsLWMyUTFMa1VXblFMUFZPc21ZRmVoSEdCUktUY29naVo3VEZteGRCVE1LdG04Nkdob0dZUzBYRWNtejd0RUUyV1VrcUtSZHBpRDVaSDMtb1NpTTNLdFVMSlhldUlzQ2xyMEpGV0VmWXRBaHNCUzR5VzdfWGozNTAybkFvZTB0T09sQmtySkh5VjBNS2N6bnNqdzZxRThac0hVT2VTaHJFWjNxVVNKb19uMGo2N20xM1FFaE5CTXpCaTNuQlB0cEZYYlowV0VuVzQ3UmNlckk3cnRtSUM1ZEJMdm5KYU0zd2YyTWtOQVR4eGx4eEowWVRhVHhldXUzRFdjaGhjZU1MYTJFdkRtb3FHYjNCbGpVNVdnb3ZkMklMOFE0Ym5BUk9qS1JSd3djWkI5MmZYYWlJRVp0TFhrbEJua1AyT1FKbHZ1N052YjZqU3pLRnNyRFhxOWExVW1BZw?oc=5",
-      "pub": "2026-08-06T06:15:20+00:00",
-      "id": "51884fd29f42ad8c"
     },
     {
       "section": "international",
@@ -3538,6 +3492,70 @@
       "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPODEzTDJWT1oySFFWSUVaMnFGSlpxcW5nZ0Z3SDM3aXVndHBfWGd5cmRwVFpwNkFQZzhfSzAySExVNTNraVBPbVVaOEtBVFNhQUZ5MWFOcEozaS1MQmk3RDZMZnBwaThWUVZXVUk0V3B2TEJ0RlpoTzlocU94OHR4Uy1TV2NPSENrN2RrVllHbm1aTUU1SDl3QWFfcHZQbW1XaTBHVkYtandZcG9HRzZSVmhBT3hjWjNkdmEzMWF0Y1Q3bGhwN1ZFc291NVBKRjZHVVdUV3Zjak1adlNreVRaY1dJT0c5ZWRFVDRsSU1Va3RfenBQMkluM09uNGVzZ1lQSDJ3M2tsWWJoZTJjVkwwbzVFOUVWaWVkMGxPU2hXdjZNTElWUk42MGJRUmlRZlZVSUlwMU9nWjk3UURvV1hkdzFpUEdaZ3hiZHRYNlFGbGV6STFHRTN3dWhXTW5CYVcwbWtkQ1ZWOTAwMGJjaDNKa0hoWnlFcm1OVUZQa2xJTVVxalpKM1JUWmhKdGxsS3EtUjFn0gGTA0FVX3lxTE84MTNMMlZPWjJIUVZJRVoycUZKWnFxbmdnRndIMzdpdWd0cF9YZ3lyZHBUWnA2QVBnOF9LMDJITFU1M2tpUE9tVVo4S0FUU2FBRnkxYU5wSjNpLUxCaTdENkxmcHBpOFZRVldVSTRXcHZMQnRGWmhPOWhxT3g4dHhTLVNXY09IQ2s3ZGtWWUdubVpNRTVIOXdBYV9wdlBtbVdpMEdWRi1qd1lwb0dHNlJWaEFPeGNaM2R2YTMxYXRjVDdsaHA3VkVzb3U1UEpGNkdVV1RXdmNqTVp2U2t5VFpjV0lPRzllZEVUNGxJTVVrdF96cFAySW4zT240ZXNnWVBIMncza2xZYmhlMmNWTDBvNUU5RVZpZWQwbE9TaFd2Nk1MSVZSTjYwYlFSaVFmVlVJSXAxT2daOTdRRG9XWGR3MWlQR1pneGJkdFg2UUZsZXpJMUdFM3d1aFdNbkJhVzBta2RDVlY5MDAwYmNoM0prSGhaeUVybU5VRlBrbElNVXFqWkozUlRaaEp0bGxLcS1SMWc?oc=5",
       "pub": "2026-08-07T15:59:56+00:00",
       "id": "a11054c91b5de836"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Korean official sees strong prospect of upgrading Bangladesh's RMG industry - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUZrd0hLMm1lQXBSd0hpeE1nOUpWY2xPOWtUVEtSQkxHaUVoaXE0ajZYcW1pSU5HYWVMd1R3clNKYUtuRjB4LXJGT2xFUlV3dF9qbk42T0M5cWRxTWZpNlN2ZmwwaEtFNWF4ekhid3pCcWU0S3pxOGc3T0dMcFA3ZnFSS21XeUF5SnFQWXNWTGplQ0xGdXJyNFUxcGpjRGktZ2IyeUpiM0dzdU9DbU8teGlYd1ZJSmNEeUNnVkVBOFctdWtXNWxMRTZEQzdOWEhJYU91bXdSUGVZWXhNZC16czd30gHiAUFVX3lxTE9hRmt3SEsybWVBcFJ3SGl4TWc5SlZjbE85a1RUS1JCTEdpRWhpcTRqNlhxbWlJTkdhZUx3VHdyU0phS25GMHgtckZPbEVSVXd0X2puTjZPQzlxZHFNZmk2U3ZmbDBoS0U1YXh6SGJ3ekJxZTRLenE4ZzdPR0xwUDdmcVJLbVd5QXlKcVBZc1ZMamVDTEZ1cnI0VTFwamNEaS1nYjJ5SmIzR3N1T0NtTy14aVh3VklKY0R5Q2dWRUE4Vy11a1c1bExFNkRDN05YSElhT3Vtd1JQZVlZeE1kLXpzN3c?oc=5",
+      "pub": "2026-08-07T18:00:00+00:00",
+      "id": "80860513a71fe16f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "KISS-DU Observes 12th National Handloom Day 2026 - KIIT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnN1V3V3SUNRWFJpR1huVlFQbno5clduVlNVWl9nNV9hVWQzYW03N281cXdTeVk4dmNRZ1FNb1l4NWlPd2thLU02SDRuaHFuc2Jkc3ozMzlQWWNIRjdlS0N4czFJbTJaVTJqMW9DNUNCOUczMXk5ZjNGUUxmc2tiMXJrQUQ?oc=5",
+      "pub": "2026-08-08T07:00:51+00:00",
+      "id": "2918bafdc8d8aa4a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "DeviceStamp Holds DPP Training for Bangladesh's RMG Industry - businesstimes-bd.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRHVac09aeHpKMjFxdDAxdlg0S1dVRlFMMUhIN0o5cURkcUdqaWFLMThOVUk5bVlBVW15SzJHTktyTGR0QnN4ay0wOXdJV1pqUVdKSkE1OXJEX2ZSVVNzR3VUdzVfSkk?oc=5",
+      "pub": "2026-08-08T07:23:39+00:00",
+      "id": "a08b852e3c05cb87"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Korean official sees strong prospect of upgrading Bangladesh's RMG industry - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUZrd0hLMm1lQXBSd0hpeE1nOUpWY2xPOWtUVEtSQkxHaUVoaXE0ajZYcW1pSU5HYWVMd1R3clNKYUtuRjB4LXJGT2xFUlV3dF9qbk42T0M5cWRxTWZpNlN2ZmwwaEtFNWF4ekhid3pCcWU0S3pxOGc3T0dMcFA3ZnFSS21XeUF5SnFQWXNWTGplQ0xGdXJyNFUxcGpjRGktZ2IyeUpiM0dzdU9DbU8teGlYd1ZJSmNEeUNnVkVBOFctdWtXNWxMRTZEQzdOWEhJYU91bXdSUGVZWXhNZC16czd30gHiAUFVX3lxTE9hRmt3SEsybWVBcFJ3SGl4TWc5SlZjbE85a1RUS1JCTEdpRWhpcTRqNlhxbWlJTkdhZUx3VHdyU0phS25GMHgtckZPbEVSVXd0X2puTjZPQzlxZHFNZmk2U3ZmbDBoS0U1YXh6SGJ3ekJxZTRLenE4ZzdPR0xwUDdmcVJLbVd5QXlKcVBZc1ZMamVDTEZ1cnI0VTFwamNEaS1nYjJ5SmIzR3N1T0NtTy14aVh3VklKY0R5Q2dWRUE4Vy11a1c1bExFNkRDN05YSElhT3Vtd1JQZVlZeE1kLXpzN3c?oc=5",
+      "pub": "2026-08-07T18:00:00+00:00",
+      "id": "80860513a71fe16f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh, Myanmar eye reopening border trade to boost agri, pharma flows - thedailystar.net",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3RQeGxsSm1hRGIxdlZ1R2JFZ2RRUHBwZUFyUlJFaXRuaU43YXd2TEZxcjBRZnpGS1hUOG4tTTVRM2VqcVNIcHEtZjhWMG8wQXdNTGQxUjhkSHFuOS1BRDNDaURtWjY3aU9SQVo3ME1tb2Y5dmFtREg5YVBMYVNyczlYdnZyMnpwaVByVDdpa2h2R3pCQ0tkZFl3M0ZuWGkwdFBnRkRKSUZXcUVvNEM5SlB2TGQ0V1pUb1EyQg?oc=5",
+      "pub": "2026-08-07T18:52:05+00:00",
+      "id": "a252838f32f32578"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "PM commits full support to revive tea industry - thedailystar.net",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0JxX3cxXzZKQ0ZOUnRKOHZrd0R0TkdRWjFaemdzTVpMVjdLd3JXRHVWQ3Zhb0lJdVJTSHcwYUpybHk1MmtNQzhhZmNGVXNuNGt6THV1ek16c0hMa0VSS2FGUkRvUGExYlZLLXVHX1ZGMEZ2Y0RyQ2VMcFI2akF3eW1CblVGTXg1NzN5dmFHNUJGalZLeC1UVWxkVHFhdS1zRFZTWg?oc=5",
+      "pub": "2026-08-07T18:40:43+00:00",
+      "id": "4b9df5ca7a28e4d6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক শিল্পের জন্য ডিভাইসস্ট্যাম্পের DPP প্রশিক্ষণ - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96UEZmVEdoUnBENXZxOEpNNW8wdEtmdGRkOG94UFI4Uk5pSDNRZDE4TjFzT0tCT09ocWR1Z29CVEJYRWdqT29uVjFwQXpENVBp?oc=5",
+      "pub": "2026-08-08T07:34:52+00:00",
+      "id": "48668a4553d54f9f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "২০৮ দিন ধরে সাগরে ভাসছে মার্কিন রণতরি, জবাব চায় ২০০ পরিবার - parbattanews.com",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNRFM3QU5BUVV2TFlOYjZSSXpKLTUtU2ZqMFRFZFZNZGR2V1h4b3R3Y3NVcFJRZzBaanA4TzdLaHVxNVpCR3ptWW1TcmtieUItc0hWdWFSd2VkRlBUSVUwRUFVaEdyaHJra09udGJ5R1J2cmpsSl9KZzF0Wlg2eXIzUUZIZzVlbnRFMk1XcnlJaGFlZHVDSW5tLUpGUHVobW85Qmo4NWdvaXhadjFwd084cEtnUWVka2JwVVlHYmswdWNUcndabko3TlBjejNzdXowMzUtVFpuQjJyLTIxUGhTbnFMNFN2NVdNV3paSm1KVmdmeG52bElsc24wVXh0US05ZDI2VGZHWk5qQVJMeEc5UTN3Qi1qZEhHWlI1YzROTzR5U1FOWFBuNDNUVGt5MWtfTmZmeFBDTzhudUxITC1TbVFiemVtZDDSAcwCQVVfeXFMTzhucE9YeVNaMk9FcV9GaTlHRnJ0MWRBR2RKdE5zUXVwYnhNaFI4R0NlYXpwMXZvY3pnaS1KSld0UTIxSzhlUTlmRU42SG5xQnJxSUFhSE80Y09RN2djaUFjcXM4M3V3NTdlTHZocmhkM2lES0ZaNllyaUM1eVk2UWMyUUhVS3pYQ0JjY3JDb1gydlRhR2VxYjJuWFRFS3dLMVZlQkJveXFWYVR5TEFxV1FxQmpLQmNIaXc1c0lZQmJycnkybnllM3dmSWE2V0lFaGR2WlRMZnU5SnpETHllTnZwa1dJaTZSelVlOFJXTG1vcmIzQ3drZmVNdnVuZUdwcFNFbU5TamhnY0s2Y190YzZUV2FTOHJIbnB4U3ozRHZpMHZ4TzR4VmRGM0phck1aZk90dmotXzRJeWdvWkQtMElzOU50Snhfa1k1aVA?oc=5",
+      "pub": "2026-08-08T06:48:15+00:00",
+      "id": "8a86ae9efe2aaf92"
     }
   ]
 }
