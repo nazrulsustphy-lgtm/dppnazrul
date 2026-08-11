@@ -2886,7 +2886,269 @@
     "31685c943ce0fb18": "2026-08-10T15:00:28.677657+00:00",
     "2b5961322e2b50a2": "2026-08-10T15:00:28.677657+00:00",
     "45d6ad295ad07cfb": "2026-08-10T15:00:28.677657+00:00",
-    "7efe4c2d4e412928": "2026-08-10T15:00:28.677657+00:00"
+    "7efe4c2d4e412928": "2026-08-10T15:00:28.677657+00:00",
+    "9c1de3e30437bb3c": "2026-08-11T08:59:33.195341+00:00",
+    "8427a239cbc483f4": "2026-08-11T08:59:33.195341+00:00",
+    "a3614df2a52d1549": "2026-08-11T08:59:33.195341+00:00",
+    "c66439de100833b9": "2026-08-11T08:59:33.195341+00:00",
+    "13119b198d7b0309": "2026-08-11T08:59:33.195341+00:00",
+    "7e667a792516b437": "2026-08-11T08:59:33.195341+00:00",
+    "24bb79b7ca225d0a": "2026-08-11T08:59:33.195341+00:00",
+    "af7051fca732c3b7": "2026-08-11T08:59:33.195341+00:00",
+    "7ed08015244aa409": "2026-08-11T08:59:33.195341+00:00",
+    "c6a8d1a04dd90854": "2026-08-11T08:59:33.195341+00:00",
+    "d1f761266b0efd4d": "2026-08-11T08:59:33.195341+00:00",
+    "2df655e530a2519c": "2026-08-11T08:59:33.195341+00:00",
+    "0e6b1527d4d82640": "2026-08-11T08:59:33.195341+00:00",
+    "ea6742a8be49e7ba": "2026-08-11T08:59:33.195341+00:00",
+    "28de93e135c48669": "2026-08-11T08:59:33.195341+00:00",
+    "f9200ffa42f3ea68": "2026-08-11T08:59:33.195341+00:00",
+    "4c326635febc4a00": "2026-08-11T08:59:33.195341+00:00",
+    "2796185c05aeb5da": "2026-08-11T08:59:33.195341+00:00",
+    "c041f7122308081e": "2026-08-11T08:59:33.195341+00:00",
+    "a5f181bbb9b64436": "2026-08-11T08:59:33.195341+00:00",
+    "816aa4415dd99719": "2026-08-11T08:59:33.195341+00:00",
+    "e0dcecbfea2f01cd": "2026-08-11T08:59:33.195341+00:00",
+    "355b936126d774bb": "2026-08-11T08:59:33.195341+00:00",
+    "e6a8b86da751f32f": "2026-08-11T08:59:33.195341+00:00",
+    "0811f73b89654352": "2026-08-11T08:59:33.195341+00:00",
+    "f820e7558eb9c99f": "2026-08-11T08:59:33.195341+00:00",
+    "5f052f25e3ea18cb": "2026-08-11T08:59:33.195341+00:00",
+    "c422e8bd5b25c69d": "2026-08-11T08:59:33.195341+00:00",
+    "4adaf8b40889c1fd": "2026-08-11T08:59:33.195341+00:00",
+    "41ddd504f7cbd297": "2026-08-11T08:59:33.195341+00:00",
+    "de5266df4efca9f7": "2026-08-11T08:59:33.195341+00:00",
+    "c75ee5418a8b2af9": "2026-08-11T08:59:33.195341+00:00",
+    "a515db3f73fea040": "2026-08-11T08:59:33.195341+00:00",
+    "eea2ea39a16ccb21": "2026-08-11T08:59:33.195341+00:00",
+    "7ba5be1c24f8a755": "2026-08-11T08:59:33.195341+00:00",
+    "f52a1bc6d92065d1": "2026-08-11T08:59:33.195341+00:00",
+    "abfe81191e9b2570": "2026-08-11T08:59:33.195341+00:00",
+    "c1ccec4ade4c2773": "2026-08-11T08:59:33.195341+00:00",
+    "4d71dfddf19e6246": "2026-08-11T08:59:33.195341+00:00",
+    "3f8bc3f3570f0c80": "2026-08-11T08:59:33.195341+00:00",
+    "0dae494f6afd3850": "2026-08-11T08:59:33.195341+00:00",
+    "46a22cf9e49734ef": "2026-08-11T08:59:33.195341+00:00",
+    "1599fc7e64f20115": "2026-08-11T08:59:33.195341+00:00",
+    "08011b9fe9845863": "2026-08-11T08:59:33.195341+00:00",
+    "b362d2cb5b34ec95": "2026-08-11T08:59:33.195341+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Korean firms bet big on Bangladesh RMG upgrade - dailyasianage.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanF3OHZqc0tEeGJ5azRxWkpCdENqbzZqTFVnNDRXT2pOTzhpYTNuZ0M4UG55Y1o3R2YxTzJHRE9LVEI0YmFZakttYVlyaTRlbzBMTU5kMWFOdlpXX2RDREY2YTBaU3pGUUxlQUc3bTAyYU40QVVkekZta3UzZ1BjTjFicFNsYjhNWUgwdQ?oc=5",
+      "pub": "2026-08-11T06:30:31+00:00",
+      "id": "a5f181bbb9b64436"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Korean firms bet big on Bangladesh RMG upgrade - dailyasianage.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanF3OHZqc0tEeGJ5azRxWkpCdENqbzZqTFVnNDRXT2pOTzhpYTNuZ0M4UG55Y1o3R2YxTzJHRE9LVEI0YmFZakttYVlyaTRlbzBMTU5kMWFOdlpXX2RDREY2YTBaU3pGUUxlQUc3bTAyYU40QVVkekZta3UzZ1BjTjFicFNsYjhNWUgwdQ?oc=5",
+      "pub": "2026-08-11T06:30:31+00:00",
+      "id": "a5f181bbb9b64436"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Fasttracking FTA talks with EU - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWlQdkpraWFrcm9ZdnEyYXdpM2hOUWdYeFJLbHFwSnRMaEFkTjhKdDNQX0U0aVFtWXFuYXcxQTU0OHZMYWlpVFhkbEcwa1BWTHhUbEJyWnR6QWR4SXpUVFF4amo3V3ZINUJyekp1UzJNcUcwdzl3aVBMSHphWVljSHpDcldRYTg4NGQyZUhLSF8xb1RtU0VuMdIBpAFBVV95cUxQbkdxNDdGN2lqU3EwWHdDYVJYRWVySXFJMU9QMkNFSUFWd0s2dVVsUlk2eTdCZUt2cnB0ZlpXb3FPRF9hOHZtT2lkOFJuT09XUkpja2JkSkVfTVhkeHE5VVdOWXVNVFpJLUJqekpLM3NLMWdHb3JGWVMwYWJYTkxiaGxnRW9KQTJ3NlFIYTZlNGhYa3NSdE9UcEE1VnhJa0l0ak9JUA?oc=5",
+      "pub": "2026-08-10T18:03:46+00:00",
+      "id": "816aa4415dd99719"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "৭০০ মিলিয়ন ডলারের রপ্তানি ঝুঁকি কাটল, বাংলাদেশেই থাকছে এলপিপি - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiU3kzcFVjLTlSYklORmJqSl9ZMWp4Nm5lYzhvR0pOYl9kTEZTbjh5dzFtZ3gxeFVFa1ZVYmotMjhwZkU3N2FUT1J4V05lemdHNXZCbTRn?oc=5",
+      "pub": "2026-08-11T04:45:43+00:00",
+      "id": "e0dcecbfea2f01cd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এফইএস রিটেইলের ইনভয়েস বিরোধ: আইনগতভাবে দায়ী পক্ষের সঙ্গে নিষ্পত্তির আহ্বান বিজিএমইএ-এলপিপির - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OUZ3WlZjNDM2YWozcGh2MGRhR1BOR1Q1S3JwR3BQdGNxbFdLeXBPTVk4Sk5aTUFTWEhxWHVmZGQ3WV80UnAyN1k4LUpOcXBGZjNDSWFR?oc=5",
+      "pub": "2026-08-11T08:37:00+00:00",
+      "id": "355b936126d774bb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থনৈতিক অঞ্চলে বিনিয়োগ বাড়াতে যৌথভাবে কাজ করবে বিজিএমইএ-বেজিয়া - bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQbGFyYWEyY2prRzMydG5QMVRENnNoTlBkNE5OSTlNZmhVUVhEZjNqeFhyMmktRlhSZ1Z5cVZ6VXFLdmtmQ2tXblNkZnctSmFhYkNyMzFqbTJhNzFvbmFtblA4Ny0?oc=5",
+      "pub": "2026-08-11T05:47:59+00:00",
+      "id": "e6a8b86da751f32f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাওনা বিরোধে এলপিপির অবস্থানকে সমর্থন বিজিএমইএর - Daily Times Of Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQR3Z1LUxlQ1hKQ0x0NXFEYmVUWFNQeU82aTlmWDdRZ0Z5U3UyU1duR2lLX2NHVzFUQ1A3bFg4OUZvMVZwWVJRa1NDYWZLc2xTN3hycjRNeXFCMDVMUDlTWDhKTXNfMjduLW13aTBqdTBPbTF1Mk0xTHNoSU5DdlhXT2ZlampQWEQyanZ5RTVPbEw2VjJVQWZKVV93dERPME5iWVVkRVJjRHRUU20xSWZFRG9Ud253RmdjcnVUSWtoR3RaRE1SR09CdjBWUGN0YWYwVzNuSVlNenptMGl0VlF4SmFOa1R1OGp5dlZseGpyNWVoRDhOTmVhQWl0RmR4RXZHdEQyUUdyR3FVNm11XzVGNFZUUTdFZFA3aGh3MFUwMmRJYkd2alJsMlpqa0VMbWpHRy1ZWHFZZnlLVnhrN3c?oc=5",
+      "pub": "2026-08-11T08:18:02+00:00",
+      "id": "0811f73b89654352"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এফইএস রিটেইলের বকেয়া সংশ্লিষ্ট পক্ষের সঙ্গেই নিষ্পত্তি করা উচিত - jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOFl3bWh3azBuTkotTFNxRFlsSVEydDFlVHJmaERkUndHT1g4VjZkb2JINUZBUHhQS1R5eWM2N0JNQ2doMFVSa0FSX2xFRnPSAU9BVV95cUxPRjhZd21od2swbk5KLUxTcURZbElRMnQxZVRyZmhEZFJ3R09YOFY2ZG9iSDVGQVB4UEtUeXljNjdCTUNnaDBVUmtBUl9sRUZz?oc=5",
+      "pub": "2026-08-11T05:56:00+00:00",
+      "id": "f820e7558eb9c99f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থনৈতিক অঞ্চলগুলো বিনিয়োগবান্ধব করতে বিজিএমইএ-বেজিয়ার মতবিনিময় - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16ZlFqampNOVU2Wk1MMmVRR1RIT2dpQzhXbm5lMkh2ajVXY2ZfTE5pdGRRX2IzdDlKcWh3WnFzaWdsc2lhMFlmcWstVEItX0NQWUd1VjVQazdmdw?oc=5",
+      "pub": "2026-08-10T17:00:00+00:00",
+      "id": "5f052f25e3ea18cb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ ও বেজিয়া এর মতবিনিময় সভা অনুষ্ঠিত - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HaXhzWXF2RThDVGVEdl9veDhCTjRfUmZUV3lRN1Nzb1VDQnlvZEFSMTFYQ1N5cDFWQzl6ZlJsVzNTQWtUcFZpYU4tdEJLSDJX?oc=5",
+      "pub": "2026-08-10T19:53:21+00:00",
+      "id": "c422e8bd5b25c69d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থনৈতিক অঞ্চলে দ্বৈত কর প্রত্যাহার চায় বিজিএমইএ-বেজিয়া - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vTVZVWWtkVkxCSU4tTmFJdmNpQ2VPbmh0OGk2TzlUSXU3Z0ZpVzJ5anc4Q1ZXNnFsa2hxdllsUWFUV2JIVnlSZDgxLVBKMS10REdlSTU2d0Vya09fUzNJbEM2VjlHWjZ5a1lHRjJWRzNyNHBiRkJZTlVYRQ?oc=5",
+      "pub": "2026-08-10T16:52:10+00:00",
+      "id": "4adaf8b40889c1fd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থ পরিশোধের পরও অর্থনৈতিক অঞ্চলে অবকাঠামো-ইউটিলিটি সংকট, আস্থাহীনতায় বিনিয়োগকারীরা - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uTXNVdF9LSnNldWh3U0xwS0l6VUFMeWZOT1Q2NnN5WDZHUGdqcFByRDIzM2VUa016YkhLcVY0SU8yRG9oRGxsX1U4TEt0MWxiQ01EZFB4am9RM2t4OHZoeVBjQnJtbWNHbGRQZHJlT3RqQ0nSAXNBVV95cUxObk1zVXRfS0pzZXVod1NMcEtJelVBTHlmTk9UNjZzeVg2R1BnanBQckQyMzNlVGtNemJIS3FWNElPMkRvaERsbF9VOExLdDFsYkNNRGRQeGpvUTNreDh2aHlQY0JybW1jR2xkUGRyZU90akNJ?oc=5",
+      "pub": "2026-08-10T14:55:00+00:00",
+      "id": "41ddd504f7cbd297"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থনৈতিক অঞ্চলে বিনিয়োগবান্ধব পরিবেশ নিশ্চিতের আহ্বান | বাণিজ্য | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UVB2U09xdm1ybnhTaEx1RThxQ2x5SHRWUE92Tlh0SW1NaUpCRmRDZlk3cDQxV2M2eks2dGx0YU5yUzlZdUJpcnJ6aEQwcEpSSjYxOFVB?oc=5",
+      "pub": "2026-08-10T16:50:00+00:00",
+      "id": "de5266df4efca9f7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "অর্থনৈতিক অঞ্চলে বিনিয়োগে সার্ভিস চার্জ-ভ্যাট মওকুফ চান উদ্যোক্তারা - jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0WUM1RUR4dkE3U1F6S3VCM3lCWkZ6ejZDZ0EwVUxROElNTVJvVV9fVEltWHZwbFMwQ0FSQ2ZnZFBMNmxXUDBteVltZElSR1nSAU9BVV95cUxQNFlDNUVEeHZBN1NRekt1QjN5QlpGeno2Q2dBMFVMUThJTU1Sb1VfX1RJbVh2cGxTMENBUkNmZ2RQTDZsV1AwbXlZbWRJUkdZ?oc=5",
+      "pub": "2026-08-10T14:15:00+00:00",
+      "id": "c75ee5418a8b2af9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "লোডশেডিংয়ে ভুগছে বেশি গ্রামের মানুষ - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTJ3U0RLek1BMzQ1MHBkLXdQUkZJY0dqX3YxQXlZM0o2Y0NYT1RucTNJZVNXdE5reXkzQ2NMeXRCcTBDMmFLU1MwMlh5UEVCX3BSdGk0Unp6dWJ0X3JrbEE0akZLUy0tYkRvbjhNTGFVaHBRUTJtcHFtWklhalUzRFlKVng1NmZ2X2fSAZcBQVVfeXFMT2t6MTk5aTltLVhHNHY5VTRSMmtZOU1Eb0RhdDRqb2JkbHJZT1lWQTRlNlM1MTAyemUzVndPaGlCeVphRVNEWmJRTFNNbV92amJWY1N3YUVVTVhYbFUwamNqRmVXYzVrb09NaHJmZ0EwZ0RSMmNKUHFTaGdOVm80aTNjaE4tVkR1bDlEOUlhdVhnQWFQUFVGMA?oc=5",
+      "pub": "2026-08-11T04:15:12+00:00",
+      "id": "a515db3f73fea040"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গলফ বল যখন মাছের খাবার! - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40LTR0dUZCeDFnTzROSHhVSU5CN2JTdFNiUlR3bnZxLThYcm9JSldkX2luNG54RE5TRnRHTjc0aVFqcnNES2JUY0l6allZbHlZ?oc=5",
+      "pub": "2026-08-11T08:51:00+00:00",
+      "id": "eea2ea39a16ccb21"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "যুক্তরাষ্ট্রের ট্যারিফ রিফান্ডের ১০০ বিলিয়ন ডলার থেকে নিজ হিস্যা চান বাংলাদেশি রপ্তানিকারকেরা - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNFpZbmphTi1YNHFZWGduSW5MVE44dlZxNGM5NF95YTBWZ3RFRnNIVmZEXzl6QWlXbWFxSkJJUU9MY3NqVnNJR3FIZTlzSEJQNGtaMFdPOWxsQTRNVjM5d25zZ1hDNGRFTlgzNWw0UdIBb0FVX3lxTE5aNFpZbmphTi1YNHFZWGduSW5MVE44dlZxNGM5NF95YTBWZ3RFRnNIVmZEXzl6QWlXbWFxSkJJUU9MY3NqVnNJR3FIZTlzSEJQNGtaMFdPOWxsQTRNVjM5d25zZ1hDNGRFTlgzNWw0UQ?oc=5",
+      "pub": "2026-08-11T05:05:00+00:00",
+      "id": "7ba5be1c24f8a755"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ব্যবসা সহজীকরণে জাতীয় টাস্কফোর্স গঠন | শিরোনাম | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5USEszMG5pYi1ZSWp3U1hiT3RhQzVCS1FJQWRuWE16MkRwN3RpbmRtZ3cxbjNLMDNaVmVUVlFVTDlMMmhJcEFQOUNHdmhPMlRuQmZtOXY2QXUxSVVW?oc=5",
+      "pub": "2026-08-11T05:43:00+00:00",
+      "id": "f52a1bc6d92065d1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ব্যবসা সহজ করতে ২২ সদস্যের জাতীয় টাস্কফোর্স - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxQVEpSZnpNUFNaMzg5al9TY2prM3FGTDFIa090VDFQY2FMbnV0SFZlRzg3Q0pUZHBpcjhCdFJtcVRQZHBLVlBhLWo3T2xmczNfNk5JWF9qRnZMdlc2Z2ZfVVRpMnNDZjlmY0p6cmxTNmtQSHc1SjR5SS1FOHUzNEY1QTg0N2liY1IyNnVLUU1lS1J2b25oODUxamZmUVhhb0xfeXVNenBZeVlPUGIwX2x0OWlDeGc2Ym9Peld0Uzhsak9mVHI0bU1yWmJlN1VicUVPLWxwdWhLckZNcnIxb3E4N25VMGpyaXBTSmpOTnBRZUxKR2dOTmFWeUtvQ3l1N1I1QnJDMTN0YTdnalM2d21BcDFheWZIOENfcFFLemRIdTFEWEQyUGtxSGJYYmllbV9UTHFoUjA2MElsT1p0NUtHMndsZ1lvTkpMMVp2UU1aRWQ4WnVmalJSMmwxYjcxUmkyWld6VzQwcEpuOXFWeDRYYmdGSmFuSS1VN3BtR1hyaS1ja0pWU3FvdXBqcWhkWk9IaWJCVWlGQUtRZExWTkFRMmtWSm9HNDJZUmZ3dDF5bUtsanBtUmtMcUczV2FzYnZBU1lScWNTU2RwVDM5NUkyQk04VzJCLTNQTG1JRVJ6RzUyVTE0LUgtTzBrZ1Bvc1kyQ0ZlczNqemNiSkVyTmtwMXppNEdBdmtDWF9ZUVBmTkI2eDBkdTJRaDVtVlM0RUZOWTREWk5lc0FjZ9IBqgRBVV95cUxQVEpSZnpNUFNaMzg5al9TY2prM3FGTDFIa090VDFQY2FMbnV0SFZlRzg3Q0pUZHBpcjhCdFJtcVRQZHBLVlBhLWo3T2xmczNfNk5JWF9qRnZMdlc2Z2ZfVVRpMnNDZjlmY0p6cmxTNmtQSHc1SjR5SS1FOHUzNEY1QTg0N2liY1IyNnVLUU1lS1J2b25oODUxamZmUVhhb0xfeXVNenBZeVlPUGIwX2x0OWlDeGc2Ym9Peld0Uzhsak9mVHI0bU1yWmJlN1VicUVPLWxwdWhLckZNcnIxb3E4N25VMGpyaXBTSmpOTnBRZUxKR2dOTmFWeUtvQ3l1N1I1QnJDMTN0YTdnalM2d21BcDFheWZIOENfcFFLemRIdTFEWEQyUGtxSGJYYmllbV9UTHFoUjA2MElsT1p0NUtHMndsZ1lvTkpMMVp2UU1aRWQ4WnVmalJSMmwxYjcxUmkyWld6VzQwcEpuOXFWeDRYYmdGSmFuSS1VN3BtR1hyaS1ja0pWU3FvdXBqcWhkWk9IaWJCVWlGQUtRZExWTkFRMmtWSm9HNDJZUmZ3dDF5bUtsanBtUmtMcUczV2FzYnZBU1lScWNTU2RwVDM5NUkyQk04VzJCLTNQTG1JRVJ6RzUyVTE0LUgtTzBrZ1Bvc1kyQ0ZlczNqemNiSkVyTmtwMXppNEdBdmtDWF9ZUVBmTkI2eDBkdTJRaDVtVlM0RUZOWTREWk5lc0FjZw?oc=5",
+      "pub": "2026-08-10T17:32:01+00:00",
+      "id": "abfe81191e9b2570"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ থেকে ব্যবসা গুটিয়ে নেওয়ার সিদ্ধান্ত বাতিল করল এলপিপি - Views Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjE2dTZtM21zRWxHU0Vlai1RRzhMaFMzWW1WeGk1dDc1WTRwdDZJNUd4U3pBNGY5RUJwSlVxbmV2X0NtdnFfSXVjcVhsUlRPZVM3XzR4QjF5Z3pMcnI0YXUyRTJzQ0dMcXpUcUVwTDhldG5xUW82ejlJOW5TWU8zOGRUbGliUGw2d19VaG5LYw?oc=5",
+      "pub": "2026-08-10T15:49:36+00:00",
+      "id": "c1ccec4ade4c2773"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ফল বিক্রেতার ফোন নেওয়ার অভিযোগ, এসআই ক্লোজড - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TNnVEUE5ydldOdksyVGVDSFlLUDg3WGVadmFZeTJIUnFyLTlMa3ZaUmJSTzcybWJ6d1c2SGFCSkNTQVdkN3d1OG1LRXVNNk8ybzhkZ09ib3hMbDFVd2ozNVR5amc2UzdL?oc=5",
+      "pub": "2026-08-10T17:01:32+00:00",
+      "id": "4d71dfddf19e6246"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "উপাচার্য ছাড়াই চলছে ৩৯ বেসরকারি বিশ্ববিদ্যালয় - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxPcDRXTUlqa3p1akQyT2R5QmFPTzlocEtBRW5ZOEloZXJlUGxTRDROb1djVk10Nko2OExOckJ3a3F5Y0tCdVN4WUtHVmVqV0Y0bFh6QnBnMU56c05NVlBnLUJITzgycmhQNnBwR1A2cW1KbFFaYTdCY2ttcENjbndfUnlMLWtSaDI3VlZLRnZ0ZE41aDhFTzQtU1ZkWlU3clJOcldCU0dGLXE1eWhSRWR6bV9GS0Zvb1VKUDNnblhEQVdFNDdvWXpGQ3lsc2lqU3dodFJVa1JCX29vbnYzLWRZSDhrYWN3cDZlRDVKd0R6NGpPVG1ESkdwQ1VKbWkwN3VlaEE1VzZkczktZHpreXp5RUpuTTUxaW1oR25ST2dNaldUUDZVOEh5OWR0c0MybHBqV25zWWVlYlhBc1hrdC1ZRkJUYnlsZnlQZ2tzbjAxS0VQbEFrSnkxUEdvbkdTcDNGZHVQWkpwODJVR1ZqV1Vjal93ZUYwVUN4STM4RzNGSkhpX185MGpkTWVBS2V4T1JhXzlxVVQ3VlhXaGtrbW94Z0V3SEFyTFZGeUF6OE1ZaklJSGloMG1VWEVuNXZKMExObVBmWm1ENEZLUTlpd0pJdHJEaG1oTVBuUnYxSkM2R0treS01S01VcGlCZDlPY05VaFM0UkFrMENwLUFiS3B6c2lfNGZGS0ppN0dYSERWcGpwRXRac2lzdU8yX1IyQzVNYWs5SHYyNENpNjEzcFlEZVRkbXNJd9IBtgRBVV95cUxPcDRXTUlqa3p1akQyT2R5QmFPTzlocEtBRW5ZOEloZXJlUGxTRDROb1djVk10Nko2OExOckJ3a3F5Y0tCdVN4WUtHVmVqV0Y0bFh6QnBnMU56c05NVlBnLUJITzgycmhQNnBwR1A2cW1KbFFaYTdCY2ttcENjbndfUnlMLWtSaDI3VlZLRnZ0ZE41aDhFTzQtU1ZkWlU3clJOcldCU0dGLXE1eWhSRWR6bV9GS0Zvb1VKUDNnblhEQVdFNDdvWXpGQ3lsc2lqU3dodFJVa1JCX29vbnYzLWRZSDhrYWN3cDZlRDVKd0R6NGpPVG1ESkdwQ1VKbWkwN3VlaEE1VzZkczktZHpreXp5RUpuTTUxaW1oR25ST2dNaldUUDZVOEh5OWR0c0MybHBqV25zWWVlYlhBc1hrdC1ZRkJUYnlsZnlQZ2tzbjAxS0VQbEFrSnkxUEdvbkdTcDNGZHVQWkpwODJVR1ZqV1Vjal93ZUYwVUN4STM4RzNGSkhpX185MGpkTWVBS2V4T1JhXzlxVVQ3VlhXaGtrbW94Z0V3SEFyTFZGeUF6OE1ZaklJSGloMG1VWEVuNXZKMExObVBmWm1ENEZLUTlpd0pJdHJEaG1oTVBuUnYxSkM2R0treS01S01VcGlCZDlPY05VaFM0UkFrMENwLUFiS3B6c2lfNGZGS0ppN0dYSERWcGpwRXRac2lzdU8yX1IyQzVNYWs5SHYyNENpNjEzcFlEZVRkbXNJdw?oc=5",
+      "pub": "2026-08-10T16:06:12+00:00",
+      "id": "3f8bc3f3570f0c80"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "উত্তরায় অস্ত্রের মুখে পেট্রোল পাম্প কর্মীর কাছ থেকে ১ কোটি ২১ লাখ টাকা ছিনতাই - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjQ0pHc3JCVGtUekV1dkxYUF9hd01WU2FhVjNaeDFBODBWeVdtQWFYcmRVbE5la2VVXzd3RWpJQ29ZdVA4QXk0UnBtbjZ2QktCbWtYRENFQm02NlBTdTdqNmpXLWMxeXpNUDRWcmp30gFzQVVfeXFMUHZxc3Z6cm90dnBIdExDX3RXMEV5QXhlN1I1LXd3RUs0R09NM2lOSHFfX1hZS0VvcDBsaU4yQXg4ZmV1bHQwOWtiVkFuR2JicFFscVBLa1lQZXNuMFpENm54ODRsWGp0TldQdUM2TGxVczdXcw?oc=5",
+      "pub": "2026-08-10T15:45:00+00:00",
+      "id": "0dae494f6afd3850"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দিল্লির উদ্দেশে ঢাকা ত্যাগ করলেন দীনেশ ত্রিবেদী - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pNzRMLXZSdlZ6V09LQmVKYTNrb0NmTzY4MEtlYzhlRF9iNVdUdG1BOW5TU0RfeXU5ZlJBdVlmYjF0ZkRkakFzTVpIS2lXRDN2OHBic0MzWktRYXVGakZyQ25RV3VwbmdrZWxyWmZB0gFzQVVfeXFMTkZ1YXVVblhOcEY0NGVSTkNxR2lMVTJlUUFjSUpRR1hhcWZyTlVlTVExTUJRcXRBUUlXZ29HVy1BT3Y3ZmhaQ1VhT2pDUkdQTW10VmVNdVctVHl5SW81eUx2QjR0UV9mZndyYVNNT1ZZWGllNA?oc=5",
+      "pub": "2026-08-10T15:20:00+00:00",
+      "id": "46a22cf9e49734ef"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "নতুন দায়িত্ব পেলেন ৪ মন্ত্রী - jugantor.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLVhmbHZTTGN6M01DbTMxSFpZaWFjMGpnVFc3Ql9BUkhWSURwLTZNX3M1Zmd6RDNiQktCVjVyaHNsU0pCVHh3Q2pHNW1Fb0ZRODA0?oc=5",
+      "pub": "2026-08-10T15:40:07+00:00",
+      "id": "1599fc7e64f20115"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৪ মন্ত্রী পেলেন নতুন দায়িত্ব - duaa-news.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xQWNMQ1BPY1V0d0FhLWFITGhlYmdyb1BtRjh6TnhhZGc4eXlfMVg2Y2hNTndFMDhiRjNwdWplX3A1U2xfVUFEcmlwSWt2OU5v?oc=5",
+      "pub": "2026-08-10T16:04:24+00:00",
+      "id": "08011b9fe9845863"
+    },
+    {
+      "section": "bangladesh",
+      "source": "Prothom Alo (Bangla)",
+      "title": "অর্থনীতির সাম্প্রতিক ঝুঁকি মোকাবিলার পথ কী",
+      "link": "https://www.prothomalo.com/opinion/column/nzildf8j65",
+      "pub": "2026-08-11T08:31:48+00:00",
+      "id": "b362d2cb5b34ec95"
+    }
+  ]
 }
