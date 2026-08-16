@@ -1,57 +1,5 @@
 {
   "seen": {
-    "f7215e167abb43e3": "2026-07-17T10:00:15.012197+00:00",
-    "f059538c1212b9c2": "2026-07-17T10:00:15.012197+00:00",
-    "a67b03c1789d40d4": "2026-07-17T10:00:15.012197+00:00",
-    "28544afea52b3bc3": "2026-07-17T10:00:15.012197+00:00",
-    "47b40e9696ed5523": "2026-07-17T10:00:15.012197+00:00",
-    "1b946d8c7ba54c68": "2026-07-17T10:00:15.012197+00:00",
-    "0b0ff390a44cf77a": "2026-07-17T10:00:15.012197+00:00",
-    "1be084ed6e876ac4": "2026-07-17T10:00:15.012197+00:00",
-    "4b43939f8f37a714": "2026-07-17T10:00:15.012197+00:00",
-    "d2a6752c925806b8": "2026-07-17T10:00:15.012197+00:00",
-    "1a666468ef373682": "2026-07-17T10:00:15.012197+00:00",
-    "0f1bfb602053637d": "2026-07-17T10:00:15.012197+00:00",
-    "64a650e6ec718b9e": "2026-07-17T10:00:15.012197+00:00",
-    "e615e1899c8ac042": "2026-07-17T10:00:15.012197+00:00",
-    "8976ca6db18703ec": "2026-07-17T10:00:15.012197+00:00",
-    "8541f29a6cb1305f": "2026-07-17T10:00:15.012197+00:00",
-    "b8c1914be83bc10d": "2026-07-17T10:00:15.012197+00:00",
-    "7286378a6aaaadb0": "2026-07-17T10:00:15.012197+00:00",
-    "9517058865a9fdb2": "2026-07-17T10:00:15.012197+00:00",
-    "847960acc2346c24": "2026-07-17T10:00:15.012197+00:00",
-    "436bdd963bd3d3e8": "2026-07-17T10:00:15.012197+00:00",
-    "7b4938242d0d4519": "2026-07-17T10:00:15.012197+00:00",
-    "7f7643e7d7760248": "2026-07-17T10:00:15.012197+00:00",
-    "fae6e43cf8e29b05": "2026-07-17T10:00:15.012197+00:00",
-    "da304375554ebc8f": "2026-07-17T10:00:15.012197+00:00",
-    "664c5b39fbc5bed3": "2026-07-17T10:00:15.012197+00:00",
-    "9e61d25ea2220f0f": "2026-07-17T10:00:15.012197+00:00",
-    "3fa92cf93d14f418": "2026-07-17T10:00:15.012197+00:00",
-    "37e72b6d3b61f94d": "2026-07-17T10:00:15.012197+00:00",
-    "021b66cb6289e040": "2026-07-17T10:00:15.012197+00:00",
-    "e96366ac8cfa1dd4": "2026-07-17T10:00:15.012197+00:00",
-    "8a9728c28516c185": "2026-07-17T10:00:15.012197+00:00",
-    "e7cd075d8aec2fb1": "2026-07-17T10:00:15.012197+00:00",
-    "08bc6075faa7cb3b": "2026-07-17T10:00:15.012197+00:00",
-    "1dbf7fbb9df4ddea": "2026-07-17T10:00:15.012197+00:00",
-    "48f4b088890776d2": "2026-07-17T10:00:15.012197+00:00",
-    "2e8ebc245e5bd040": "2026-07-17T10:00:15.012197+00:00",
-    "1776e367150e8ff1": "2026-07-17T10:00:15.012197+00:00",
-    "58590dcb75879608": "2026-07-17T10:00:15.012197+00:00",
-    "7bfe33966d41d485": "2026-07-17T10:00:15.012197+00:00",
-    "25ef116e3d542f40": "2026-07-17T10:00:15.012197+00:00",
-    "2fd780574f7257ed": "2026-07-17T10:00:15.012197+00:00",
-    "6c5283b30f7762e9": "2026-07-17T10:00:15.012197+00:00",
-    "0a44b959901a873b": "2026-07-17T10:00:15.012197+00:00",
-    "4e366449a36ff80f": "2026-07-17T10:00:15.012197+00:00",
-    "723d7b69a6854e86": "2026-07-17T10:00:15.012197+00:00",
-    "c03ede27c14d2d0c": "2026-07-17T10:00:15.012197+00:00",
-    "ceffc5857e859fe1": "2026-07-17T10:00:15.012197+00:00",
-    "1a04611cf1b5ca23": "2026-07-17T10:00:15.012197+00:00",
-    "959ac4b3d4ab2714": "2026-07-17T10:00:15.012197+00:00",
-    "def961bb38eec3b8": "2026-07-17T10:00:15.012197+00:00",
-    "07cf8036e81c7619": "2026-07-17T10:00:15.012197+00:00",
     "3fa39ea20e6a301e": "2026-07-17T15:16:01.360753+00:00",
     "838334c42407c896": "2026-07-17T15:16:01.360753+00:00",
     "68d9d45414b734c9": "2026-07-17T15:16:01.360753+00:00",
@@ -2906,7 +2854,44 @@
     "bebb5ab2a540df50": "2026-08-16T08:31:55.080667+00:00",
     "269faf6a990c7686": "2026-08-16T08:31:55.080667+00:00",
     "51548a1c8603d81b": "2026-08-16T08:31:55.080667+00:00",
-    "6815993b85934ec4": "2026-08-16T08:31:55.080667+00:00"
+    "6815993b85934ec4": "2026-08-16T08:31:55.080667+00:00",
+    "f504c4d81de06018": "2026-08-16T14:24:54.628885+00:00",
+    "be25bace0e695c7f": "2026-08-16T14:24:54.628885+00:00",
+    "48ffc14b62437588": "2026-08-16T14:24:54.628885+00:00",
+    "8352b0210a7aa225": "2026-08-16T14:24:54.628885+00:00",
+    "bf93adcc1bafc4c4": "2026-08-16T14:24:54.628885+00:00",
+    "5942ec5a4dbc3d60": "2026-08-16T14:24:54.628885+00:00",
+    "65de0c735d3778df": "2026-08-16T14:24:54.628885+00:00",
+    "00734e404286c5c3": "2026-08-16T14:24:54.628885+00:00",
+    "ab16dc4ec3d9564d": "2026-08-16T14:24:54.628885+00:00",
+    "1f23973bd0c2123b": "2026-08-16T14:24:54.628885+00:00",
+    "abd558ad12d1f5eb": "2026-08-16T14:24:54.628885+00:00",
+    "632ad9f627cee647": "2026-08-16T14:24:54.628885+00:00",
+    "953c12d84b281bb2": "2026-08-16T14:24:54.628885+00:00",
+    "4f4b95008181ad37": "2026-08-16T14:24:54.628885+00:00",
+    "a250b908d6fc9ecb": "2026-08-16T14:24:54.628885+00:00",
+    "03500585f1d93b5a": "2026-08-16T14:24:54.628885+00:00",
+    "97455ed09eced29d": "2026-08-16T14:24:54.628885+00:00",
+    "26c9b9d7c5549d67": "2026-08-16T14:24:54.628885+00:00",
+    "c5a19696fd310c39": "2026-08-16T14:24:54.628885+00:00",
+    "2b68c25e0abe20c6": "2026-08-16T14:24:54.628885+00:00",
+    "526d6a7904e22e3a": "2026-08-16T14:24:54.628885+00:00",
+    "b0693310da8adfa4": "2026-08-16T14:24:54.628885+00:00",
+    "c0d3ee2761b75f12": "2026-08-16T14:24:54.628885+00:00",
+    "09c52219ff7852ad": "2026-08-16T14:24:54.628885+00:00",
+    "4704bfc1ced710af": "2026-08-16T14:24:54.628885+00:00",
+    "99044110baac04e1": "2026-08-16T14:24:54.628885+00:00",
+    "21fc012a153a0235": "2026-08-16T14:24:54.628885+00:00",
+    "9cbca2044c9cc583": "2026-08-16T14:24:54.628885+00:00",
+    "8bb5e950f89b98c9": "2026-08-16T14:24:54.628885+00:00",
+    "c98abccb4b6a8cbe": "2026-08-16T14:24:54.628885+00:00",
+    "acd9a257931af552": "2026-08-16T14:24:54.628885+00:00",
+    "cf29b0c50513e8cb": "2026-08-16T14:24:54.628885+00:00",
+    "5f20c190376f288a": "2026-08-16T14:24:54.628885+00:00",
+    "7647f1bbd4e448fa": "2026-08-16T14:24:54.628885+00:00",
+    "240e68413eadb52c": "2026-08-16T14:24:54.628885+00:00",
+    "474c08176e4162df": "2026-08-16T14:24:54.628885+00:00",
+    "a915b41c1e7b2b35": "2026-08-16T14:24:54.628885+00:00"
   },
   "yesterday_items": [
     {
@@ -3268,6 +3253,190 @@
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxORDNRNXotZzVPUTQxXzNUVEtZRUptN3ZLRFZnMmxFZ05zaGd1OTNlOHI4QjBRQzF1X2RIeC1WZGhXYzVzS0ozQjRYdDFqeXZvVGpmMnhEQVQtbEVTMmN6NGVWak5aVjY0Qm5qYjNuZ3QxaFp3Rl9QcXZqMzhUc19WUkFnTGVPUkg2b3ZNV3p1dW8wOGlUbDY1ZlZJQlRZNWdOcGdHd2NDYkRkYmV2WjB2b1EtNlRvTE0zcS1QMU1DaHVsM2NJY2NYNFh2ZUhOa1loT21kOUxLOUpnMG10eXZUZUR0U3FEU1lLQnpHOXNiejJYMkJyQVpFLTBXSDFDS3JpVjNqS1NVSnl3SURsOEpzcGhkdkN5YkVXOC1DMDhXQ0ZHWGVJUjRtTjY5WVY2NTNJdG80bjhqTzAxTnB3UElQcUprUmZWcUE1?oc=5",
       "pub": "2026-08-16T01:15:00+00:00",
       "id": "6815993b85934ec4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Renewables can boost RMG competitiveness: CPD - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZy03TmxuTGNqbXlLd0gyWHN1dWlfeFBmQVVFOFMwZlZXaE9JOXZnTU00Q2xaVFp1OXJ3NWVrSmU1RmdGeDVtSFZlcFNBUG4zbFprR0FXeWFQWW5EQmxlTlFDbHM4T2VHdGVaUzhXb1d0NkxZQ0Z1aUZ0SUctMHB6Y3BNU2tuTGPSAYcBQVVfeXFMT2ctN05sbkxjam15S3dIMlhzdXVpX3hQZkFVRThTMGZWV2hPSTl2Z01NNENsWlRadTlydzVla0plNUZnRng1bUhWZXBTQVBuM2xaa0dBV3lhUFluREJsZU5RQ2xzOE9lR3RlWlM4V29XdDZMWUNGdWlGdElHLTBwemNwTVNrbkxj?oc=5",
+      "pub": "2026-08-16T08:21:05+00:00",
+      "id": "2b68c25e0abe20c6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Policy hurdles, high taxes hinder RMG decarbonisation: CPD dialogue - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZk5hUE5Gcnd6OEFiRVBHZ1NSeFhwelRjNWJBdGZhMHN1aFJqcXJpOVVfU056dzZjeC1JQ1ZTT05WMlRrQVpTUWduM2k5c1BFWlc5am1yMUZGMldRRlItZFJwWEVwclVxal9BeWpQbWp0enNQWFJUR0xZU2prTGJiOU0zUGVuLWRFMHRoVzYyV0txM3ZZU0k2MUJFc0U4eVg1eGxhNDVfNDdPbDAzb1Fn?oc=5",
+      "pub": "2026-08-16T13:19:23+00:00",
+      "id": "526d6a7904e22e3a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh's apparel exports to EU fall significantly in first half of 2026 - dailyasianage.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2NtWnYwck5rV0dBaHhocVBPeEVUNzBJa2x3M1dtUUQ1LTJsRHhCSUR4WXEtRXFyaFlpa0haM0ZvTXFma3ZzbE42emJ3RTE3ejhYYjdfdS1fQ3B0MUNhdGpRX3dwRzBFX3cwN3JHdmNNZ3phblNTNFhpaGZybXJ4MlV6eGx0TEhOTTJ5RXU5S0RPblpBUTVjSlBpOHJobEd6a1hGV2RtQTFKVDB4WUFjTV9B?oc=5",
+      "pub": "2026-08-16T06:59:12+00:00",
+      "id": "b0693310da8adfa4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Govt asks officials to use AI with caution - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanNZclF3Ny1WbGFsYmJQSldZUnRZU05oR3BhMWwtbi1NZ3dnYnpFX1VoNmxLOFdhS2pieGZwNENKOWoyZUJRNmFQRDhZS2EyR2pwR2R2YmZvcUdVWDJYa1ZSWEhqRnM4Y1hQNkJ3NkFUckJTaGdWYlNXSEQ3NC1vV0FQNGVVeDlodjFWcjJR?oc=5",
+      "pub": "2026-08-15T15:31:27+00:00",
+      "id": "c0d3ee2761b75f12"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "30% solar use can cut RMG factories’ energy costs by 15.7%: CPD - tbsnews.net",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVEyb0xzcU1qRVY4SmdyWWduSWVaenJ5eW5UMkdrdmJuaENRdFBiT18xZEQ0dVRpNDR2emRVN2cxUzlDaWFnUlIxd19IcHJiT0ExVkxYSXZkaGNMRmFfdTNRbVY4SUZXTkljOVF1MXFJWGwwV1h3dENNRjlHR1B1MHVXX2dmQkgwc1NjV2RGTE5jZ2EzN1lraXRhUnZ4QmxwZnFoM1VINFlzSGxIcFNj0gGvAUFVX3lxTFBpUTJvTHNxTWpFVjhKZ3JZZ25JZVp6cnl5blQyR2t2Ym5oQ1F0UGJPXzFkRDR1VGk0NHZ6ZFU3ZzFTOUNpYWdSUjF3X0hwcmJPQTFWTFhJdmRoY0xGYV91M1FtVjhJRldOSWM5UXUxcUlYbDBXWHd0Q01GOUdHUHUwdVdfZ2ZCSDBzU2NXZEZMTmNnYTM3WWtpdGFSdnhCbHBmcWgzVUg0WXNIbEhwU2M?oc=5",
+      "pub": "2026-08-16T11:15:00+00:00",
+      "id": "09c52219ff7852ad"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Denmark-backed project targets energy efficiency in 339 factories - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnY3U0pfbjdFUkpiaWduQjdVb1Z5UUZid0NyM2VLdFpSemNsLXJoei1WOGQyU0l6bHF4Y2NoemVPLVZxVEQtTnUxSkJrN25oMXVfNElyNDFPdk02RVc1U013VFFZd19Fak5PX2lETVVaVmRsZ2toQ21kYm1nLXZsNEtWMzNNMWtMYjhZLTk4R3NXWFE2Y2R1TXBoQWpzdw?oc=5",
+      "pub": "2026-08-16T12:54:57+00:00",
+      "id": "4704bfc1ced710af"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "30% solar use can cut RMG factories’ energy costs by 15.7%: CPD - tbsnews.net",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVEyb0xzcU1qRVY4SmdyWWduSWVaenJ5eW5UMkdrdmJuaENRdFBiT18xZEQ0dVRpNDR2emRVN2cxUzlDaWFnUlIxd19IcHJiT0ExVkxYSXZkaGNMRmFfdTNRbVY4SUZXTkljOVF1MXFJWGwwV1h3dENNRjlHR1B1MHVXX2dmQkgwc1NjV2RGTE5jZ2EzN1lraXRhUnZ4QmxwZnFoM1VINFlzSGxIcFNj0gGvAUFVX3lxTFBpUTJvTHNxTWpFVjhKZ3JZZ25JZVp6cnl5blQyR2t2Ym5oQ1F0UGJPXzFkRDR1VGk0NHZ6ZFU3ZzFTOUNpYWdSUjF3X0hwcmJPQTFWTFhJdmRoY0xGYV91M1FtVjhJRldOSWM5UXUxcUlYbDBXWHd0Q01GOUdHUHUwdVdfZ2ZCSDBzU2NXZEZMTmNnYTM3WWtpdGFSdnhCbHBmcWgzVUg0WXNIbEhwU2M?oc=5",
+      "pub": "2026-08-16T11:15:00+00:00",
+      "id": "09c52219ff7852ad"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh's apparel exports to EU fall significantly in first half of 2026 - dailyasianage.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2NtWnYwck5rV0dBaHhocVBPeEVUNzBJa2x3M1dtUUQ1LTJsRHhCSUR4WXEtRXFyaFlpa0haM0ZvTXFma3ZzbE42emJ3RTE3ejhYYjdfdS1fQ3B0MUNhdGpRX3dwRzBFX3cwN3JHdmNNZ3phblNTNFhpaGZybXJ4MlV6eGx0TEhOTTJ5RXU5S0RPblpBUTVjSlBpOHJobEd6a1hGV2RtQTFKVDB4WUFjTV9B?oc=5",
+      "pub": "2026-08-16T06:59:12+00:00",
+      "id": "b0693310da8adfa4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপে কম দামে পোশাক বিক্রি করেও বাজার হারাচ্ছে বাংলাদেশ - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aWpqb3ItUXFaNTJNMWtWUzBlalJONXo2REl4WEVQdGljYzd0S19QbXYzVkZJd21wcWFlUWdtOGt3aFJYQkdIT1ByNGxmc2tyVXA3UDJ6V1FZWE1kT3JnZjgtOHhicU3SAXRBVV95cUxQWGExYmpFVXZvMWNVQzJvUC1oUHZDcXJJQUUxWDF5N0xfWHdaS3JzMzdIc2I1Wi1WSEQ3eUo2ekl0S2xWUnRBQklEYmYyWWo2RkI5NGpFX0dSYTZQUmJQU2E0Q3B6UjEwTndTbXlVblYzdmQ0OQ?oc=5",
+      "pub": "2026-08-16T13:40:11+00:00",
+      "id": "99044110baac04e1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপে পোশাক রপ্তানি কমেছে ১৬.৪৩% - priyo.com",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQWmc2NWtBS19rX3plZFg4U3cxZHZ5YTNMUzFVOFZpZzJmMUViX1BuMDVlRUludjBCMkdtekR0ZWNVRFRuQkVSanNtel9ZNzlZU2pDdTRlcnhzaXg4ZXdHOWxQa0d5cGtJdHF2WkNUN01XSGU1eU1rSmdhVkJnWldsSFNuWlhsU2JBTjFUb1NxV2pVb1djaWI0a3FHTkdXanZFUWtZVktkMjEwMHg1b05iY1ljT3dUV2pLZzVNNkQ2Q0J1X1BiRmNSQXZUQUpsUXhuRUtFMlI3X3ZHYjFqa3lOc2ZwUWprUV9QN2xUOFVOOVJTSE9VYS1lMGRlUDdMTnJYOHNYTHoxR2tuekx3ZjJ1UUVTd25zWW4yaFZUc0dRcmtrckZyd1FxR09UdTZ5X1Yxc3FQbWxrYlFscXBhTTBCa1dsdkxoakdyZ1R6d0pISjB2dE9hRmxleFRuVnRRNXVZQkF0UkM3NjAwQkRJM0Z5WG56ZWxwWjBZQW5iR3lhZDdtLVJMMnZfSjNmNy1SUQ?oc=5",
+      "pub": "2026-08-16T05:29:00+00:00",
+      "id": "21fc012a153a0235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "৬ মাসে ইইউতে পোশাক রপ্তানি কমেছে ১৬.৪৩ শতাংশ - bbarta24.net",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IZmtuMUY0bWhwWURYWWdJZTI1aVdUeHB1cnVHY3NMZTFsd1djQlQyQ29WUkN4X1Fud1NNN2c1OVAyUE9qcFc3MGRRUnA3clI0SEdybzdkNXJTRF9GY1E?oc=5",
+      "pub": "2026-08-16T09:11:00+00:00",
+      "id": "9cbca2044c9cc583"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউতে পোশাক রপ্তানি নিম্নমুখী - bdtoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Zc0FYRDdONkxKUkRtbXM1R3pSbFJvRzR1OWFvQVVlN2hoLUtiNGtxaWllLW9ZNzdOMWduRzhoZzNmSk82RDc5TmJpbw?oc=5",
+      "pub": "2026-08-15T19:32:00+00:00",
+      "id": "8bb5e950f89b98c9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপে কম দামে পোশাক বিক্রি করেও বাজার হারাচ্ছে বাংলাদেশ - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aWpqb3ItUXFaNTJNMWtWUzBlalJONXo2REl4WEVQdGljYzd0S19QbXYzVkZJd21wcWFlUWdtOGt3aFJYQkdIT1ByNGxmc2tyVXA3UDJ6V1FZWE1kT3JnZjgtOHhicU3SAXRBVV95cUxQWGExYmpFVXZvMWNVQzJvUC1oUHZDcXJJQUUxWDF5N0xfWHdaS3JzMzdIc2I1Wi1WSEQ3eUo2ekl0S2xWUnRBQklEYmYyWWo2RkI5NGpFX0dSYTZQUmJQU2E0Q3B6UjEwTndTbXlVblYzdmQ0OQ?oc=5",
+      "pub": "2026-08-16T13:40:11+00:00",
+      "id": "99044110baac04e1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "৬ মাসে ইইউতে পোশাক রপ্তানি কমেছে ১৬.৪৩ শতাংশ - bbarta24.net",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IZmtuMUY0bWhwWURYWWdJZTI1aVdUeHB1cnVHY3NMZTFsd1djQlQyQ29WUkN4X1Fud1NNN2c1OVAyUE9qcFc3MGRRUnA3clI0SEdybzdkNXJTRF9GY1E?oc=5",
+      "pub": "2026-08-16T09:11:00+00:00",
+      "id": "9cbca2044c9cc583"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপে পোশাক রপ্তানি কমেছে ১৬.৪৩% - priyo.com",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQWmc2NWtBS19rX3plZFg4U3cxZHZ5YTNMUzFVOFZpZzJmMUViX1BuMDVlRUludjBCMkdtekR0ZWNVRFRuQkVSanNtel9ZNzlZU2pDdTRlcnhzaXg4ZXdHOWxQa0d5cGtJdHF2WkNUN01XSGU1eU1rSmdhVkJnWldsSFNuWlhsU2JBTjFUb1NxV2pVb1djaWI0a3FHTkdXanZFUWtZVktkMjEwMHg1b05iY1ljT3dUV2pLZzVNNkQ2Q0J1X1BiRmNSQXZUQUpsUXhuRUtFMlI3X3ZHYjFqa3lOc2ZwUWprUV9QN2xUOFVOOVJTSE9VYS1lMGRlUDdMTnJYOHNYTHoxR2tuekx3ZjJ1UUVTd25zWW4yaFZUc0dRcmtrckZyd1FxR09UdTZ5X1Yxc3FQbWxrYlFscXBhTTBCa1dsdkxoakdyZ1R6d0pISjB2dE9hRmxleFRuVnRRNXVZQkF0UkM3NjAwQkRJM0Z5WG56ZWxwWjBZQW5iR3lhZDdtLVJMMnZfSjNmNy1SUQ?oc=5",
+      "pub": "2026-08-16T05:29:00+00:00",
+      "id": "21fc012a153a0235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চীন, ভারত ও যুক্তরাষ্ট্র: ভূরাজনীতিতে বাংলাদেশের ঝুঁকি - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44QnBpZF95WEpqakJqMnpyWUpzWVY5YW12QjB3YnVWYzRBU2NBZzFWOGpPT2J1OWJBbGZmRURnNXBUUWdKVU95UWN3T3Vkd25Nd1BPV1d6VW9RWjZuRDlaN0x6MWJoclBvT1FqRGlnb9IBb0FVX3lxTE44QnBpZF95WEpqakJqMnpyWUpzWVY5YW12QjB3YnVWYzRBU2NBZzFWOGpPT2J1OWJBbGZmRURnNXBUUWdKVU95UWN3T3Vkd25Nd1BPV1d6VW9RWjZuRDlaN0x6MWJoclBvT1FqRGlnbw?oc=5",
+      "pub": "2026-08-16T07:54:00+00:00",
+      "id": "c98abccb4b6a8cbe"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "হিজবুল্লাহর শীর্ষ কমান্ডারকে হত্যার দাবি ইসরায়েলের - parbattanews",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSktjWVRqbWI4NzhsTktQR0JtVVdQY21JQ3hhLU5TOWFONUJ3bDRxcW5wajVzY1VsN1FrLVFzQmE4cFJ4ZFJSeUdCb3A1S2djTzhFU0ZtbWRBZ3FqdlN2UlZxOWdtN2hZdFlwWi16Y0ZDMGxFYUZFY204UmR6OTdTdUhtYXl5ZTBRbmlMSGwyRTNGX21obGhzbEIxNVRCeWdXbGFLajhEdUh6bi1NLWVkZlowS0NyQ3Z3eXVpM3dQakRCMmNRdm5NQnFQVlVRbDZXbGtXT25BRW5FYnk0eXRHNnBsLW5FOVE1aV9DMndwN1lfNG53ZzdRb3hfZ0IxXzd4amYwdDFBdDg5SVBJYWxCYjk1S2ZwX3dlYzhCcUM4dnI1MWVpV3FCenFTRy1QdUdCSmlzdDlqYVFCVHlFUXJGUGRTT1h2TWNKTTRYRUFaa9IB1AJBVV95cUxOREliYlVBczlzT29KN05tNGs1ck5jcXBkYnFZcUc0MVU5YW84bXU3NHU2TzFLbS04MmF4TDFHY0xVdUE2UkxDT2M1SktzYWx2MFI0bW1ZdGdNV3NySWxGdm1BeUFSS2ZqRGVoaG9uQUdWb1gyVHozTnM2akdaYzhwYVZ3WW9VUk9OeU5WR19QSVVWbGVxNGN4dE41YlptWnFtb0xPcHc2RnJVWFJLVDRrUEpiSFk4bWM0dm84WUY0cGRkMmhVMEp4WXFtOTgxQ3pNd2RJRHBBb2Y5S1hjQzlESFBFVFMxdmFzMml2OGNuX0RDZEMzc0cxYjBiU0VPTkd2Tkk5QUJHLUgySVRDbVpURWpJRTNWMlNWTVZLVVhoY2o3R3NmWXFwdWZsb1JuZkZEQThOWnRpS084WEY3RHlRWm14c1ZMTXhEOEthMDhydTZJNW9R?oc=5",
+      "pub": "2026-08-16T09:12:06+00:00",
+      "id": "acd9a257931af552"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আদমজী ইপিজেডের রপ্তানি ছাড়াল ১ বিলিয়ন ডলার, ঝুঁকছে উচ্চমূল্যের পণ্যে - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRjdWazZfSE1CTkQxVkwyQS15U0wteW9MR0ZLZno1QWtxQ1BhRXRSUG55bC1oeW91emI2NWtjSDk0VkFvWlZOLXh4ZGctU1RYWVlrZ1NRVklNdGFWWnZ3NUlBbnVpbWljWE9jb3VR0gFzQVVfeXFMUHE2RzcxR1hQeWFZYWF0MjEtUnJHN1BXMXViMl9aM3piRDQ0am1tdXJzTWI4VV9VSFgwNUp0Wnl0TWlXVUtoTTZSSE9BakxpVm9wSVA5aDJ3QV9FVkxfRG5YdklwNUZFT28yckprUHZTQWgyRQ?oc=5",
+      "pub": "2026-08-16T07:55:00+00:00",
+      "id": "cf29b0c50513e8cb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মস্কো-দামেস্ক সরাসরি ফ্লাইট চালু; বন্ধ ছিল দেড় বছর - parbattanews",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPdkJBWks5VHN1Q2tITmdRNXpjUW92NE1iemdhWDJreVp3cHlGSHdYTzQ1WDZnMWYyQ0w1dEpNTjFkcmRfQ2NKY2FZRWl1U1FfUG94eXduVWV1aUxTRHRJM3BGLUVEeDlsUTF1X0JDQ2VXSGdLelRVbnVjbG1NSEZ2RnhnUFRjblBvX0dJQ3ZhT0haQ0cteHlDS2tESF94SmRUNEJWYjJXQmpQNF9fN2VxWEJoRVhRX2pWZkRpdXF2Q3Zob0lLWVhxTkR1T1F5dUV0X0pyX1pwbXJwenV1RlNPMklpQ1o1ZlRPQ3ZIQmV1YVFDaE9sT0FCUFREMkZfLUl3NXJDbUlDc0hxOFZ6aXFvQ1YtNTNVQnhwd0ROWFh4Zmx5NnM2VW1UaXNOQjZEWHVSSzVhYlB0cnNuZElXUUtGc2Zla2_SAcoCQVVfeXFMTmpEdnVCelNwWFdyM1Nzd2pzNnBzWjJPM1hmeERjQVIxMnNnS2ZqdnZzbzJSbzhEaTdwZFZ2eHhRZ3VmWV8tTGhuRVpsR3ZaTVdzNi1VM25SaDN1WGcyekh2QVRzcHh5SVB5SUZkT1dOUjhjbjg3ZFQtbnpMcFNpUW1aT3RJTGlKZl9oODdDakQwQTFWdUgySWlpYVowZHVPMUloVE9QR1JidkgtT1k0dFRlcHdIS0RnQ0llbDZtQ0w2cG12bHNRaU15cW1XMzdBVkREZDFCdWdlbTg1ODlNT05fTmJ2Z2FUMlJxVEFGd05SZ0d2eXgzSmJwRms5ajNWYzJXZnhzMnA1LXUwbTlnVDd6MVpXcjQxaUxrVHFzU1VoUmdUckEtaHF4dEVDMm9GcEdzenh1S2ZuNG12d3dYRGdDeU5TazdOeWpR?oc=5",
+      "pub": "2026-08-16T09:06:04+00:00",
+      "id": "5f20c190376f288a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আদমজী ইপিজেড থেকে বিয়ের গাউন, খনিশ্রমিকের জুতাসহ বিলিয়ন ডলারের রপ্তানি - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hQ0JodURqX2h1NmFFbVN3NFEzZEdMUVFDTmUwYjc1U0YyTDZ2SlhZWm44OVlPdC1pU2FpTGJQakJiZ3Rka1E4eURtdUFvVndlVzhpUVI5cnZwZFBEeVNmMGlNMWtPUdIBc0FVX3lxTFA5Nmx2T3NEbndUUFlHTFhvZTNJWWVJck1IZmx2SVhJLXpKVXIxTTI2WURLNWZDQW85M1N2QldOR1hkdzVHNTZvV1ZZVElXWDhBWG9YNEUxN1VabGZRZmtfX0E4c0tCdkc0djlQRFc2dEJxLTg?oc=5",
+      "pub": "2026-08-16T12:27:47+00:00",
+      "id": "7647f1bbd4e448fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মার্কিন বাজারে বাংলাদেশের পোশাক রপ্তানিতে ভাটা - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2FCblhJUThYTHBjMF9jNHZMTEgxeV9NRXg5azhtQmphT3lHMFdySWt0TTFZTS1tUkJnN1ZfRVVqdlhEWVFsM2EzQTQzclA5WlRjenA0dmlJM0x2QUZ6QXNYQkZsOEREOWxPb0pMNVV1VVRNZDRnLUhvSERfcGVyaWdSX25fRG1VcWV5bS1Ya0VxWFU3eVFpVDlrc3U1X2k2?oc=5",
+      "pub": "2026-08-16T09:18:00+00:00",
+      "id": "240e68413eadb52c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৩০% নবায়নযোগ্য জ্বালানিতে পোশাক খাতের ব্যয় কমবে ১৫.৭%: সিপিডি - sangbad.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VNVJuWWttS0VHUENWQkVTekZuME51ZkMtSWxTbUhqWHBpcGRSNzMzMWkwa2FuamVpVXVjbktKUGdEVmpEdVE?oc=5",
+      "pub": "2026-08-16T12:12:00+00:00",
+      "id": "474c08176e4162df"
+    },
+    {
+      "section": "bangladesh",
+      "source": "Prothom Alo (Bangla)",
+      "title": "ইউরোপে কম দামে পোশাক বিক্রি করেও বাজার হারাচ্ছে বাংলাদেশ",
+      "link": "https://www.prothomalo.com/business/economics/ts37jy0esb",
+      "pub": "2026-08-16T13:40:11+00:00",
+      "id": "a915b41c1e7b2b35"
     }
   ]
 }
