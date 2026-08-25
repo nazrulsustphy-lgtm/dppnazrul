@@ -1,34 +1,5 @@
 {
   "seen": {
-    "9c574760b5954169": "2026-07-25T15:05:02.467769+00:00",
-    "8c6df43fdbc1eb59": "2026-07-25T15:05:02.467769+00:00",
-    "984e8ad9236cd8bf": "2026-07-25T15:05:02.467769+00:00",
-    "99597f21c800c9d3": "2026-07-25T15:05:02.467769+00:00",
-    "f44cc769b5bae18f": "2026-07-25T15:05:02.467769+00:00",
-    "0ba0ad32401384aa": "2026-07-25T15:05:02.467769+00:00",
-    "71ce0ef9738b65a7": "2026-07-25T15:05:02.467769+00:00",
-    "d2b73122aaf9840e": "2026-07-25T15:05:02.467769+00:00",
-    "aef883eca182e647": "2026-07-25T15:05:02.467769+00:00",
-    "546834596ec4b1d9": "2026-07-25T15:05:02.467769+00:00",
-    "b667585f0cd0c042": "2026-07-25T15:05:02.467769+00:00",
-    "b361634bf41f7fca": "2026-07-25T15:05:02.467769+00:00",
-    "18fbf31715586405": "2026-07-25T15:05:02.467769+00:00",
-    "af8268d55fcc73ff": "2026-07-25T15:05:02.467769+00:00",
-    "19511b6c9ac1c27a": "2026-07-25T15:05:02.467769+00:00",
-    "28ad5e0cc6b26435": "2026-07-25T15:05:02.467769+00:00",
-    "bb1fbe15c5c326a8": "2026-07-25T15:05:02.467769+00:00",
-    "2bc653754cbef856": "2026-07-25T15:05:02.467769+00:00",
-    "1bd42d97cacc11ed": "2026-07-25T15:05:02.467769+00:00",
-    "6aa8dba80882514d": "2026-07-25T15:05:02.467769+00:00",
-    "1c5e78e0c39dfdc7": "2026-07-25T15:05:02.467769+00:00",
-    "09be4a01cca16e51": "2026-07-25T15:05:02.467769+00:00",
-    "aded6d2f48a4d2a2": "2026-07-25T15:05:02.467769+00:00",
-    "c66aebb8f44fed80": "2026-07-25T15:05:02.467769+00:00",
-    "0671b16575657076": "2026-07-25T15:05:02.467769+00:00",
-    "40e362c91cfef534": "2026-07-25T15:05:02.467769+00:00",
-    "825009f3f4109abe": "2026-07-25T15:05:02.467769+00:00",
-    "848a0c5948916336": "2026-07-25T15:05:02.467769+00:00",
-    "be4866894ed2679d": "2026-07-25T15:05:02.467769+00:00",
     "dafc8e2f36aca56d": "2026-07-26T10:02:24.202564+00:00",
     "12002edc2b5bf48e": "2026-07-26T10:02:24.202564+00:00",
     "561cde20d4d1c236": "2026-07-26T10:02:24.202564+00:00",
@@ -2751,7 +2722,32 @@
     "dec7cf5307cbb58f": "2026-08-24T14:44:18.089759+00:00",
     "d582b2da00afa89e": "2026-08-24T14:44:18.089759+00:00",
     "22bc3bb05932f4ae": "2026-08-24T14:44:18.089759+00:00",
-    "9be7aa8ac102f7e2": "2026-08-24T14:44:18.089759+00:00"
+    "9be7aa8ac102f7e2": "2026-08-24T14:44:18.089759+00:00",
+    "4ad128310c733fef": "2026-08-25T03:00:17.041633+00:00",
+    "7699a2830e61e0da": "2026-08-25T03:00:17.041633+00:00",
+    "01ef81445bbfa92e": "2026-08-25T03:00:17.041633+00:00",
+    "c07490e1877db4a8": "2026-08-25T03:00:17.041633+00:00",
+    "0514b653f637d6d8": "2026-08-25T03:00:17.041633+00:00",
+    "bb7279f6a524520b": "2026-08-25T03:00:17.041633+00:00",
+    "6f9bb531079b1676": "2026-08-25T03:00:17.041633+00:00",
+    "eddbd0e601170733": "2026-08-25T03:00:17.041633+00:00",
+    "264a39679a1dab1c": "2026-08-25T03:00:17.041633+00:00",
+    "e2d0fa8fae010eff": "2026-08-25T03:00:17.041633+00:00",
+    "74871f3ce6d4c884": "2026-08-25T03:00:17.041633+00:00",
+    "36b5d7045c96a31b": "2026-08-25T03:00:17.041633+00:00",
+    "c4dde87fe1713c65": "2026-08-25T03:00:17.041633+00:00",
+    "f9dec2d3a8061d38": "2026-08-25T03:00:17.041633+00:00",
+    "e980752fdd52324d": "2026-08-25T03:00:17.041633+00:00",
+    "0cd568f4af5e1506": "2026-08-25T03:00:17.041633+00:00",
+    "3de7fe28d402e825": "2026-08-25T03:00:17.041633+00:00",
+    "f2474942cca7d81b": "2026-08-25T03:00:17.041633+00:00",
+    "bcefe21f3005c42e": "2026-08-25T03:00:17.041633+00:00",
+    "6298e76aba5a71a8": "2026-08-25T03:00:17.041633+00:00",
+    "ad3e8439bd208d02": "2026-08-25T03:00:17.041633+00:00",
+    "4b78edc6b5f8c837": "2026-08-25T03:00:17.041633+00:00",
+    "4deb7129cb5afa80": "2026-08-25T03:00:17.041633+00:00",
+    "392f3671afa017fa": "2026-08-25T03:00:17.041633+00:00",
+    "ffeaee83db7dfa26": "2026-08-25T03:00:17.041633+00:00"
   },
   "yesterday_items": [
     {
@@ -2937,6 +2933,54 @@
       "link": "https://news.google.com/rss/articles/CBMi1AdBVV95cUxOMnJFUUFmWTRON2VuTW11MDEtWUNtZDE1QXVvaHEtMEhBRTNPWFVYODNaYjRycV9rQVZEV2J4U0c3djRRanNOZDBvVmFtR1p3ZWNEbW5iaUxXX1VBMWFKc1RueUpOS2sxM0U0THlySU5aLWpxZktGLXE2Vk0wMmZ0UnlMalZrYnFNX3k3dDltTWtmUWQ1NDVNZkVCNFc4dzhtaUZVQ0lUZTFweTRoVjNWbzZwRmlvdlA3cEJvU3UtcUNGUmE2cXVmTm1MTE40S2xkbXRqRFQwT2dxTnpaS3dtUnRkS3JUbmpDUFVFLXNXMGN3dVNESFNvUUhHWnY3bllaVVYxSFVITnc3VTMyb0ZoV0tJanpoelFEVnNHQVdpeU5FUTVIMDVjY1ptemJUQVlRdXhYZFpiOV95UFFyTTQyUm1VY0RYUVpHXzliU3hIZ1RyQjRDQ3Fzemd5R0N5RG9SSC04R2JGR3JQSzdlbVpySVdYX3dIMjZ6azlyUG9ZYXl3NHUtXzN6VnJjVnFRdl9OLTJIaGFPUUYzUGF4MjRlTjhrNVF4WVFlcld6SFF0X3lrVUZrU1otOHRQVWpsWm5uYnpQZ01TTmMwRkVpN09STk1DYlNiVFhoVjdDOVRmRkNmcGJpZHN3TWhtbkM2UFczeUNxUU9wMFUyR2ktTUZxVFhWNG1ZTVZ4UTRNRnhTQVByWTcyNjhUVXFtTVdVZHRnT2NXZUVaOFdReU1xQ3Z4U1dKdkpUeHA4NW44Qmh4V1NTa1hjNnZwQlp0SFRYQldTZkFxck1uLXR3VnJ0akc0aThvVmhmTWd6LUtQOEdzRXJYaXJ0TjloSHFILW92cXA0OWZaYWR6YVRWcFF2aDJNNm1kdGFmNER5T2VicjBiQ25JSUpZMENCRldoUG80bTgtOHVjU3pGZjVuVHB6RWl2RzRkb0E0NkdzSmVSeWpTZDZxYnpMNUh6WktVVGpTM0s2cE5HbnFLRFhoZ3R0aHc2TGI1Nk5sRm9yTlcxbHpCbHNkWklENEFKaXZ2U0VLYi1Nblg2bndia3BHaEthanJKS1g5akZfNWNHV0h6YkN2VkVDVU1pV24wbmk5MWZ3NFIwdHhuQmZJcHRMaW0xZ3NCNnd5X2F3WVFFVms3ZXRPU2o3V0lGNG96aENKNGhCblRoME9rRzV0STFybmFnTzc1YXVQVHNFUHlPbWduRHU0bm9yY000Y09VWmc5WURiMGVENmRPWWJ4ZFE4Um5fMTFwczR4UzdCSi1MdUxoaVVwZWdPeDZFYjlRSmhHbTN1MVd3cVlfNQ?oc=5",
       "pub": "2026-08-23T15:49:07+00:00",
       "id": "9be7aa8ac102f7e2"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Alocasia",
+      "link": "https://www.reddit.com/r/alocasia/comments/1vxhkub/alocasia/",
+      "pub": "2026-08-24T22:25:28+00:00",
+      "id": "ad3e8439bd208d02"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "What's your opinion on gtg gtw mpathgbk bm tbm cc jtg rc t ck dv lp sm espr bsp tl s tr do hh-plush alter-M?",
+      "link": "https://www.reddit.com/r/Fnaftheoriesmeme/comments/1vx8cgw/whats_your_opinion_on_gtg_gtw_mpathgbk_bm_tbm_cc/",
+      "pub": "2026-08-24T16:52:30+00:00",
+      "id": "4b78edc6b5f8c837"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh’s Garment Wage Clock Is Ticking - WWD",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTh5US1TSW1WYkdsT2l2YXZ5Y3RwT3otTFBjRzZRWUMzdDNFS0VOWkZ3NDBfM1lHVmNRMnVaLS1sTDFUOTVHWXRqYUJjMVdJYVNqUXBoVkg3cnV4c1IzLVctMlVCNFNXUDczY2dJUGtRNUhwVmhwUVdQTmdQRmFpelR5WUpncGRCRjY1bGpab0tiRVFVZWx1UVUzbTc?oc=5",
+      "pub": "2026-08-24T19:58:28+00:00",
+      "id": "4deb7129cb5afa80"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "গ্যাস-বিদ্যুৎ সংকটে তৈরি পোশাকের ক্রয়াদেশ হারানোর শঙ্কা - Bangla Stream",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80U0ZiUTBKcTh0Rl9rQXVsVlJQQVMwNWd6emU1dlpRNEV1X3ZlM3VuS3owU0ZHWDNpNFZsMjl2czlFWEtkd2ljNjBhTnpVOEhIcEI0SmhCMDk?oc=5",
+      "pub": "2026-08-24T17:56:00+00:00",
+      "id": "392f3671afa017fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "গ্যাস-বিদ্যুৎ সংকটে তৈরি পোশাকের ক্রয়াদেশ হারানোর শঙ্কা - Bangla Stream",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80U0ZiUTBKcTh0Rl9rQXVsVlJQQVMwNWd6emU1dlpRNEV1X3ZlM3VuS3owU0ZHWDNpNFZsMjl2czlFWEtkd2ljNjBhTnpVOEhIcEI0SmhCMDk?oc=5",
+      "pub": "2026-08-24T17:56:00+00:00",
+      "id": "392f3671afa017fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পিছিয়ে পড়ছে তৈরি পোশাক রপ্তানির সূতিকাগার চট্টগ্রাম - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNWWFjTDFuUVlRRHFiTlpDZVlRSlRKWDdsUno5eFBDYmZNZU44anRRNk1PRVRNRkJMN3Q4eXFHMXpBUGlPM2RjLW1VSmwwZE5Fem9nc1U5TFFTYmF2OWNRcHNTREstcWJKbFlxWVctOVhfdW1KQWtmd3VJV1VpU1ZEQTZqSnJDMWFZaUt4RzFaank4aDFLQi10YVFnZlBuMzBZc2I2bmFaOV9RVWNWeWVpdEZvZGxmbnZqc05BX3JHV3JyTnM0TUJaMmRONkwwdmlWV085MHNsNWUzVFZsSEdVb2k5Wnk4ODREcnAxNUR6MTFyVk5qV3N1a0NoQ0FfUFhLalNOQnNPRzFYb1M5SUo2Nk9FWlh3a1FiVVVwdUZaWHRzWWtrRHEybkpBTjNMWnBhWjg4QjQwRDJ4UzRaMHpxWGRqTTF5eTc2YkZoMTdTelNXZTlOcl9JZ29YNy1tbEZVM19hRzZKbEQxcHkzRno5RTBoQTc4SWdib2dpS050a1VmdVBSb0gxTUNzTk9BZjRrT3VsMmtOd28yR2ptLUNseXFjYlFiZVVjM3c3Vk5ibUJXQ1BYT2dzNEN3eHNZaGtWX0U4UmJleWQtLTJTbzJ1VUhGVFRvQWdtWUJwOEFFUzdyQzY3Nm05Nlo3TGUwV1hzN2gwRWdDWl85VElndUpQTl9xMUhlQWRx0gGIBEFVX3lxTE1ZYWNMMW5RWVFEcWJOWkNlWVFKVEpYN2xSejl4UENiZk1lTjhqdFE2TU9FVE1GQkw3dDh5cUcxekFQaU8zZGMtbVVKbDBkTkV6b2dzVTlMUVNiYXY5Y1Fwc1NESy1xYkpsWXFZVy05WF91bUpBa2Z3dUlXVWlTVkRBNmpKckMxYVlpS3hHMVpqeThoMUtCLXRhUWdmUG4zMFlzYjZuYVo5X1FVY1Z5ZWl0Rm9kbGZudmpzTkFfckdXcnJOczRNQloyZE42TDB2aVZXTzkwc2w1ZTNUVmxIR1VvaTlaeTg4NERycDE1RHoxMXJWTmpXc3VrQ2hDQV9QWEtqU05Cc09HMVhvUzlJSjY2T0VaWHdrUWJVVXB1RlpYdHNZa2tEcTJuSkFOM0xacGFaODhCNDBEMnhTNFowenFYZGpNMXl5NzZiRmgxN1N6U1dlOU5yX0lnb1g3LW1sRlUzX2FHNkpsRDFweTNGejlFMGhBNzhJZ2JvZ2lLTnRrVWZ1UFJvSDFNQ3NOT0FmNGtPdWwya053bzJHam0tQ2x5cWNiUWJlVWMzdzdWTmJtQldDUFhPZ3M0Q3d4c1loa1ZfRThSYmV5ZC0tMlNvMnVVSEZUVG9BZ21ZQnA4QUVTN3JDNjc2bTk2WjdMZTBXWHM3aDBFZ0NaXzlUSWd1SlBOX3ExSGVBZHE?oc=5",
+      "pub": "2026-08-25T01:07:08+00:00",
+      "id": "ffeaee83db7dfa26"
     }
   ]
 }
