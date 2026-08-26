@@ -1,38 +1,5 @@
 {
   "seen": {
-    "c0024a66a871a122": "2026-07-27T05:53:02.213176+00:00",
-    "74f7c3d308877044": "2026-07-27T05:53:02.213176+00:00",
-    "5823d3c01d8eace4": "2026-07-27T05:53:02.213176+00:00",
-    "9998d89da133fb3c": "2026-07-27T05:53:02.213176+00:00",
-    "747db540d94d2962": "2026-07-27T05:53:02.213176+00:00",
-    "cef50a97ad16b685": "2026-07-27T05:53:02.213176+00:00",
-    "c2cd24e18a8d03d9": "2026-07-27T05:53:02.213176+00:00",
-    "d1784f9f976959aa": "2026-07-27T05:53:02.213176+00:00",
-    "e1aa89c1cfd8a899": "2026-07-27T05:53:02.213176+00:00",
-    "1d19b8b554351cb1": "2026-07-27T05:53:02.213176+00:00",
-    "5c716398e6f5bfe4": "2026-07-27T05:53:02.213176+00:00",
-    "e964ad5d31bee9d0": "2026-07-27T05:53:02.213176+00:00",
-    "092fc74d6bb8e7f3": "2026-07-27T05:53:02.213176+00:00",
-    "3861741311d05814": "2026-07-27T05:53:02.213176+00:00",
-    "b93b77741e63e537": "2026-07-27T05:53:02.213176+00:00",
-    "137b952d3b5872b6": "2026-07-27T05:53:02.213176+00:00",
-    "b6f31a2cfd46eb55": "2026-07-27T05:53:02.213176+00:00",
-    "77076a76cf842a22": "2026-07-27T05:53:02.213176+00:00",
-    "174366ba5892a66f": "2026-07-27T05:53:02.213176+00:00",
-    "54dc7e7dc877f3de": "2026-07-27T05:53:02.213176+00:00",
-    "3140a9436ce727a7": "2026-07-27T05:53:02.213176+00:00",
-    "b694ae96c182602f": "2026-07-27T05:53:02.213176+00:00",
-    "f63add7bf217a202": "2026-07-27T05:53:02.213176+00:00",
-    "c5008897587b81ca": "2026-07-27T05:53:02.213176+00:00",
-    "3f00007d0a2078d2": "2026-07-27T05:53:02.213176+00:00",
-    "5cdaeb177cda7614": "2026-07-27T05:53:02.213176+00:00",
-    "8dc37566e3801aff": "2026-07-27T05:53:02.213176+00:00",
-    "31cf3a5401ed5a32": "2026-07-27T05:53:02.213176+00:00",
-    "650dbbbbc3b535f2": "2026-07-27T05:53:02.213176+00:00",
-    "1c8b63f8b89b3d24": "2026-07-27T05:53:02.213176+00:00",
-    "9edd9b3d6ff49d71": "2026-07-27T05:53:02.213176+00:00",
-    "eae7817c3bf20c1d": "2026-07-27T05:53:02.213176+00:00",
-    "ea74f8a72a04638c": "2026-07-27T05:53:02.213176+00:00",
     "fff30b9233c88521": "2026-07-27T11:26:24.994294+00:00",
     "731a5a3ab8eb9d1d": "2026-07-27T11:26:24.994294+00:00",
     "5f7dcce51bb3bc85": "2026-07-27T11:26:24.994294+00:00",
@@ -2749,57 +2716,34 @@
     "6e54d5be2b7f4ee0": "2026-08-26T03:06:59.212481+00:00",
     "bdb597b169c100e5": "2026-08-26T03:06:59.212481+00:00",
     "169b977f9c1b2acd": "2026-08-26T03:06:59.212481+00:00",
-    "a791de2cc607c4de": "2026-08-26T03:06:59.212481+00:00"
+    "a791de2cc607c4de": "2026-08-26T03:06:59.212481+00:00",
+    "b437977f8d8fe0ac": "2026-08-26T08:46:33.550262+00:00",
+    "599ee57e907ecaa0": "2026-08-26T08:46:33.550262+00:00",
+    "9d01c5c7b9d0ea58": "2026-08-26T08:46:33.550262+00:00",
+    "b8235ce0310c8c64": "2026-08-26T08:46:33.550262+00:00",
+    "3e689760dd52d23e": "2026-08-26T08:46:33.550262+00:00",
+    "e6bb4569b2e4eafa": "2026-08-26T08:46:33.550262+00:00",
+    "5b73a0fd78be3f95": "2026-08-26T08:46:33.550262+00:00",
+    "a26ba0ad60a762a8": "2026-08-26T08:46:33.550262+00:00",
+    "ca7e77a983116b04": "2026-08-26T08:46:33.550262+00:00",
+    "fbbed1253e5757ca": "2026-08-26T08:46:33.550262+00:00",
+    "f73d8248ee9f9962": "2026-08-26T08:46:33.550262+00:00",
+    "dc757873757354cc": "2026-08-26T08:46:33.550262+00:00",
+    "c0eda0339009b9cc": "2026-08-26T08:46:33.550262+00:00",
+    "3a9552aa30a9232c": "2026-08-26T08:46:33.550262+00:00",
+    "93055af5268948f8": "2026-08-26T08:46:33.550262+00:00",
+    "7122b9d6dd8ea5a8": "2026-08-26T08:46:33.550262+00:00",
+    "91dbbe6a02ff35fd": "2026-08-26T08:46:33.550262+00:00",
+    "596539453f392317": "2026-08-26T08:46:33.550262+00:00",
+    "adbceb2c7e1b7754": "2026-08-26T08:46:33.550262+00:00",
+    "600fbca4b737c995": "2026-08-26T08:46:33.550262+00:00",
+    "ebfd4ff316356f29": "2026-08-26T08:46:33.550262+00:00",
+    "21f65fc82956240a": "2026-08-26T08:46:33.550262+00:00",
+    "926778e901a28430": "2026-08-26T08:46:33.550262+00:00",
+    "3eae40ecffee66f0": "2026-08-26T08:46:33.550262+00:00",
+    "348bbc4370c47146": "2026-08-26T08:46:33.550262+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "Smart textile tags gain momentum ahead EU’s DPP requirements - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlpzUXBLTTVqRUhYQUFuXzhTOWtwSlQyNmFiRzdVWlFsSmFmaFZrU2hrSVpOdTN1Y2JRT01CbGstT0RPQjd2VjhMSzMwWlpFdlA4ZE5WX1FqeURJSkViOG1jOXlZd1R3WDkxdWNjbk1DQnRpTG1oT3JGM1BGWjFmWWVBTHc5N1lRcHJjcnRfNTZ5QWlFa3c?oc=5",
-      "pub": "2026-08-24T04:22:17+00:00",
-      "id": "51b90dfda9fbda1e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Smart textile tags gain momentum ahead EU’s DPP requirements - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlpzUXBLTTVqRUhYQUFuXzhTOWtwSlQyNmFiRzdVWlFsSmFmaFZrU2hrSVpOdTN1Y2JRT01CbGstT0RPQjd2VjhMSzMwWlpFdlA4ZE5WX1FqeURJSkViOG1jOXlZd1R3WDkxdWNjbk1DQnRpTG1oT3JGM1BGWjFmWWVBTHc5N1lRcHJjcnRfNTZ5QWlFa3c?oc=5",
-      "pub": "2026-08-24T04:22:17+00:00",
-      "id": "51b90dfda9fbda1e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "বাংলাদেশের পোশাকশিল্পে দীর্ঘমেয়াদি প্রতিশ্রুতি পুনর্ব্যক্ত করেছে এলপিপি - news24bd.tv",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0MlcyQkZiU1psdWd6MTdiMGxQeTU2TlF4N2ZjZTl0UG52NUFrWm5JTDdQclQ0eWp5RmNqSlZMQ1BESGV3MWJNN1pPSDB5ZlU?oc=5",
-      "pub": "2026-08-24T05:20:51+00:00",
-      "id": "bf5e6e7e03280e8a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "নারায়ণগঞ্জে তৈরি বিয়ের পোশাক যাচ্ছে ইউরোপ-আমেরিকাসহ ৩৭ দেশে - sangbad.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93dUtOM3h4SFR2ZldJNjFLakZmd3VnejJyZnVZVUpuOHI4Z2FNV3BaQ3ItdWNTZm1oZjFOMldYWEdpUDNFN3c?oc=5",
-      "pub": "2026-08-24T05:31:00+00:00",
-      "id": "b8b35329dd5fac7a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "গার্মেন্টস শিল্প বাঁচলে বাংলাদেশ বাঁচবে : বিজিএমইএ পরিচালক - Bahanno News",
-      "link": "https://news.google.com/rss/articles/CBMixAVBVV95cUxNMmJOZUw5NXRoTzV5VUQwVWpWa3F5d25VNkRlUnlsbEdkX0NSNWtNVkkxTXZWbHRlQnZuYnA2d0tlN0F0STFxZjVTVWV6aEdzS0d3ZnhYbUt6UWRrUVJFSkZvczNQdDB5RGF1Vk5QbEtLZmNuZHR0aEVkSFdfcTJCc1h3ZGoxTENZWldZQnJnMVVxS2ZTdWJSNW90QmJ6QnAzbUVaQVRWWDVmSTVaVm8zVllUa2NHUUwwMWpRaVprWktPejAxNERTUU5fV0NUdHRwYWVUeE1ZcVdYU2tHN0FRcExJdmF5a3NGeVlLQXhRckY4Rl96SGFTUjFScHMtVzd5d25KMU5RR0RiZ0VhVkVnWjBIeXYwUVBObmNobDByVlk4OXVVNFh6ZEVGblJ3aDBzUVFDNmd1dlpDOHNwSVVtSXVaLVVETGZaMFFiRzFpSEtQOHQ4Vmk3c1JfdEVBSUVZbmF1NE9mYVNMTWl4Wl9hUDZORmpoNElOTzlkOC1xTS1lM1h5Y1Q0U0NETkFWX0xOX29Xb2hmQmMyUnZIdk41VEROVEVmYkZaTGNhSkJVMUw4NllTUG5HQ3hfSzVpWk9GeGRlUUs2VTZKYmdIUVZULXN2ejFYX0FORHNDZTFRV0szVjZaVFNZZGJ2M2FWRlNJbmVDR1hOblZTb0RhX0JQeXBjY2RMbVlNeXlxYTVncDY1YXN3ZGRHcWI4eDNlakpWTHRJRHdPNnQxdWV4ZXFhLVBkdzU4cGlNbUl6cVhIQWttZUhNekV4X2FmSVVxMVFuZzV2N0hQN0tlV25PeGduMl9LU0JsalBqSnFqenFhRjVoLTJiRTBidEozUENnWkpnNkpnY2FlblFIWlBpM0daZmZMNW5zYXpwZmNqZVNobUhOa2czVEJoUUhLcUUzQXVBTS1YOFZmR1huQWM2Q3dRaFNPQW8?oc=5",
-      "pub": "2026-08-24T04:52:00+00:00",
-      "id": "badd9c5087c9429e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ভারত থেকে বিদ্যুৎ আমদানিতে বাংলাদেশকে দিতে হবে নতুন চার্জ - Orthosongbad",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQUU9QOFhkYUZ1N2toOUZ4YjZNVnk0ZTlVa255d1FxVWtRNXVMcGlYUHJtS2lwcTFScXJOQTBfOHNxRW9wb0xMZmtkaUJyVjkxdk51TjNaSDVXVnMydTZqbVZ3b3I5QXJKRmZWNm10RGpoaGtmWjNiM19mOHNIeWpZTGNiUDhoMS1YSlZsbG84ODJkcGhpZUxmODN3anJqelpSUFo0X2w1YVBsbmZ3d1ZvRVJZLWtQQnByakFkZW5SaWVqTmY0N1BYdUJlY0VINE5IRlZrRTRBa0Y3T3MzYWN6OVJzMEl2Tzh0ZjdYa1hXQ1ROYWVIZlJmMDBZZXk1dnFJTGRyS21wcVVDdHlGQThjYzYzME9QenAwNWdaTUtEOXRtN3d6UEFmdE5WMDR3WEpBNXVXMlE5aTFUcXdzcVB1U0hiX1RGTlJUSTIybldn0gHOAkFVX3lxTFBRT1A4WGRhRnU3a2g5RnhiNk1WeTRlOVVrbnl3UXFVa1E1dUxwaVhQcm1LaXBxMVJxck5BMF84c3FFb3BvTExma2RpQnJWOTF2TnVOM1pINVdWczJ1NmptVndvcjlBckpGZlY2bXREamhoa2ZaM2IzX2Y4c0h5allMY2JQOGgxLVhKVmxsbzg4MmRwaGllTGY4M3dqcmp6WlJQWjRfbDVhUGxuZnd3Vm9FUlkta1BCcHJqQWRlblJpZWpOZjQ3UFh1QmVjRUg0TkhGVmtFNEFrRjdPczNhY3o5UnMwSXZPOHRmN1hrWFdDVE5hZUhmUmYwMFlleTV2cUlMZHJLbXBxVUN0eUZBOGNjNjMwT1B6cDA1Z1pNS0Q5dG03d3pQQWZ0TlYwNHdYSkE1dVcyUTlpMVRxd3NxUHVTSGJfVEZOUlRJMjJuV2c?oc=5",
-      "pub": "2026-08-24T03:38:44+00:00",
-      "id": "2cff3b00f8457293"
-    },
     {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
@@ -3007,6 +2951,46 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPb1ZXZHR0WTJQcWxVOXVoVXlzUERubWNuVFROMVFtNlV2M3BneGM2NzFEdzlDakYxY0ZIS2VsY1FaY05zaVZSR2dGeXplOXdHdTFwNGY3a0E?oc=5",
       "pub": "2026-08-25T16:06:00+00:00",
       "id": "a791de2cc607c4de"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "সৌরবিদ্যুতে ঝুঁকছে বড় শিল্পগোষ্ঠী, নিজেরাই উৎপাদন করতে পারে ৬০০ মেগাওয়াট - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVVBPNzd2OHFyV21zVU5UQ2l6Q2luRFN4VXlOdE42SVJIQUltc1JVNnVfUk16NGM1R3VQN0NJSHppWThtYXJfVUdfbl9ualFyWFlrb0lUNFhna0NVU0pGanBFUHVPZ9IBc0FVX3lxTFBxV2M4SXdiOXlYRWllTDJ3SDFtcjBtM2E4eEp4c1ZaVHphZ3NLTUYtbXNQMjFUMEVZSEVmUkdzSU82YnlzMHd5UHFQTjlnN1JyQ1ZtMDBnOW56elE5Q1RFTW45MHhxMkI0Q0hOZFEzWWZycm8?oc=5",
+      "pub": "2026-08-26T03:01:00+00:00",
+      "id": "ebfd4ff316356f29"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মক্কা চুক্তিতে অংশগ্রহণ বাংলাদেশের পররাষ্ট্রনীতির ভারসাম্যকে ঝুঁকিতে ফেলতে পারে: রয়টার্স - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOTmt1S3FYMHNjM01GNHAzaTk3aWZOYUpwUld5VVVaT2p6ck5ES0VPT2g5aDY5cDBuLUg4ODhIM2JZRzVEcXc0OElrNjY2bU4zTllUSXRyd0RpamdIOS1Kam5uMWhIRnkzbUdYLVNGVi1uRmhuM3Z5VUtwV2EyUDBDNDByX1U0MDVtcml1ald3Zk1DS2pFMHZ6bDlLSXdWWWdCQU1Sb3JZb3k5VTQtWE1GOEVBaGZROS1rR19zNmpraFpxb0s1VDBwTlowTFJSQmhjc1JvMFNjMUI0Z0ZhazFfN0dzTjdwNVlSSEMzTU8zZk83a0d0LThtZl9JU1J1akRubi1KT1BoNU1veGhKcDVWV1NBaldnSXpYRG55M19CeHo4Y3Z3YmlTTURKVEhMSVpVSUIzSDBtdGlnZGJSS3dsV1k1cG9RblIyTDZkbWVLUXBITlR3c3BxWVBDSGNYR3MyN1U5TEV6VnhwVXdxR0dKYnlIQVYtQ3JoQndoSWIxak5yRXFmUEV3UXk0VHlnZU9hemhIbW12WkctWk5IOTJ3RWstd3JTem9hR0JKQjlEV2RmWTRzRV8tM0U5YS12M0JGSWNBaGR4RWl2aklKNGpzSDRJWjlRUmRIdklNUGc3WGlBZmhJdERRRzBzcXd3aV9zQzdnMlkxR2tub19tNkl2T01CbUx5T1BVc003SkRWcGpnYkxKUHBIaXBta2k2b2VDUzh4NHRpZl9DRVlvajdkV19tdGIzeU0wZnRFeDBERTNTaTFuQWh0LV9GRkFjaUpROWg2XzhvSXRqeVh2MERfcW5HMWNnWlcxRWhqaVFDMmXSAfAEQVVfeXFMTk5rdUtxWDBzYzNNRjRwM2k5N2lmTmFKcFJXeVVVWk9qenJOREtFT09oOWg2OXAwbi1IODg4SDNiWUc1RHF3NDhJazY2Nm1OM05ZVEl0cndEaWpnSDktSmpubjFoSEZ5M21HWC1TRlYtbkZobjN2eVVLcFdhMlAwQzQwcl9VNDA1bXJpdWpXd2ZNQ0tqRTB2emw5S0l3VllnQkFNUm9yWW95OVU0LVhNRjhFQWhmUTkta0dfczZqa2hacW9LNVQwcE5aMExSUkJoY3NSbzBTYzFCNGdGYWsxXzdHc043cDVZUkhDM01PM2ZPN2tHdC04bWZfSVNSdWpEbm4tSk9QaDVNb3hoSnA1VldTQWpXZ0l6WERueTNfQnh6OGN2d2JpU01ESlRITElaVUlCM0gwbXRpZ2RiUkt3bFdZNXBvUW5SMkw2ZG1lS1FwSE5Ud3NwcVlQQ0hjWEdzMjdVOUxFelZ4cFV3cUdHSmJ5SEFWLUNyaEJ3aEliMWpOckVxZlBFd1F5NFR5Z2VPYXpoSG1tdlpHLVpOSDkyd0VrLXdyU3pvYUdCSkI5RFdkZlk0c0VfLTNFOWEtdjNCRkljQWhkeEVpdmpJSjRqc0g0SVo5UVJkSHZJTVBnN1hpQWZoSXREUUcwc3F3d2lfc0M3ZzJZMUdrbm9fbTZJdk9NQm1MeU9QVXNNN0pEVnBqZ2JMSlBwSGlwbWtpNm9lQ1M4eDR0aWZfQ0VZb2o3ZFdfbXRiM3lNMGZ0RXgwREUzU2kxbkFodC1fRkZBY2lKUTloNl84b0l0anlYdjBEX3FuRzFjZ1pXMUVoamlRQzJl?oc=5",
+      "pub": "2026-08-26T02:50:59+00:00",
+      "id": "21f65fc82956240a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ধ হলো কত কারখানা, চাকরি গেল কতজনের? - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPVndiYmpxcms0bklkb2otX1RvRmdnYXMwOUc2Y3ZJeDBuX3h3Y3piQ0NXWWpaV1RWbklpRjl5SUl2SHRDOWVDTlNlU3hIVWFycXBxRUozZ1pUajJ6b0czY3hjdDk4Q0Z0c2xoejF1dXZOX21QT2stVDkwTGl2azFxQ00yeGpDYWMxNEN3TzFudVJPaU9zQ1c5Z0lGT2tqaENZeDRldk9nODBPQ2U2emFkWGJIZGNKaThlOVVhOGJtTm10RTN0Q250T0s5M3p3ZUxHVTV0Q2lQZTVJblBYSjBvdzFaTjhZQzZfOC1lRjJvbkhFYzA1Q1BfdTlxa3hudDBiNDVhaTd1V1N0UDZkNHFiM1kwaDdrbEFlOUkxalQ0WWRHeGhmbnZ4Vng5LV8zSjBEYU1sd3htRE5vUWNyMTBDRUtDQzF6Rm1NZGxQMkFLN3F5bnpJelctT1pkMHpPbVFkbWtJbnV6OWhUS0o2U3dTX0ZHLUZwNTZaODE3ZXFzVmRTT3o3bDJieW5CYXJmc1Buc2xTWGg3NElQRVFSSjVIS01hWkQ0YjFBdUt4aV9IVHp0RW9sd1dyNmxNN3MtczdNQm9tdjR6QV9xc21JQTdTRGJOQ2xfLVU20gHeA0FVX3lxTE44SFM4cV9NOGNfaEVvdWZLSW1ScU9jeG5sMG1GdTlRY2t0NWV2V291dUt4TkVqM0xZVXExbGhNbXNyOUVQRGViZGFtQVcwX1BkUURMMDRTSVlDWXFFR293blNma204VWcwS0Ytamsxbm5Ha21kakJYWFN2ckFxUTh0VE14RXJZRlZXV0ptVnFlaXh0NTNwMnNEOXFxdk5ZdlRCdmR2UWZFUEJNV3Mwa25BYVVZSzI5QUtObXptbGViZnR1Z2FwLS1MMkdELVBna2g2bjA0ai1HS2RvSHRoWXpPVWU3TTBIS3lvQUZtdzV5eURsc3FwMnhtWm1ZM3VqMldQb2VHM0Z1NERCTzdvc0hxNDF3YmNFbW51MGx1RXNjN1dYd0FhMzNoOW8wOTZJY09XX2xMLWxRU2g3WVV4eUpsWkNZQmw4N1NZZHA3b2dqV3FCUHduVExaVWtVSjd5YlFiNGkyOFBocnhwQm5MMHBHUGlJdGZFUWtiQzRaT0w3cEVPRkppNXN1QlF5a3V6NjlpM1c1TVBjckk0MkpwR0xSaFMyXzNjYzFZUVgySGdaa3JDR2d6eGtvR3AtQWVSWmlZTXhDTDdqUTlIMFFMeWg3Z1BPY1dvbXVvV2RhWEE?oc=5",
+      "pub": "2026-08-25T09:22:00+00:00",
+      "id": "926778e901a28430"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বন্ডের কাঁচামাল রপ্তানি না করে খোলা বাজারে বিক্রি, ৪ কোটির রাজস্ব ক্ষতি - Daily Manobkantha",
+      "link": "https://news.google.com/rss/articles/CBMirgZBVV95cUxNazRBQ0lxQmVYSE9ZTFVVTTVhTnV1Y2tJRnc0eWE5WllQQ0VNY3B1LXJzVHBiUzhqN0cwZEFMOVBUdi1JbEl3WVMxaVR0WDZXZ1Z1SFBadnUwRzRkY0NwZjlxNU5XTUFEWmlNYWQzVFpnVVRJZVdOMzR4N0dUUUxLRmJpX1hZQ1BxbmhWRGNWNVNBRGhBNTRvRVpUTzJlQ1I2cEtCakNwTm9Dc2lERm1XaXhnVVhCdzllUlY2MlFWVVRwNlhTcVgwSHJVY1M3eEk3RmFfcmlBMkdBRU8xb3FEOEc4cTltUncxQ2lYVnM4UXNZalVncHYwSE9taXJRRy0xWHpwRXZIeUJ6ZDhCMVdNRW90OXhOWFg4NVgtVXpRMXJvR051OTk1UzFPMWhpSkQ2a3NIcXAycW1VSU1pdU50MGNGYldlcEVmRDJ1NTh0UVJiMlRqaDlseUNZTm1LN1NNNU1fRlFVLTdhNFRYMVNOTGN0RjRYUWVKRGtNcnBWdWRKSDFiU21XdXd5bVZzWW9LMENxcUgzTUh5VFViVjJ6RExGT3hTejlUN2dKN29VNXRfNER4NlRqdzhQRTh0YmpDVFg2WTFCazRlY216MmZkNy10czlsR05lVjdnQUZkVmhva3owQVBrOEpHUDhQWno5akk2akpmcGM3cVdmd3J5eHVielVGc3VTN0J5SzhOTzlNU3NIWW5Fb0UzNHVNTDRhbk9TNWhtTENGMDBmWlozbWE4ODZ5STlCN1daTktOelF3MG1SU183VlhGVVU5THhCVEhndFNNbnB3ejBkRFRfZVVCcVhlMHUyRU9hLWU5a3Jib1pWVXNrX25EOWhkZ1o1Z0VHTklOZFpTZHh6RUYzRDNySGFTclVYMllFX1FudlU1MzFuaF9IRmlDN2diRHRqQ1d6RnJWdEVVZFlEWmFZU19WVVl1djM3LW1lTHFkSWNtWXZoX2tKV19jSUtsZUpqNGIzbGlteXJVQTRTTUtWRG5VM0V1Qm5YZkdRUjZVYWY0cnpibzNFNFpqT3hLRUxrZ3d5Wk55TlpGQm5mNWhOWm1uTWhsMzBQRW1heWxR?oc=5",
+      "pub": "2026-08-26T06:37:17+00:00",
+      "id": "3eae40ecffee66f0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জ্বালানি সংকটে চট্টগ্রামে বিপর্যস্ত পোশাক খাত, রপ্তানিতে শঙ্কা - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfa0Q5aXlNeVJxNkxkdTR5OEh5QkZsRUdwaXJxaGRDcWQxY2lVQWNtdEw4TFZYWUNCUTg3SThTc2lfdHpKc0ZUUzBKNWloUERoTDVQTmhwWXNGZl9ibjVZUEdWTlVnRmc?oc=5",
+      "pub": "2026-08-25T17:52:00+00:00",
+      "id": "348bbc4370c47146"
     }
   ]
 }
