@@ -1,33 +1,5 @@
 {
   "seen": {
-    "49a2ca1b50d450f3": "2026-07-28T16:05:45.951014+00:00",
-    "973712de5cdb21a4": "2026-07-28T16:05:45.951014+00:00",
-    "9b1fa502179b574a": "2026-07-28T16:05:45.951014+00:00",
-    "d035eb37860a291c": "2026-07-28T16:05:45.951014+00:00",
-    "2347df08cb0d5a43": "2026-07-28T16:05:45.951014+00:00",
-    "019312fc5fc11604": "2026-07-28T16:05:45.951014+00:00",
-    "ce8ee61610a3ae94": "2026-07-28T16:05:45.951014+00:00",
-    "3a4446f68a4e1ab2": "2026-07-28T16:05:45.951014+00:00",
-    "5a56e55b2b5ac50a": "2026-07-28T16:05:45.951014+00:00",
-    "69516aef8a82c3b1": "2026-07-28T16:05:45.951014+00:00",
-    "e4fef28599d1d988": "2026-07-28T16:05:45.951014+00:00",
-    "18fa2e2c8ed1233d": "2026-07-28T16:05:45.951014+00:00",
-    "628f8bd7e53bc08d": "2026-07-28T16:05:45.951014+00:00",
-    "677e36bbcb2f8cc4": "2026-07-28T16:05:45.951014+00:00",
-    "1758e04bfa9b5c52": "2026-07-28T16:05:45.951014+00:00",
-    "2dbd82f1103e568c": "2026-07-28T16:05:45.951014+00:00",
-    "6aace2477374063e": "2026-07-28T16:05:45.951014+00:00",
-    "c76edce705500eab": "2026-07-28T16:05:45.951014+00:00",
-    "2826d7cc1c519bc5": "2026-07-28T16:05:45.951014+00:00",
-    "6fc3aed2c69ccec2": "2026-07-28T16:05:45.951014+00:00",
-    "d3a93c4ee4784214": "2026-07-28T16:05:45.951014+00:00",
-    "084b2723808ec011": "2026-07-28T16:05:45.951014+00:00",
-    "563cc03359116793": "2026-07-28T16:05:45.951014+00:00",
-    "e472791b74089a7e": "2026-07-28T16:05:45.951014+00:00",
-    "feabc50c5fef3ae4": "2026-07-28T16:05:45.951014+00:00",
-    "49632ca73f58eb3f": "2026-07-28T16:05:45.951014+00:00",
-    "927debbd97bae8fa": "2026-07-28T16:05:45.951014+00:00",
-    "346ce5ff366e899e": "2026-07-28T16:05:45.951014+00:00",
     "b36c0ea35b9c03c8": "2026-07-29T05:24:33.997342+00:00",
     "f2b3f5381f3ecdce": "2026-07-29T05:24:33.997342+00:00",
     "e142b6539fa1840b": "2026-07-29T05:24:33.997342+00:00",
@@ -2649,7 +2621,267 @@
     "1b96328e8185ddb6": "2026-08-26T14:46:16.636579+00:00",
     "609bd87ced05f803": "2026-08-26T14:46:16.636579+00:00",
     "df647b713f6e19b8": "2026-08-26T14:46:16.636579+00:00",
-    "60d8e981fd50aa27": "2026-08-26T14:46:16.636579+00:00"
+    "60d8e981fd50aa27": "2026-08-26T14:46:16.636579+00:00",
+    "9ac663e315d6e1a2": "2026-08-27T23:39:21.623512+00:00",
+    "51f757b263f089f9": "2026-08-27T23:39:21.623512+00:00",
+    "cf14c654ddbf5088": "2026-08-27T23:39:21.623512+00:00",
+    "d7db2e8b219f51f7": "2026-08-27T23:39:21.623512+00:00",
+    "e80539269ed169b4": "2026-08-27T23:39:21.623512+00:00",
+    "4f94afc2db63548b": "2026-08-27T23:39:21.623512+00:00",
+    "a263984d0eb18285": "2026-08-27T23:39:21.623512+00:00",
+    "4ac1c0a156f8a330": "2026-08-27T23:39:21.623512+00:00",
+    "4d6122909b1c2cef": "2026-08-27T23:39:21.623512+00:00",
+    "2c17cc93595a0160": "2026-08-27T23:39:21.623512+00:00",
+    "fdff2f38c0111a6e": "2026-08-27T23:39:21.623512+00:00",
+    "ab3bf8007947f12f": "2026-08-27T23:39:21.623512+00:00",
+    "4e53a7a866b378a1": "2026-08-27T23:39:21.623512+00:00",
+    "8184fc114aa49945": "2026-08-27T23:39:21.623512+00:00",
+    "2bd50061395707c4": "2026-08-27T23:39:21.623512+00:00",
+    "b9c7a8cf9c57e509": "2026-08-27T23:39:21.623512+00:00",
+    "15d38f57c4a56e9a": "2026-08-27T23:39:21.623512+00:00",
+    "d84c6dec3685bbef": "2026-08-27T23:39:21.623512+00:00",
+    "62040caed1c3cecf": "2026-08-27T23:39:21.623512+00:00",
+    "c9ec023d98136c01": "2026-08-27T23:39:21.623512+00:00",
+    "02fd9dd6c3763737": "2026-08-27T23:39:21.623512+00:00",
+    "c6c9d35d41aac026": "2026-08-27T23:39:21.623512+00:00",
+    "7c71738f8e5e60f1": "2026-08-27T23:39:21.623512+00:00",
+    "4a8fe9769a4f675e": "2026-08-27T23:39:21.623512+00:00",
+    "057b9d05d17af173": "2026-08-27T23:39:21.623512+00:00",
+    "fdde20657e7686a8": "2026-08-27T23:39:21.623512+00:00",
+    "eefb5c8fd559ed82": "2026-08-27T23:39:21.623512+00:00",
+    "8b2d708e9331311d": "2026-08-27T23:39:21.623512+00:00",
+    "03bc29b6584dfdc8": "2026-08-27T23:39:21.623512+00:00",
+    "83e4425ac213ac5e": "2026-08-27T23:39:21.623512+00:00",
+    "b181033ebf978f73": "2026-08-27T23:39:21.623512+00:00",
+    "3bdc360712471989": "2026-08-27T23:39:21.623512+00:00",
+    "8ca0540da4ed47b2": "2026-08-27T23:39:21.623512+00:00",
+    "4b6eeecbb185b7f2": "2026-08-27T23:39:21.623512+00:00",
+    "92ecdd62808c5d44": "2026-08-27T23:39:21.623512+00:00",
+    "246b5d91b4c4b9b6": "2026-08-27T23:39:21.623512+00:00",
+    "577d012850229ea3": "2026-08-27T23:39:21.623512+00:00",
+    "08eb4d66dd4167a0": "2026-08-27T23:39:21.623512+00:00",
+    "e9b33d7a7983b55a": "2026-08-27T23:39:21.623512+00:00",
+    "031903f12a8c35a9": "2026-08-27T23:39:21.623512+00:00",
+    "b8d952dd17566c8d": "2026-08-27T23:39:21.623512+00:00",
+    "cfe96da04c7b77fc": "2026-08-27T23:39:21.623512+00:00",
+    "b68c460a31b979fa": "2026-08-27T23:39:21.623512+00:00",
+    "2b750a2793048878": "2026-08-27T23:39:21.623512+00:00",
+    "bc7b531c9958197f": "2026-08-27T23:39:21.623512+00:00",
+    "5acf9fef98b3d949": "2026-08-27T23:39:21.623512+00:00",
+    "1eaf536add8b36ab": "2026-08-27T23:39:21.623512+00:00",
+    "f2349db9a294265f": "2026-08-27T23:39:21.623512+00:00",
+    "0aadc2c5b9e51c03": "2026-08-27T23:39:21.623512+00:00",
+    "2dcfa1cc3ebfdc20": "2026-08-27T23:39:21.623512+00:00",
+    "2f68fe759e0e5cde": "2026-08-27T23:39:21.623512+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "SMX embeds invisible markers in materials so records can follow them - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzBmWlNkQmpGZ2dINGpFVWY3dFFZQjZwVlhHN1ZZRlVRaGNmUHRmT0N2NXBUN0pCbHdTbkdOUHN6Z2JQc1pFV3VNZ0hwTmZoOFU3WGgtX3psZGs3LS14TFZ3U2xFM3M5TkxKUlNGRElEWHZCYkZHSDhtMHp6N3ZnN19iRGRCakdUTTNYbVpIaEhCOXFVYjJiLTZ0TlVVT20zMUdiclEwQUdYQWdqOFRYRk52QXB6XzhBMkRV?oc=5",
+      "pub": "2026-08-27T12:30:00+00:00",
+      "id": "3bdc360712471989"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Regulation lags behind technology - RECYCLING magazin",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVIwbFE1a0VEYTBZWG9RUUhpSnJidUdsT053a3pQT2I2QmdvNWJEbWRlY0hvMXladi1ocGdWcE5iLTRKRTdEdTQ0dEJDMmxyMlhheEVHTFZQb0h5bTN0Q3lheXFoMkprWURwU0pQbS1zNm5selprZGQtbGxjX0FKaGZSaw?oc=5",
+      "pub": "2026-08-27T12:00:00+00:00",
+      "id": "8ca0540da4ed47b2"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Two more additions to the collection",
+      "link": "https://www.reddit.com/r/MrJonesWatches/comments/1w05bw4/two_more_additions_to_the_collection/",
+      "pub": "2026-08-27T20:22:15+00:00",
+      "id": "4b6eeecbb185b7f2"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Go to Friends and Co. coffee shop! By the Coors field",
+      "link": "https://www.reddit.com/r/MyChemicalRomance/comments/1vzvbkz/go_to_friends_and_co_coffee_shop_by_the_coors/",
+      "pub": "2026-08-27T14:20:00+00:00",
+      "id": "92ecdd62808c5d44"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA, EU project seek stronger safety net for RMG workers - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzg2QVJLOVVPQkZOUi1pb0hBZTZGMmx6Zl8xM2ljVDNJaGd6ODZjT1RpVTVWMDV6WEtFaExlNkR6aTBuVW1lWW9vdFJMQV8yWHl2VnltZ1BrdHlaMEVlMl9NVWZqRThkbXhSWFBKQ19mZEV6U0w0RGp0dGVheUxTemJlQS10Qkt6WmlaR1hfdFdNZDltZC1fMDM4VUtsREd5WURQNlhYWW53Q1c0YTI4SFpCS1c4cmFFNGtkbG9Jbnd5SmxqdTQw0gHHAUFVX3lxTFBLODZBUks5VU9CRk5SLWlvSEFlNkYybHpmXzEzaWNUM0loZ3o4NmNPVGlVNVYwNXpYS0VoTGU2RHppMG5VbWVZb290UkxBXzJYeXZWeW1nUGt0eVowRWUyX01VZmpFOGRteFJYUEpDX2ZkRXpTTDREanR0ZWF5TFN6YmVBLXRCS3paaVpHWF90V01kOW1kLV8wMzhVS2xER3lZRFA2WFhZbndDVzRhMjhIWkJLVzhyYUU0a2Rsb0lud3lKbGp1NDA?oc=5",
+      "pub": "2026-08-27T18:00:00+00:00",
+      "id": "246b5d91b4c4b9b6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh’s RMG exports rise 11% in Q4 FY26 - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MbE1tOWYweFJ5SDJ1MGUyRl9mRmRGLVMzV1RibzNsaWVUSUdVZ0hVVkJDbzN3aDFaX0p1bzA0cDE0OTVDdHh1OGx5QkxyRThXbE5LMFFKclQtSEZKalE1OVU1Q0JoQjNXWjNoSWpiZVlrWjhTVW5aTmt3UQ?oc=5",
+      "pub": "2026-08-27T11:55:48+00:00",
+      "id": "577d012850229ea3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA holds orientation workshop on social protection programmes for garment workers - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uUExzLUdhaElsYXBsdXVaTlFqZDY0LU01V2x1MWRMQnZDVEFEaGZEbE96dXNnUmdpNHJUQjR3aWNGemVJU1FlUENySllzWGhS?oc=5",
+      "pub": "2026-08-27T12:26:07+00:00",
+      "id": "08eb4d66dd4167a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Could the $5,106 US-EU freight gap reshape apparel sourcing? - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2o1d1VSMkdUTkFMTW11Z0Z6b3VwS1RDNzExb1dQb3BpTlg5enNNMEhoZWZDZU5Na3B2bzRJMzdxMXRoTTN1TEZ0SWVRWUt2MGhGeXNTZDlSaDI3Zm1QWWlZUkxBb1NRV09lMTdjNEJ6Uk5VTnAzcXo4TzN1TVd4M2g0alZCdjVWNklVWHFGMWlTU1hydDN4cXRvQ2F0SWxOR21tZXM2VVRRTC1fbnd6NGJWRTg1SjVjRXAtSU80blF4S0hzeFE2ZEMwNkhXUzdvOENWVA?oc=5",
+      "pub": "2026-08-27T11:37:41+00:00",
+      "id": "e9b33d7a7983b55a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| China's 19% Japan apparel decline could open India a $31bn market - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0yYl9TOWtFWGxKZ0VYajZzb3ZBVWM2dzd4RVJDdW56b1BhaEZ0eWNQc0RtR29YZjZmZEp6NjBDR0FQOW81VGtjdDhfaEVGbERxeFQ0aFA4MW5tSHVxMHJiUDRvMUNVd3E5QjNRVGZRWlh2Mml0NjJwTzJDMHZ2SEo0c1cwOFpmbjBENDdyeGNmdDF0ZHFPWnZ6VFhUc1h1VUl6cDUwbF9mRGlFOUdjelF2aFZfNzJEcUFuUnZ1VkpoTGgtNmFEVTYxbkYxVHI3M0xOLXllakFHR0k?oc=5",
+      "pub": "2026-08-27T12:27:55+00:00",
+      "id": "031903f12a8c35a9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Workshop held at BGMEA on UWPP, LIMS - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVlCV005aExmQnhFYkZnVTBlZ2FoQzBKSU1WX1RwbVIzNm1iOU4tRUVwTjA0ZVVURDU3cldyVmRsU05iM25OeGdKR3JULUN6SkFfemNCR0laVS1UWm5Zak5QUGctWE1CWjJHWkoyNnNjVlNuT3hja2t2Q2xTT0tuOWVR?oc=5",
+      "pub": "2026-08-27T14:49:51+00:00",
+      "id": "b8d952dd17566c8d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, EU project seek stronger safety net for RMG workers - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzg2QVJLOVVPQkZOUi1pb0hBZTZGMmx6Zl8xM2ljVDNJaGd6ODZjT1RpVTVWMDV6WEtFaExlNkR6aTBuVW1lWW9vdFJMQV8yWHl2VnltZ1BrdHlaMEVlMl9NVWZqRThkbXhSWFBKQ19mZEV6U0w0RGp0dGVheUxTemJlQS10Qkt6WmlaR1hfdFdNZDltZC1fMDM4VUtsREd5WURQNlhYWW53Q1c0YTI4SFpCS1c4cmFFNGtkbG9Jbnd5SmxqdTQw0gHHAUFVX3lxTFBLODZBUks5VU9CRk5SLWlvSEFlNkYybHpmXzEzaWNUM0loZ3o4NmNPVGlVNVYwNXpYS0VoTGU2RHppMG5VbWVZb290UkxBXzJYeXZWeW1nUGt0eVowRWUyX01VZmpFOGRteFJYUEpDX2ZkRXpTTDREanR0ZWF5TFN6YmVBLXRCS3paaVpHWF90V01kOW1kLV8wMzhVS2xER3lZRFA2WFhZbndDVzRhMjhIWkJLVzhyYUU0a2Rsb0lud3lKbGp1NDA?oc=5",
+      "pub": "2026-08-27T18:00:00+00:00",
+      "id": "246b5d91b4c4b9b6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Bangladesh’s Factory Fans Get Second Wind - WWD",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUF5dWt2WGh0V3BVamE3N0ozdlE2dUdTbU5XblUtT1dXYjhiMmxiWVlkb0drZEN3TkRoaFVvUkEzQ3BKNEFBcFhubHNiYi13WDNyeDdhRV9nVlhlSXVIR0UtUEU3SzRVbEZSUTFDRGRTR3hhR08waS1OdU9IS0tHckt5Q3UxMmdLUnBXbGZaMWg2a2lCd0ZPWkgwQkNiaDlFemktNml0Vl9mLXp2WEFv?oc=5",
+      "pub": "2026-08-27T16:36:13+00:00",
+      "id": "cfe96da04c7b77fc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA holds orientation workshop on social protection programmes for garment workers - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uUExzLUdhaElsYXBsdXVaTlFqZDY0LU01V2x1MWRMQnZDVEFEaGZEbE96dXNnUmdpNHJUQjR3aWNGemVJU1FlUENySllzWGhS?oc=5",
+      "pub": "2026-08-27T12:26:07+00:00",
+      "id": "08eb4d66dd4167a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "WAWWA automates fabric cutting to cut waste and boost productivity - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVdteDFsLTFRQk5QbzFJTi1NNWRVTjEtWDM1WHkzZWltanpTbDRFeHExcGRsVVhCdkhXX1dxbzJ6X05xMThIOW4xZFpPZTF6YjNfMHNvVmd5eURiaGo3STNQbHd0Nk5sY28xUHlTb3VDMHVmUGFCcFJpRkNuLTJRZ19ybmd3cjVNUmpGc1luRWI1VzBRN2NXRldsczdNMWs?oc=5",
+      "pub": "2026-08-27T03:43:17+00:00",
+      "id": "b68c460a31b979fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Workshop held at BGMEA on UWPP, LIMS - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVlCV005aExmQnhFYkZnVTBlZ2FoQzBKSU1WX1RwbVIzNm1iOU4tRUVwTjA0ZVVURDU3cldyVmRsU05iM25OeGdKR3JULUN6SkFfemNCR0laVS1UWm5Zak5QUGctWE1CWjJHWkoyNnNjVlNuT3hja2t2Q2xTT0tuOWVR?oc=5",
+      "pub": "2026-08-27T14:49:51+00:00",
+      "id": "b8d952dd17566c8d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh’s RMG exports rise 11% in Q4 FY26 - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MbE1tOWYweFJ5SDJ1MGUyRl9mRmRGLVMzV1RibzNsaWVUSUdVZ0hVVkJDbzN3aDFaX0p1bzA0cDE0OTVDdHh1OGx5QkxyRThXbE5LMFFKclQtSEZKalE1OVU1Q0JoQjNXWjNoSWpiZVlrWjhTVW5aTmt3UQ?oc=5",
+      "pub": "2026-08-27T11:55:48+00:00",
+      "id": "577d012850229ea3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Apparel sector needs worker-centred plan for green transition: Stakeholders - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRkVlS05OUHdndVdzTm9rRVl2UUdEODNfQXdvRUpHdE1DQ3BMMnRiZjNha2Frc3ZQenA4QjVia1JmbmdsN2VlYlJTYUQ0b0stT1pvWmhwejFoWGF3QzM4MzFyQmpMdGZ2Vm9ORG5DVUlaRmFiVkt1VEcyVDZvZmVZTE9EdTlPNUgxZ1VtaDNHbGJsbjNiTEg1YjhIMUlTZDQ3aHMxTmVLdFpIOTlvQktfdEZuN3XSAboBQVVfeXFMTlRtcUJ2NWhmT3ZLOVpCNWZPUmpDSVB4SF9ZbXdoR2R5ZVJ4ZTVIeGM5b2p6eGRzbVM2bVVKVGEwbTdOU1NEbEFrUDd5NVFDRjY1RmJtSl9tMm1XMi1UeDByeC01bFEwTzZxRXIwNUVXWW5ha3ZaeTRaR0MwdnhrSDBpcS11RG82OHpBMmpQTWdxR0lRaWRfVHlXX3VSSW1tdEQzOFFhTHdrWTR5Y2ZIdVJFZlBDZkxGX3Rn?oc=5",
+      "pub": "2026-08-27T20:39:15+00:00",
+      "id": "2b750a2793048878"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক শ্রমিকদের নতুন সুরক্ষা: চাকরি হারালেও মিলবে ৩ মাসের নগদ সহায়তা - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPOHZZOU5QMUVwakJfYk1OeWJIdW9fdUVmTXZ6ajUycnktNHlHN3hyczA4clhLbmtCVDdzdXpZazRFZi02LUJTVW5OT2Fma0hTUkUycXQyN1NGSFdyZ2x1NmRUcVk3ZVRmeTNqcTk2OHU2anpURWhieWlMNlF5NVJVYUliemlNOUp3OEdNdTBmb21DSjJfcFZqVm93RU1wZzNMQWxPVXhiLTJNWU9oa2EtUFpKTmRZbEtzeDFVQVBNaWZEYlc3UUFTNVQ3UldOVjhkRmlfazA5SWF0RTR0TE1XbWZqd1N3VWhCYkpxVkRrWDBVSnVvbmltZ0k3NFVKOHIyamUwRG5pcUhSQjFYT3NvNzJuS2dzUGJLNzI0dlkyS08yTTliT3M3aHpMUTZrY09LdjF4Tjk2U290amExZVFLWlg3QVItOHpMZkRkZmZyOGxwakRQT3dwRHdPX3Q4Mm4zWXFHRTNJeUlEekNJdFQySjVUUk9rT0dRZlZROW5ST0IzNXpFZkdLOUE0QUtUeFJZcjdEcnFfYXFKNjNQWGVXS3N1UGtWY2d6VEl3ZUliOHJxaFZXaWNOaFNEZTBuZHEwTkhKMktKWHJXQjNMQ1pfM1pkZlU1dVJYMW5UQlhjcXljdXJ3LVNncXhaT0d6VjdDYWRpQzRReklfd0xrZzRoN3FBWlRkajRfZWowMGYwMGUyblV1VS1jZ2xPZ1RLWUZqNXBmNkpXay16Z094bGlPdnZzaFdMc254czZORjFRdFB4dzd6eXgzNDN3VVRQX0E5ZUctcDI4bDZNT0ZDSkpqMDcxbC1DQdIB5gRBVV95cUxPOHZZOU5QMUVwakJfYk1OeWJIdW9fdUVmTXZ6ajUycnktNHlHN3hyczA4clhLbmtCVDdzdXpZazRFZi02LUJTVW5OT2Fma0hTUkUycXQyN1NGSFdyZ2x1NmRUcVk3ZVRmeTNqcTk2OHU2anpURWhieWlMNlF5NVJVYUliemlNOUp3OEdNdTBmb21DSjJfcFZqVm93RU1wZzNMQWxPVXhiLTJNWU9oa2EtUFpKTmRZbEtzeDFVQVBNaWZEYlc3UUFTNVQ3UldOVjhkRmlfazA5SWF0RTR0TE1XbWZqd1N3VWhCYkpxVkRrWDBVSnVvbmltZ0k3NFVKOHIyamUwRG5pcUhSQjFYT3NvNzJuS2dzUGJLNzI0dlkyS08yTTliT3M3aHpMUTZrY09LdjF4Tjk2U290amExZVFLWlg3QVItOHpMZkRkZmZyOGxwakRQT3dwRHdPX3Q4Mm4zWXFHRTNJeUlEekNJdFQySjVUUk9rT0dRZlZROW5ST0IzNXpFZkdLOUE0QUtUeFJZcjdEcnFfYXFKNjNQWGVXS3N1UGtWY2d6VEl3ZUliOHJxaFZXaWNOaFNEZTBuZHEwTkhKMktKWHJXQjNMQ1pfM1pkZlU1dVJYMW5UQlhjcXljdXJ3LVNncXhaT0d6VjdDYWRpQzRReklfd0xrZzRoN3FBWlRkajRfZWowMGYwMGUyblV1VS1jZ2xPZ1RLWUZqNXBmNkpXay16Z094bGlPdnZzaFdMc254czZORjFRdFB4dzd6eXgzNDN3VVRQX0E5ZUctcDI4bDZNT0ZDSkpqMDcxbC1DQQ?oc=5",
+      "pub": "2026-08-27T15:49:45+00:00",
+      "id": "bc7b531c9958197f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "পোশাক শ্রমিকদের সামাজিক সুরক্ষায় বিজিএমইএতে কর্মশালা - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pc3pnV1VWbVFfZENtX1pNaHJtRW93VDllSlJJZ1BKMGVJWlBvRkhTUUx1S09Obl9tbk93N2UwZ0lpTHBpYzcwa0VHVDc4aHlWczM4ZWNDQVhpc2RHX2dtak9QWVN4Z09PX0V3?oc=5",
+      "pub": "2026-08-27T13:25:51+00:00",
+      "id": "5acf9fef98b3d949"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "শিল্প খাতে জনপ্রিয় হচ্ছে ছাদভিত্তিক সৌরবিদ্যুৎ - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQN3UxbUNkRFVxV2tNV3RJclM4V0dDUzdCV0d2aVE4SXFFTVl4Y1EwbWFmNGZYLWt3S0YtSE9ZMG9Pb296OWt2VURiNkVxRG5jbXRYMVRqZTF1UjNSUTltVC0xMFMzNERkWVpMdFJKMEhJemFHdFZSTnl2X3lpX1Exd3NqNUdocGU0R0RidmNENTJxSWVZVWV4VWF5Mm5FUjF0VTlpYzBzdHRFeEh6ZkFkaXVuTXJoY0JtTHRDMGhJMnZjQ1ViV0JVdnFVNTVhMWtxNTFJZWRVeUV5U2s0czZMMG1YTEttWjBaeGJoVWd1WERzYmdoOV8tLXNnZlNlbHkxVGRhUTY3WGdjcVQ4YlNVcUVxTWFlN2hnZnNsQ1N3WmxoeTJxb2JzenNLaU1SWnFSN1pKZndiYjRaSldwUktNTXRKOUZGSER2Q2JKWWh5OFJCMG5jbmZUVmFiRTJNUERYYno1bWpNNjFueEM2MHMtd0pOc3liMDZKQlEwWVdKT2tmQUM5RUVHWHVycThLaDA0cEJDT3MyUGdwMmRsRUlubVl5UmNJX1EyWHNod2NNRlZIbEtPYWZuUlBxNnY1MmdUTTYybGN2eTExMFdhZ0ZueV9taUdmXy1ZVjhzWmItc2hCV2k3WVFhb3ZOMXg3dzJkQ3pyeTk0QWYyUlNUUlhSV3g0YWF5a18tNG80bnNRS19fSEN3eVVtTjV0MnhtSDR4SUpyOXNOdzV0Ym9TX2k4b0h1X0ViWmxYNGJZTFhIUE5MMFNRcEdWVjBtRQ?oc=5",
+      "pub": "2026-08-27T10:27:00+00:00",
+      "id": "1eaf536add8b36ab"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "জ্বালানি সংকটে শিল্পকারখানায় সৌরবিদ্যুতের দিকে ঝুঁকছেন উদ্যোক্তারা, উৎপাদনক্ষমতা ছাড়িয়েছে ৬০০ মেগাওয়াট - AmaderShomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQYUphdUNVdWVPZnRhbjVhMmxDZ1lDcnBIbUpscUNwRzllVktxcDNYUnVnMnVhQkhfS0FKUS1zQlJRYU5yTU5wQlFlZzRsTnJBMmdzM0dOVy1IZk9PdzQzYzBiZ1R0YjM1TVphVG9UU2daVGxwZ3B1U24tRVhzWnhuTlFsdHIwM2RVclZPYnJtY3BoeF8zWHYxTVhSUnpJSnFGMHhaeFp6Xy04LWpLM0FOeFhVVXk2MmJRRjJzdlVuVGxXc0s5ZTNKcDBKRjRjbzBxR25ZWk9abm5LNXg0MkktcVZTdTgwaHQxcmw2QU5xYkZuRXR2bERxbnNLS21qTUI2Sm1jcXZ4a0lLR09yREZzSy1HamVfTWo4THl3TDREZkFpbkhwRzJZLWR4Q3JhZVhtMUZZTVg2M0liS3Vmc0JVTEIwVWtLSTE3Q0xORk5ZenoyR0o5aWZTTWRFTzFQLU02NDN5WGhuUTczeWdWYjJF?oc=5",
+      "pub": "2026-08-27T03:36:00+00:00",
+      "id": "f2349db9a294265f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শিল্পের টেকসই প্রবৃদ্ধিতে শ্রমিক সুরক্ষা জরুরি - কালবেলা",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMGlpbGVTZjE5UmRWQllkTngzbUlPN0ZlREx2Rk95WDNKMTVCeDFjSU9OUGkyVkc2NWFXUTBFdjNYeXlHbTZROUdoclEtMmRjQjhIZUxXaw?oc=5",
+      "pub": "2026-08-27T16:06:04+00:00",
+      "id": "0aadc2c5b9e51c03"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের সামাজিক সুরক্ষায় বিজিএমইএতে কর্মশালা | বাণিজ্য | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45b1duVC1VOW8yWGJ5czY4alFXdFk1TTQxTy1hLUZZXzVZRlVaTDFwbmRoVUJSTkVyQVR0TDdDLWdoa3Q3cmxCRl9RaEJTVExkY29tMzZB?oc=5",
+      "pub": "2026-08-27T12:39:00+00:00",
+      "id": "2dcfa1cc3ebfdc20"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের নতুন সুরক্ষা: চাকরি হারালেও মিলবে ৩ মাসের নগদ সহায়তা - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPOHZZOU5QMUVwakJfYk1OeWJIdW9fdUVmTXZ6ajUycnktNHlHN3hyczA4clhLbmtCVDdzdXpZazRFZi02LUJTVW5OT2Fma0hTUkUycXQyN1NGSFdyZ2x1NmRUcVk3ZVRmeTNqcTk2OHU2anpURWhieWlMNlF5NVJVYUliemlNOUp3OEdNdTBmb21DSjJfcFZqVm93RU1wZzNMQWxPVXhiLTJNWU9oa2EtUFpKTmRZbEtzeDFVQVBNaWZEYlc3UUFTNVQ3UldOVjhkRmlfazA5SWF0RTR0TE1XbWZqd1N3VWhCYkpxVkRrWDBVSnVvbmltZ0k3NFVKOHIyamUwRG5pcUhSQjFYT3NvNzJuS2dzUGJLNzI0dlkyS08yTTliT3M3aHpMUTZrY09LdjF4Tjk2U290amExZVFLWlg3QVItOHpMZkRkZmZyOGxwakRQT3dwRHdPX3Q4Mm4zWXFHRTNJeUlEekNJdFQySjVUUk9rT0dRZlZROW5ST0IzNXpFZkdLOUE0QUtUeFJZcjdEcnFfYXFKNjNQWGVXS3N1UGtWY2d6VEl3ZUliOHJxaFZXaWNOaFNEZTBuZHEwTkhKMktKWHJXQjNMQ1pfM1pkZlU1dVJYMW5UQlhjcXljdXJ3LVNncXhaT0d6VjdDYWRpQzRReklfd0xrZzRoN3FBWlRkajRfZWowMGYwMGUyblV1VS1jZ2xPZ1RLWUZqNXBmNkpXay16Z094bGlPdnZzaFdMc254czZORjFRdFB4dzd6eXgzNDN3VVRQX0E5ZUctcDI4bDZNT0ZDSkpqMDcxbC1DQdIB5gRBVV95cUxPOHZZOU5QMUVwakJfYk1OeWJIdW9fdUVmTXZ6ajUycnktNHlHN3hyczA4clhLbmtCVDdzdXpZazRFZi02LUJTVW5OT2Fma0hTUkUycXQyN1NGSFdyZ2x1NmRUcVk3ZVRmeTNqcTk2OHU2anpURWhieWlMNlF5NVJVYUliemlNOUp3OEdNdTBmb21DSjJfcFZqVm93RU1wZzNMQWxPVXhiLTJNWU9oa2EtUFpKTmRZbEtzeDFVQVBNaWZEYlc3UUFTNVQ3UldOVjhkRmlfazA5SWF0RTR0TE1XbWZqd1N3VWhCYkpxVkRrWDBVSnVvbmltZ0k3NFVKOHIyamUwRG5pcUhSQjFYT3NvNzJuS2dzUGJLNzI0dlkyS08yTTliT3M3aHpMUTZrY09LdjF4Tjk2U290amExZVFLWlg3QVItOHpMZkRkZmZyOGxwakRQT3dwRHdPX3Q4Mm4zWXFHRTNJeUlEekNJdFQySjVUUk9rT0dRZlZROW5ST0IzNXpFZkdLOUE0QUtUeFJZcjdEcnFfYXFKNjNQWGVXS3N1UGtWY2d6VEl3ZUliOHJxaFZXaWNOaFNEZTBuZHEwTkhKMktKWHJXQjNMQ1pfM1pkZlU1dVJYMW5UQlhjcXljdXJ3LVNncXhaT0d6VjdDYWRpQzRReklfd0xrZzRoN3FBWlRkajRfZWowMGYwMGUyblV1VS1jZ2xPZ1RLWUZqNXBmNkpXay16Z094bGlPdnZzaFdMc254czZORjFRdFB4dzd6eXgzNDN3VVRQX0E5ZUctcDI4bDZNT0ZDSkpqMDcxbC1DQQ?oc=5",
+      "pub": "2026-08-27T15:49:45+00:00",
+      "id": "bc7b531c9958197f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের সামাজিক সুরক্ষায় ওরিয়েন্টেশন কর্মশালা অনুষ্ঠিত - BD Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yQ2xzRGVTbmJGbzkyclJrT0U5WHUxSnV4NkNRdXZRLVM3MXJNY3c3VWdlMlcyeTRUXzJiSUNBWm1INVJlZHRfMEhXWFpPUk9raHNTbQ?oc=5",
+      "pub": "2026-08-27T14:24:00+00:00",
+      "id": "2f68fe759e0e5cde"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের সামাজিক সুরক্ষায় বিজিএমইএতে কর্মশালা - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pc3pnV1VWbVFfZENtX1pNaHJtRW93VDllSlJJZ1BKMGVJWlBvRkhTUUx1S09Obl9tbk93N2UwZ0lpTHBpYzcwa0VHVDc4aHlWczM4ZWNDQVhpc2RHX2dtak9QWVN4Z09PX0V3?oc=5",
+      "pub": "2026-08-27T13:25:51+00:00",
+      "id": "5acf9fef98b3d949"
+    }
+  ]
 }
