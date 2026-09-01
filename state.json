@@ -1,37 +1,5 @@
 {
   "seen": {
-    "fa3813a5652f00a3": "2026-08-02T15:04:14.933757+00:00",
-    "13f9f2e374aad842": "2026-08-02T15:04:14.933757+00:00",
-    "bccf5540e5342c72": "2026-08-02T15:04:14.933757+00:00",
-    "14fdacaa31cb0901": "2026-08-02T15:04:14.933757+00:00",
-    "90fb787da1fee3df": "2026-08-02T15:04:14.933757+00:00",
-    "436a6d461e63b81f": "2026-08-02T15:04:14.933757+00:00",
-    "0b40b6e74697a31c": "2026-08-02T15:04:14.933757+00:00",
-    "32ddc0d24b376abd": "2026-08-02T15:04:14.933757+00:00",
-    "b136a2b6e807b05b": "2026-08-02T15:04:14.933757+00:00",
-    "a0a0c7ecb401b21c": "2026-08-02T15:04:14.933757+00:00",
-    "f1eb0d402da2dc32": "2026-08-02T15:04:14.933757+00:00",
-    "e1c50b6dc675f7c5": "2026-08-02T15:04:14.933757+00:00",
-    "9c9b35e03fbdca3b": "2026-08-02T15:04:14.933757+00:00",
-    "b7e5a720d48efc66": "2026-08-02T15:04:14.933757+00:00",
-    "c71d94a438531c7c": "2026-08-02T15:04:14.933757+00:00",
-    "ce8af7a2e38731e1": "2026-08-02T15:04:14.933757+00:00",
-    "2c18328fa0ff4e0b": "2026-08-02T15:04:14.933757+00:00",
-    "3dbe6e4e41c56845": "2026-08-02T15:04:14.933757+00:00",
-    "ade3c9aea8cda24e": "2026-08-02T15:04:14.933757+00:00",
-    "ef707166e8a09cce": "2026-08-02T15:04:14.933757+00:00",
-    "e7357e6a82059049": "2026-08-02T15:04:14.933757+00:00",
-    "607fc7424f95d250": "2026-08-02T15:04:14.933757+00:00",
-    "6c7b0a55dee8908b": "2026-08-02T15:04:14.933757+00:00",
-    "33dd49bb30c56bc5": "2026-08-02T15:04:14.933757+00:00",
-    "3677ac7c83f95b32": "2026-08-02T15:04:14.933757+00:00",
-    "1bde38c5095f3869": "2026-08-02T15:04:14.933757+00:00",
-    "3bcd8a740bda0745": "2026-08-02T15:04:14.933757+00:00",
-    "e1fdf4d14809753d": "2026-08-02T15:04:14.933757+00:00",
-    "5859d2acbd92b797": "2026-08-02T15:04:14.933757+00:00",
-    "00cfeb7cc343628a": "2026-08-02T15:04:14.933757+00:00",
-    "a3d84bf711a93e24": "2026-08-02T15:04:14.933757+00:00",
-    "e69e4438ed45ea03": "2026-08-02T15:04:14.933757+00:00",
     "916f195eb6748ee0": "2026-08-03T05:44:57.473609+00:00",
     "469b7497866f83bb": "2026-08-03T05:44:57.473609+00:00",
     "fc9f20a3847de4fc": "2026-08-03T05:44:57.473609+00:00",
@@ -2431,7 +2399,33 @@
     "5c400d7f058f106f": "2026-09-01T13:14:08.002154+00:00",
     "dc65331b599b2488": "2026-09-01T13:14:08.002154+00:00",
     "b139c525b506048c": "2026-09-01T13:14:08.002154+00:00",
-    "1a6a2e6eb2a53436": "2026-09-01T13:14:08.002154+00:00"
+    "1a6a2e6eb2a53436": "2026-09-01T13:14:08.002154+00:00",
+    "08e8c6fe5be760a0": "2026-09-01T17:41:14.570623+00:00",
+    "7e42a4ba2a1eb209": "2026-09-01T17:41:14.570623+00:00",
+    "a64e95a3f0185380": "2026-09-01T17:41:14.570623+00:00",
+    "4569ebffdc302d50": "2026-09-01T17:41:14.570623+00:00",
+    "c004e633c0c40ffc": "2026-09-01T17:41:14.570623+00:00",
+    "c4c082d49563ea2b": "2026-09-01T17:41:14.570623+00:00",
+    "4b10d8da2d7cf28b": "2026-09-01T17:41:14.570623+00:00",
+    "736c9aebfd00e6ee": "2026-09-01T17:41:14.570623+00:00",
+    "c26495a1e3780b78": "2026-09-01T17:41:14.570623+00:00",
+    "9839ffff465591ea": "2026-09-01T17:41:14.570623+00:00",
+    "c13f3056441ee39c": "2026-09-01T17:41:14.570623+00:00",
+    "2f342bbbe394cf7c": "2026-09-01T17:41:14.570623+00:00",
+    "1620c80f4ee91899": "2026-09-01T17:41:14.570623+00:00",
+    "96e0dcfd4b8a42a3": "2026-09-01T17:41:14.570623+00:00",
+    "fea62f2bb3d4a255": "2026-09-01T17:41:14.570623+00:00",
+    "71b4568f7a9f124b": "2026-09-01T17:41:14.570623+00:00",
+    "a10f7af11c84a91c": "2026-09-01T17:41:14.570623+00:00",
+    "010628ecb0c13da3": "2026-09-01T17:41:14.570623+00:00",
+    "557869d4ae159f57": "2026-09-01T17:41:14.570623+00:00",
+    "025bdface39a4d12": "2026-09-01T17:41:14.570623+00:00",
+    "827fe534c4846a47": "2026-09-01T17:41:14.570623+00:00",
+    "e7de2a92dd86fa16": "2026-09-01T17:41:14.570623+00:00",
+    "a297faa96f787c1b": "2026-09-01T17:41:14.570623+00:00",
+    "3e810c3a255fe802": "2026-09-01T17:41:14.570623+00:00",
+    "a60dae95a4363f08": "2026-09-01T17:41:14.570623+00:00",
+    "6aab72002ce8c2cd": "2026-09-01T17:41:14.570623+00:00"
   },
   "yesterday_items": [
     {
@@ -2617,6 +2611,54 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ILWVmMlpiZTZrTmtpVHRYZ0FBNEdrZEdpNDJITU9idTJpbGpNaTgxazM0bTVTaWJkakFGYjNMOFprMlY4Rlc4bDRkQjhBZUE4Y0p4UmpNc2I1QVc2R19CWmF5b0Y1T2UtWmh1eVNQUQ?oc=5",
       "pub": "2026-09-01T06:35:00+00:00",
       "id": "1a6a2e6eb2a53436"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Exports rebound in August, rise 13.14pc - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRl96eEowQjRQQUhWb0hmUkFxN2Q1OTJwem9Fc0Z5bWp1Ti1hSnNyMlZHbG81WTVWY0RGX25wTUlVM2R1RnBfOGF6ZGRuSWVvdlJHUG1VRXRoXzdSYjhLaHFmeTZoMFN3eURhbW44RnZHd2hvanhqaU5VNUdEdDZjZUtQdjJFTGx1dTF6Wml3WlBPdWc?oc=5",
+      "pub": "2026-09-01T17:00:24+00:00",
+      "id": "827fe534c4846a47"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| TEXPROCIL takes India's textile industry into the AI era - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXdzMVotcERhbS1LQktwZUxGME5zTzJBa1J2dWdSc3NtOG9BOTBWRmpXSVNIM0RMZEhkUFF3OXM1Mjk4WVFiRUtXWkdFUDFpR3NwcVRoYXQycmRsUXVvS1JscnBiZVZzbUI5SFdCY1p1T09xdlh4QlV3YjNyMGN0azkyWTd3aHpZM2pib0FvclNaT01wTU5iY1hCRm5PMms5eWFPR19hb0FiWVRBUGtlWkt0M0g0M2pNMjVXVDNhdUhvVy1tc0ZoOG05cl9ubXYtekx0SkNzRlE0dFlY?oc=5",
+      "pub": "2026-09-01T11:09:02+00:00",
+      "id": "e7de2a92dd86fa16"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Decent job prospects in climate-vulnerable areas fall: study - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOExpVTdzdVZNX3RCaHI4d29oMDMxS0Z2elpXSWlyNER4OUVKZms4d2U2TGpEWkhMTVUwbGN4dUVxc1JfS0JmQzJKV1dUZ0U2LWdjcnhCdlpfN29sZFNHN1hGWDMybG1LQkhkWUhFc0NCZi1UZVNMRTFrekRldk0xcHpIalhCX3FYbkx5WGVWM2JJWGpDQ1FIOUMyOU5YbVRGaHNkeVl2SHRhcm9ERjdWRQ?oc=5",
+      "pub": "2026-09-01T17:02:56+00:00",
+      "id": "a297faa96f787c1b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh exports rebound in August, rise 13.14pc - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnpDQkNJOVpWLXJaUkhtQm9LaHkzSldqQlhJaUNZSXRRNnlyQTVPQ3BMOURwTjY0Z19iUmtwOG40NVF0NkxTR0J3YXFwTVBjckVZaktYU1NtLXV0N1FFYmN0TnQzX3gyQmFJaktSRXQ0T2FjOTROWloyU0djTHBuV2pXNFBGak5CdmJldzRVb3hXSkhYendIQkNmVzZuWnVzaUE?oc=5",
+      "pub": "2026-09-01T13:51:00+00:00",
+      "id": "3e810c3a255fe802"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "লেমেয়ার এবং সারাহ-লিন ট্রানের পক্ষ থেকে একটি বিদায়ী বার্তা - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94UllEa2dRQUh1SlByNU00NV9PZHE5MnRXSXl6dnQwaDFNQmFpOHR0YjV2VzUxZXk2NnBHekp4cjJMRkNMMXhOcU1vY1psdV9GekY0V2drRzF1U19uVXA1Zl8tNF9qeDlwRFczZ1EtWUhKWkhaYXp0dw?oc=5",
+      "pub": "2026-09-01T17:12:23+00:00",
+      "id": "a60dae95a4363f08"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রিয় নবীজির (স.) দেশে গ্রন্থটি মুসলিম বিশ্বের জন্য ঐতিহাসিক দলিল - dainikazadi.net",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcDZ6RGZVV1FOa0hJSjdNV3RZdi05X1U5QVNKbFMwcEJFQXEzaU9kVXB1ODFkd2dsdmZHTVh1b3NJamVMdlp6UFN0Q3FZeHdHOWY2MzBLLUdvWTRnYmVTYm8yZzZ0T1RkN29pTGcycXI5amFnV1pvZWdNNTBfUEV2bFVEelY1OUV3NWNnQ19ZcUJjdVJrZFhtUzcyYVJQTVh6RDNNWEw1WWVEMGZ3a2ozMy10U3o3SXBiZ0NLVmZhWVN1cU91V1ZDRVcxVC1TZFNwY2lXUmZNczlRQXNuUTlzZ29wN2ZxRjVIR3hRRDhFd0hpWEdVTEJha1kxTVVxbW1nSUdaekRhRHBtYnN5My10ZExDNEFoa3VOejNDWldicmQ5ZTRlLUtQZFV6VHhtYmxSUWZGV1o1dHNxQUJ2dm1N?oc=5",
+      "pub": "2026-09-01T02:25:00+00:00",
+      "id": "6aab72002ce8c2cd"
     }
   ]
 }
