@@ -1,58 +1,5 @@
 {
   "seen": {
-    "2e93d4b2f7a2d876": "2026-08-05T05:16:59.736737+00:00",
-    "edf24fbb42a1be50": "2026-08-05T05:16:59.736737+00:00",
-    "430d43e0a80c3a0b": "2026-08-05T05:16:59.736737+00:00",
-    "00a82192d394f674": "2026-08-05T05:16:59.736737+00:00",
-    "7619b85e079b340e": "2026-08-05T05:16:59.736737+00:00",
-    "876d6fecca1bbb37": "2026-08-05T05:16:59.736737+00:00",
-    "e2ef02135e994137": "2026-08-05T05:16:59.736737+00:00",
-    "c1be7382caf0ef92": "2026-08-05T05:16:59.736737+00:00",
-    "4ad7445e759fb276": "2026-08-05T05:16:59.736737+00:00",
-    "f0b926b822e87ead": "2026-08-05T05:16:59.736737+00:00",
-    "4a3133fbc1bc6e31": "2026-08-05T05:16:59.736737+00:00",
-    "f87e66fbd662426f": "2026-08-05T05:16:59.736737+00:00",
-    "40577ff0f148fde4": "2026-08-05T05:16:59.736737+00:00",
-    "7bc9a159851e3239": "2026-08-05T05:16:59.736737+00:00",
-    "98d5b5cf95717dfc": "2026-08-05T05:16:59.736737+00:00",
-    "acd784024ef35a4e": "2026-08-05T05:16:59.736737+00:00",
-    "0a04da3161087995": "2026-08-05T05:16:59.736737+00:00",
-    "c19d7c9eaaf251f8": "2026-08-05T05:16:59.736737+00:00",
-    "325706a726b23bbb": "2026-08-05T05:16:59.736737+00:00",
-    "125cfa83fc13bd29": "2026-08-05T05:16:59.736737+00:00",
-    "ba40954d25a3364b": "2026-08-05T05:16:59.736737+00:00",
-    "baa91a6c34d22f88": "2026-08-05T05:16:59.736737+00:00",
-    "a0b53169e76766ac": "2026-08-05T05:16:59.736737+00:00",
-    "1298ecdf7bb4e17d": "2026-08-05T05:16:59.736737+00:00",
-    "bd9d4d82d79adc76": "2026-08-05T05:16:59.736737+00:00",
-    "a1d32cdb72f0740d": "2026-08-05T05:16:59.736737+00:00",
-    "aa1d82551ffb3a47": "2026-08-05T05:16:59.736737+00:00",
-    "1022028c4f5f3e1d": "2026-08-05T05:16:59.736737+00:00",
-    "5b4c925cc312b6bc": "2026-08-05T05:16:59.736737+00:00",
-    "1a777e2f94ec48a0": "2026-08-05T05:16:59.736737+00:00",
-    "b352000193d2fdc2": "2026-08-05T05:16:59.736737+00:00",
-    "177103508a90c064": "2026-08-05T05:16:59.736737+00:00",
-    "e49df9841ce4b4b6": "2026-08-05T05:16:59.736737+00:00",
-    "0dba470a8b497f79": "2026-08-05T05:16:59.736737+00:00",
-    "35ac2e3332376112": "2026-08-05T05:16:59.736737+00:00",
-    "f2eb8d006ca97591": "2026-08-05T05:16:59.736737+00:00",
-    "b3a9e81b7fcecb61": "2026-08-05T05:16:59.736737+00:00",
-    "cefdd9e9c34e5011": "2026-08-05T05:16:59.736737+00:00",
-    "13903fd0d887ef38": "2026-08-05T05:16:59.736737+00:00",
-    "f2a1001d320f5915": "2026-08-05T05:16:59.736737+00:00",
-    "10336b3983eda4ac": "2026-08-05T05:16:59.736737+00:00",
-    "3c87254fe72a0f3b": "2026-08-05T05:16:59.736737+00:00",
-    "0f19b0cc3bda7f1e": "2026-08-05T05:16:59.736737+00:00",
-    "e7c180252e8af621": "2026-08-05T05:16:59.736737+00:00",
-    "1742f46dd0f73b1f": "2026-08-05T05:16:59.736737+00:00",
-    "767c9b50f64a5054": "2026-08-05T05:16:59.736737+00:00",
-    "12a60abed2a0dce3": "2026-08-05T05:16:59.736737+00:00",
-    "e9321d1fe4192660": "2026-08-05T05:16:59.736737+00:00",
-    "c82baeda941043a8": "2026-08-05T05:16:59.736737+00:00",
-    "f58ae0de0c3fc5e6": "2026-08-05T05:16:59.736737+00:00",
-    "686cae68b6e637a2": "2026-08-05T05:16:59.736737+00:00",
-    "8be8c5877918b172": "2026-08-05T05:16:59.736737+00:00",
-    "bfc80795b3b9a3c3": "2026-08-05T05:16:59.736737+00:00",
     "c8eee3b9d4f5937e": "2026-08-05T10:37:49.261161+00:00",
     "9baebb900c1a0718": "2026-08-05T10:37:49.261161+00:00",
     "aa89a061e031e6e1": "2026-08-05T10:37:49.261161+00:00",
@@ -2354,17 +2301,71 @@
     "30eff8a7cd72df1c": "2026-09-03T17:37:43.472110+00:00",
     "20d74429a7bede19": "2026-09-03T17:37:43.472110+00:00",
     "c3f00fefb40022e4": "2026-09-03T17:37:43.472110+00:00",
-    "9a0f5291f1f412e8": "2026-09-03T17:37:43.472110+00:00"
+    "9a0f5291f1f412e8": "2026-09-03T17:37:43.472110+00:00",
+    "9eae9e6ec4b4844b": "2026-09-04T07:02:41.811846+00:00",
+    "3a8006fca36cbe1b": "2026-09-04T07:02:41.811846+00:00",
+    "3ddbbf8a32dc5674": "2026-09-04T07:02:41.811846+00:00",
+    "c46e4f980527660e": "2026-09-04T07:02:41.811846+00:00",
+    "156d4e33c4b9fde9": "2026-09-04T07:02:41.811846+00:00",
+    "b97c773dfe65b585": "2026-09-04T07:02:41.811846+00:00",
+    "490acdb69a3e08e9": "2026-09-04T07:02:41.811846+00:00",
+    "9918ef9677b43d4f": "2026-09-04T07:02:41.811846+00:00",
+    "673ac0de1f13099a": "2026-09-04T07:02:41.811846+00:00",
+    "b7e7afda38b88a06": "2026-09-04T07:02:41.811846+00:00",
+    "2ffbcbd56f728096": "2026-09-04T07:02:41.811846+00:00",
+    "df167ffa51dcaf3b": "2026-09-04T07:02:41.811846+00:00",
+    "128296df0a0eff48": "2026-09-04T07:02:41.811846+00:00",
+    "22e667d5211041f9": "2026-09-04T07:02:41.811846+00:00",
+    "338c7f89a9c01b14": "2026-09-04T07:02:41.811846+00:00",
+    "11cee39243feb66c": "2026-09-04T07:02:41.811846+00:00",
+    "56730b2ee6270e6b": "2026-09-04T07:02:41.811846+00:00",
+    "9b4a134e7c3d8042": "2026-09-04T07:02:41.811846+00:00",
+    "5939ac069f111b10": "2026-09-04T07:02:41.811846+00:00",
+    "2013b3ec4cdb851b": "2026-09-04T07:02:41.811846+00:00",
+    "ae232d533c2e222e": "2026-09-04T07:02:41.811846+00:00",
+    "e12ddf814390335b": "2026-09-04T07:02:41.811846+00:00",
+    "5d75ab0304fce4fd": "2026-09-04T07:02:41.811846+00:00",
+    "ba6452d3220b0774": "2026-09-04T07:02:41.811846+00:00",
+    "d798b349db7a4c3b": "2026-09-04T07:02:41.811846+00:00",
+    "12beb3b87640403f": "2026-09-04T07:02:41.811846+00:00",
+    "e1e50b1a2f3e8221": "2026-09-04T07:02:41.811846+00:00",
+    "887e7d25a9665291": "2026-09-04T07:02:41.811846+00:00",
+    "572302dfb58bdc27": "2026-09-04T07:02:41.811846+00:00",
+    "20980303adc5445c": "2026-09-04T07:02:41.811846+00:00",
+    "19221a7f556ea779": "2026-09-04T07:02:41.811846+00:00",
+    "602292393d2b2e81": "2026-09-04T07:02:41.811846+00:00",
+    "5951e16a5423bf38": "2026-09-04T07:02:41.811846+00:00",
+    "1845277859d3f3e5": "2026-09-04T07:02:41.811846+00:00",
+    "b0617b44b604c4dc": "2026-09-04T07:02:41.811846+00:00",
+    "cc962f537445b1e6": "2026-09-04T07:02:41.811846+00:00",
+    "28917ee18d7a6d0a": "2026-09-04T07:02:41.811846+00:00",
+    "58f6eaab8ecbc387": "2026-09-04T07:02:41.811846+00:00",
+    "7202b2380122a0a7": "2026-09-04T07:02:41.811846+00:00",
+    "00b54fae2d78a118": "2026-09-04T07:02:41.811846+00:00",
+    "463eb8c7b450a419": "2026-09-04T07:02:41.811846+00:00",
+    "ac1c178d2e42d5cc": "2026-09-04T07:02:41.811846+00:00",
+    "834e70152dca0c7f": "2026-09-04T07:02:41.811846+00:00",
+    "5470c9bd547c3a51": "2026-09-04T07:02:41.811846+00:00",
+    "1a14cac2eeab4fb4": "2026-09-04T07:02:41.811846+00:00",
+    "06792bf1c777c882": "2026-09-04T07:02:41.811846+00:00",
+    "36afefae197e7906": "2026-09-04T07:02:41.811846+00:00",
+    "5e7d06b42e15ef2a": "2026-09-04T07:02:41.811846+00:00",
+    "980a9f60b9739c3c": "2026-09-04T07:02:41.811846+00:00",
+    "5913ae46ce61ff59": "2026-09-04T07:02:41.811846+00:00",
+    "1887833ec2df3a29": "2026-09-04T07:02:41.811846+00:00",
+    "f93d477421f8f87b": "2026-09-04T07:02:41.811846+00:00",
+    "3be5315fc00fb4be": "2026-09-04T07:02:41.811846+00:00",
+    "e8c2946a960accca": "2026-09-04T07:02:41.811846+00:00",
+    "64cea6b7a668cdf2": "2026-09-04T07:02:41.811846+00:00",
+    "e909cd5c0414e8a6": "2026-09-04T07:02:41.811846+00:00",
+    "e8b428b0fcf3afa7": "2026-09-04T07:02:41.811846+00:00",
+    "d760ae0394d8ae0d": "2026-09-04T07:02:41.811846+00:00",
+    "77a491504e1142be": "2026-09-04T07:02:41.811846+00:00",
+    "6a123933c2dd6188": "2026-09-04T07:02:41.811846+00:00",
+    "15324f05dfe2bb41": "2026-09-04T07:02:41.811846+00:00",
+    "65cb8b491e27ead8": "2026-09-04T07:02:41.811846+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
-      "title": "EU’s Digital Product Passport creates new opportunity for African textiles - textiletoday.com.bd",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnFEVjQ0enBRZUIyOXhCNTFCR1VhMlNjaWM0S1REaTJZUXZpNmhUaU9xb2U4U25mUjg1UkE4SWZzRmZ4QVc0X0RQODluUGstWlBYMjMxLWkxNHVBRWVhcEhKMnFsRWdxRGoxVUV3UUZFS2RsYzlfeGVVeEh2VE5JQ1dWMjFqUFZmQW9GQmdRNjRuaVdFY2hhVTRsQXRSV1VOWnZhdDByUUo?oc=5",
-      "pub": "2026-09-02T04:34:43+00:00",
-      "id": "d7e1f0b517894243"
-    },
     {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
@@ -2372,46 +2373,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc282RVNHX0x2cXBsWFRIMHlTOHMxTzFxaEN3d2lkMHZGY0NLeWNjbTB1OERlZGgzQ3l1U0J0TzljZThDQm1PaE1PZHI3bTUxWnNFUVh2T040YzRZbEV5YTJIRkE5NFJBUlVrVWE3QW9feTZYZ2VNd2lHT0MwYndXeGNiMTZsZU9PNEpKOEFUTlZSbDRyd3ZfTFlzeXB6ZjU5bmpUVzBFWW90Y1d2Y3dyeXNzbzFTTFA3YWtEQ1NPakFzUGllV2F3dVNwTGRLdVlnV2Ewc2tOOTg?oc=5",
       "pub": "2026-09-02T09:17:25+00:00",
       "id": "6c1b2bc3f09946ac"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "EU’s Digital Product Passport creates new opportunity for African textiles - textiletoday.com.bd",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnFEVjQ0enBRZUIyOXhCNTFCR1VhMlNjaWM0S1REaTJZUXZpNmhUaU9xb2U4U25mUjg1UkE4SWZzRmZ4QVc0X0RQODluUGstWlBYMjMxLWkxNHVBRWVhcEhKMnFsRWdxRGoxVUV3UUZFS2RsYzlfeGVVeEh2VE5JQ1dWMjFqUFZmQW9GQmdRNjRuaVdFY2hhVTRsQXRSV1VOWnZhdDByUUo?oc=5",
-      "pub": "2026-09-02T04:34:43+00:00",
-      "id": "d7e1f0b517894243"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: Ecodesign textiles",
-      "title": "EU’s Digital Product Passport creates new opportunity for African textiles - textiletoday.com.bd",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnFEVjQ0enBRZUIyOXhCNTFCR1VhMlNjaWM0S1REaTJZUXZpNmhUaU9xb2U4U25mUjg1UkE4SWZzRmZ4QVc0X0RQODluUGstWlBYMjMxLWkxNHVBRWVhcEhKMnFsRWdxRGoxVUV3UUZFS2RsYzlfeGVVeEh2VE5JQ1dWMjFqUFZmQW9GQmdRNjRuaVdFY2hhVTRsQXRSV1VOWnZhdDByUUo?oc=5",
-      "pub": "2026-09-02T04:34:43+00:00",
-      "id": "d7e1f0b517894243"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "visual effects question",
-      "link": "https://www.reddit.com/r/TouchDesigner/comments/1w4nd8x/visual_effects_question/",
-      "pub": "2026-09-01T19:57:54+00:00",
-      "id": "6039367851e9d901"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| 40% FOC rule could force a new MMF capacity race in Bangladesh - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2dpbl9PYWJDT0RFblgxRUs1Z1FoNnpxM0tlVFhSLTVVQWR1ejh1NnVNVDVLS2pocXcwNnI5Z0kwcm1CTmlCMEwtTXJCNmt5WjZYSWVFRUFOMG9HNmlxNHJrNE5mbDF1dzIzVnU3bnhlMkZKdy01WU1IOWVhOEtoTnFkOGFwZUo1MmF5bkFIN2hDS1lRelFQeWJKdjVqcXBoWWVVR0MtZHk4S1Zmd2FubHRFT3lIZUMySFNNdVhIb3ZHeE8weU14eFpxc1J3M242cVJ6Tm5Nazg?oc=5",
-      "pub": "2026-09-02T06:34:14+00:00",
-      "id": "386dfa8d0f219363"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Who benefits from economic growth? - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82VXVEZ3ZzYWRuU2g3M1I4ZktFTjJRWGMwbTNjNXUzc1JTdVpQc2ZDemNCOFJuZGJvYUdiQk80V3JSVkJIaTFKdFJ0eU94dzNmcEd2bWxpTHE3NWlVNFU5WlpxbTBXa1lWRXdwbFVOQ2dJZ3puT2dLM0VTLW0tdw?oc=5",
-      "pub": "2026-09-01T21:28:42+00:00",
-      "id": "c218112e96f4d2e0"
     },
     {
       "section": "bangladesh",
@@ -2424,26 +2385,10 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "সম্ভাবনার অপ্রচলিত বাজারেও পোশাক রপ্তানিতে টান - dailyamardesh.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwczU1b3lYdUhRU0dpV2o5M1BCTGczNmZRMWo4NmszM1FfVUQzNm1PRjZOelFSeVlLUTBuVm9Qd09kdWZxRV9td0xJR0VjRjVabjJzdV9KektPeTVac0lxVWJB?oc=5",
-      "pub": "2026-09-02T04:01:47+00:00",
-      "id": "c2983338ab104da7"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
       "title": "নববধূদের স্বপ্নের গাউন তৈরি হচ্ছে আদমজীতে - সময়ের কণ্ঠস্বর",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRUJoa2hOcS1Kd3ExSWdab1dGcFJtS2JmNkg4TlZVcG1Tcm1MbFFWRGhhUlp1OGJpTVNScnZqT2RjQnVLTWttQmVTUnVKTTN3SkRITlBJWERBanVQX09PXzlvLVVzTGxHdVFHY244ZVd2SVFxbnExRUZKck4?oc=5",
       "pub": "2026-09-02T09:19:00+00:00",
       "id": "9cd28d3637840195"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "প্যারিসের ফ্যাশন মেলায় বাংলাদেশের ১৭ প্রতিষ্ঠানের বাজার-সন্ধান - কালের কণ্ঠ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQUxGWUFyUDM5MkF0azdQZFVXdmt1VjZ4aDlGOFRnMHBKZi1HWU80OWowVWRpNkhLbmJGY3U2NHRXVXVpMnpMSllMQUdzUGxveFBxUFNISHVGZ0ZGLU8ydGJJUVZZMUxh?oc=5",
-      "pub": "2026-09-01T22:00:20+00:00",
-      "id": "c31946eb8dc2b5b1"
     },
     {
       "section": "bangladesh",
@@ -2496,14 +2441,6 @@
     {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
-      "title": "SUSTAINABILITY TECHNOLOGY OUTLOOK—The Digital Product Passport Is Coming to America—Whether U.S. Printers Are Ready or Not - WhatTheyThink",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaV9la05MVmdpclBGb3J0ckI2OGtHNHVwSGpOU1YtSDN4M2NKU0ZYZ0dBSldqbTFPaWtVR1oyaVliM3ptdUU2eldweEhJYnJ1NlhPaW9GUnN1WXVuOGxPMmNVM3IwMTN0OXRCWWVPZ1ZLVzQzQUYwU1pvQVVfaEk4ekd0N0ZoRDZYcVVRTzh3LWlSZVdZMzYtX19aMVk1Y2piSFFMT21Ic3hNc1U3SEdEMjJWOE5GZ04tM3RSbW5VTGNMQmNJNkhoc2xLd09rRE5CN2FDd3pxOWZYZkVNbVIwSUhMemhTRzg?oc=5",
-      "pub": "2026-09-02T03:04:09+00:00",
-      "id": "11504f4ab7af78ca"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: DPP textiles",
       "title": "| Europe's 2026 green-claims deadline could reshape fashion compliance - Fibre2Fashion",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcUFCRlRleEc4QnYyM243X0QxZWhTblduNkluLTdKOW5sLWtCNXNrWEJyOGZ6YVhuUkxmaFhBRjUwSEZBTERPY3c1ZW1JYWlydjBMNVU5V0RlOGRLZ0ZpT3ZoUHdneUFaWm1fa2pDT2NVZXpySHl6WjhNVjBnRVE5MlA4ZENVb0R0WERpR2FLZjJzWlNFWVM0UXo2amw0enVkak9wV1pqVm9ScWx1NzhraXU5V0RiQ1AzTDNrZTJFX3NXQ3JxVkN4aG5PZ0N0aS10d0FQa3JJS20yQWIyQ0JySXZB?oc=5",
       "pub": "2026-09-02T11:23:11+00:00",
@@ -2516,22 +2453,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUdFQVQ4TWwza0FuNjM2ZXlkWkc1Z1BQdXRORlh2akFyTUkwOVMyVWtuUHhOZzJSdzFFakU3d01uOGJ1V19hNXVmNm1kLU9OWHFwSFozMExfeV9NOWFlRTBMUFl4YmJkajBXWkxFT0E0WFpXQy1qOUsxYnZSR0Y2d095dkRoT3IyVGt2S0tQZzFFdnRyLWs5bGRIYlltTGk4YUNmc3d3R3c4MlBYU05xdzg1OGFXM0dYV1BIQi16RzdseHhtQjgtaWJvRTc5TGltVzJpb2dkRWphbjVCZS00Sg?oc=5",
       "pub": "2026-09-02T11:20:02+00:00",
       "id": "69bd759d90707067"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "SUSTAINABILITY TECHNOLOGY OUTLOOK—The Digital Product Passport Is Coming to America—Whether U.S. Printers Are Ready or Not - WhatTheyThink",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaV9la05MVmdpclBGb3J0ckI2OGtHNHVwSGpOU1YtSDN4M2NKU0ZYZ0dBSldqbTFPaWtVR1oyaVliM3ptdUU2eldweEhJYnJ1NlhPaW9GUnN1WXVuOGxPMmNVM3IwMTN0OXRCWWVPZ1ZLVzQzQUYwU1pvQVVfaEk4ekd0N0ZoRDZYcVVRTzh3LWlSZVdZMzYtX19aMVk1Y2piSFFMT21Ic3hNc1U3SEdEMjJWOE5GZ04tM3RSbW5VTGNMQmNJNkhoc2xLd09rRE5CN2FDd3pxOWZYZkVNbVIwSUhMemhTRzg?oc=5",
-      "pub": "2026-09-02T03:04:09+00:00",
-      "id": "11504f4ab7af78ca"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: Ecodesign textiles",
-      "title": "SUSTAINABILITY TECHNOLOGY OUTLOOK—The Digital Product Passport Is Coming to America—Whether U.S. Printers Are Ready or Not - WhatTheyThink",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaV9la05MVmdpclBGb3J0ckI2OGtHNHVwSGpOU1YtSDN4M2NKU0ZYZ0dBSldqbTFPaWtVR1oyaVliM3ptdUU2eldweEhJYnJ1NlhPaW9GUnN1WXVuOGxPMmNVM3IwMTN0OXRCWWVPZ1ZLVzQzQUYwU1pvQVVfaEk4ekd0N0ZoRDZYcVVRTzh3LWlSZVdZMzYtX19aMVk1Y2piSFFMT21Ic3hNc1U3SEdEMjJWOE5GZ04tM3RSbW5VTGNMQmNJNkhoc2xLd09rRE5CN2FDd3pxOWZYZkVNbVIwSUhMemhTRzg?oc=5",
-      "pub": "2026-09-02T03:04:09+00:00",
-      "id": "11504f4ab7af78ca"
     },
     {
       "section": "bangladesh",
@@ -2564,14 +2485,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE5XSmpmaWg0T1liSlVER1NhZVV4SlhWZG1oUWhfWjdKTGt6V1IyU0xfT3BKWVc4Rk4tVF9iNVpuTXlpMlFCd1lpS24tazVkNF9Ra1ZJbW1QT3E4bTVBamlfYzFKQnAxc0RYNC0xc3I5aFo2eWFRbGJNNW5KUm10N2ExNWg2c2hvZ21vTk55c2tQX0JZbE1ldEdoelVWZ9IBngFBVV95cUxOeE5XSmpmaWg0T1liSlVER1NhZVV4SlhWZG1oUWhfWjdKTGt6V1IyU0xfT3BKWVc4Rk4tVF9iNVpuTXlpMlFCd1lpS24tazVkNF9Ra1ZJbW1QT3E4bTVBamlfYzFKQnAxc0RYNC0xc3I5aFo2eWFRbGJNNW5KUm10N2ExNWg2c2hvZ21vTk55c2tQX0JZbE1ldEdoelVWZw?oc=5",
       "pub": "2026-09-02T11:53:27+00:00",
       "id": "f225c777268894ab"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Tariff Refunds: CCC urges US brands to share proceeds with RMG suppliers, workers - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONk8wUzNZLW1nTWh4VnBXQVNRS0Mza081YWE0LUZ5U3Z0MmY2WFNwWkVPOGRLN2pQTm9mZVlVbjlpN2FTMUNIcFBQTjJZSXZ3aTVWb2NtNXdBdGNkNE5nRnAtMWNIN0lTODRVSHJXZ1lYUURFQ01LUGFpUThKMUh1OVRfYUJVaUxteHFvN19VVmhNWVdDb1NhSk0xQTBGY2VDa0VVVjNpcnYzaWdrbV9ZMl9maVppTW1wWDE0dg?oc=5",
-      "pub": "2026-09-02T02:37:09+00:00",
-      "id": "f765e32953219f50"
     },
     {
       "section": "bangladesh",
@@ -2996,6 +2909,366 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTBHVWw5WXRMd0FhYTdXWVplVGJSeG1kNkdLMTFaQ3prWGFIb3p6T2NGVHpWU0JoMkpLRkc4bGVhMVVTeDU0dHlMY3JveW5qcXQ0eHZrUENQc2hvYUFheXVxNVJRYko5NURsTHhuX2VNRjRLNWU3S19POE1FV2xmR3NDQ29jZWNTVnNwYm5Cd3AxRTQyenNEMzY3dll3Q2NyamVNMm9lNHpZMHNO?oc=5",
       "pub": "2026-09-02T22:39:00+00:00",
       "id": "9a0f5291f1f412e8"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "The Digital Product Passport advances and prepares its arrival in the textile sector - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkZxZ0hKN0lzV21nZkk2Vl9qWkF5dE9sQTFRVW9kT3NBSTdMVTR0NFc3Zk10anp1akVIaGVwTl9GT1MyQUZjUmE4QXlXMTZhYzZDY25NT1B0QlBGUGlSRXRSUnBWNDVzR0ZRVmhldHZwVms0cndOQXd1OU82eDBMVmRIVHdsbkVkQ0wzajlURUNmek16cnU4WDRNVG1hUnVDTXE4b1NNYXp0Y0xVVUNvNFNJbjM3X0FBN19remxOazlGTXF4TnfSAcsBQVVfeXFMUG92aGpLU0gxdkE5aXVlRGNVbkpyMEw1Q3k5MkQ1cVM5QWE3R0s5VHlpd2p6UUE0VDB6UjR2eVN5X3BFLU5zLWhLN3owdVYwVEpPLU5Ed29PbnJDV1ZnMmxjNEVqRzZJVXlVMUhNeEVmN2NDcWQ3ZVMwSzBvdFVBN2swZktjZjR4anFhSnJURVZQQ0xLcnVnbUhEdFBubEhGQnNyaEhVdzNIVnllX3liMUpjOWRkUEFwamU0S0pybUZMejdMMTZFakN6WTg?oc=5",
+      "pub": "2026-09-04T03:00:00+00:00",
+      "id": "ae232d533c2e222e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Textile waste recycling machine market to reach $7.1 billion by 2034 - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUlrUVpHOTd2cS1SX0kyUDdLRHVCM1JRU1ZudmdFeU9zbFpIRDRwNlZ2Y2p5RHkxWTNLWXdSekxsend1c0pUSGVXVmxuX1lDY3NhS1A4bE9LRjNsaml1YWJGbnkybVZNMzNaaEJ3LUZ3S1NfMmlhTnczbUswSVR4SXpCNk02N0ZsUW4zV0lkV0dvVnB4SGJKSFZPVW01Xzg?oc=5",
+      "pub": "2026-09-03T11:19:20+00:00",
+      "id": "e12ddf814390335b"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "The Digital Product Passport advances and prepares its arrival in the textile sector - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3ZoaktTSDF2QTlpdWVEY1VuSnIwTDVDeTkyRDVxUzlBYTdHSzlUeWl3anpRQTRUMHpSNHZ5U3lfcEUtTnMtaEs3ejB1VjBUSk8tTkR3b09uckNXVmcybGM0RWpHNklVeVUxSE14RWY3Y0NxZDdlUzBLMG90VUE3azBmS2NmNHhqcWFKclRFVlBDTEtydWdtSER0UG5sSEZCc3JoSFV3M0hWeWVfeWIxSmM5ZGRQQXBqZTRLSnJtRkx6N0wxNkVqQ3pZONIBywFBVV95cUxQb3ZoaktTSDF2QTlpdWVEY1VuSnIwTDVDeTkyRDVxUzlBYTdHSzlUeWl3anpRQTRUMHpSNHZ5U3lfcEUtTnMtaEs3ejB1VjBUSk8tTkR3b09uckNXVmcybGM0RWpHNklVeVUxSE14RWY3Y0NxZDdlUzBLMG90VUE3azBmS2NmNHhqcWFKclRFVlBDTEtydWdtSER0UG5sSEZCc3JoSFV3M0hWeWVfeWIxSmM5ZGRQQXBqZTRLSnJtRkx6N0wxNkVqQ3pZOA?oc=5",
+      "pub": "2026-09-04T03:00:00+00:00",
+      "id": "5d75ab0304fce4fd"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Monthly digest for 2026-08",
+      "link": "https://www.reddit.com/r/arduino/comments/1w6peha/monthly_digest_for_202608/",
+      "pub": "2026-09-04T00:41:08+00:00",
+      "id": "ba6452d3220b0774"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Loco Cafe!",
+      "link": "https://www.reddit.com/r/Greenpoint/comments/1w6foe4/loco_cafe/",
+      "pub": "2026-09-03T18:27:00+00:00",
+      "id": "d798b349db7a4c3b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Limits of current model - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YXdad3RGUmt6YlNnd3VxZWtHbnBIV09aMm40dzNVVG5mV240Z3AzRHVDemZWb3AtaHNEdjFCMl9KLXlwXzJXMS1ndmlNZDNsRDk1VWhkQ1hsMWFoeVY4?oc=5",
+      "pub": "2026-09-03T21:58:10+00:00",
+      "id": "12beb3b87640403f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "402 RMG units closed in 3yrs - thedailystar.net",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOEYybWFkYlEtRGZzRWRPOTBVWnFHNkg0NzJ4LW1yMGVCeU1qcGhhVWlrLVdyNkVlVUtWbk9zcEtnbVM5T1BqaUxVUjVkRG1hZ0pzdVNLT0NHUFd3eU9zVVBfczlQUTBJWjB1akRuWnlIN0FKaFZnU05TYVR3Q1YtazdFUXVRNDNsOTBZ?oc=5",
+      "pub": "2026-09-04T03:00:00+00:00",
+      "id": "e1e50b1a2f3e8221"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Will higher value addition put Bangladesh's RMG sector to the test? - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1RZS1FWVjE0SUNmWXI1ZUhOQWcyeF9RMWtQTzBrSkhEeUFGVlIzTVBtNERiX0k4ZS1oSEI1b3BmZVI3bUJBTjdIWGVVV09RN0hiUF9fWURxWEdodTIwRlNqVHFHRjRycXdEWTloa0N1UlQ3UjhkdnZPNEc4bVBqdk1qN3BiRU44Ui1EY3RuekV3aGdDSXNJbkJRaVl3VnpvVWtuNDZaUm8zMjVWYU1tWmN4THFiaXRfRGVzM3hkbjdYenRyajctanZzYl82V3hKaVd0Yg?oc=5",
+      "pub": "2026-09-03T12:33:19+00:00",
+      "id": "887e7d25a9665291"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Over 400 RMG factories shut in 3 years: minister - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2dFZ19RcEluWThhVUFfVVIyWks4SzJLNzZhcEUxNFl3bzVEazBTX0dCWXhrM1oxQ0ExY0M0T3p4c1RIbVh0SEVXell6aFc2d3pua2J1T0dmWHpNYjhaeWZUblRKckpISF9LTFdoRmtJdVY4cVJ1TktXSW5udWFBOVdXeGtiNVNwdkZ5QzRGdHE5UlV1T212LVRn?oc=5",
+      "pub": "2026-09-03T19:03:00+00:00",
+      "id": "572302dfb58bdc27"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "President urges swift resolution of RMG sector challenges - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0pQa3lRRDNvcXRIYnRneTBjTGRQcGNYekpwSUxNcEZ3U2ZtQXRWX0h0dGMwVkNjM1hnR3BmTVpsdEdPTVV1SXp3TjN1WTg1YlVreWVGT205dDIxZk5fZExBdVVvS3l1QlBJNHlBWVpsc1FrR3ZmODRZRXJzbmt3RHd4SzZCd3M1Mk4zTWVnVEMwZlU?oc=5",
+      "pub": "2026-09-03T13:14:16+00:00",
+      "id": "20980303adc5445c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Over 400 garment factories shut in three years: minister - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1dwLXpwYnpkRFllbVpuNHNjNk1iVmtKcWlJWW1hSGVjeENkT3Bsd2xFWnRMa0p2WVcwWHp4eXhubkQxcWs3Y05BS0FrbTVJWEdMNGpnSmc0ellWWmJ1VUVzeVFVOUlCa3RiS3o2NXhKdm1vcG5ITjhxOXJDWTNobnQ4czJBRU1uc25pVVFmMlNtRklTVWQ2cXNISzNXd2hsanc?oc=5",
+      "pub": "2026-09-03T10:11:00+00:00",
+      "id": "19221a7f556ea779"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Who benefits from economic growth? - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rcEh5cEc5NFNVT0pjZEtwbUYxZTcwbXZiN01xOFEwQkJ1U0Y0cl82dThaWnkwY2MwVEM3R0pLNkxiWlVqVDlRN2xUUWE3QzdRZUduTEdjbFZnMGw4eHU0?oc=5",
+      "pub": "2026-09-03T09:33:45+00:00",
+      "id": "602292393d2b2e81"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG workers block highway for 30 hours - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0oyMDN4N01BM3BRbzJJdnd2a1R6RXVOUE9ER3d3Nm1FNVBCZTlsM25wOXQ3a3VqNG5feW1kbjFCeTFwWVJxZW91TDh2RlZHYjEyemZGdmdINzh0NElqNEJ1NzNQQ3dRX1RoVzdlbEtwUTJJQ3RFbGtDQ0M0UVRyeURIVEVSNHc?oc=5",
+      "pub": "2026-09-03T23:18:59+00:00",
+      "id": "5951e16a5423bf38"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "President urges swift resolution of RMG sector challenges - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0pQa3lRRDNvcXRIYnRneTBjTGRQcGNYekpwSUxNcEZ3U2ZtQXRWX0h0dGMwVkNjM1hnR3BmTVpsdEdPTVV1SXp3TjN1WTg1YlVreWVGT205dDIxZk5fZExBdVVvS3l1QlBJNHlBWVpsc1FrR3ZmODRZRXJzbmt3RHd4SzZCd3M1Mk4zTWVnVEMwZlU?oc=5",
+      "pub": "2026-09-03T13:14:16+00:00",
+      "id": "20980303adc5445c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh strengthens European sourcing presence at Texworld Paris 2026 - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3FzTFVDbUdLbmw2b2NCcVBjajFocml5LU1SLXZQcXlIZnJhUEdiUi1fWTRTSzNvY0YyN3piRHE1aHVzTi1hVnpHLWtOZnUxVzdtSm1WU09CdG9QQXNRbmpfb1EwOHR0R3pyOXZWc0RtSVBPX2dnUmJMSjBYWlRrWFBDMUJaX2V5RTlhVFZkR05wNFdCNFpaR1lCQlVudWJ5Rm9JVDlRcw?oc=5",
+      "pub": "2026-09-03T17:34:16+00:00",
+      "id": "1845277859d3f3e5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Protecting fundamental rights, freedom vital for progressive society: PM Adviser Swapon - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEpaNjhPLVRaVUtWUlRucnFyYnkyMmozYWx1cGlGQ2Fqd3VNUzJwSGRKY1R0UlpqV0pmRVpfbVNhcTVDTVhteTVhdy1HQmUxSWdzT0MxSGpUMjl1ellYVWhXQW55NzA1UkZpLVBiRzd0Q3BhbUtYNE05Z0F2UlJxdjRoRWlPTHNPZ2VDRmZseEJhY2dJWHN1cUo5UFQ1Tnp1VnZwQkhZUS1STmRfeS1CdldEazdXaUlXR1QxX252RmIyZ9IBxwFBVV95cUxQX0JpRWFKUXdGSklWSFBVWEN1TXdZZndYOTl4bEk4S19rTmNaU0tLay1pdXRESkdMdlZKRzF3d1ZPZ3UtUW56cTVkVlc4cGpHSTNqeW1qN2hEVmg5MTZpQzlmbTVKQlh3SWdjUnNtQUQxWGpRODZkOExrOGRUZ0lNOWJXSjU4UGhocE9kSkhZSlVTVTlsSTdNQVBweGRLVktYaVBUSmdwMS1TN0NleEdPdzBMeThuWUFGV3dqNWI3VkZudGRQeDJr?oc=5",
+      "pub": "2026-09-03T19:09:24+00:00",
+      "id": "b0617b44b604c4dc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "US-Iran war spurs Europe, Asia to boost renewables - thedailystar.net",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTg2ZjEyeU5sWDA1bDYwYVB5ODRfTHc5b1JQWmhOVHRjaWl5cEVDUDU1NWRZOThhOUZPMUh2R3h1S21WTGxlYVZBdXFCZ0c3THdlSzVLWDk1RjhYWHFYNlhSTlZpT19HRWJTaVZnT2VxdXFNOG1GWkZUOWJQUFpLb21ONF9jcWZ2bGF6WUpySGdhb0lXTjlKSHIzcndJeUVHaS1QTkNSc1pxMzlJdXdvS0ZR?oc=5",
+      "pub": "2026-09-03T23:43:08+00:00",
+      "id": "cc962f537445b1e6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "নারায়ণগঞ্জে চীনা পোশাক ব্যবসায়ীর কোটি টাকা নিয়ে গাড়িচালক উধাও - kalbela.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUVhMdVdtMWxpYnlVZmEtb3VTNU5zVy1qdnRtTXAyZm5FQWVnbGp6Sm96b3U3VngwTXBKR2o1QTZ0bGhpdmhmOWswZGRjeU9tVXdJdnFR?oc=5",
+      "pub": "2026-09-03T19:43:35+00:00",
+      "id": "28917ee18d7a6d0a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "চীনা ব্যবসায়ীর কোটি টাকা নিয়ে পালালেন গাড়িচালক, খুদে বার্তায় লিখলেন ‘বাধ্য হয়েছি, বাঁচলে টাকা ফেরত দেব’ - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcmprQXJFZVZleFE1d3RCeWxnRkg3Rkl2UjVLelRrS3lGX1RhdXFibXNvY0R4S1k5VGFiYWJ0UHVGMDNVelRTRzZ6UV9VSWNFTzFrVk14WnFDRWY0SGtiRzh1S2p2WmlUR29mOU1n0gFzQVVfeXFMTy0zdWR6TnVQQVhubzNaODdybGVWQTFqazRXRnotRlo2Sm5EZmQtdWN6R3I4MUZ0a2RVR1R6LU1PeklfSi1DX1NKVEhVX1BlSl80QW0yNThyamc3UWdlX1lMNXpVM3ZsOHR4bE84c1pFQ01DNA?oc=5",
+      "pub": "2026-09-03T15:00:00+00:00",
+      "id": "58f6eaab8ecbc387"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে চার শতাধিক পোশাক কারখানা বন্ধ - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxObk9BcnlnalhYSnJEQkZkeE1hN2c0enNzUnpVZXpaZWFhRGNSOTBXWG56S2pTTWZ6VkFrcXdrUEZGdDhhc2FrSGJOWkF5blNfd1hVOWgyTm1VV1VqRmN0dzhnd3hNb0NPWjVZR0pGT19mQ0xTTVFWbGhWNEJZMnlOanNiWkhDNGxtVEROLXgtMmxIa0RNUkh5Y0FtSUhLeFNkcWxPajVtaUR6SkVzR0lYay1ybGU3OHZSSGJfYjgtME1uMko0RlNCcWJGb2NwRERONWxZVC1rbHN0blhEeEpKWTRYUWtycTBmdlRYWVNIR1pNNkFCX2o1eXhVdmNCZDZZNVVQaHE1LU9odXpYbnZpYnRyVEpQdGJSTTF6VGhFQWFFdHFzS2s2dDdScTdVRS1kdnJTblJKa2I5VmtIRHdKRFk2bFlJTG9Ea21vUXZJamRwZ0tpdENJaTNsQVRQOTR6R2t1WU41VFBPQWQ5WFNhSEswdnFfSnJ3d3Z2bHp0dTByR3Vfb19LMUJsaVlNUXpIZldwUTUwaWNSOXpHOTZONjFhQTNON29YWks1X1VFSzJmbXNwYU5ZMWJ4dkxvY2F4aVpuWlFsTVh5VGNxTkthRU5nQ25GR21nYUHSAdoDQVVfeXFMTm5PQXJ5Z2pYWEpyREJGZHhNYTdnNHpzc1J6VWV6WmVhYURjUjkwV1huektqU01melZBa3F3a1BGRnQ4YXNha0hiTlpBeW5TX3dYVTloMk5tVVdVakZjdHc4Z3d4TW9DT1o1WUdKRk9fZkNMU01RVmxoVjRCWTJ5TmpzYlpIQzRsbVRETi14LTJsSGtETVJIeWNBbUlIS3hTZHFsT2o1bWlEekpFc0dJWGstcmxlNzh2UkhiX2I4LTBNbjJKNEZTQnFiRm9jcERETjVsWVQta2xzdG5YRHhKSlk0WFFrcnEwZnZUWFlTSEdaTTZBQl9qNXl4VXZjQmQ2WTVVUGhxNS1PaHV6WG52aWJ0clRKUHRiUk0xelRoRUFhRXRxc0trNnQ3UnE3VUUtZHZyU25SSmtiOVZrSER3SkRZNmxZSUxvRGttb1F2SWpkcGdLaXRDSWkzbEFUUDk0ekdrdVlONVRQT0FkOVhTYUhLMHZxX0pyd3d2dmx6dHUwckd1X29fSzFCbGlZTVF6SGZXcFE1MGljUjl6Rzk2TjYxYUEzTjdvWFpLNV9VRUsyZm1zcGFOWTFieHZMb2NheGlablpRbE1YeVRjcU5LYUVOZ0NuRkdtZ2FB?oc=5",
+      "pub": "2026-09-03T22:03:52+00:00",
+      "id": "7202b2380122a0a7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এলডিসি-পরবর্তী চ্যালেঞ্জ মোকাবিলায় ইইউর সঙ্গে মুক্ত বাণিজ্য চুক্তি চায় বাংলাদেশ - protifolon",
+      "link": "https://news.google.com/rss/articles/CBMipgdBVV95cUxPZTYxWm1VcnQyc0tSSUFyNmxWZkR3QlJsNzFZM1YtV1NnaUFnWUFiUXMxZi1LWUM0Nzd2RmVUSzBfVm81WktaY3Z1VzZCWnRPUGVLNUR4RENxU3ZXa3B6UkhlYnhjZTQ3QTQwM3hOQm5rNjJ6YTExYU9manNlalo3aGN3ZTN6Y2Vrck9qejhxaHdhbWZWZlp5d2xIaVQ0LXQxal9jaVhXZ3cxeVgtb1IwSmR1dnhhWXhOSnB1aVZ4X1lKdHRaS1hPbEYzTzZwNG9oejJxZUd5UFh4bTZNZTVRMmtSVlRDTEl2a0MzM0JZRFNqa2h5b3d3VE1SaWs1azM4MnhIMmpCY083RGdHMWg2XzdibFNWQW5ic2RuWjhMdkpNcDI1V01mZlpKMVRLZkxEQ2pwOGdzQWJ1UEhSZEZUbjNkSjFqdEp6SjJUQVlWU3Z4N19DM3UwR2tWcG83UnhyY2ZhbGRHSFZWbVRkVW9hTi03akNjVUt5cmZrN2RLdGgySVpLZDA4alkyNV9PZnFFTXc4NGVRc1lETHl1MWV0VUJzeF9QWm4wS3ROdVFIV3FMYWRWSWM5RW5xVHFNNlg4bk52R1FqR2w1bHp0U1AzaVdBVk1JQUx0cHEwNzhRTXMwbnZqVDFmWHloN2xsYVcwd2FoUmFBMklrNFZpYmpaRm9raDB4N1dxbW1nUTdrUTY5WV9MZC05Y1JyaFpHTXhVQjFESVBGNC1yck9jNXZDODVWUjA5a1M3a21PcTlFVDlxdDJNcGNYT1BYVEFjMUJRNk1LaEdUVFBuMU16aVE2X0tiQkpHWEptNTAwbkpEWUVtLUtuV3hBQlFGcmN0ZVBEc2VudHVxNUhsQkhGWlZ1REZwTXFBOFk1QzhGN3dtNnc1NUNjSXNidVVIalNCYjNzakJFYVRwRzI2R2hBd3A2ajJJa2NxeG02cDZpMnBCczA3TlFySHFhYnQ5aFZZazI2SHBRRG92Qi1lOEp3RWlOT25FdW9wZmVmUVJVZjZWREFtZmNyM1pzVnpfRk8tWXhXUFVnR3Zhd1dJS1Z1VGQ0Z2VURWhaRVNsYVlENVRUS0dzVUMwMFQwYnJIM05QbWhCWWE1aGFabnFua1A3MEJ6OWZ2SWtiOXFlc0N3TFFBaUZVYmRnSjVZNDhwXzZGZ3o0NTNIN01zSVpEblM3dE9GUmNTdVJnd2M1eTg4S3AxTnFqclJjc0tzT2ktVzA1bWp1OXFaYk9R?oc=5",
+      "pub": "2026-09-04T03:12:00+00:00",
+      "id": "00b54fae2d78a118"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে বন্ধ চার শতাধিক পোশাক কারখানা - Protidiner Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNWjlnVnF1blBtaHEwYXRSRVdRTlEzU3NOWXpoYldFYnpHemhmZk0zczlSUEszN1hPTFlsb2ZlZ3hjYXNCTi1GeWJlR2RYS2k2WEtoU3ktZWM3NXFQMFlodExtTWVWM3hyWE5ZMmpHc1N5aEV4VTJoMHRoY0VxREpnOTlWd1luYXBUdlBUclBTVl81VkFUbDRaWlQ3akl5NzlpQzhjRmlHeWNTR3dPTGdrM0t4LUZGak9tYXRsX2ZQSF8yWU9WOWlVMmVFZWVoT2cydzFjWkdxOW9ZYUxiY2JKOTBFUXN4YXBGMTFxSFdoNjgwNXV1cmU1aW56UVA1MW8wVGh0WkRPeGtYTTZzTjNrcUFhdzVZNFNyYmx5UFczang3UTBTb2E3Q0xIZ0lPal9DNWNSQkpjTDdqa2Q4Z1d2bjUtRlB3UzNSMlNxRHNDTGJUWUg1RjBiMUJSWlEwLTg4cF9OTTV1dnA0SERhY1NhWFZUd1E2VTlkb0JNOWd2ZXRNN3JCRTZVeEtMbFg0Ym5RR3FvenJNQklqSzkzVjNSTjlxV2JUc0RWdkxTdlZaQV9IQ2pzajdjbmV3Y1BTbnFscWN0eUxFUHdvanRmeFRBeU8yd1F2b1F2SUxEd1JiUDVkRHFTNk11TFdIb0ZpcTJGbkxj?oc=5",
+      "pub": "2026-09-03T14:00:09+00:00",
+      "id": "463eb8c7b450a419"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে বন্ধ হয়েছে চার শতাধিক পোশাক কারখানা: বাণিজ্যমন্ত্রী - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMm1MNE9oVE9OTk0zQ1E5dkJFemRrX2NQV3dyYWx6QkRia0lCelM3MzZ3TXFIZXZXS1I5UFFSUXZOcVJjRFphVTJDVWxNaWc2clk3RjJSQ3RWMFU3cFMyMlRSS2pYYlRoQzFibDF1WHl4UHPSAXNBVV95cUxQQTJtTDRPaFRPTk5NM0NROXZCRXpka19jUFd3cmFsekJEYmtJQnpTNzM2d01xSGV2V0tSOVBRUlF2TnFSY0RaYVUyQ1VsTWlnNnJZN0YyUkN0VjBVN3BTMjJUUktqWGJUaEMxYmwxdVh5eFBz?oc=5",
+      "pub": "2026-09-03T11:00:00+00:00",
+      "id": "ac1c178d2e42d5cc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "দেশে তিন বছরে বন্ধ ৪ শতাধিক গার্মেন্টস কারখানা - Just News BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51WHV3UldnVm1fNjgwR3oxc1ZPbjdBQkI4Q20yN2xQX0JoM3FEZ28za0RCSU1xOXpRV01ZMmJmQ2huUEpkQnVuZXZ4N0ZEdU1pVXVJWmdpZHhUZw?oc=5",
+      "pub": "2026-09-03T12:22:00+00:00",
+      "id": "834e70152dca0c7f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে ৪০০ এর বেশি গার্মেন্টস কারখানা বন্ধ হয়েছে: বাণিজ্যমন্ত্রী - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxQa2FMV3hhM0ltX3dxcm5CbDlWYkxkZ0dMeTB4ZXlVMXViWUlZMkNwelNFSVdjR0tvVW1yMzg5dkR0S2JMMjZYWm1jQWJ2Z1FlWFNpOVJoektkWkZhNXdBajFEbFlkblhhTXFwN2xzdVgzRUVUUE83clFDT3NzQVpSZlg0emNSSHZKS3lPd0xkVWFJSlVXNGFMQlhmU2JnRTB3OGxsR3F0UlNjTzdwUjJGNUE1RmN6eE1tT0x3TjRNcjcwSkVlOVVRQWI3dFI2NzhwV2pXSVJSMFhkNzc2SnFISFpxV1YxR1U4VGpRUVk2Vl9Ib2I0RlZfZkpTZG5DcFl3dXdTaHRmd1VXNWNYSUpVajFWVHhoWGQxQ0hKaC02S090T0stbld6Um1TNldFTkczZnUxLVZ1a3ZrcUJSRll5dGRmdEZ1bklndWx6Z25WZ0x5azB3dEs2LUZsTEIzQzJIMDlrajBEek4wVGVCbEI0S1pwNWlOazFjaXZ6a2R1RWlfTEVpZDdnNnliMXpEaURSQTQ3UHNrWExqdmZseWZNR0FOeXVGZF9MZ2h3UWVwWENXN1hzdEtjYlJ6ZnMwLVpDeDVHQ09aRGxydzl1TkgzeTZvUDduc3JJYU5UZ2taQjBzN1Z5c3JQVVFLcnYzV0NJMnJ4aGRMc0F4TWloOC1nelZVNHBJT3BOTC1lTS1vVkxlNUd40gGUBEFVX3lxTFBrYUxXeGEzSW1fd3FybkJsOVZiTGRnR0x5MHhleVUxdWJZSVkyQ3B6U0VJV2NHS29VbXIzODl2RHRLYkwyNlhabWNBYnZnUWVYU2k5Umh6S2RaRmE1d0FqMURsWWRuWGFNcXA3bHN1WDNFRVRQTzdyUUNPc3NBWlJmWDR6Y1JIdkpLeU93TGRVYUlKVVc0YUxCWGZTYmdFMHc4bGxHcXRSU2NPN3BSMkY1QTVGY3p4TW1PTHdONE1yNzBKRWU5VVFBYjd0UjY3OHBXaldJUlIwWGQ3NzZKcUhIWnFXVjFHVThUalFRWTZWX0hvYjRGVl9mSlNkbkNwWXd1d1NodGZ3VVc1Y1hJSlVqMVZUeGhYZDFDSEpoLTZLT3RPSy1uV3pSbVM2V0VORzNmdTEtVnVrdmtxQlJGWXl0ZGZ0RnVuSWd1bHpnblZnTHlrMHd0SzYtRmxMQjNDMkgwOWtqMER6TjBUZUJsQjRLWnA1aU5rMWNpdnprZHVFaV9MRWlkN2c2eWIxekRpRFJBNDdQc2tYTGp2Zmx5Zk1HQU55dUZkX0xnaHdRZXBYQ1c3WHN0S2NiUnpmczAtWkN4NUdDT1pEbHJ3OXVOSDN5Nm9QN25zcklhTlRna1pCMHM3VnlzclBVUUtydjNXQ0kycnhoZExzQXhNaWg4LWd6VlU0cElPcE5MLWVNLW9WTGU1R3g?oc=5",
+      "pub": "2026-09-03T11:58:30+00:00",
+      "id": "5470c9bd547c3a51"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে বন্ধ চার শতাধিক পোশাক কারখানা: সংসদে বাণিজ্যমন্ত্রী - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zclRiWXpzYWlxMEJzYWxhWTZnS3RTRFVsZm1uZFNiMWEybFJBam1WRjE2SDZuWHlmcm1vaTJQOUk4R0lPMGhxbmpOUzhEUm5NanNET2ltMHprbm040gFPQVVfeXFMTzc2bVY2TFI5Y2F2cFZrN1RpRUNhaGdxVWhQci1iQXh6LTMzaWZ3emltVFF6NFcwdC1OX0VnU0dfSDJwX3dFVGM5MWQzYm9JQQ?oc=5",
+      "pub": "2026-09-03T10:30:00+00:00",
+      "id": "1a14cac2eeab4fb4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন বছরে ৪০০ এর বেশি গার্মেন্টস কারখানা বন্ধ হয়েছে: বাণিজ্যমন্ত্রী - Bangla TV",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hYkdtSGZONjVMTXgtRmE0SlVQM0ItYVFRNXZKZGVaQjF3MXM0cnNiSVFJZkR1TGlCLVVjMDlZUkttckxsVEV1LTdpMUNVT04zaVE?oc=5",
+      "pub": "2026-09-03T12:23:06+00:00",
+      "id": "06792bf1c777c882"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাংলাদেশে তৈরি সাদা গাউন যাচ্ছে বিশ্বের ৩৭ দেশে - duaa-news.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VRThMZFhvVW5KMlJxa1hCbVEtRGdTOE43NjRhaHhsc1B4X212ZjVrR2VRNkg0QUR1UGkxUFNpYzdpUmlaRjdyUFljYk53eUZJ?oc=5",
+      "pub": "2026-09-04T05:33:07+00:00",
+      "id": "36afefae197e7906"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএর আবেদনে সাড়া দিয়ে যে সুবিধা দিল বন্দর - Rupali Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55V1hyN0RXREU5eUZGSG1taEdOSHVyNFo4T1FJLXRPSkE3ZnlGSlloX1FqekN4amV2VmhfT0lOQkJoaVVzUllnenE3NjFJZTdLR1NJb2JkTTY3VGxtdWp5azFkMWZGN1JaU21ZS1JaQQ?oc=5",
+      "pub": "2026-09-04T06:50:00+00:00",
+      "id": "5e7d06b42e15ef2a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তৈরি পোশাক রপ্তানি খাতের সমস্যা দ্রুত সমাধানের আহ্বান রাষ্ট্রপতির - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMikAZBVV95cUxQSE92cXpQOHBDUnhxaTZWNFNsV2tUQkhZN215Qkp6UDIxM3BGZGhDVmg5bzAxc01EZnpqcjZIY0NZbFhPM01nMndKa2V0TGFYUmVpYUlFZFp4RGRTRlJKQ2FnV2FXUThhMFZXRjZRU1pWUXpKeGFBVjlwRER6N0RzNTZtZU1hMTNpUUFPR3dGNXg5YnNQY0xUVVZCRk4ybF9wMlY1ZE1xNFpicXUxSTFaNHZmckVwVlFRb0hxcFZkTGNjOWQzVGs1WEhONWhCNHRDS05SNUYxcnROTFJDQkxHVDVCNnI1bGNoUU1hTHh6bEVqT2FUZlFBSFVmRGZBVmdBX0tCZWZ0MUFvb055SkF5SzJKWnRRdmFyR2pXc1dlU1pSSTJJamVOVnBzSVNUcjF4dWc5VEVKMjhrbVk0RTdqRFVGMWx1YjJCRzZCclZHLUcxVkprWUJMN3lNYmxYeW1mcHhhWkY3UFVTMjZkSlI5MXZVWVhDR3JVZW5uMWQyQmRuMlRETmJld01mREdaLS04d2xCN0RJRE1BZm1nMzBYV3plaHYwNWtiOWhCeDg0VkZTaXRWdjNRS2xKR2JGZlliamtncFMwUHVBWmQ5bDdnUi1ha1JwNHU2enBLdmYwZ01lVTRYRkszeWNsdlpuVzRqVGVZUUNoSGlmZ2dqRm84TmRuVVhwU2w4WmNuVEZJbDBRY3ZsSGxNeVo4dkkyQWpVUW1RXzF5MGJWeUoxVVZlZXVtYnJQUFlCYzVTMTRvM3Q3NU0xTXJWbXE3bzJWNzhpa00wS3BGRUtZRzFRZ2s2eXVYb3RVQ1JnNHc2dmdfUzU0ajRvcVNONUlkdFF2VnUwVE5KTm51TFFoRzh2UUF4Z0IwNF9NdDJJZUxfQWVwdmNLQ0ZVRjQteEllZEt6ZGJwQnFSQ1hjaDZDMG42cnZxWU1DVWJtSUhTbS1PRUZRZWI4amljR2piYzlDVmdfNGJrQXhweVV2YzZHV3MtZlczUUE2MFhzVTJVM0hrVDhndXpRc3R1cVJPZ3d5SWRqT1o2?oc=5",
+      "pub": "2026-09-03T23:20:09+00:00",
+      "id": "980a9f60b9739c3c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেশে ৩ বছরে বন্ধ হয়েছে ৪০২ পোশাক কারখানা: বাণিজ্যমন্ত্রী - bdnews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YMHpGVDd1dUwzZDRBTG5haFJkSVlfeFpxWG5HZGFVeDJhbUo3cUhuT0xRUVBYbV8zWHkyd3piMUFHX05EUU5PV0VWT2VvMlZON2pPVnA0ekt2S3h4RFE?oc=5",
+      "pub": "2026-09-03T13:35:00+00:00",
+      "id": "5913ae46ce61ff59"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে চার শতাধিক গার্মেন্টস কারখানা বন্ধ হয়েছে: বাণিজ্যমন্ত্রী - ডেইলি সান বাংলা",
+      "link": "https://news.google.com/rss/articles/CBMi_gVBVV95cUxOeWpiT3pCX21qamY4Vm1Ld2gyWVpad1Y2WEJiVXNFUW9KbThNcEdJRDFVVVFVa3RfSzRweVV4Q1gydXpTY1l6SXVrTEQ4OEJ1X2paTmRNbldMVWp5dXE5WXRkRW85dkwtcy1HbkwzRUFmcHVlUWtNWXdDSXFvOWlKbWlSV0hUY0FfLURMVVBaa3J6czJ5YzBZY0p3dlZiUlgyUk1PVkluc3FvdDA1T1k1U1BmTGJQTFNHUm1IM1YwcmhNdG9uN2s3N2dBU3k5cjV3TmhNSXRhMXpGUk9objI5alhCRWR6c3labTVRb3p6ZVh6ZjBGTWtVYXNYMVhqeEVmV0NzcUw0MnF4MnlubU5NYzdZbS1feGk2RkhZakRuWG81cHZqUGhxVXpDZTZjeWhCU3VJeTlWSW9TT0sxRWx2dW9PWllIY3l4NVFHZlZiN084TnFnbFg1Z1dFWUJrMXF6UktmbGxvY0U1amxDZmxhRk1fSWdPNHJiR0hMOUpsOTlJTGh1bFY0MUlCRE1BZi1TOXNXdEx3NlZkU2s2dlpMVHFZcDBCc3JkZVNMc2FvV0puNzRnQ1N0Wk1XZUZUdmwxZXltOVVCUnJPQk9qclR5ZFAzNUFZbUppWXl3Z3RhNFdsVno1WnhsRVh2akpleDNHQ05sZ2RPSHFLZlhydXBndDhEZGtmRmc2LUR6VExjaHJ6Nnhpc1RUN3RkNUlWMHJlcDdVbzhGTmVMUndXXzhNOXdMNTBKUGNVU1hmSDZwV1hFeGM2eS1Ha3B1VHF5bm04YW54WkJMZVc4NkxKai16YW5CNUVMN01LaGJ0Ml9tQ3BjN2RjLVk4LXFySnh4V3NzLVJNN2RzZ1dGUUdfLXNUdG9rQlJGZ1VxVENrWFN3aVBoVHlPTEV1OC1VMnVVbXNZdjJ4bHJSQ1YxT1VoTVRuSGNZbDNSWGhkb1lfOVN0NHM2SzFZTk9WZE52aTlNX09FVzhGX3J1VFBfU3U0T0JqSXFiZWFNQWc3XzJzOTl3?oc=5",
+      "pub": "2026-09-03T10:48:54+00:00",
+      "id": "1887833ec2df3a29"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে ৪০০ এর বেশি গার্মেন্টস কারখানা বন্ধ হয়েছে: বাণিজ্যমন্ত্রী - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxQa2FMV3hhM0ltX3dxcm5CbDlWYkxkZ0dMeTB4ZXlVMXViWUlZMkNwelNFSVdjR0tvVW1yMzg5dkR0S2JMMjZYWm1jQWJ2Z1FlWFNpOVJoektkWkZhNXdBajFEbFlkblhhTXFwN2xzdVgzRUVUUE83clFDT3NzQVpSZlg0emNSSHZKS3lPd0xkVWFJSlVXNGFMQlhmU2JnRTB3OGxsR3F0UlNjTzdwUjJGNUE1RmN6eE1tT0x3TjRNcjcwSkVlOVVRQWI3dFI2NzhwV2pXSVJSMFhkNzc2SnFISFpxV1YxR1U4VGpRUVk2Vl9Ib2I0RlZfZkpTZG5DcFl3dXdTaHRmd1VXNWNYSUpVajFWVHhoWGQxQ0hKaC02S090T0stbld6Um1TNldFTkczZnUxLVZ1a3ZrcUJSRll5dGRmdEZ1bklndWx6Z25WZ0x5azB3dEs2LUZsTEIzQzJIMDlrajBEek4wVGVCbEI0S1pwNWlOazFjaXZ6a2R1RWlfTEVpZDdnNnliMXpEaURSQTQ3UHNrWExqdmZseWZNR0FOeXVGZF9MZ2h3UWVwWENXN1hzdEtjYlJ6ZnMwLVpDeDVHQ09aRGxydzl1TkgzeTZvUDduc3JJYU5UZ2taQjBzN1Z5c3JQVVFLcnYzV0NJMnJ4aGRMc0F4TWloOC1nelZVNHBJT3BOTC1lTS1vVkxlNUd40gGUBEFVX3lxTFBrYUxXeGEzSW1fd3FybkJsOVZiTGRnR0x5MHhleVUxdWJZSVkyQ3B6U0VJV2NHS29VbXIzODl2RHRLYkwyNlhabWNBYnZnUWVYU2k5Umh6S2RaRmE1d0FqMURsWWRuWGFNcXA3bHN1WDNFRVRQTzdyUUNPc3NBWlJmWDR6Y1JIdkpLeU93TGRVYUlKVVc0YUxCWGZTYmdFMHc4bGxHcXRSU2NPN3BSMkY1QTVGY3p4TW1PTHdONE1yNzBKRWU5VVFBYjd0UjY3OHBXaldJUlIwWGQ3NzZKcUhIWnFXVjFHVThUalFRWTZWX0hvYjRGVl9mSlNkbkNwWXd1d1NodGZ3VVc1Y1hJSlVqMVZUeGhYZDFDSEpoLTZLT3RPSy1uV3pSbVM2V0VORzNmdTEtVnVrdmtxQlJGWXl0ZGZ0RnVuSWd1bHpnblZnTHlrMHd0SzYtRmxMQjNDMkgwOWtqMER6TjBUZUJsQjRLWnA1aU5rMWNpdnprZHVFaV9MRWlkN2c2eWIxekRpRFJBNDdQc2tYTGp2Zmx5Zk1HQU55dUZkX0xnaHdRZXBYQ1c3WHN0S2NiUnpmczAtWkN4NUdDT1pEbHJ3OXVOSDN5Nm9QN25zcklhTlRna1pCMHM3VnlzclBVUUtydjNXQ0kycnhoZExzQXhNaWg4LWd6VlU0cElPcE5MLWVNLW9WTGU1R3g?oc=5",
+      "pub": "2026-09-03T11:58:30+00:00",
+      "id": "5470c9bd547c3a51"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেশে তিন বছরে বন্ধ ৪ শতাধিক গার্মেন্টস কারখানা - Channel 24",
+      "link": "https://news.google.com/rss/articles/CBMilwZBVV95cUxOWVdmOXNOWW1IV2ZxMlYyRHJXZWloQUM2MGYtR1BrVlQ4TzJuLUxEblpnQWNRZzhfRmhRaGNYNlBPMDNZR3o2VzVGbDJTeURkUVJFMDdfMEFDZlVZejk2WEoyZG8zRUlUdU5rMm9tNFN4cGNQR21hTHNUbjdPX3pRTTRvRVBPdHpmd2FmeGp3YnJnSmRER1BETGRjUGVtU3ZaMUpNQmhFWWRHVU50TDZaWXZ5azZxNjE3SUhUNWFQVjEtcUt1QmxiQmNUZTdsc09sMTY2V3A1LVFUbmFXWndxLTRhRFZadVhheFRaLVR4TF9ELVNHY3djTzZUbGRlclFRaWlqWDNwZlRqZlZxQUpOQWFOYlI4WmRXTG1RU3JNekw2QWRYRjhoV3NlZ2ZKQjJCelhoX09CU1AtMGNFQmdoUE9mdVhsc1l0dURIVklpN25pc1kzMXkya053WjB1bnVEQmdnalJLVEhfZUdnVzFjdDh3Tmh3OGk4RHVRaWl0blJyMlJqMndjVFJmS3kwRS1xMEU0NlV6cDR6Z19aRFRuQ05vc0R4TVo5QW54N0pfMVQ1N2Q3Zl9xNkdBbXhOeGhxSEhDOUJBN3hsNlgzX29RWHp5YVlwR0ZjX3FJbVJTb3lkUDUtcFN1QzgxblFVMU1QcDBNZXd6YmV4ZlVFYkNsWXF4NUdsZEdCSGVkMGdJZUlwSW1MU1l1RFJZLVZRdVBIZ3BjaHZnYkZRbGgtVkE4aVdSVHZJYlN6VXg1QXJIWjVfclVjZzM1Y1lQTmt3RzZjQlNBckItZUM1Y2tFcjlMcjZkcVJ2akU4V01hcndZMmxIbG5Tam4xVHJiTzNSWDZUc3JjdU9aRVlSVlQzVl9JOTNndllITWY3aHhpdEVoSldiV1ZvTlB6REdxQkltZjFuUkN0RFBtWk92U1REYkxRZFhJZk41SlhYbUdTS1pmaFBySVFKaVlJTGZhZHJiWUpDZVN2endMZjVCSkRPWG5kNmFhU2ZCMmFSc0N1cVU5WklnS0swTXNDM0lFbHR0cFNaYWVGTkI2cw?oc=5",
+      "pub": "2026-09-03T11:44:00+00:00",
+      "id": "f93d477421f8f87b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে বন্ধ চার শতাধিক পোশাক কারখানা: সংসদে বাণিজ্যমন্ত্রী - Jagonews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zclRiWXpzYWlxMEJzYWxhWTZnS3RTRFVsZm1uZFNiMWEybFJBam1WRjE2SDZuWHlmcm1vaTJQOUk4R0lPMGhxbmpOUzhEUm5NanNET2ltMHprbm040gFPQVVfeXFMTzc2bVY2TFI5Y2F2cFZrN1RpRUNhaGdxVWhQci1iQXh6LTMzaWZ3emltVFF6NFcwdC1OX0VnU0dfSDJwX3dFVGM5MWQzYm9JQQ?oc=5",
+      "pub": "2026-09-03T10:30:00+00:00",
+      "id": "1a14cac2eeab4fb4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "চার শতাধিক গার্মেন্টস কারখানা বন্ধ হয়েছে : সংসদে বাণিজ্যমন্ত্রী - dailykaratoa.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3QTMyaWhxZ2ktMlRtT2JNNXZhMS1CODYtZWlrWTdjbDdraElQRVZXSWI3OWFRWEV2R1JVTGU1cG9oZzBERDNlWW55VnhNb1FkMnBTRXhR?oc=5",
+      "pub": "2026-09-03T10:11:00+00:00",
+      "id": "3be5315fc00fb4be"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জুলাই ২০২৩ থেকে জুন ২০২৬ এর মধ্যে বন্ধ ৪ শতাধিক গার্মেন্টস কারখানা : বাণিজ্যমন্ত্রী - ক্যাম্পাস টাইমস",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTLXllQ1c0cUNsd040VXE3RjlNVlJ0S055YzdCTURWLWRPeEZGd0p5MDladmJRODU0d3RsR0V2c0prRDdwWWFCYXVjb2xVaXNkMUFkaWw1cF9IYzg?oc=5",
+      "pub": "2026-09-03T10:20:00+00:00",
+      "id": "e8c2946a960accca"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে ৪০০ অধিক গার্মেন্টস কারখানা বন্ধ হয়েছে - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQaG1NRTU1WXRfbUNvcFdXbExMQzUwSy03cHdYdFR3TjZVVU9TQWl1ZW5PYnBHSHVEYnZGWGJuZmdlQlVMNVVUWUtTREE5QnlZSngwYXlsV1JZSVM4bkpIQ1FBajJaUTJQSEZUaWdQNUJGLXBQVlJVckJMUGpoUTV3SnFXMW5VSngwWlVPdXplRlVIdEM4dDJQMGk2YmJIanNqVHNta0psVTdRcnpRbU9iNmo1UFpVVFdUTjdiUVpPUE95Ulc2UERxbHduY0kwOXNUbzJMNGU3Nl9qUXFqSXJ5TVJvbzlmUnBremhrTWdhWnk5NENfX3NBWEtwQTY0aTg1aXY1dFpIYnBOWXVEUVd3SnoxVGk3YnFKZ0JUcndvZDU1dDFqZjVDZzBwMmN3M3k0YnlUWWMxYklQS3JySkNGRXkyZjlFTTNBSWpBeFpXR2thN0tJWDRaWldjcHFOQS1wV3BvX0dqUk5hWXpDNVhtWUc1TzI5em56QmZfcmlNckcteG50Tnh5Z2UwMVh2ampaeTZ1SmpsNUk5N2ZITjBkUXlQVzV3eFEzVWRNNGdhQmJtR05yaUhyM0pTemxSVHh4VG95akFBcW9faEVoV3VJWlUtLWhaUWNOZElVcnBFamtUaUxRZHctRzVGMFJpZjFnX1dXYWE0cThHQlFLOUFOUHFpRG1MNFpmX3RqT0tMb29TbEFwUFZ3ZkVBZ0JtMXNaSHNTb1VtV082MXRwTlA3OFJRdzhiS3FQYmNZ0gG7BEFVX3lxTFBobU1FNTVZdF9tQ29wV1dsTExDNTBLLTdwd1h0VHdONlVVT1NBaXVlbk9icEdIdURidkZYYm5mZ2VCVUw1VVRZS1NEQTlCeVlKeDBheWxXUllJUzhuSkhDUUFqMlpRMlBIRlRpZ1A1QkYtcFBWUlVyQkxQamhRNXdKcVcxblVKeDBaVU91emVGVUh0Qzh0MlAwaTZiYkhqc2pUc21rSmxVN1FyelFtT2I2ajVQWlVUV1RON2JRWk9QT3lSVzZQRHFsd25jSTA5c1RvMkw0ZTc2X2pRcWpJcnlNUm9vOWZScGt6aGtNZ2FaeTk0Q19fc0FYS3BBNjRpODVpdjV0WkhicE5ZdURRV3dKejFUaTdicUpnQlRyd29kNTV0MWpmNUNnMHAyY3czeTRieVRZYzFiSVBLcnJKQ0ZFeTJmOUVNM0FJakF4WldHa2E3S0lYNFpaV2NwcU5BLXBXcG9fR2pSTmFZekM1WG1ZRzVPMjl6bnpCZl9yaU1yRy14bnROeHlnZTAxWHZqalp5NnVKamw1STk3ZkhOMGRReVBXNXd4UTNVZE00Z2FCYm1HTnJpSHIzSlN6bFJUeHhUb3lqQUFxb19oRWhXdUlaVS0taFpRY05kSVVycEVqa1RpTFFkdy1HNUYwUmlmMWdfV1dhYTRxOEdCUUs5QU5QcWlEbUw0WmZfdGpPS0xvb1NsQXBQVndmRUFnQm0xc1pIc1NvVW1XTzYxdHBOUDc4UlF3OGJLcVBiY1k?oc=5",
+      "pub": "2026-09-03T10:24:12+00:00",
+      "id": "64cea6b7a668cdf2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে ৪০০টির বেশি গার্মেন্টস কারখানা বন্ধ: সংসদে বাণিজ্যমন্ত্রী - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxQSTB3OGVRZXp4eDF6UGlScFBTZWV5SVpwQk0wTjItcE1sVkZYSzgxYVRDMHpHMlZ1dnRFMEhxcjJidlVXVDlqN3BlQWJZVFhqUXpLZHBnY0NyZV9XTnhPNklxSFZrMUtLRUFHWGVvTC01bGJ1U3RfX0h1ZkU5U3RIZVRqSFhZdXVoZnEwZXpXbHBRaGRyc3BRWVZQMENNai1UMDRUZHIwcno0QkY0R0xsNGZ1WGg5OUtIdjh6Z3dvQkJJa1dkc0ozdFhJWWdSRS1PcUk5TVRHMElNWUZQTW1uMUp2cU5Nbk1FUUU5Y0R6NjZBSjlTMXdmczlBVWtmcEhGX0dqTEM1ZGQ2NjJsNEREdTVDWXVGN1NZVWRNSHNNZ003T2cwVUdoWEt5VEVOZFltRjNnLUZONlA5N2pVY3NRb00zYUdxNjIwZXJhSDU3YW5CbDkwMl9aQ2ZWQmRzUEFORkkxeUhqVGxlLU0xZHVtVFFWc2JSWkxfT1gzY2RRRDJSdUhscGxlb05aUzg4N21qWk4xblRJM1N4aS1HSW9Sci1fbjZsZzVzeVVqMlNwMUYtbWNPdEVzUlQxWS0zQUJGR2JLalV3UzdLZW5wMlZvNlFYV2ZKZ29WblYyZTdYMjhIbTFHM1BmaHltUFFKZ2JpQWwxQWs0XzdJXzk4SFRGaXlGd2NXLW9fVnlTMDFYaDVKQkgyOU9UekJuWXVZb1NUelRxVkFtNElad9IBrwRBVV95cUxOZWI2b2prZ0ctaTNBUGV2R2daVXVsWGtLdFE1RlM1Q282cmowMmwwOEpYSmhBVEJBd3I2NDZIZUtjRVMxVGYwUk55Wk04cThaU01jeWRUclQ2dUdPd1J6eVRoUUU0UHBkOTZGcjB0WmVuZWdYWmxZS1ViSDV3UVNQdFlrMlh2YXRmV2RMVlJWUHlZQlRuWnQ1Wm4tZ21obEZPQjRSVlNUTkV5MXBpYzQwd21ub1JJTURBZWk1ZXY1eE9MaUJsQWtMWG5oZEY5Tm42VmEyY1JLZGFrRDk3QUFlanNhOTk5a1F0c203YmpWNG5YZ3BlQ3ZhMmI1NFh3S2lXYjBIYVRzZUxISXRDb2d6S1VMeVRUMGpYTzNweTM0SW1ybXRRd0tKdld4RjFoV05SZ1pUUXFfUDE2SHVOTnpUYTltdnZpOXNkd09NNnljdmZuMGkyei1FUU1DbVEzTEVPY1BpYnBmR0ZFa2l2WmRjVzdDSjJ0U0kzS3lkNjVUano0VXBrYjZ2OS0xTUxBc2VncFRwSE9sb284ZUhHMGZTWEJPcE1mVXRnWGlzRl9qSEk2dTYxYXpLZHFtSEpDWXZGU1FOajl5dUNBLXNfbVd3Z3JtNEhfczRMRXpSWGJPeG9GdHBuaW9lS09KaVpNTm5ZV2h4bDJ1QTFaWmJGc2VOSHlLWlhMbUgwNU42T19FUjhNMm53anBBeFdUTzZ5UHp2LVY1TDc3Z181dEJwbTg0?oc=5",
+      "pub": "2026-09-03T10:23:19+00:00",
+      "id": "e909cd5c0414e8a6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে বন্ধ ৪ শতাধিক গার্মেন্টস: বাণিজ্যমন্ত্রী - sangbad.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DSkNCTjhNdXpDeWlYSjZYMFcxVTQ0eURFOXJIU0VpaVc2UXRoYTk1ejQ5dmYtVHYtVV91Ty1tSTRMR2hMZ0E?oc=5",
+      "pub": "2026-09-03T13:44:00+00:00",
+      "id": "e8b428b0fcf3afa7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ব্যবসার পরিবেশে দৃশ্যমান পরিবর্তন নেই - FNS24",
+      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQb3dvaTdYZnFORHg3RWloc0hzbi16UE1jYlg3Q184ckllUXVCdlB0aUQ0QTdXM0hhbTVGWTNSb2hNMUQwS25icURSeXVPZjlJeWNYUDhtZWZqb1lOaDNhSk4yV0lXbUY2QWxMZVRPdlo0eFhRd3hMNnFQVmFSNTRSYXhSQVFhcnBRNldVTVFMenJYbFcwWFhOM2ZKMWItZWdQSWZ4LWpCOHlnSXU1NUc0LW1sTW0wWnpfZ1E4NFJiREFpNGQwTUt6VF9rOW1TWEp5QXh4WlRsc2ZSTzVsd1A5Q2ZFYm1FOEY2WXl4STNaaUlzdnpkOUFLdDJIam0zTXJpLUlXcU9WekN4RmY4cldpNHV1OGd1a3NDbllfU1loTnZVY0NwNnFrdXBTdWhlVFBWbDZITVByU1BmeU4wX3NWNlE0ODNkUklPMTI1QTZ0dV9HcGw4VFZXdUZaMHJOOWRqR201Mmc5WmlUcldpS3B1amRhU3FfLWdZcUp4MEd1NVhrSXFFYzBPbFZZbzFkekhCc2RFMkgwUHVVR2lNYVFDOFA3bzZERFdzdnBCcjctd0hmU09ZY09WOUtGMkVMTDQ0WFVKVDlqdjc2SEJzTGZQT2RKOWRRNFoxYkVWWA?oc=5",
+      "pub": "2026-09-04T03:30:00+00:00",
+      "id": "d760ae0394d8ae0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৪ শতাধিক গার্মেন্টস কারখানা বন্ধ হয়েছে: বাণিজ্যমন্ত্রী - arthosuchak.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdGRSMWJXSEJhTWliTjlKUTEtYVIwQ0xYLXQ1UFFkTUpWbVd3dTFkb2lvd095eVl2b0FmS3U1Q1ZZcVN6TzB2QVZUNXRkT3RNUjl5eklhM2E5aHdTWEpQZmZqYXFiZE1aM1pqTlVDU0pUTFFaMVRpNk5iVVUxM3prY0F6aDMxT2JOcFRWMGJhNkhpbXhvS2cwQlZmYVRfNUxqMTNEQ0FRMUc5ZGFJNm9PeU1HR0RYVFBiemVGTGY0Qm1KSzlkbldwYTlVLTBhMXVKUXF3eVFPb1VRZWxJc2NoQVRRbTlHZHF3ZHZWYUFaTzFjTW5QUVAyNTFmSkVfQVIzODlkR3g2dVdhaFdnMEZiMnNJU0xrNDZoYVB3TE9PaTRFQURnYmpKYVg4djFLUmJnSzByc1ZhRVk5ZmhNS2trVXNOaUI4aWtUSGV3Y1JETnQwWllyZ0JZdQ?oc=5",
+      "pub": "2026-09-03T10:16:22+00:00",
+      "id": "77a491504e1142be"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে বন্ধ চার শতাধিক গার্মেন্টস কারখানা: সংসদে বাণিজ্যমন্ত্রী - Padmatimes24",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPU0VvRFdxT1Z1TTdybTZ5ZGFKLWNCQVk1ZlVDWlAzWFJNZFd2RG1DYjB3bS1jY1AyUG91Rm9ycWhsYnhHbExMWFdSWXY5ZllPUERUNFhkbHVfdzlDdG9XX3FaNXhHb1VScXlwNzhRMnd1YjRIVExVdGZ0cVRrTDBMRWV3WjFPZG9BbFBVZG1RTlZxY1gtSXlfQmpPM0MtR2xhM05VeXZqR2E0ZXVNTWhwTkxhWXQtSVllc1IyaXJGS2N0NnpiUXh1QldhY2hTM1AzeDlhLVNZeUtwbHhSQWpTb2U4T2lFMWk0anBIUHhoM21ncWlhRGsyVGpxUFRYN09QTU1yU0dyNC04VEhJU1UwWUsxNFlSZGlyVFo5U1h0TzNfS1hSdkVmUlpyMjZqVkg2NHpTYmlSWjJaaTNwdWpfUFNpMWtvOFB3THA0?oc=5",
+      "pub": "2026-09-03T11:54:34+00:00",
+      "id": "6a123933c2dd6188"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে বন্ধ চার শতাধিক গার্মেন্টস, তৈরি হচ্ছে তালিকা | জাতীয় | বাংলা এডিশন - Bangla Edition",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KM3IyWVJnYXpnTmc1eVVPV0lRRXpoT0ZGdEs0OWJyVkNSeFJNZmJidjVOYWttUTl1WGwteEVTMDZTdTJ4QTNIdFpTX1JYVkpNbUJGN0dZRnRfZUtLSWF4TkVn?oc=5",
+      "pub": "2026-09-03T12:12:00+00:00",
+      "id": "15324f05dfe2bb41"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তিন বছরে চার শতাধিক গার্মেন্টস কারখানা বন্ধ: বাণিজ্যমন্ত্রী - duaa-news.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1peEFuV1dWRksxNFVoTDFxaFRTSG9oend6azJhMEE4OUIxM3RNNHUyZVBsUjFpY1FoelUzSGNwbUxpSDNHam5pZFFoLTBhbmpG?oc=5",
+      "pub": "2026-09-03T12:19:26+00:00",
+      "id": "65cb8b491e27ead8"
     }
   ]
 }
