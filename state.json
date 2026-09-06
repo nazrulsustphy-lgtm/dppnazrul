@@ -1,36 +1,5 @@
 {
   "seen": {
-    "acacdeff97aa67e9": "2026-08-07T09:01:32.114973+00:00",
-    "3a5a81429b1458d5": "2026-08-07T09:01:32.114973+00:00",
-    "101d9f64dddf5cb1": "2026-08-07T09:01:32.114973+00:00",
-    "87bad6a9e77ea83a": "2026-08-07T09:01:32.114973+00:00",
-    "3e208d60a64adde8": "2026-08-07T09:01:32.114973+00:00",
-    "f8bd06f0264b0f3a": "2026-08-07T09:01:32.114973+00:00",
-    "0de006c33736f474": "2026-08-07T09:01:32.114973+00:00",
-    "f5b09e6eb5071392": "2026-08-07T09:01:32.114973+00:00",
-    "77797a37bdf4cb10": "2026-08-07T09:01:32.114973+00:00",
-    "a39ec6edda7bbdb1": "2026-08-07T09:01:32.114973+00:00",
-    "0a68afce8fde8e23": "2026-08-07T09:01:32.114973+00:00",
-    "3855451b3191a1ea": "2026-08-07T09:01:32.114973+00:00",
-    "3ec40889e9fa0de7": "2026-08-07T09:01:32.114973+00:00",
-    "8a3bef2630c0b4a7": "2026-08-07T09:01:32.114973+00:00",
-    "d9b09608790f1858": "2026-08-07T09:01:32.114973+00:00",
-    "19bac1d3f4d77c93": "2026-08-07T09:01:32.114973+00:00",
-    "bc36781c36ccfcd2": "2026-08-07T09:01:32.114973+00:00",
-    "a18f42c3ead8c939": "2026-08-07T09:01:32.114973+00:00",
-    "480e47c382219342": "2026-08-07T09:01:32.114973+00:00",
-    "c3e91783efd30ded": "2026-08-07T09:01:32.114973+00:00",
-    "84f588c2c3313af8": "2026-08-07T09:01:32.114973+00:00",
-    "b23ed6907956f954": "2026-08-07T09:01:32.114973+00:00",
-    "cd0dd91b4f947ac7": "2026-08-07T09:01:32.114973+00:00",
-    "15cf13ddc954e85c": "2026-08-07T09:01:32.114973+00:00",
-    "e249290203dccefa": "2026-08-07T09:01:32.114973+00:00",
-    "93d44156fde672d0": "2026-08-07T09:01:32.114973+00:00",
-    "0f23f7e9e0ea44a5": "2026-08-07T09:01:32.114973+00:00",
-    "e719073941d7673d": "2026-08-07T09:01:32.114973+00:00",
-    "dd110a3699451f8b": "2026-08-07T09:01:32.114973+00:00",
-    "6833eb41f57bf698": "2026-08-07T09:01:32.114973+00:00",
-    "1607261f48bce24c": "2026-08-07T09:01:32.114973+00:00",
     "716bdeb6ae994fc2": "2026-08-07T14:54:32.413045+00:00",
     "c4c0da7e86a8a4aa": "2026-08-07T14:54:32.413045+00:00",
     "cf0f34983d10dd24": "2026-08-07T14:54:32.413045+00:00",
@@ -2350,7 +2319,477 @@
     "d79dfe27ab8aad2f": "2026-09-05T16:37:25.353832+00:00",
     "6c895ea52bed37f9": "2026-09-05T16:37:25.353832+00:00",
     "13520192560b216a": "2026-09-05T16:37:25.353832+00:00",
-    "7d38f928b9aa67f1": "2026-09-05T16:37:25.353832+00:00"
+    "7d38f928b9aa67f1": "2026-09-05T16:37:25.353832+00:00",
+    "8c8280e0ace508f6": "2026-09-06T12:00:39.470841+00:00",
+    "79952a85ae82edd3": "2026-09-06T12:00:39.470841+00:00",
+    "fb879bdc77ea5b22": "2026-09-06T12:00:39.470841+00:00",
+    "866896a5aa6f46cc": "2026-09-06T12:00:39.470841+00:00",
+    "a6cae00a70b5545b": "2026-09-06T12:00:39.470841+00:00",
+    "367c4e400be1c54f": "2026-09-06T12:00:39.470841+00:00",
+    "f6c8cd8e20f3e7a8": "2026-09-06T12:00:39.470841+00:00",
+    "ca4b5340823b9359": "2026-09-06T12:00:39.470841+00:00",
+    "47578a145b952dfc": "2026-09-06T12:00:39.470841+00:00",
+    "6065486d24b53488": "2026-09-06T12:00:39.470841+00:00",
+    "a420848ee522ffd7": "2026-09-06T12:00:39.470841+00:00",
+    "20ed1446081dbf64": "2026-09-06T12:00:39.470841+00:00",
+    "f6402dded8a4684f": "2026-09-06T12:00:39.470841+00:00",
+    "f2469977f367303b": "2026-09-06T12:00:39.470841+00:00",
+    "0d0a748518de7d84": "2026-09-06T12:00:39.470841+00:00",
+    "17c19a8ef8dac03f": "2026-09-06T12:00:39.470841+00:00",
+    "35c1d2fa48ced121": "2026-09-06T12:00:39.470841+00:00",
+    "9fefff4a623da15f": "2026-09-06T12:00:39.470841+00:00",
+    "7367d1f35aa265bf": "2026-09-06T12:00:39.470841+00:00",
+    "c094d962d690c4ec": "2026-09-06T12:00:39.470841+00:00",
+    "f859b41e133a8b53": "2026-09-06T12:00:39.470841+00:00",
+    "527ca4363caacfb4": "2026-09-06T12:00:39.470841+00:00",
+    "67eb5bd42907a860": "2026-09-06T12:00:39.470841+00:00",
+    "915f4c62fe818052": "2026-09-06T12:00:39.470841+00:00",
+    "430bc60edb4890f4": "2026-09-06T12:00:39.470841+00:00",
+    "c7284b80cb3f7568": "2026-09-06T12:00:39.470841+00:00",
+    "79bedfaefb1ed1c4": "2026-09-06T12:00:39.470841+00:00",
+    "b84a5d21bce1537b": "2026-09-06T12:00:39.470841+00:00",
+    "786f0e05ec43975e": "2026-09-06T12:00:39.470841+00:00",
+    "852f0f20b2f51235": "2026-09-06T12:00:39.470841+00:00",
+    "1ee0a9de5833690e": "2026-09-06T12:00:39.470841+00:00",
+    "fac25199dd9b0597": "2026-09-06T12:00:39.470841+00:00",
+    "4ff87ef74b8ea5bf": "2026-09-06T12:00:39.470841+00:00",
+    "36a0dcf5cbd173b5": "2026-09-06T12:00:39.470841+00:00",
+    "728df7d56185cc2b": "2026-09-06T12:00:39.470841+00:00",
+    "5d6e0460ed4d30c8": "2026-09-06T12:00:39.470841+00:00",
+    "98ff2c02635b4cfe": "2026-09-06T12:00:39.470841+00:00",
+    "871c66bd30756d62": "2026-09-06T12:00:39.470841+00:00",
+    "6bd302ac73cc6cd6": "2026-09-06T12:00:39.470841+00:00",
+    "fda0e0bf80a0d240": "2026-09-06T12:00:39.470841+00:00",
+    "c8e0dc27eb854e00": "2026-09-06T12:00:39.470841+00:00",
+    "0bfa83aa676c68f0": "2026-09-06T12:00:39.470841+00:00",
+    "23dc2d4de9a36c87": "2026-09-06T12:00:39.470841+00:00",
+    "cc10f985c593f17d": "2026-09-06T12:00:39.470841+00:00",
+    "c17775a4228ccfde": "2026-09-06T12:00:39.470841+00:00",
+    "35318f2a8f715f04": "2026-09-06T12:00:39.470841+00:00",
+    "f9c2e25aea611a5c": "2026-09-06T12:00:39.470841+00:00",
+    "0895353a19e6f98c": "2026-09-06T12:00:39.470841+00:00",
+    "584debf9a5abe81d": "2026-09-06T12:00:39.470841+00:00",
+    "658923c74f6df359": "2026-09-06T12:00:39.470841+00:00",
+    "4da2ccc6e66f1b3a": "2026-09-06T12:00:39.470841+00:00",
+    "8c65c211cc05e0a3": "2026-09-06T12:00:39.470841+00:00",
+    "0895e3b635b36eec": "2026-09-06T12:00:39.470841+00:00",
+    "320ce7a721feeb13": "2026-09-06T12:00:39.470841+00:00",
+    "2adbe5a578acf6d3": "2026-09-06T12:00:39.470841+00:00",
+    "dd18f90c7d5a0182": "2026-09-06T12:00:39.470841+00:00",
+    "0d816725b01e350a": "2026-09-06T12:00:39.470841+00:00",
+    "8874447262a8645c": "2026-09-06T12:00:39.470841+00:00",
+    "f1933b0d9607bd82": "2026-09-06T12:00:39.470841+00:00",
+    "f543942eadf8ef70": "2026-09-06T12:00:39.470841+00:00",
+    "4ee95d3bbd006a00": "2026-09-06T12:00:39.470841+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Jordan secures zero US tariffs on T&A exports - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVJoWkZXRnFSd1hxWHNxZmZKNEJiVHlfalM5cW1pOFduNkdUWUZIeTNsX3dpZ1RYT095RTdhZFUzcVNsMDE5V1E2YUotZS1xODNLTjhXX1FpeXBHYUpCQ25qLXVWVFBmQUg2NWU4eVR4dnFBSm5jWTNRRDJqRnkxNjRn?oc=5",
+      "pub": "2026-09-05T23:29:06+00:00",
+      "id": "f859b41e133a8b53"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Craft, community & climate - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTJ2amJwaTkxM010STV5S1AxYnFtQTdYSnptT29FU3VsZkFJS1pfTm8xRjFtOHlFdm15WGFiZVN4a3lib2FXaUpkNDhYY28wbmZteFZtZXBVc1Q0ZDFjd1VUcTlXOW1rc2dtUGxockZRRGZmQzFVY1dRbU85R1hUczVQdFAtVk3SAY4BQVVfeXFMT3A2U0VkNG42ZFhXS1lremM3azlfb01JQVBFOTZjWHZpMW42NlF0aU5qM25Gbkc4a19aY2tlaFM0eWJsSDFQbVU4R0lCSVJvcUNiRFNKeXFoQXZtcE43NVBTSDByeFphdWtDclF4V29VT3VuQWpCU1doR0ZmeU5NTjJBMXV3TWxpMjFHRU9YZw?oc=5",
+      "pub": "2026-09-05T18:12:17+00:00",
+      "id": "527ca4363caacfb4"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Pumpkin Spice Espresso Martini",
+      "link": "https://www.reddit.com/r/aldi/comments/1w8i4bq/pumpkin_spice_espresso_martini/",
+      "pub": "2026-09-06T01:10:57+00:00",
+      "id": "67eb5bd42907a860"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA, AWARE™ sign historic MoU: A major leap toward EU ‘Digital Product Passport’ compliance for Bangladesh’s RMG sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2dEeGdrazZnSkoybHRzTWtkZWR2dU9WSU9ycXlrdWtBdkhoOTAweWlRZkNvTmJJNUZBeDcyblg0SXhBanpCZTJZUTFBRVhFTXBkSnQzcXdGVXhfWEN5dm50elJ3M2Rnbzg3Z2dVVUUyUV93WWVzVDhOalV3SVg4MXpTdkRkVWx2UjBSQnRRQUZBRUwzeDlyU3k4MVdSWG9OdndnTE43NXdsWXVQbHVlUUJaSU0zQkxuRm1qVHgwbTZKdkNVYktYZzhEd1VmNzBGUDhqc3JHT2UxZ3p6REUxZmlOZw?oc=5",
+      "pub": "2026-09-05T16:23:33+00:00",
+      "id": "915f4c62fe818052"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh resolves 48 of 61 non-tariff barriers with EU - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXBnN3VQQXFKMTFaTm1kV3IxYjd0N2ZmV0NEMWd5SmVpazJJaGNuWXk0a3doVXducW16S0JWWFVUU1J2bGZPdWppZjVia3MwRVh2amZKTmZhVjBBUUV6NHdta1VrNGxNQ2RDN1Z3Y1JtQzdZRmZtTUNPc29EMlN3bm5qSkl3dFlLemVZSVhONW9nZ0dLRWlXNTQ4N1lxZ19iUTNValg1b1g2cDljOEE?oc=5",
+      "pub": "2026-09-06T09:15:00+00:00",
+      "id": "430bc60edb4890f4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Set pension age at 55 for RMG workers: BGMEA - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGtDNnI3TWRFYW93MjRpOVk4VHMzeFZZeWkwOURtVENPbnpVQ1RBT0V2a3JCWnRIaVd1MndRdHlwWVZlSGFqT1JpanJqa1hDSnlac1JaVVZZSkY0TDJDSGQzbTF4ZUxUUzRZTVRxZlh2cDhHQkZGMzJ5Sk8zMUVQRWc4cXh3cmd3UnJV?oc=5",
+      "pub": "2026-09-06T02:31:19+00:00",
+      "id": "c7284b80cb3f7568"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Boeing-Airbus competition: EU envoy seeks level playing field - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmw3SHFyaUVxdXlOTzEzeDVNZFRMWVlUcHJuUTd0MXNpWHAwb3dEaVhaWm8zbFhsV3pUSjNuS0JsV2FTUlFqYmNuNUlELUlaNVNuMEtkcUJORFpKNkk4NmxFS2VXWDQ5dnB1OHpOMDBPNEpkcjdkOTNrV2QzZmVUOTdhMk1XajBEVTVCLVRlRndPMlNkLUdVbmh2ZFJMZ3BqNTBCazFqa3lHX1VKTUFjcGl0QQ?oc=5",
+      "pub": "2026-09-06T10:29:00+00:00",
+      "id": "79bedfaefb1ed1c4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh eyes higher value through smart and technical textiles - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmtNd3VZYjJSWUtxQ1Bad3k4YVNvSWNjeUJ1WHBBeFRxQ2tCNU9IVEE2Wmo2alVSbV93UTVBeWd4ZmUzMG5LTFNmQ0VqNk01SWlqWWRpeWxvR0M5RUxmdDk3bW01QjdQN0NUdDU3NXhpOHFVMHFhbTUtS0RRSnB6TXM5WFVXcWZUa0hxQlQwVHJZa0drR3pGVDVJSTZ1QQ?oc=5",
+      "pub": "2026-09-05T19:24:34+00:00",
+      "id": "b84a5d21bce1537b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG exports to US fall 6.25pc in Jan-July - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPanl0OVdIQ2RwZFRWMDFsQVBYWUFiQkVrN0ZMSjZ5bEZHSW16Mk1ULWRwOWlDWjVNUTBUeElUNjdyejlCVUZDS3BaRGtLd0Vqdk85NzVKZFotMVBRQnFIYmtmbWR4bnBNTV9PekNyR3ZDUFE0cXV0QVRKSVo0TkZjMUJzYk5OVmU0Ymd3SzFYaVFVdnpnSEtJ?oc=5",
+      "pub": "2026-09-05T18:39:00+00:00",
+      "id": "786f0e05ec43975e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "US tariffs push down Bangladesh apparel prices 2.26% in seven months - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkZxSDBqcWk1VEZ5VlBLUEFzMzBERUIybDdZODk1eEtNZzZuNzFHczZoVm1MclMxRXRiRTFUVWUtYnZWR0ROclpPLXB2OE5pUGNxSHM4eGJNU3pOVWwtOUdwWEJ0TnBqaUh6cWZMd2lsb1V6MkZjSkM2ME14Ym0wak9ONTNoTXhPUEh0QWRRWTBxSmhVR2h2U1ZEa1JOMDJnM1ctV2NnNXJjV0nSAbABQVVfeXFMTlgtaHNHSTZGdm1aSVRKQUwyd2lXWmRkU3AwQnZIUW15SHVPV0d1WUxCWEUtX3RNaW5WSF8zZE9GTDctUUFVNlpYd2dVNno5WE9QcV9VdmpvTlRiQlR0QUV6dFVZWF8wYzZXMnJoV2R3MUVqZmdWSHYyMHkwenJuNlJvNzZWSG9UNldoSGJIUG04ak9TazVYMnVlaFhQRTJlNmJ6eWZ4MXVUM01PcmQyZUs?oc=5",
+      "pub": "2026-09-06T04:30:00+00:00",
+      "id": "852f0f20b2f51235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA discusses Universal Pension Scheme - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdk1KRDJUVkJHRm9pTGx5VWhYV1dfS0s5VnNCVmRaeEpOUk1RU0xZZXc1akVSdW1qVXhyVkNrVTU5aWNkTVpqN1JMd0hqMUItZG01UkZzWk1ndFRMc2x6MEE1cnNxV21tbFgxZW50bjF2M1VtX0NFTHNXMjFGVG1RSFlGWDYwNUJvUC1KUHBWZXlWNXpUUFE?oc=5",
+      "pub": "2026-09-05T18:16:00+00:00",
+      "id": "1ee0a9de5833690e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Brazil voices ‘deep concern’ over EU suspension of Brazilian meat imports - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOem8yalBvSjBsWUZydU5TeEtELV9xd1pGNHlnUVVkb0JPeFlaYmJrSEN0VTVLSzQ1cjhVcUxaWmF0R2tQRExmMWJXZ29SeVV1RmdXU0Q5N2FCU09tblc4cHpIT01PQUJtdjF0WFNYMlZZcC1DbzNVVFNEVmgtYTV3aXRqSXB0SE1LWnp4bnBKN1dmSUtMVFROQ0pNNVJCMDRmdVN4RmZVbE56Mm1ZSGRycmRpS0puVk1FYnNHR1MxdEk?oc=5",
+      "pub": "2026-09-05T18:01:00+00:00",
+      "id": "fac25199dd9b0597"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG exporters seek repeal of knit fabric import bar - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUNGSXF2WFlHb3dqZFMxRE5VQ0l0X2JVLUhsLTRRcUpGN25NZkVfeDRfMi1NY00tTU0ySk1INWdFVkU4cEhlb01ENy13X3RjX2VpUG9JbWtMcmF1emt4dEdrWEhvTnU2YmZuWjJOMGZHRmJ1R1p1bkdRaEpiN3JoUVgxT2cyYXdDLUhINnFsSU80SmJBNkhnekZONDkyRnA4bDUxSC13?oc=5",
+      "pub": "2026-09-05T18:41:00+00:00",
+      "id": "4ff87ef74b8ea5bf"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "EU to help cities clamp down on tourist rentals - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSW1MWkRjME5tVFpYZ3NKZF8tSlI4Yk4yVFNxMVNJRzlBQmNWT0FhVUxrVUE0aGxqUDM3V3ZKTFplVGdfYWNKQVhyUF9OU2lBdVNyRDNHS0VYZEpWLU9MajJHMjNmUlB2UXVkMHZsblRqc1F3VV9GLXh3Y1ptMFZpNF8tV2dNYnBZczUzM3hWWi1qU3RrUDVfZ0RvdllDbVVr?oc=5",
+      "pub": "2026-09-05T18:04:00+00:00",
+      "id": "36a0dcf5cbd173b5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "High tariff protection hinders export diversification: study - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUZlci1IZFVBSUZsTUFTbUFIZ2lIM0l2UEpKOHItMy1XUTMtZnZFcW96cXdmMi0tcVItdTl6VHdfSmxJQlZ4SktVWlBoR2lUNHMtSnZNTUJvTGVBYTJOcW94MW5mSUVvZWtGLVZRdHJHOVFBMkF4ZDI3STBFLVN0UE9VdXE5cVVpanlQaHBVa3hOUDA5YmxrOHBUbWlnYU1MTHJuUXR6cGZrMWE0by1PeQ?oc=5",
+      "pub": "2026-09-05T18:38:00+00:00",
+      "id": "728df7d56185cc2b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Travellers can now take up to $18,000 for overseas visit - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFNqNzUxZXh0cU9OZlZBV2hhM0tsQlJjNHJLeWxxMVJha0VVeXZMQUVteWhuSXJGNTE2N2oxNm9JQ1JQbUhSaWxsTTlNQmZUVUo2TE1PRnBheFF1RXJ4T3JrWWVCekxfRnhOalB0bksycEtDOXB4UTg2YVBSTWVMUHNFZU9pYWRxdEZxelJWNlZJVzU5clNwMjJWM3NhTzVE?oc=5",
+      "pub": "2026-09-06T09:23:00+00:00",
+      "id": "5d6e0460ed4d30c8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA, AWARE™ sign historic MoU: A major leap toward EU ‘Digital Product Passport’ compliance for Bangladesh’s RMG sector - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2dEeGdrazZnSkoybHRzTWtkZWR2dU9WSU9ycXlrdWtBdkhoOTAweWlRZkNvTmJJNUZBeDcyblg0SXhBanpCZTJZUTFBRVhFTXBkSnQzcXdGVXhfWEN5dm50elJ3M2Rnbzg3Z2dVVUUyUV93WWVzVDhOalV3SVg4MXpTdkRkVWx2UjBSQnRRQUZBRUwzeDlyU3k4MVdSWG9OdndnTE43NXdsWXVQbHVlUUJaSU0zQkxuRm1qVHgwbTZKdkNVYktYZzhEd1VmNzBGUDhqc3JHT2UxZ3p6REUxZmlOZw?oc=5",
+      "pub": "2026-09-05T16:23:33+00:00",
+      "id": "915f4c62fe818052"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA discusses Universal Pension Scheme - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdk1KRDJUVkJHRm9pTGx5VWhYV1dfS0s5VnNCVmRaeEpOUk1RU0xZZXc1akVSdW1qVXhyVkNrVTU5aWNkTVpqN1JMd0hqMUItZG01UkZzWk1ndFRMc2x6MEE1cnNxV21tbFgxZW50bjF2M1VtX0NFTHNXMjFGVG1RSFlGWDYwNUJvUC1KUHBWZXlWNXpUUFE?oc=5",
+      "pub": "2026-09-05T18:16:00+00:00",
+      "id": "1ee0a9de5833690e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Set pension age at 55 for RMG workers: BGMEA - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGtDNnI3TWRFYW93MjRpOVk4VHMzeFZZeWkwOURtVENPbnpVQ1RBT0V2a3JCWnRIaVd1MndRdHlwWVZlSGFqT1JpanJqa1hDSnlac1JaVVZZSkY0TDJDSGQzbTF4ZUxUUzRZTVRxZlh2cDhHQkZGMzJ5Sk8zMUVQRWc4cXh3cmd3UnJV?oc=5",
+      "pub": "2026-09-06T02:31:19+00:00",
+      "id": "c7284b80cb3f7568"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Bangladesh's next export challenge is winning the race for supply chain agility - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQU8xX1VXUHRfcnF6R2o0b2N4Ul93SGF2anlvZHdlYXJmeFNzZDItLW5EQklyNHN4QTNKV0pCWDZxUVRabHMyUUtNR1YxTjdsOS1wMElNNzFLMllyYlY1VkdOMkEwdlR0ZW0weG9LeEhJOHlGZ3BHVmFPRW5VTHNfeHdDN29nMzJiNTFzSG1hUTdySWtROXY2NmtVeXp5aDhPbUQtZzZEemhnSE0zX3BJ?oc=5",
+      "pub": "2026-09-05T22:10:37+00:00",
+      "id": "98ff2c02635b4cfe"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Dragon Group's acrylic spinning advantage in value-added sweater manufacturing - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkc3TVhPYXp1YUw4T25PUUpSQ3VTNGVXSlhFMU9SZmlFRGxrVUFPSnRueVlkS2pvclNjWS1rSkJueXVwWGRwRU80SktqRG1CTmNlRGdBWkExSkVEZXplemZFMm5XUWhsck1jcjFMLUxsRXhXZHBZaFpsRDE0aXhaY0RCb3Q1RnlqUmZPNUJwcEQ0U2xjdU4tTUc5QWIxZlZsYzhad05zc2I2TVRBNGc?oc=5",
+      "pub": "2026-09-05T20:53:36+00:00",
+      "id": "871c66bd30756d62"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh becomes the second-largest apparel supplier to the US, as an opportunity to grab China’s shifted orders - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWM1QkM0WWZiR1JLZVoxVmVMRG9oX2xtVTBYZEd5bElWZmVfWDFTTkNZT3FRcVJvaFF3UEZHREJ6cm13eVJmOHBuTUVQc0psMFpsTFpzUnRkNnVsV0VjVnF6UmtSTXdCanJtU19yU1N4Rm5NbzRzOEVhTTg0c2NiLXJPLXRDTDE1djh4azlicFFTQkt1TVNzQXVhcTVhbjBQSllYXzNNa2FwYnRFLWoycjE0dEhyZmdJSTNDRGpERnkycF95VG9DbzNFUDdtMWNPWGNvcmxGRzVOdGtq?oc=5",
+      "pub": "2026-09-06T00:55:31+00:00",
+      "id": "6bd302ac73cc6cd6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "US tariffs push down Bangladesh apparel prices 2.26% in seven months - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkZxSDBqcWk1VEZ5VlBLUEFzMzBERUIybDdZODk1eEtNZzZuNzFHczZoVm1MclMxRXRiRTFUVWUtYnZWR0ROclpPLXB2OE5pUGNxSHM4eGJNU3pOVWwtOUdwWEJ0TnBqaUh6cWZMd2lsb1V6MkZjSkM2ME14Ym0wak9ONTNoTXhPUEh0QWRRWTBxSmhVR2h2U1ZEa1JOMDJnM1ctV2NnNXJjV0nSAbABQVVfeXFMTlgtaHNHSTZGdm1aSVRKQUwyd2lXWmRkU3AwQnZIUW15SHVPV0d1WUxCWEUtX3RNaW5WSF8zZE9GTDctUUFVNlpYd2dVNno5WE9QcV9VdmpvTlRiQlR0QUV6dFVZWF8wYzZXMnJoV2R3MUVqZmdWSHYyMHkwenJuNlJvNzZWSG9UNldoSGJIUG04ak9TazVYMnVlaFhQRTJlNmJ6eWZ4MXVUM01PcmQyZUs?oc=5",
+      "pub": "2026-09-06T04:30:00+00:00",
+      "id": "852f0f20b2f51235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "RMG exports to US fall 6.25pc in Jan-July - newagebd.net",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPanl0OVdIQ2RwZFRWMDFsQVBYWUFiQkVrN0ZMSjZ5bEZHSW16Mk1ULWRwOWlDWjVNUTBUeElUNjdyejlCVUZDS3BaRGtLd0Vqdk85NzVKZFotMVBRQnFIYmtmbWR4bnBNTV9PekNyR3ZDUFE0cXV0QVRKSVo0TkZjMUJzYk5OVmU0Ymd3SzFYaVFVdnpnSEtJ?oc=5",
+      "pub": "2026-09-05T18:39:00+00:00",
+      "id": "786f0e05ec43975e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Apparel exports to US drop 6.5% as overall market shrinks - Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0w5cTJTZnFyOVM2c2tSYlFBdUdHRHFwa3JRX2xfei1EMmR1VnhfSVZvYk1QNFFYRjhIb05HODNHcE5QNHhhbkJMWllFZnNORHNEUTR5c0tzeGpWTk85OE1XUFJqV05oeUNGVGRjdWQtVVJWR29JQ3RDVkZoaGdUeUpzY1dOaHZqWndMSW1nUVBidm9CeG5hcWN1YWXSAaIBQVVfeXFMTkw4TWNmS1BiRlQxcmYzaEVRZUlLeXpXY2NfUUxOTU1mQWdWT0RpbEsxTDRxUER4SkhSX1dpOTlfZUlfNmFSaFpzQ18zRjRDY3hQV1VtWmdKVlJCM2p5NGRaamYwYWtzVzlDb3F4cW5La2ZhTFdnQmQ1Vm5RLXRTQVVxRFcxdVJSdU1YYmlFTkdCNHdIc0xwY2xuVVVNVTZSOHZ3?oc=5",
+      "pub": "2026-09-06T10:22:40+00:00",
+      "id": "fda0e0bf80a0d240"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh eyes higher value through smart and technical textiles - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmtNd3VZYjJSWUtxQ1Bad3k4YVNvSWNjeUJ1WHBBeFRxQ2tCNU9IVEE2Wmo2alVSbV93UTVBeWd4ZmUzMG5LTFNmQ0VqNk01SWlqWWRpeWxvR0M5RUxmdDk3bW01QjdQN0NUdDU3NXhpOHFVMHFhbTUtS0RRSnB6TXM5WFVXcWZUa0hxQlQwVHJZa0drR3pGVDVJSTZ1QQ?oc=5",
+      "pub": "2026-09-05T19:24:34+00:00",
+      "id": "b84a5d21bce1537b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh stays ahead of China in US apparel race - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1lIRXdjMF9XdmYxYU9scTVTN0Jyc0p1SkpGVjdPeVdSWkVWaGN5WGJqaUlyTTYzalFBeXo5VHQwOHhWdUtsT2gzdEZzdzN5WXBHQVlYLXhBZTVNYkpMT1RycGxQR28wcldMYTVzM21iZjJCaVR0RjgxaS1iMnVPX2R2cm1GNHc2d2c?oc=5",
+      "pub": "2026-09-06T04:00:17+00:00",
+      "id": "c8e0dc27eb854e00"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "যে ৪৮ বাধা কাটালে ইউরোপের সঙ্গে বাণিজ্য হবে সহজ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZckRsbk5PYzZ0U25EY2hVYTBKekRaa0RLZnZNbHVFY1AyUXF3eWR5S19kRk1ZVktQREllQnVwdkZZeVhrYnBsWjg2T2xJVE9zQ2MtTzB3?oc=5",
+      "pub": "2026-09-06T11:00:34+00:00",
+      "id": "0bfa83aa676c68f0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাংলাদেশ-ইইউ মুক্ত বাণিজ্য চুক্তির পথে নতুন অগ্রগতি - এখন টিভি",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZ0lfcUZjaWZxQ002THlLTjZuMUZRUk1icVVYUGE3SWxiSWJKMUU1UWFPTWNRbnh1MVhERS14WDlYUUNXbldYbUxSam8zQlVPcWgxc290d3lkV1JHTUFzc1dKRFVsZw?oc=5",
+      "pub": "2026-09-06T10:49:14+00:00",
+      "id": "23dc2d4de9a36c87"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ’র ৬১ বাণিজ্য বাধার ৪৮টি সমাধান করেছে বাংলাদেশ - Daily Naya Diganta",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iemJiZ3dkWU96VXhLRklfS0dfWXdGTUNENXZjV211azJEVEk3NENIM0dQUDd2TndnWHVGWUJtRU1VU2xTU1RFbG83TFRkUUxkUk1UYnZMTHNNZTFlMXZuWW5GU3hRY0RkX01YVE1YU1VTVHFKYXFZ?oc=5",
+      "pub": "2026-09-06T11:28:00+00:00",
+      "id": "cc10f985c593f17d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ’র ৬১ বাণিজ্য বাধার ৪৮টির সমাধান, এফটিএ আলোচনায় অগ্রগতি - Sarabangla",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWGw2ZUpxOXprdmtFdGtuQXV5N1hkV0R6NzVfNGp4WFcwbnZxNFdoZWR0Z0VzYzNBOXlDQjRUMG1iMkd1NWFNY0tiSnhIVGVrcmFn?oc=5",
+      "pub": "2026-09-06T09:59:00+00:00",
+      "id": "c17775a4228ccfde"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউ উত্থাপিত ৬১ নন-ট্যারিফ বাধার ৪৮টি সমাধান, কয়েকটি প্রক্রিয়াধীন - banglanews24.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDTzItTTgtVTJCQ21FOUhkbUxqX2h4d0hVS2FuZEJ2b1dGeVFDSzVLd0ZQRlNTWnNmWWR5dnUzcDRoZUlwYmRrdkY0emJjNFJFeE1Rdkt3UVlaRXUxcHk0VmprRmtrWVpVWlJqc3NoWGhNWHZhNlRKYzdrbw?oc=5",
+      "pub": "2026-09-06T08:40:32+00:00",
+      "id": "35318f2a8f715f04"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাণিজ্য সম্পর্ক জোরদারে ইইউ কূটনীতিকদের সঙ্গে সরকারের বৈঠক আজ - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14V0J1bmxjdnRLXzlXZlZtXy0xZmF6bEcwV0dNYnFLcTJqU19XYlN0RUxONG5sRFFmM2N1UkNJMXFZaTdSb25kYnZYbnk3cU1qQ0VaRFh1dnFmWURYUHRpUlprdC1qR1k3WGdYTVNR0gFzQVVfeXFMTWVYZjB0MzYxU1pfYTFFZFVtRFdTWEsxR2VUejVjQnc1MWxYWkhBeS1NZFpmUm5BYXJHbWlwcXgybTlIZ3BoTG1JZmJ2WHRNWVprYUZmUTNPYTIxV1k2LS0zc0xmVnE0WGphdVVaYjUtRlVzRQ?oc=5",
+      "pub": "2026-09-06T05:00:00+00:00",
+      "id": "f9c2e25aea611a5c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "৬১ বাণিজ্য বাধার ৪৮ সমাধান, বাংলাদেশ-ইইউ এফটিএ আলোচনায় অগ্রগতি - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Vajc2Mm9IRUdCN3RUUmNncVIzLTR3VDU4YlZRSTQtQ0tiUGctMHV6OFVwdGI4STZwRXBtdU83eFRmWVplZ1dhdlJfSG9KQnROMHfSAVJBVV95cUxOVWo3NjJvSEVHQjd0VFJjZ3FSMy00d1Q1OGJWUUk0LUNLYlBnLTB1ejhVcHRiOEk2cEVwbXVPN3hUZllaZWdXYXZSX0hvSkJ0TjB3?oc=5",
+      "pub": "2026-09-06T09:54:56+00:00",
+      "id": "0895353a19e6f98c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "জুলাইয়ে যুক্তরাষ্ট্রে পোশাক রপ্তানি কমেছে ১১% - dailyamardesh.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81eFh5NjJHYlEwQ0F3bXRXdzhkRERFalJEUzFnWXBtQXNISE11Snl0RFlGajRIVjZnSEV6Rk41el9zVGd1R3JocnNsdjlTNWtpdEY3V0ZLWk83eC1PSGdkdG5nM2t6SDE1cEhITG9FWkN5OFU3?oc=5",
+      "pub": "2026-09-06T03:35:27+00:00",
+      "id": "584debf9a5abe81d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাণিজ্যে জটিলতা কাটাতে ইইউর ২৭ রাষ্ট্রদূতের সঙ্গে বৈঠক - agamirsomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIcVZJRmtUMDJzOXgySUhQbTlFYkNHem9QMmFzQmdnSnlhVGY0R3hUYnJrZHRnaG5NQ2QybmNXYlJpZFpfTllVMjgtOHdHRDNmMXNWQW91RXJDNzJBOXFyYUxCNlpYWktjdVNv?oc=5",
+      "pub": "2026-09-05T21:12:00+00:00",
+      "id": "658923c74f6df359"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "যে ৪৮ বাধা কাটালে ইউরোপের সঙ্গে বাণিজ্য হবে সহজ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZckRsbk5PYzZ0U25EY2hVYTBKekRaa0RLZnZNbHVFY1AyUXF3eWR5S19kRk1ZVktQREllQnVwdkZZeVhrYnBsWjg2T2xJVE9zQ2MtTzB3?oc=5",
+      "pub": "2026-09-06T11:00:34+00:00",
+      "id": "0bfa83aa676c68f0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "কানাডার পাশে কেন ইউরোপকে দাঁড়াতেই হবে - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMS0d6TExzSk1hQV9xR2lONHMybXh3azdBcWR4RUpBdjVxd3YwcEJGb3MyWkFZUmh6WmhNWThZM19xV1dkMVJGOWk5TUNWVFhfcWZmT0lEWWtWWWZlQy1YWTlzNlJzbnZSU1V1MF92WdIBb0FVX3lxTFBMS0d6TExzSk1hQV9xR2lONHMybXh3azdBcWR4RUpBdjVxd3YwcEJGb3MyWkFZUmh6WmhNWThZM19xV1dkMVJGOWk5TUNWVFhfcWZmT0lEWWtWWWZlQy1YWTlzNlJzbnZSU1V1MF92WQ?oc=5",
+      "pub": "2026-09-06T10:51:00+00:00",
+      "id": "4da2ccc6e66f1b3a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাংলাদেশ-ইইউ মুক্ত বাণিজ্য চুক্তির পথে নতুন অগ্রগতি - deshrupantor.com",
+      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOejI3M0dxelAxOG5yNnVTaEFEajY3TEZvRS1jWHJyalliTkZSVEZqOXd4M3I2T0VVSml5bVFJclgwdjRaQ2hRYzdnZU1SeEVCSkZsbGR5ZmxvSElnS1pPSXpWLWN0NVdtQk92cHlQMklocnVpdWd3N2d3Q21SelFNRmVVYW9ZcF82emJEdkNmbF9jMmpmeEVVMXBEMVJBSUZGcUNyRVZkRHlkQU9BU1FLQklXX3FVRlBJeEtaZ3AxWmZOdGRQby1VaWNKY3E2dzFUbzl0NUwxbVhBQ2ppbHE1TWFvYWVKS19sM2FYVDhFUDVGeHVwSU9SQVJuRUZwU0IyYnBmLUNqR0l3SlpqTXVLUC1NbzhFMFowY3g4Q2Fja1R4aWFRT09MckJtTEhuLXZvaHpZSG1HWUYzSTZEMW5nRmRkeGR1ZnpfUEtWRjRpT1pyNVdGRUs1R0NvV3JSSF90WE4wUFk4NDhiRldyRGJzdHROWGlYTDRIXzNEWFM3WjNVcFpPSGNIdHVRb2g1RFNtZGxWZGcxMzdESGpraUZXM0ZKdGdobnp5Wk1NWDVjQ3FERzhpX2tiMFR5Y3dKNDRzWk1WT2JMMVozN2VETHRZemJXbmRfODByaElxSVJSeks3OXNIc3l6dThxN0NfdF9jVmtnUnNiNURYNW83VFg0TnhFSmhPdVE1Um8yb3UwOHp2eGYxRGfSAZYEQVVfeXFMTnoyNzNHcXpQMThucjZ1U2hBRGo2N0xGb0UtY1hycmpZYk5GUlRGajl3eDNyNk9FVUppeW1RSXJYMHY0WkNoUWM3Z2VNUnhFQkpGbGxkeWZsb0hJZ0taT0l6Vi1jdDVXbUJPdnB5UDJJaHJ1aXVndzdnd0NtUnpRTUZlVWFvWXBfNnpiRHZDZmxfYzJqZnhFVTFwRDFSQUlGRnFDckVWZER5ZEFPQVNRS0JJV19xVUZQSXhLWmdwMVpmTnRkUG8tVWljSmNxNncxVG85dDVMMW1YQUNqaWxxNU1hb2FlSktfbDNhWFQ4RVA1Rnh1cElPUkFSbkVGcFNCMmJwZi1DakdJd0paak11S1AtTW84RTBaMGN4OENhY2tUeGlhUU9PTHJCbUxIbi12b2h6WUhtR1lGM0k2RDFuZ0ZkZHhkdWZ6X1BLVkY0aU9acjVXRkVLNUdDb1dyUkhfdFhOMFBZODQ4YkZXckRic3R0TlhpWEw0SF8zRFhTN1ozVXBaT0hjSHR1UW9oNURTbWRsVmRnMTM3REhqa2lGVzNGSnRnaG56eVpNTVg1Y0NxREc4aV9rYjBUeWN3SjQ0c1pNVk9iTDFaMzdlREx0WXpiV25kXzgwcmhJcUlSUnpLNzlzSHN5enU4cTdDX3RfY1ZrZ1JzYjVEWDVvN1RYNE54RUpoT3VRNVJvMm91MDh6dnhmMURn?oc=5",
+      "pub": "2026-09-06T09:02:32+00:00",
+      "id": "8c65c211cc05e0a3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাণিজ্য সম্পর্ক জোরদারে ইইউ কূটনীতিকদের সঙ্গে সরকারের বৈঠক আজ - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14V0J1bmxjdnRLXzlXZlZtXy0xZmF6bEcwV0dNYnFLcTJqU19XYlN0RUxONG5sRFFmM2N1UkNJMXFZaTdSb25kYnZYbnk3cU1qQ0VaRFh1dnFmWURYUHRpUlprdC1qR1k3WGdYTVNR0gFzQVVfeXFMTWVYZjB0MzYxU1pfYTFFZFVtRFdTWEsxR2VUejVjQnc1MWxYWkhBeS1NZFpmUm5BYXJHbWlwcXgybTlIZ3BoTG1JZmJ2WHRNWVprYUZmUTNPYTIxV1k2LS0zc0xmVnE0WGphdVVaYjUtRlVzRQ?oc=5",
+      "pub": "2026-09-06T05:00:00+00:00",
+      "id": "f9c2e25aea611a5c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "জুলাইয়ে যুক্তরাষ্ট্রে পোশাক রপ্তানি কমেছে ১১% - dailyamardesh.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81eFh5NjJHYlEwQ0F3bXRXdzhkRERFalJEUzFnWXBtQXNISE11Snl0RFlGajRIVjZnSEV6Rk41el9zVGd1R3JocnNsdjlTNWtpdEY3V0ZLWk83eC1PSGdkdG5nM2t6SDE1cEhITG9FWkN5OFU3?oc=5",
+      "pub": "2026-09-06T03:35:27+00:00",
+      "id": "584debf9a5abe81d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাণিজ্যে জটিলতা কাটাতে ইইউর ২৭ রাষ্ট্রদূতের সঙ্গে বৈঠক - agamirsomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIcVZJRmtUMDJzOXgySUhQbTlFYkNHem9QMmFzQmdnSnlhVGY0R3hUYnJrZHRnaG5NQ2QybmNXYlJpZFpfTllVMjgtOHdHRDNmMXNWQW91RXJDNzJBOXFyYUxCNlpYWktjdVNv?oc=5",
+      "pub": "2026-09-05T21:12:00+00:00",
+      "id": "658923c74f6df359"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের অবসরের বয়স ৫৫ করার দাবি বিজিএমইএর - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ha0toMmE5cjhJZkpoSzBLNG5nYjB4STFjV19VVlV6cVV0OThFdTh1RGZGUlZrYnNpWkFMd0JmWFE2Z2NUcHFSbERKeUJ1VHVUYnFDZFZ3?oc=5",
+      "pub": "2026-09-06T05:45:43+00:00",
+      "id": "0895e3b635b36eec"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "রফতানি আদেশ বাস্তবায়ন ও প্রতিযোগিতা নিয়ে উদ্বেগ বিজিএমইএ-বিকেএমইএর - Daily Naya Diganta",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJekhoWWdteURHTVlLQTZqNV9INjdaWFJ0RGhQd3FmUXNzajFlNmFaaHdHU1NHTWNLZnphVGlSeXVvQVlNbF9YVGNPTlhCLV9hQnVsLVZXZzFOc3ZHVksxelRsOVpMbE9oSGlVSXlB?oc=5",
+      "pub": "2026-09-05T20:56:12+00:00",
+      "id": "320ce7a721feeb13"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "নিট ফেব্রিক আমদানি বন্ধ করল সরকার, ক্ষতিগ্রস্ত হওয়ার আশঙ্কা পোশাক রপ্তানিকারকদের - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LQm5GYktmOHZDd2YzejV0THBKd3Fma2pFcTFiMVZ0endHa3pJX1JmaFdxRF84MXI4dVNTY294NHhFLWItbXROQXBtbzdBd2hRMTBTd3I3U3U2bDdxanp3OFl1U25YRTA5SVHSAW9BVV95cUxQUVRFLUNmeDlNeGhaT3ZRSmVRNEFmR1oyMF9yZGlKQXdsVDFlTXlTXzN5NGlaWXJIenBfYUxQdWI2TFg2TEtlZXpGWi1VTFR4ejNHOVF2SnlTd2RVVnBSOEJvMFRna0gwX1g1dVFNekk?oc=5",
+      "pub": "2026-09-06T09:44:36+00:00",
+      "id": "2adbe5a578acf6d3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জ্বালানিসংকট মোকাবিলা করে পোশাক খাতের শীর্ষ অবস্থান ধরে রাখতে হবে - দৈনিক আজাদী",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQbTZxcnVIWkkyMFF2STNHWU1aakRtRWtYb1NsMk1ZT2ZQNWZKSXZ5cHRuRHB4Q1ZLT19jUzdBUTZVeVR4MlhJWkVZcDFaVS1PenYxNkw5djVINGJKd3I0Yk1qMlVxRVVhOFBNUFVtYnJwRTM2aE1tQTZmQVNCdlBqTGdaTmlEX3BSVExQY3ktUjlWWFRwUUxQX0o1aGNTQmpRUVFqajhOZjhzUC15OC1DOVNNTVlrbWFSQ2VKenBzWEd2N19Yc0hiV1RvMlM0OWJwcTRiTnZwbFl1b3UtVWpGRlI1OWg2U21IcXVjeUZhOUp0MFc3cEthOHBIVGEwMjF4Y1VrYk10LWc2VDFuRS1PZFA3dXNaaVRLSm5tZ1lUMzFQeTNMaGVGZVVwZHRocktuQWw1MUlzYnNZeHAtcWdCeWZPMW9RaFBX?oc=5",
+      "pub": "2026-09-05T23:47:00+00:00",
+      "id": "dd18f90c7d5a0182"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পেনশনের আওতায় আসছেন পোশাকশিল্পের ৫০ লাখ শ্রমিক - চ্যানেল এস",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZFZqN0F4ZFoya1QwOUw3bGNjMnM4czZhOFRzZFBUa1FxemRUNlRmT216Y040REo2MzE4MmJzbGREWHJBVWNZRFRMTG9iZVVadkFfQVVRbjBRZnpfOC10dUl0NnpzRHNmZEV5cmN1TEEzTXZYNTRweUlqOEVYelZIQzFkX01tQQ?oc=5",
+      "pub": "2026-09-06T09:25:42+00:00",
+      "id": "0d816725b01e350a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের সর্বজনীন পেনশনে যুক্ত করার উদ্যোগ - samakal.com",
+      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQQmZjY2hJZ284Z3doZmlUblg1S1pvNGNERkNmNkpJM3pFNUw3cWdGRm9qdlNSbFQ5ZnpVaTVCem8zeFhNbE4yUjRDdHlCY3g1dUNLTGtlMzI4YkRSX05vM2Uya2twME8wTFZUdFo2ZVQzd0dLUUxRZkZVM3BtUnBPN2JTZTQ2aGNEelR3RTloMnYzM1lWaVZXVmJTTzNhc0lNdjAybl9MRS1VQ3BaXzhYTG1fc1lHQjdVV0FzS1pnRFFvX3FSRzFuZkRSZm1YYVdEaGplTVRmS0puZXNWZ3RLVjJTY3ZuVmRBX0Fjd1BDOFhYV2JPbEVpS1E1VU40dUx3RDRPaE82TkZuSUxuZFdmQ1MzVmRCdG16OWpJTHh3Vm0yZEdXODBDX3E3XzNwdlg3eDlaMm52UXhJR2pFOXY3ZGNYLXNYTkhvdDdYYXNPTHVZTmJKdUZhaEtpZThmVEx6Vko4ZTQyNUdaTzdYcEZ3NEU5MW9jRFpFS1BiX2Fyd1hLX1hlNE90YUtYMGh2YVZ6dDBRSVlfejRMWmJkcklFX1RuTTdQc2xwVTJWTVE5Unhxd0xxcW9kVW5sQWdENElTX0d2bjF2a0pRVmdRZmtrNElybVZ2YllaT2Y0aTlKdUxMZ3Y2TmV3R201Q3M4YS1oRHdiczZjbUpsc2otdnhRZW5yRnRFVll0RmNPeDNrUzM2RUpNYVhLR1A0bkpaT1ZWVERpaW1QVlZHdVF5WW1OUmptMUZicUFiNGNDM191SzlkZWEzaF9ZWk1Eel83Z3VhNWk3M0JHUUV0UmFJWTA1d0ZIQUw?oc=5",
+      "pub": "2026-09-06T01:48:00+00:00",
+      "id": "8874447262a8645c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "নিট ফেব্রিক আমদানি বন্ধের বিধান প্রত্যাহারের দাবি - kalbela.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTWgzNS01ejNBR0Vsb2dfZzFBZGJRZmQ0MkM5cUtSLVRvdGQzOTgyQzNkalZjSkhMZDg3V3VjSlA4M0huYTE0NGhrUEktN25QLUhwWXFvamlPcV9kWmR1QWMyRHQxQQ?oc=5",
+      "pub": "2026-09-05T18:00:00+00:00",
+      "id": "f1933b0d9607bd82"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "নিট ফেব্রিক আমদানি নিষেধাজ্ঞা বাতিল চায় বিজিএমইএ-বিকেএমইএ - agamirsomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MY01LTWlxWmJvMDRqTEhOdFRvTC1qaXZJMF9YLVBadzlDMzc4M3E5RmhIbFJXUkMwa1dILXNnUUwySnE4eHVQQldDR0k1SmpLSEpsUTRCbXNvemlkSF9FWHFwYnMxX19WWi13?oc=5",
+      "pub": "2026-09-05T21:09:46+00:00",
+      "id": "f543942eadf8ef70"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের সর্বজনীন পেনশনে আনার উদ্যোগ - agamirsomoy.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56QWM4N250bFBmT2dQUjJFUzluSGVlczA3akljdXlhWmJlc0RNVkpOZmNtU082WUhnbzNfNHVFTEc4LXhEMGJiaXY5ZUlUbWIySW9raFVxUEgtTHNJRER3?oc=5",
+      "pub": "2026-09-05T21:01:37+00:00",
+      "id": "4ee95d3bbd006a00"
+    }
+  ]
 }
