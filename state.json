@@ -1,38 +1,5 @@
 {
   "seen": {
-    "aa6e7633363f005b": "2026-08-14T09:08:56.395314+00:00",
-    "3ea25d229ffeb818": "2026-08-14T09:08:56.395314+00:00",
-    "232576e687d573fb": "2026-08-14T09:08:56.395314+00:00",
-    "fd01c4fac72133d1": "2026-08-14T09:08:56.395314+00:00",
-    "4b89b21ba15c12d5": "2026-08-14T09:08:56.395314+00:00",
-    "053d237a04836b92": "2026-08-14T09:08:56.395314+00:00",
-    "a0a2686d6db85055": "2026-08-14T09:08:56.395314+00:00",
-    "5dc841cb1dfa3e2d": "2026-08-14T09:08:56.395314+00:00",
-    "28539366635e70e2": "2026-08-14T09:08:56.395314+00:00",
-    "36706eaa3d9fe45c": "2026-08-14T09:08:56.395314+00:00",
-    "b710ee7309bc3edd": "2026-08-14T09:08:56.395314+00:00",
-    "7ae72ab9346f949a": "2026-08-14T09:08:56.395314+00:00",
-    "383cb74689163fa1": "2026-08-14T09:08:56.395314+00:00",
-    "6f9627177a0f8777": "2026-08-14T09:08:56.395314+00:00",
-    "8c677164ab5d261e": "2026-08-14T09:08:56.395314+00:00",
-    "144b72384d665e41": "2026-08-14T09:08:56.395314+00:00",
-    "82971c6cb98bc6ab": "2026-08-14T09:08:56.395314+00:00",
-    "c3422120d095df54": "2026-08-14T09:08:56.395314+00:00",
-    "eee4849a563d425f": "2026-08-14T09:08:56.395314+00:00",
-    "3a158928976ea470": "2026-08-14T09:08:56.395314+00:00",
-    "102937a9c5dce304": "2026-08-14T09:08:56.395314+00:00",
-    "cfb64b45904ccc82": "2026-08-14T09:08:56.395314+00:00",
-    "a260903c754207e0": "2026-08-14T09:08:56.395314+00:00",
-    "5d350206ecdd107b": "2026-08-14T09:08:56.395314+00:00",
-    "3987253725862cd1": "2026-08-14T09:08:56.395314+00:00",
-    "721eca4400b2a44f": "2026-08-14T09:08:56.395314+00:00",
-    "cfa432f1cebd575b": "2026-08-14T09:08:56.395314+00:00",
-    "efefb78736e25968": "2026-08-14T09:08:56.395314+00:00",
-    "5409659539346fef": "2026-08-14T09:08:56.395314+00:00",
-    "435368d07b88cc78": "2026-08-14T09:08:56.395314+00:00",
-    "0f9d2ca1a179165b": "2026-08-14T09:08:56.395314+00:00",
-    "454af252a00f931f": "2026-08-14T09:08:56.395314+00:00",
-    "ef635ebbf7b43d38": "2026-08-14T09:08:56.395314+00:00",
     "66d7f6cbb2b476e7": "2026-08-14T14:53:34.586372+00:00",
     "aff357a073fa7749": "2026-08-14T14:53:34.586372+00:00",
     "92b2156f35f35435": "2026-08-14T14:53:34.586372+00:00",
@@ -2283,7 +2250,144 @@
     "7916db07cdb1ec8a": "2026-09-12T16:49:24.165338+00:00",
     "8b5d4adef3e4874a": "2026-09-12T16:49:24.165338+00:00",
     "a65ae5e8adb738ec": "2026-09-12T16:49:24.165338+00:00",
-    "d88efc30a906d786": "2026-09-12T16:49:24.165338+00:00"
+    "d88efc30a906d786": "2026-09-12T16:49:24.165338+00:00",
+    "c65df53811a3402c": "2026-09-13T13:10:44.568808+00:00",
+    "501ddf602676e634": "2026-09-13T13:10:44.568808+00:00",
+    "c8e055551bb48c0a": "2026-09-13T13:10:44.568808+00:00",
+    "420ac1ef1a62d0fb": "2026-09-13T13:10:44.568808+00:00",
+    "39c7d8ed37ba41a0": "2026-09-13T13:10:44.568808+00:00",
+    "f305c1490991e8a7": "2026-09-13T13:10:44.568808+00:00",
+    "7ac5e8474f0809ab": "2026-09-13T13:10:44.568808+00:00",
+    "734f874c308a2947": "2026-09-13T13:10:44.568808+00:00",
+    "984459f6a2da7319": "2026-09-13T13:10:44.568808+00:00",
+    "a56d61a6a42eab9a": "2026-09-13T13:10:44.568808+00:00",
+    "7d14d12e923e7d81": "2026-09-13T13:10:44.568808+00:00",
+    "6239e5f153338e07": "2026-09-13T13:10:44.568808+00:00",
+    "45a78fbf3b2676d8": "2026-09-13T13:10:44.568808+00:00",
+    "03463bdebb0e6999": "2026-09-13T13:10:44.568808+00:00",
+    "2a87c0a9726f8763": "2026-09-13T13:10:44.568808+00:00",
+    "836dc891e6f9c3b9": "2026-09-13T13:10:44.568808+00:00",
+    "a7f4dbb7a1fcd482": "2026-09-13T13:10:44.568808+00:00",
+    "56823d8d870c46d4": "2026-09-13T13:10:44.568808+00:00",
+    "ab09a84547397842": "2026-09-13T13:10:44.568808+00:00",
+    "9dc527882a7a692e": "2026-09-13T13:10:44.568808+00:00",
+    "91550aaee93229d5": "2026-09-13T13:10:44.568808+00:00",
+    "1039f10b0774486f": "2026-09-13T13:10:44.568808+00:00",
+    "d8a7d34186f6b89c": "2026-09-13T13:10:44.568808+00:00",
+    "b65c58ad27cbf675": "2026-09-13T13:10:44.568808+00:00",
+    "dc98d7dfd1d76049": "2026-09-13T13:10:44.568808+00:00",
+    "dc36f8b70d1ed57f": "2026-09-13T13:10:44.568808+00:00",
+    "a0e1cc20aebf82e6": "2026-09-13T13:10:44.568808+00:00",
+    "6c765ac6f26c36e0": "2026-09-13T13:10:44.568808+00:00",
+    "bd7b7c679bb8bd2a": "2026-09-13T13:10:44.568808+00:00",
+    "d7e598a47c608c81": "2026-09-13T13:10:44.568808+00:00",
+    "f14eae1b5b27a783": "2026-09-13T13:10:44.568808+00:00",
+    "0ed1d8cc8ffe1297": "2026-09-13T13:10:44.568808+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Land and Expand",
+      "link": "https://www.reddit.com/r/blackriflecoffee/comments/1wetz4w/land_and_expand/",
+      "pub": "2026-09-13T01:18:45+00:00",
+      "id": "91550aaee93229d5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGBA and DeviceStamp Hold DPP Training for Garment Buying Houses - businesstimes-bd.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MWRoRDN5LWhBQXhYR1hRN0xJRXc5Vi1kOG1oQWZSVzZyLTB6eUE3YUZWQkJCQzVqTG9Oa3JXUFJFNnE3YjlMM2hyQlZGZGVkbkE0QmFvMnJET04yaHF5YnBXcU1qVjA?oc=5",
+      "pub": "2026-09-13T04:50:58+00:00",
+      "id": "1039f10b0774486f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "| Bangladesh-Japan EPA opens $3 bn apparel export door with RMG push - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWWdXblFfSFhYYXB3Wlo1azduaEpZOHdtRWcwdVB5WFFFTG1qZ1hvUnp3b2dra3hiY1hSUzQ5MWdXa00ybVZ2NktsX3Y0Z24tY0VPTjFCN1J6LU9TMXVaX1lTNVhiSUYya1J0MGdrSi1UTUZ4NEJoMUhTS0tHTmZ6WWIwOUh5V3JzNXoxMHRWaVJMZnhPZzYtNE9HTVlHWVdsRk9BQVFZdmVGSFY1TEd1c2lfUDJqZDdTZWtrSGR0SjBTUEJrWHBpWGFKQXQ5ZDZwTnZueGhVV1RqWGgxNnN1X3o1YnZVdm1WX2hvWg?oc=5",
+      "pub": "2026-09-13T07:07:13+00:00",
+      "id": "d8a7d34186f6b89c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Tighter controls on yarn imports to save millions, create jobs - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFBKbUU2OXpRVzdVbmtBOXFuYlVnbzdPdUpiTjRnQXBoZVFyYWxRWURRcS02UWpUZXJzUmI0UDJlYUJyWDk3QnV4bmZXN212Y0NlcndDWHIxMnpYcE5xWFc2ckJqTmZQR1dfekhQX2hVanhSNWVjelAxT09TTEJnQXR4X2dQVENyQ29GLXFvR1FscHBPSEt1RFpoWTRKcTBlRFE2VWdQSjIydw?oc=5",
+      "pub": "2026-09-12T18:00:00+00:00",
+      "id": "b65c58ad27cbf675"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "BGBA and DeviceStamp Hold DPP Training for Garment Buying Houses - businesstimes-bd.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MWRoRDN5LWhBQXhYR1hRN0xJRXc5Vi1kOG1oQWZSVzZyLTB6eUE3YUZWQkJCQzVqTG9Oa3JXUFJFNnE3YjlMM2hyQlZGZGVkbkE0QmFvMnJET04yaHF5YnBXcU1qVjA?oc=5",
+      "pub": "2026-09-13T04:50:58+00:00",
+      "id": "1039f10b0774486f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মানদেব প্রণালিতে হুতিদের নিয়ন্ত্রণ, বাড়বে সময়–খরচ, দেশের বাণিজ্যে আরও কী প্রভাব পড়বে - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aQW50alpOXzRCakVlOFlOblg5dTI4WWgwRXlwTG5FV2NPMnVoQ0VZMUxWeHNVZWFEUGphM0pFM205Y1pTekhoSFgwamdQc2RSM1FwenROZU9KQXB0OVpUQjBmOXhLQk3SAWdBVV95cUxOWkFudGpaTl80QmpFZThZTm5YOXUyOFloMEV5cExuRVdjTzJ1aENFWTFMVnhzVWVhRFBqYTNKRTNtOWNaU3pIaEhYMGpnUHNkUjNRcHp0TmVPSkFwdDlaVEIwZjl4S0JN?oc=5",
+      "pub": "2026-09-13T01:39:00+00:00",
+      "id": "dc98d7dfd1d76049"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের অন্যতম বৃহত্তম সোর্সিং মেলা ‘Ready to Show’ এ বাংলাদেশের অংশগ্রহণ - Newszonebd",
+      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPek16aVZ2N3EzajU2WTg5MjhqN09fbGxKZ1kyRVVrbGw0ODA1azlFMnhaYnJxUXVNSVB4Vkc0YWRVN0ZlLTVVSUFNWkNNQXB0SG9uYXdnSGNFQ0ZZRkZMTHFyTTdDUDFtTnZPa09keUlRZzhuaEZQVGJRTnJkTDJ3TmJINlVlQ2tDVEZIaENVcmhCYjZfZ0Z4OUlYMF9lSUZ4M0RySzA2bS00alhVQ3ZCTlFCZEVsNEpmN0ZtVkpPaTEzcEpVMHhhX04tMHJYaHRtSmRBb2JKTUlCVEJxNWg2UloyeXJYU0RyZnBMWWliTnI5eDZKLUxiZmM2d1BfY3FiOTVQWWZORjlnNDFmajQwRS1DT1ZxNDBxbWVTXzhvVWp4R05OUlJ6aUxCcGZqNXVfZFhVWngxT1ZhWXlscW5sUzlBT3U4RnVCZGtwR3o1b3kwYloxcFlHOUdWSWlLQ2tKWnNGVW5IbnhLUmxTLTd3QzhDR0ZvTVYyTEhpMGhNak14RWJ5cGxNc1pOYmVzUVJDUEdUUnNaXy1aRzJLRlpQNkFja1JZOExvdmUtVmdVZkNtUGhIUVhrYzU1UjNQRzJ5dGFfR3pSMGEzaXY4WDNKWEZfQnBudFZ0c3FOOGVRTDJFSml2MDc5eWdTX3pzclRnU3J0QmJmVVBCM1FVdEpkSVV0bmZOTXp1dmR5RWl1Tnp4RVo1N0FFSWl4SGk4YlZmSzg3bHNiQmlDODU4R1VoVW93bDlXWmlWOGhoRjVRNzFkTGF2X0dpTWVYc1lLNFg5aGludVhhU3cxZlpNdk5jeHlRdTRHRFB2SzYzZjF2aE5IRG15Z2pEbzNSQ1h6QlZHSmRROFBZanFsal9PQm53Zk9FSk9vM1QxdG1jVDZFSE1PekpTOHYzamNYZENwclN3d3JuY3Y1cUFwWkxNTmwza1d2UmtQcjNqNU0tQzh1Qzd2UGVMa3hhUGRpeTbSAdwFQVVfeXFMT3pNemlWdjdxM2o1Nlk4OTI4ajdPX2xsSmdZMkVVa2xsNDgwNWs5RTJ4WmJycVF1TUlQeFZHNGFkVTdGZS01VUlBTVpDTUFwdEhvbmF3Z0hjRUNGWUZGTExxck03Q1AxbU52T2tPZHlJUWc4bmhGUFRiUU5yZEwyd05iSDZVZUNrQ1RGSGhDVXJoQmI2X2dGeDlJWDBfZUlGeDNEckswNm0tNGpYVUN2Qk5RQmRFbDRKZjdGbVZKT2kxM3BKVTB4YV9OLTByWGh0bUpkQW9iSk1JQlRCcTVoNlJaMnlyWFNEcmZwTFlpYk5yOXg2Si1MYmZjNndQX2NxYjk1UFlmTkY5ZzQxZmo0MEUtQ09WcTQwcW1lU184b1VqeEdOTlJSemlMQnBmajV1X2RYVVp4MU9WYVl5bHFubFM5QU91OEZ1QmRrcEd6NW95MGJaMXBZRzlHVklpS0NrSlpzRlVuSG54S1JsUy03d0M4Q0dGb01WMkxIaTBoTWpNeEVieXBsTXNaTmJlc1FSQ1BHVFJzWl8tWkcyS0ZaUDZBY2tSWThMb3ZlLVZnVWZDbVBoSFFYa2M1NVIzUEcyeXRhX0d6UjBhM2l2OFgzSlhGX0JwbnRWdHNxTjhlUUwyRUppdjA3OXlnU196c3JUZ1NydEJiZlVQQjNRVXRKZElVdG5mTk16dXZkeUVpdU56eEVaNTdBRUlpeEhpOGJWZks4N2xzYkJpQzg1OEdVaFVvd2w5V1ppVjhoaEY1UTcxZExhdl9HaU1lWHNZSzRYOWhpbnVYYVN3MWZaTXZOY3h5UXU0R0RQdks2M2YxdmhOSERteWdqRG8zUkNYekJWR0pkUThQWWpxbGpfT0Jud2ZPRUpPbzNUMXRtY1Q2RUhNT3pKUzh2M2pjWGRDcHJTd3dybmN2NXFBcFpMTU5sM2tXdlJrUHIzajVNLUM4dUM3dlBlTGt4YVBkaXk2?oc=5",
+      "pub": "2026-09-13T06:46:10+00:00",
+      "id": "dc36f8b70d1ed57f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মিলানের ‘রেডি টু শো’ মেলায় বাংলাদেশের ১৪ প্রতিষ্ঠানের অংশগ্রহণ - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sQWJ0aTQ2cW8zd0NGTVE5cXh0cW5TOTJpTWlQOThiZDY4S0haRDduN1k4SVU5eVBUUFphNXJpODhtQW8ycGVQSFhiXzJFNFJBQ2dGMzNB?oc=5",
+      "pub": "2026-09-13T07:47:50+00:00",
+      "id": "a0e1cc20aebf82e6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "উদ্বিগ্ন বিদেশি ক্রেতারা - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdG4xOXZiS1dxdXRjRjJkbGVOTE1xLXdzRG92d2Fpb2FtWjIzRW5ocGtqTjlyeTFFbFJPZ1hPRl9EM1FYc0FnT1Z0ZzZfRndPbkZsLXVlcFdaWG94R2hlZm5LZlg5VU1YTFg2Q1JkSkdIWklSWjNwVDdKTWE3Z2UwTmhiN3pYZlNzeURwMlpEZmFDSUZhQ3FrTEUwMDdvWk9lWmZsR2p5NElPcGFzY2lQWU9YUkpGd21mWjV5R0pzUHZIVmlrYXBFdnBoallpb3haZWNYdEo1YlJGLXhNN3JPQ3UtM3J3T19LckpmS0l6dkRfSWc2b1NFeHBMMG9oS0lBLV9HdDAzVWt4R1QtM0JwTDAzeEdJUnMzcHdBWUlpNVJGNWF4VFp4bVBmUVphUlpncFlpaFpOWWYzazl5M2QtalFBMGQwU0dsLWFGenljanBaekpvejRKVE9B0gHaAkFVX3lxTE90bjE5dmJLV3F1dGNGMmRsZU5MTXEtd3NEb3Z3YWlvYW1aMjNFbmhwa2pOOXJ5MUVsUk9nWE9GX0QzUVhzQWdPVnRnNl9Gd09uRmwtdWVwV1pYb3hHaGVmbktmWDlVTVhMWDZDUmRKR0haSVJaM3BUN0pNYTdnZTBOaGI3elhmU3N5RHAyWkRmYUNJRmFDcWtMRTAwN29aT2VaZmxHank0SU9wYXNjaVBZT1hSSkZ3bWZaNXlHSnNQdkhWaWthcEV2cGhqWWlveFplY1h0SjViUkYteE03ck9DdS0zcndPX0tySmZLSXp2RF9JZzZvU0V4cEwwb2hLSUEtX0d0MDNVa3hHVC0zQnBMMDN4R0lSczNwd0FZSWk1UkY1YXhUWnhtUGZRWmFSWmdwWWloWk5ZZjNrOXkzZC1qUUEwZDBTR2wtYUZ6eWNqcFp6Sm96NEpUT0E?oc=5",
+      "pub": "2026-09-13T05:01:38+00:00",
+      "id": "6c765ac6f26c36e0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দ্বিতীয় লংমার্চের তারিখ ঘোষণা ১১ দলীয় ঐক্যের - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOTjZ1TjdYLXhkRUwzNXVTd0d1dW1SckZCM21mVTZLOEM1TjJHWVdMbVFwZUltQVpoQmlnNEwzcmFnTnBXYnV5RUZXX1NEbXAzVlp0MEF5MEtNQWM1WjFXS0tKUXY0RTRyWUc2eTRYM3RnbXVQMWVzVV9MbUUxeTNMbWhSNTNKb0tuTjdHOGVfeHVSTmVNZGFuWlhJeWkxeU00MG02bm9vZUpqZk1DZWM3dC0xN1hOZUMyR25xOHVKdnJsZEhMNGh0TnRMdkZEWTJrUldkbkdMdGxKVThscEZjeWVZcXJuVkRqYlExdlZ3V1pUdDhlTjBnVEo4SEF1QUFLODJKX0J4aGdpLUNuN3ZpcnowWUpqYWZReU5kcWhjZnExUHBhOHcwOEQxX0JEVEU3V1JrcDZxRnZ3aGFpZS04VktxUC1iYVl5MVVNOHl0TTItM09iZWF3VnRGSXExTmN0cVh5Vk94d3BSaXZZTUNVdXhJUW42OVc0R3lmRnpfQ0ZjUllVVlF3TGZMak9ab0VlZHB0V19Ed29iLWRoNTBjZ3M3a19OaG5vYlNjMjhqWmhQTkV0VmlITFZTcTE3VzRyRUhWNENrZVlsM0RqRllFVzgxVnNaWFNnY1puRl9GZmtGaTJJY1VPY3YxaWdURWZUcXJPeElDRHNUdXJCYWMtVkNMYXZVM3BHeXJobUpLOGNGdmhYY3d1eEVrcC1QOExhenZOa0o1UDY2REtyX1FITWFuc0ZsNzdrcTFSWDdkUUN4MENQMEhDSzUzemZ4ZUdQ0gHQBEFVX3lxTE5ONnVON1gteGRFTDM1dVN3R3V1bVJyRkIzbWZVNks4QzVOMkdZV0xtUXBlSW1BWmhCaWc0TDNyYWdOcFdidXlFRldfU0RtcDNWWnQwQXkwS01BYzVaMVdLS0pRdjRFNHJZRzZ5NFgzdGdtdVAxZXNVX0xtRTF5M0xtaFI1M0pvS25ON0c4ZV94dVJOZU1kYW5aWEl5aTF5TTQwbTZub29lSmpmTUNlYzd0LTE3WE5lQzJHbnE4dUp2cmxkSEw0aHROdEx2RkRZMmtSV2RuR0x0bEpVOGxwRmN5ZVlxcm5WRGpiUTF2VndXWlR0OGVOMGdUSjhIQXVBQUs4MkpfQnhoZ2ktQ243dmlyejBZSmphZlF5TmRxaGNmcTFQcGE4dzA4RDFfQkRURTdXUmtwNnFGdndoYWllLThWS3FQLWJhWXkxVU04eXRNMi0zT2JlYXdWdEZJcTFOY3RxWHlWT3h3cFJpdllNQ1V1eElRbjY5VzRHeWZGel9DRmNSWVVWUXdMZkxqT1pvRWVkcHRXX0R3b2ItZGg1MGNnczdrX05obm9iU2MyOGpaaFBORXRWaUhMVlNxMTdXNHJFSFY0Q2tlWWwzRGpGWUVXODFWc1pYU2djWm5GX0Zma0ZpMkljVU9jdjFpZ1RFZlRxck94SUNEc1R1ckJhYy1WQ0xhdlUzcEd5cmhtSks4Y0Z2aFhjd3V4RWtwLVA4TGF6dk5rSjVQNjZES3JfUUhNYW5zRmw3N2txMVJYN2RRQ3gwQ1AwSENLNTN6ZnhlR1A?oc=5",
+      "pub": "2026-09-13T09:01:04+00:00",
+      "id": "bd7b7c679bb8bd2a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "নবায়নযোগ্য জ্বালানি ছাড়া এগোনোর পথ নেই, জ্বালানি স্বনির্ভরতায় জোর পোশাক খাতের - tbsnews.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQ1NkZzVEQXFMS2pYdmEwUlFGSVlmNGU5ZjhRb1JFSDhWdVo3YWlGdi1NTHNnb2dKWkdmQ3AzTmU5OGt1cWFiVXFzNnhZWjBrQzBFS0RzWFlTeG5CMlJrMUdJQUItNUHSAWxBVV95cUxPRjU1UUhqdER0aXlFRzRYbXlDQXAyVG00eXl4QXRtVG9pSEhrRDlOYl9fT0JTVkprVUlJMU5fVWdNQzJFSW5WRnpibGI5d3B4VjdKX09xREw0aGVvOTVXRzN6ZEJNM0xQUjlWbXc?oc=5",
+      "pub": "2026-09-12T15:21:03+00:00",
+      "id": "d7e598a47c608c81"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সেপ্টেম্বরে টানা চার দিনের ছুটি, সুযোগ পাবেন যারা - Janobani",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oMlQ0eURrdmtaYXhIRG5EV1d5Uk1UelRSS2tIY29vLTg0elo4UjZyNGJsMThPaU9yMWZERUEzT0wyZF9NbXYtLU1DVQ?oc=5",
+      "pub": "2026-09-13T11:39:00+00:00",
+      "id": "f14eae1b5b27a783"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সাবেক এমপি ড. মাসুদা এম. রশীদ চৌধুরীর ৫ম মৃত্যুবার্ষিকী আজ - দৈনিক আজাদী",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPSGhmdE5mcno3RVhTZV9USng2QjEzMEVVYlFHQXA3eDRxWjlpY3JFNGEzY3NkT1hkWU55S01tTUtZazlMYnlXZGJBOXlNRE5TTHpuY2dIZnBXd2pubzFsMi1vY0JFNEstQzhHcndJVWNkZlRqWE1mSGFzaFZjTkQyNk5IekJNOUpPaXd4UkN1WTJfSTk4TmhYYzdvQmRwWFZIektWLTdxWlBvWExhamxWYU15M0xOS29LX2szUW5uei1PVlFRR2xDWHdfbmJKSkROdVdIMmdBblFrNENjbjhtZ0FJNUlLOWFCSG9mU2M5VGFNbHhXT3RpdXI4ODA4bmctR2dQNF9oekRrdnFlMlJjaDlmclFxUzJlRUxoT0xSWDQzbExiWVlxZGl6azNpM0FEQTRhM3l6bkgwMmc2eE5KeQ?oc=5",
+      "pub": "2026-09-13T02:13:00+00:00",
+      "id": "0ed1d8cc8ffe1297"
+    }
+  ]
 }
