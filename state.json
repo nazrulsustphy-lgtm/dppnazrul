@@ -1,54 +1,5 @@
 {
   "seen": {
-    "4d7159e8f9ee41f6": "2026-08-17T14:29:58.708985+00:00",
-    "3e96f5ed5cb652ba": "2026-08-17T14:29:58.708985+00:00",
-    "b9489df3c54428e2": "2026-08-17T14:29:58.708985+00:00",
-    "bedb7b334571726a": "2026-08-17T14:29:58.708985+00:00",
-    "c3def349f4500b49": "2026-08-17T14:29:58.708985+00:00",
-    "d38d595396c21b15": "2026-08-17T14:29:58.708985+00:00",
-    "33f0b948ea0774db": "2026-08-17T14:29:58.708985+00:00",
-    "05bd2e1f6d7bb13a": "2026-08-17T14:29:58.708985+00:00",
-    "8ebebbf3d61c0f96": "2026-08-17T14:29:58.708985+00:00",
-    "8df2446d275cd3df": "2026-08-17T14:29:58.708985+00:00",
-    "89f0d300bce87cc7": "2026-08-17T14:29:58.708985+00:00",
-    "f9e320648133c283": "2026-08-17T14:29:58.708985+00:00",
-    "a0840dbcef9b6a25": "2026-08-17T14:29:58.708985+00:00",
-    "07e205d41c7fe8bc": "2026-08-17T14:29:58.708985+00:00",
-    "b7008bc204ad5f3e": "2026-08-17T14:29:58.708985+00:00",
-    "23bd6b97cd3fee86": "2026-08-17T14:29:58.708985+00:00",
-    "89865b2a8f653185": "2026-08-17T14:29:58.708985+00:00",
-    "7359b746a584b55d": "2026-08-17T14:29:58.708985+00:00",
-    "40887bb19b1adafb": "2026-08-17T14:29:58.708985+00:00",
-    "275ef5931b6c4684": "2026-08-17T14:29:58.708985+00:00",
-    "f02144e38098e06f": "2026-08-17T14:29:58.708985+00:00",
-    "c1eba1347ecb7f7f": "2026-08-17T14:29:58.708985+00:00",
-    "c81fcc0aa6d662df": "2026-08-17T14:29:58.708985+00:00",
-    "5949c92487db6da0": "2026-08-17T14:29:58.708985+00:00",
-    "2f367b466841d344": "2026-08-17T14:29:58.708985+00:00",
-    "56c2475177482bba": "2026-08-17T14:29:58.708985+00:00",
-    "2ba5738c26b921d4": "2026-08-17T14:29:58.708985+00:00",
-    "d5dd2dd09d1a37fa": "2026-08-17T14:29:58.708985+00:00",
-    "6317677aaf689c64": "2026-08-17T14:29:58.708985+00:00",
-    "d631324dd29839f9": "2026-08-17T14:29:58.708985+00:00",
-    "6079917cc5228ebf": "2026-08-17T14:29:58.708985+00:00",
-    "8407a8e894834c34": "2026-08-17T14:29:58.708985+00:00",
-    "af157f35bf69e934": "2026-08-17T14:29:58.708985+00:00",
-    "1b28701f01f5f3f1": "2026-08-17T14:29:58.708985+00:00",
-    "7a33f3bafd41c449": "2026-08-17T14:29:58.708985+00:00",
-    "389ed3120b62f30a": "2026-08-17T14:29:58.708985+00:00",
-    "0bdd660ae0b2e05c": "2026-08-17T14:29:58.708985+00:00",
-    "710740372bcf20be": "2026-08-17T14:29:58.708985+00:00",
-    "1ea4b51325e817c2": "2026-08-17T14:29:58.708985+00:00",
-    "42ddddaecec51549": "2026-08-17T14:29:58.708985+00:00",
-    "4decf4859ab07cc1": "2026-08-17T14:29:58.708985+00:00",
-    "42656ba25b91f164": "2026-08-17T14:29:58.708985+00:00",
-    "2cf5f0c9594c0685": "2026-08-17T14:29:58.708985+00:00",
-    "25cc4bdbf7eb6715": "2026-08-17T14:29:58.708985+00:00",
-    "fa7e3d5eaacf848a": "2026-08-17T14:29:58.708985+00:00",
-    "43816e1e7fa83d8b": "2026-08-17T14:29:58.708985+00:00",
-    "f653df774da09f30": "2026-08-17T14:29:58.708985+00:00",
-    "74659edef3e413a6": "2026-08-17T14:29:58.708985+00:00",
-    "dfe0aa7d97f715a4": "2026-08-17T14:29:58.708985+00:00",
     "be7258b9566fd4ff": "2026-08-18T02:57:16.115152+00:00",
     "2898e5ee5bc97d58": "2026-08-18T02:57:16.115152+00:00",
     "e30d842b47fceb23": "2026-08-18T02:57:16.115152+00:00",
@@ -2234,7 +2185,51 @@
     "a16acc64a366f92f": "2026-09-16T13:14:20.196584+00:00",
     "a5fd54ccc33e2790": "2026-09-16T13:14:20.196584+00:00",
     "d40611beca426b13": "2026-09-16T13:14:20.196584+00:00",
-    "29479314b9b27ac7": "2026-09-16T13:14:20.196584+00:00"
+    "29479314b9b27ac7": "2026-09-16T13:14:20.196584+00:00",
+    "e016002221a93e2a": "2026-09-16T18:00:31.250068+00:00",
+    "6d3555d4136fc3ca": "2026-09-16T18:00:31.250068+00:00",
+    "76351a90ac8d9372": "2026-09-16T18:00:31.250068+00:00",
+    "dec8b8e9ca503875": "2026-09-16T18:00:31.250068+00:00",
+    "4380fe4bfdd7e476": "2026-09-16T18:00:31.250068+00:00",
+    "0feed9d13696bdd8": "2026-09-16T18:00:31.250068+00:00",
+    "2fa5530029ce35eb": "2026-09-16T18:00:31.250068+00:00",
+    "e83baf59aeef42ef": "2026-09-16T18:00:31.250068+00:00",
+    "e9e0dced71011d6a": "2026-09-16T18:00:31.250068+00:00",
+    "66fc806dbb4f7384": "2026-09-16T18:00:31.250068+00:00",
+    "718326d6589dbbf8": "2026-09-16T18:00:31.250068+00:00",
+    "c9621086b4d80329": "2026-09-16T18:00:31.250068+00:00",
+    "a064c3386ea95888": "2026-09-16T18:00:31.250068+00:00",
+    "fa62a6adf672bb88": "2026-09-16T18:00:31.250068+00:00",
+    "396af2f34fc7752e": "2026-09-16T18:00:31.250068+00:00",
+    "6891508d90f1d73d": "2026-09-16T18:00:31.250068+00:00",
+    "e9dd306e40bebfa3": "2026-09-16T18:00:31.250068+00:00",
+    "6beb8b73e9faad93": "2026-09-16T18:00:31.250068+00:00",
+    "247b92da9f72b442": "2026-09-16T18:00:31.250068+00:00",
+    "1786558a336ed8a9": "2026-09-16T18:00:31.250068+00:00",
+    "758b1bbf92ddc7b1": "2026-09-16T18:00:31.250068+00:00",
+    "2521f5e0c484ddc2": "2026-09-16T18:00:31.250068+00:00",
+    "bf3700e09ea8e92d": "2026-09-16T18:00:31.250068+00:00",
+    "060da010f66275fe": "2026-09-16T18:00:31.250068+00:00",
+    "5a6f4b9df964a0d8": "2026-09-16T18:00:31.250068+00:00",
+    "ed898dd15e1eec41": "2026-09-16T18:00:31.250068+00:00",
+    "4683b8c697281d32": "2026-09-16T18:00:31.250068+00:00",
+    "0af1ddbef0f8097c": "2026-09-16T18:00:31.250068+00:00",
+    "c254978a502d5a0e": "2026-09-16T18:00:31.250068+00:00",
+    "94a1be74ca79abe0": "2026-09-16T18:00:31.250068+00:00",
+    "ff90871894ac77fa": "2026-09-16T18:00:31.250068+00:00",
+    "8d44b578163185ab": "2026-09-16T18:00:31.250068+00:00",
+    "2e83b4358bb74b95": "2026-09-16T18:00:31.250068+00:00",
+    "00458f2ccbcfab88": "2026-09-16T18:00:31.250068+00:00",
+    "b449cf915753398d": "2026-09-16T18:00:31.250068+00:00",
+    "119652136f66a570": "2026-09-16T18:00:31.250068+00:00",
+    "1265a8d60db6d0d6": "2026-09-16T18:00:31.250068+00:00",
+    "a379a237c260961d": "2026-09-16T18:00:31.250068+00:00",
+    "3c381ab2b6235204": "2026-09-16T18:00:31.250068+00:00",
+    "57718e87251f7f1b": "2026-09-16T18:00:31.250068+00:00",
+    "1bb58bb6fd38b85a": "2026-09-16T18:00:31.250068+00:00",
+    "b4ab4b8f177310a0": "2026-09-16T18:00:31.250068+00:00",
+    "c588f0c0c4334b28": "2026-09-16T18:00:31.250068+00:00",
+    "d29eceeca30c3cae": "2026-09-16T18:00:31.250068+00:00"
   },
   "yesterday_items": [
     {
@@ -2516,6 +2511,206 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83dmJSSHFxTzJiQ3hQYWFBamJyZENnOUtXdWlRYjY4U0VrMzZiWldKUlpIYlN1S2dETUF5bzFNT1IzOHpyOE5PVVRWRzQ3R0g0alhlTVZpN1NGRWfSAU9BVV95cUxNc0h0Vm9YU3l5ckFwclRrMW1YTHJaTGJSdGVlU3V6YmQ5ZERyam80cG5UcnMzQ2w2OUJ1aHpIM2F6a0ZSUl9WS1JxRUtfemo4?oc=5",
       "pub": "2026-09-15T15:12:00+00:00",
       "id": "29479314b9b27ac7"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Textile-to-Textile Recycling Market Size Report, 2033 - Grand View Research",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEJyazQ5TG4zYnljZThIQzg0U0FKOTIzUTRFUElCSEpRMElfb2llejRVaW9QVHdtb0l6ZzhMTTQ0ZlQtTjNQdmVidzVrbUNCY3l1aDV2QVlRei13ZUxwNXdBZkhIWGVSWXhlS2hsQ2VjLW5YSjVqOHBsSXhIMmw0N1dsZ20wZS01aHNtUUE3RzRzekppMjNTRldB?oc=5",
+      "pub": "2026-09-16T07:50:15+00:00",
+      "id": "2521f5e0c484ddc2"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Data can turn compliance into competitiveness - textiletoday.com.bd",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HX0xMbWZxM00tUUVoOExuVml3TmtUcjRxNnNaejIyZUItbUU4ODhrVURDbVZoQkxMYlUxbUg4SzF3cGtKUVVKMFN5NGcyZjRMZHpFRk13b0tiUXNrOVA2STZLb0pkVXgxTkc1RHR4V2I2YXkzSE5xSzFEcXhQUQ?oc=5",
+      "pub": "2026-09-16T04:37:31+00:00",
+      "id": "bf3700e09ea8e92d"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Abraxas field",
+      "link": "https://www.reddit.com/r/AnyaTaylorJoyFans/comments/1wi0nb7/abraxas_field/",
+      "pub": "2026-09-16T15:36:02+00:00",
+      "id": "060da010f66275fe"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Coffee bottles",
+      "link": "https://www.reddit.com/r/coffeestations/comments/1whyyse/coffee_bottles/",
+      "pub": "2026-09-16T14:33:50+00:00",
+      "id": "5a6f4b9df964a0d8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh's garment prices in EU less than half of Vietnam's - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2pxc3NwMXB1ekh2eTNVWDUzQTFLdjY4OUY0eU55MTJoVXBCUXJrc0lZbXczQVdRVWhuQ0ZlTm9ld0tNNktxLXhDbmFXa3FFNV9malcxalZnY0NrVFA1VWR3cTJmZkhqYUdfQ1FLZS1UTzF6OHdNSC0tS3NNMnItaVV6bVBicy1UVWJlNG1hejlSQ1FaMUh5Z1pEQTM2OHRh?oc=5",
+      "pub": "2026-09-16T15:13:43+00:00",
+      "id": "ed898dd15e1eec41"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Apparel exports to EU fall 13.65pc in 7 months - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFmeDhDUHM3b1EzNGx3Qy05QWdTOHBPd29vZ193UElYWDVraHRLTW9Ka2dmVXJ5RFU2a2pTSzdlb0tySExQRzV6T0xnbHBERmxhY2RTaklpWFQ4VEpwMEdkcnBCMy1Dby1IaURmeFNqTW1IdVJmLW81U3RpRU04N0JEQVlaT0Qtam4wV0JfUE1mYV9T?oc=5",
+      "pub": "2026-09-16T16:55:07+00:00",
+      "id": "4683b8c697281d32"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "‘Ghosts’, 'jinns' haunt Bangladesh garment factories, mass illness sparks panic - FM Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFJqekVleWI1WUVQNFRBZWNueUxGSndRRGNKd0gzVHA4ak5wRFFHUU15ZHliSHJLNmdoLWh3LUhnZUdPaUlBUlp6SGFvZThoZlNLVzMzaS1kWUxtTEV0U1VuOW92WjhTUkRMOHB4MENkZ0pFX0pLRG01ZldyamNSa3l1WWhBamU5dldoV3V1Zkc5V1NRR3NHQjdBM2Z5MTVyS05ZQy1nZVFVZVk?oc=5",
+      "pub": "2026-09-16T09:24:24+00:00",
+      "id": "0af1ddbef0f8097c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "US market sees record 25.65pc growth in Bangladesh RMG exports in August - en.bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GS01fbzlsdlhJWDJQZ0dTWWJ6Nk82NTNrQkItRmszTjF4YXV3VFRKUG1pLU9EZER4blNRcE5EcGVZcm50cDBBYi0tajQ4dTlrM01PNHRlSHljWk1LZUR5WA?oc=5",
+      "pub": "2026-09-16T14:16:30+00:00",
+      "id": "c254978a502d5a0e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Innovation ecosystem key to commercialising ideas: ICT minister - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbklWQ0w5UnF3N1BVb2UzM0hUUG5PMjFIVzgydFpwT01PSmF6d3A0ZFNDdHl6R3JUeG9xUTVVb21MYlQyRWFKSWFjUTZQVE1NeG1EVkNZV2JvY1dqTHRJQThnb3BGWHZqbENndmI5bnkwUmF6bEdFV1pnX2hjeklLY0pialFBNHlOeFJfVWFhVlo1cVYzcFYtX3RNNVZDbGloejFTc21ubnJKemdVRHBj?oc=5",
+      "pub": "2026-09-16T15:27:26+00:00",
+      "id": "94a1be74ca79abe0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Govt clears 9.2 lakh tonnes of non-urea fertiliser imports by private firms - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa09veVhvN0Y0X0JOZ3RiSWx1XzJjaXdvZEhVbmE5THRMU1laN2RJR19mUG9tejAzWGVqYXowMlh2eWIzLW8yRjh0b0tuNmctQ1ZsdVBRNGljRld6Tlc0TFNVZU9FUjJibUI2Qkk5aWtkenk3R093UVJpY0FLMXBmb2hYX3Fod2NVb1JWWVpqb3JpdDQwR0cxaFdJelZHVXJvX010cXJ5UDRTWHQ2SEZ4aFZJTkk0OENOT3dF?oc=5",
+      "pub": "2026-09-16T16:20:21+00:00",
+      "id": "ff90871894ac77fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Commercial Bank of Ceylon clients to get healthcare benefits from Ascent - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JrOHFfeWRJUVg5cVVRekVxNmZUOGlnaFJpY1Yyb1YxUFFTeDZiX2tVNGQ1WnNISGZUb2psY0tGc1l0djdESFlnOHV6X01qQUNtY1JDb3Z0cl84RUNwQ1hXbG5DOHpkSXB0TUJ6YmdQMFdxd1RkRk8zcHZQUjg3OEtPay1UMFpCVWtzMGJtUzVwQlRheTh4ZUEwaUp2ZmxCY05QTC1xcDZzR2dTRWtiMnZ4YzY4OGk5NFJQTXV3ZUZydEUtUHh6dlNB?oc=5",
+      "pub": "2026-09-16T17:49:38+00:00",
+      "id": "8d44b578163185ab"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Trust Bank to roll out SME loans under BB refinance fund - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0VwdkpFQ2lVRDB0ZjF0bk41Z0Q2Q0JxaUotaGlvaEF5N3Z3TFA0bzBBZE5aSm9RRVVZNXVnYjVBTkdzMjhjODZGQUNsU3ZiOWllRnFGS0VTLV9JTlk3N2p6TGNGUmRhTEllMFNzQlhhVVBoTWU2U0l6TFBVT3oyazNSN1AtZjJkdFh6MG80aE0yNGQyT3Y4QnM3a3JBa19jb1A2Z28zbVNzWjNRZGhvLTdsOHRzdnNWSWtfbTJKbw?oc=5",
+      "pub": "2026-09-16T17:49:36+00:00",
+      "id": "2e83b4358bb74b95"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Biman’s fleet: Deals on 21 Boeing, Airbus planes likely within weeks - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXRFRTN2RnVkMlRvSVhSdHZCSks2ODF3U3laUWltdXY3RHppelU4cE1KVUxoMlR5LUstWDh0aFJQOVFxaWwxNEVycTdxalg1NDlYdnVCbW5udW01aFBpaEVXRDhSVjhSUmtNWTlSNVBKSEpTSzFXLXNYUHlVVVNYTktPaEUtM3FrN3IyUG5HamxWbkl4NmZIS3Jod0s1MXB6LXMzbEM2NEhuNVl1b0RidEV6TWR6Y0Rna01JMQ?oc=5",
+      "pub": "2026-09-16T12:18:01+00:00",
+      "id": "00458f2ccbcfab88"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "Data can turn compliance into competitiveness - textiletoday.com.bd",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HX0xMbWZxM00tUUVoOExuVml3TmtUcjRxNnNaejIyZUItbUU4ODhrVURDbVZoQkxMYlUxbUg4SzF3cGtKUVVKMFN5NGcyZjRMZHpFRk13b0tiUXNrOVA2STZLb0pkVXgxTkc1RHR4V2I2YXkzSE5xSzFEcXhQUQ?oc=5",
+      "pub": "2026-09-16T04:37:31+00:00",
+      "id": "bf3700e09ea8e92d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BKMEA urges Bangladesh govt to form garment policy panel - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkdmWEFBa3VFVVFDYVR5cW96SkhNMU9LNUMyMEVlLVZzV1FMNGY3UzN3Y0h2N3ZkRmpWUG9JLUhmV2JtVEZleEdHZ1pFSW5RaUtmQkpJS1RhdmZjYzNFdDVXeEtPNVdRYk5rZ3VUN2J5ZWFRWmxEOVF3d29UUFh0NDlsRVVtR3E4RWtrT0lQTjZrelhEcmRodWxWM01oX2RVeUd3VDRsR1g4UDdrSTNsREUycEIxTkNwM1ctQzRKSF9kdWRrUXc?oc=5",
+      "pub": "2026-09-16T06:59:37+00:00",
+      "id": "b449cf915753398d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Apparel exports to EU fall 13.65pc in 7 months - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFmeDhDUHM3b1EzNGx3Qy05QWdTOHBPd29vZ193UElYWDVraHRLTW9Ka2dmVXJ5RFU2a2pTSzdlb0tySExQRzV6T0xnbHBERmxhY2RTaklpWFQ4VEpwMEdkcnBCMy1Dby1IaURmeFNqTW1IdVJmLW81U3RpRU04N0JEQVlaT0Qtam4wV0JfUE1mYV9T?oc=5",
+      "pub": "2026-09-16T16:55:07+00:00",
+      "id": "4683b8c697281d32"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বাংলাদেশ-ইইউ বাণিজ্য সহযোগিতা জোরদারে গুরুত্বারোপ - kalbela.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BSlRyeHl2ejFYdWYzdDFoWVFYN3JLUzNzVWN1UWktbHpzODlnQU1VQVhWOU1QX004SXFHYkh2S2J2VWdsWnYzM0g2TERzY0pY?oc=5",
+      "pub": "2026-09-16T15:16:27+00:00",
+      "id": "119652136f66a570"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আগস্টে যুক্তরাষ্ট্রে পোশাক রপ্তানিতে রেকর্ড - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81VkdpWU1VQWd4NlRSVlhXVUJNZkduanhqMmNtTlRpQXFIS05rdllTTFVyekJlV0lNX1h2Z2VVdjd5b3MwcDExNmJwcjZuUGZZa2hlUTRpdGk?oc=5",
+      "pub": "2026-09-16T13:41:22+00:00",
+      "id": "1265a8d60db6d0d6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে কোটা সুবিধা সত্ত্বেও চীনের কাছে বাজার হারাচ্ছে বাংলাদেশ - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IVjJuOFZSSW1jeW83N19ORmJfOElVQ0dTQ0NnbmJabG5RNVYwaFQ5OF93MmhZR1ZSSVJOSE92akxhckxuanVoel9FTDBJRGtwV2MxZENTNllIdHZzMUp5bEswYU5yamtWTWZQT0ZVaWpuZW1mMUZ5QVZCNA?oc=5",
+      "pub": "2026-09-16T13:22:56+00:00",
+      "id": "a379a237c260961d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আমরা আপনাদের পাশে আছি—বিজিএমইএ নেতাদের জামায়াত - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yd1EyWXpHMHA4dWZzX0c0Ykw0ZDI0UVVaUkZacThkcHJuOEI0T2k1cWk4NC1TbGJIc1U2UkdDQ3d2RU1SdG5jY3ZOMlQ4NlNaUXp2cTJLeE80dm1JZW9ieg?oc=5",
+      "pub": "2026-09-16T17:46:48+00:00",
+      "id": "3c381ab2b6235204"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জামায়াত আমিরের সঙ্গে বিজিএমইএ নেতাদের বৈঠক, সংকট নিয়ে আলোচনা - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3ZXVFVlNFVWotX29WZGJHdFlYZUloRzNfTVVVN0RXdUtEX3JfWVhpaS1jVDg4YjJIWENORzZtcHVpZmFKZ2Rta1lYMXVrQVppa1dz0gFTQVVfeXFMUHdldUVWU0VVai1fb1ZkYkd0WVhlSWhHM19NVVU3RFd1S0Rfcl9ZWGlpLWNUODhiMkhYQ05HNm1wdWlmYUpnZG1rWVgxdWtBWmlrV3M?oc=5",
+      "pub": "2026-09-16T17:53:30+00:00",
+      "id": "57718e87251f7f1b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশিল্পের সংকট নিয়ে জামায়াতের সঙ্গে বিজিএমইএর মতবিনিময় - barta24.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vYzF4aEpjdFVaWmV3MV9ueGZoeFlEU0pleUZvdHNiLV9mRnlWNE95RGx6ODFMcDA2LUdHTW50QUZUdEREMFhaS2E2YzJVcDFIU2Fkd1Bn?oc=5",
+      "pub": "2026-09-16T04:36:00+00:00",
+      "id": "1bb58bb6fd38b85a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শিল্পাঞ্চল ও আবাসিকে গ্যাস সরবরাহে আরও উন্নতি | জাতীয় | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1weVhSd0FuTEl2cFNBU0hWUzdiY3JEb0hRb2pJLURBZkZJTEp6QlJkaTBtakxUR1BzU1IxZzIxSWhXMzc5Z3pLck84OHVNdk5vRjBkdG16RDhldw?oc=5",
+      "pub": "2026-09-16T12:54:00+00:00",
+      "id": "b4ab4b8f177310a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৭৮ শতাংশ নিট কারখানায় উৎপাদন ব্যাহত, সংসদ-রাজপথে সরব থাকার ঘোষণা জামায়াতের - channel24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMi1wZBVV95cUxOT1FpY19mT1I3Y2RUZXZBSjdXRHV5VEVTMy1YdGhwSkVQV19zVWVQNjhvUDhjTW1hR2pOekxZWHNWbm5MNWRZTmJsbTc3cS1VQmNOTDV2QnM5ZThtNldqVVlNM05WOGFNYmZyV1hQUFhsS2lUd2VxMTlvYm45aWloVUdiMVV6aDNqWEZBY1M4dk8xN3FsVWpfX0JmY3A1VFEzXzNDMXZVcTl3SzBIOTVEeGtkcEpiM1JGTHNmOEJ4NmZzTEpCa2tuWnZTOG5DNlBmcG9nVDFoZ1d0WElLSmh3SkVqUlZKbEdORmdtd3QxaVBEOWUtanVySG5XNHNYSnBqUlRXSmxzZlplS1pPa2t1T0ZVbGtkNHMweFlUVzhzWFFJWTdmYUsyMHJ6dmZpbjA1OHNWa2tZSjBVLW5vOWpJWmJRMVBaT2JlSUlGVDlRNWI1dEo3M0x6cDJKYVhNSmtaM0tVdmNoT3BiUEtwbzEwZ3hOZENIazZCRGhnVHN3M3lmY3ktdlhPOGlqSlpLc3BGNlJndk11Y21qX1I2VzhrSDZHcUZCYVRLN1JtenNxeGVFY0tITTcyRDdGRnZwQXEyY0ZWT2ZFUVlUVExmYi1WUm1sTnkzYzZuQURlWXJaWFhPZFN5SFZnaUEybFctaWo1Smc4MnoxTFhvTUE1RUM4R0ZLbGRuVDVOWC1YQUdpMVZLcWU3OWVnNVg5aXBRVHVKQzNScUxmbkhBa2V1ZjVWUmlyVng3NGp3QzA0ZTB1ZmVjTVVwZGZreFNWS1RIX3IzLVNEN003NjNpTUJYYTM1aUNCVU5OZDFXb1lGYnpvTjM3aTJYMngzZ0hCZWVIU0RSeXlkaEJxdlQ4N3M5OWdmeGF3eXNBblVSTmwtLVkwWi1ieXBvZzU0Q05PMVJra18wcm1fN2JwODVGUU5DYkRTRXhhRkpoWGlHM1pZWnNyUWdEVzBMc0tGR21KR01uQ0R0LUxhU0lsc1JNSEJyU0hIYmdVbTlWaEFBTmZwUVI5Uzg1bGNGNnd3SGxISzk3dVluMWFpUmRkWHlmQmJ4b1FEcEJYeTVPMy1zbVZQWUJod3FJdE9tTk1faWIzQW96MnpaWlRmV0RTRER1WU0zN3NkZ0xiUTdNOVk?oc=5",
+      "pub": "2026-09-16T15:52:00+00:00",
+      "id": "c588f0c0c4334b28"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গাজীপুরে বন্ধুদের সঙ্গে গোসলে নেমে বিশ্ববিদ্যালয়ছাত্রের করুণ মৃত্যু - দৈনিক সংগ্রাম",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOZnJLMnduRjNPNlJweDRiWEFxdGo4VVhvZXpETUVaTnhrb0xrVkgyUWxMbWFpQXZkY2xTSng4bFhkdUttZm5QQkhVQVNKY2NObVBzMUc4U0p0cXhtUUZHY2FVbnZMc0tKUlpN?oc=5",
+      "pub": "2026-09-16T15:29:20+00:00",
+      "id": "d29eceeca30c3cae"
     }
   ]
 }
