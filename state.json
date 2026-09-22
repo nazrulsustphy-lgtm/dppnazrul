@@ -1,44 +1,5 @@
 {
   "seen": {
-    "60fb41c760c4af91": "2026-08-23T08:32:42.225867+00:00",
-    "053e1733e99ca0ad": "2026-08-23T08:32:42.225867+00:00",
-    "e91b0641cac66ea2": "2026-08-23T08:32:42.225867+00:00",
-    "6ff9a5681e5edffd": "2026-08-23T08:32:42.225867+00:00",
-    "ea50c9a22d98d2e7": "2026-08-23T08:32:42.225867+00:00",
-    "5033e7fa8e497bbe": "2026-08-23T08:32:42.225867+00:00",
-    "bc26aa8e1364642c": "2026-08-23T08:32:42.225867+00:00",
-    "59deea66612543e1": "2026-08-23T08:32:42.225867+00:00",
-    "e7a8e535f5a664f7": "2026-08-23T08:32:42.225867+00:00",
-    "d543af8563ec38b7": "2026-08-23T08:32:42.225867+00:00",
-    "d844ee9a10172984": "2026-08-23T08:32:42.225867+00:00",
-    "0687ca9fc871661a": "2026-08-23T08:32:42.225867+00:00",
-    "71d3580bd3ce3073": "2026-08-23T08:32:42.225867+00:00",
-    "ca4a73b1a929f5bd": "2026-08-23T08:32:42.225867+00:00",
-    "819371c1a26eb91b": "2026-08-23T08:32:42.225867+00:00",
-    "28a3939e9de9ad19": "2026-08-23T08:32:42.225867+00:00",
-    "3df943c11f1e3b4c": "2026-08-23T08:32:42.225867+00:00",
-    "378dd015a5911abd": "2026-08-23T08:32:42.225867+00:00",
-    "d9445231848cb140": "2026-08-23T08:32:42.225867+00:00",
-    "84de343c3b961110": "2026-08-23T08:32:42.225867+00:00",
-    "a72b658adae59162": "2026-08-23T08:32:42.225867+00:00",
-    "971eafbdf0b9b0a7": "2026-08-23T08:32:42.225867+00:00",
-    "53a6943c7b3ebf46": "2026-08-23T08:32:42.225867+00:00",
-    "3db37a1182dadc78": "2026-08-23T08:32:42.225867+00:00",
-    "2aee3030bd1d20be": "2026-08-23T08:32:42.225867+00:00",
-    "0e97ca481eb61e55": "2026-08-23T08:32:42.225867+00:00",
-    "31446ebc278d756a": "2026-08-23T08:32:42.225867+00:00",
-    "67a81c38e5cc909f": "2026-08-23T08:32:42.225867+00:00",
-    "a39783321eef9578": "2026-08-23T08:32:42.225867+00:00",
-    "da389b1bcd1a7433": "2026-08-23T08:32:42.225867+00:00",
-    "1d4d3dffbc065718": "2026-08-23T08:32:42.225867+00:00",
-    "7718d811addec710": "2026-08-23T08:32:42.225867+00:00",
-    "89f75e665aba68b1": "2026-08-23T08:32:42.225867+00:00",
-    "c38cac13ebcaf0cb": "2026-08-23T08:32:42.225867+00:00",
-    "9391018b2830dad9": "2026-08-23T08:32:42.225867+00:00",
-    "ad56a15075e8a17f": "2026-08-23T08:32:42.225867+00:00",
-    "8353547719609441": "2026-08-23T08:32:42.225867+00:00",
-    "aaa70e832869917f": "2026-08-23T08:32:42.225867+00:00",
-    "b1afe7003ec0223f": "2026-08-23T08:32:42.225867+00:00",
     "c285f070ee456512": "2026-08-23T14:25:29.456521+00:00",
     "6c74c618991f481e": "2026-08-23T14:25:29.456521+00:00",
     "c0f0d5eccd1d8e96": "2026-08-23T14:25:29.456521+00:00",
@@ -2369,7 +2330,267 @@
     "176a90db2cce9ad3": "2026-09-21T14:55:33.666050+00:00",
     "770cfa14b71648c3": "2026-09-21T14:55:33.666050+00:00",
     "2c92b489fbc6ab16": "2026-09-21T14:55:33.666050+00:00",
-    "43fc5a397f8cf55b": "2026-09-21T14:55:33.666050+00:00"
+    "43fc5a397f8cf55b": "2026-09-21T14:55:33.666050+00:00",
+    "0934a9ca82f4bb77": "2026-09-22T13:11:52.662290+00:00",
+    "122f1ae39421d53b": "2026-09-22T13:11:52.662290+00:00",
+    "fe520f1b00270678": "2026-09-22T13:11:52.662290+00:00",
+    "e906c8788bd29333": "2026-09-22T13:11:52.662290+00:00",
+    "75e39ae141d0a767": "2026-09-22T13:11:52.662290+00:00",
+    "d7e81170f51fbf76": "2026-09-22T13:11:52.662290+00:00",
+    "86c7432e44e3a057": "2026-09-22T13:11:52.662290+00:00",
+    "41a1fa4e8c09e758": "2026-09-22T13:11:52.662290+00:00",
+    "78921803daef936f": "2026-09-22T13:11:52.662290+00:00",
+    "b52b4a43febdae5d": "2026-09-22T13:11:52.662290+00:00",
+    "341b39774ab95ccf": "2026-09-22T13:11:52.662290+00:00",
+    "f92292ecd7656f56": "2026-09-22T13:11:52.662290+00:00",
+    "9a20d20efb18a6f4": "2026-09-22T13:11:52.662290+00:00",
+    "4dc5e2b13c62fdc3": "2026-09-22T13:11:52.662290+00:00",
+    "68de140cbf9fa1ac": "2026-09-22T13:11:52.662290+00:00",
+    "586d8262915cd101": "2026-09-22T13:11:52.662290+00:00",
+    "0cc21d29506c273a": "2026-09-22T13:11:52.662290+00:00",
+    "a5f1262911baa855": "2026-09-22T13:11:52.662290+00:00",
+    "b14f0315ca36ba2f": "2026-09-22T13:11:52.662290+00:00",
+    "ca701e198a2c7512": "2026-09-22T13:11:52.662290+00:00",
+    "ef602f0fdc084798": "2026-09-22T13:11:52.662290+00:00",
+    "cc79d1b259ae4959": "2026-09-22T13:11:52.662290+00:00",
+    "a3d2b37d041147c3": "2026-09-22T13:11:52.662290+00:00",
+    "3ef3f4dffb5e5223": "2026-09-22T13:11:52.662290+00:00",
+    "60581d54866b2633": "2026-09-22T13:11:52.662290+00:00",
+    "abd9290e76b8a0b8": "2026-09-22T13:11:52.662290+00:00",
+    "741fda687dc1d2e9": "2026-09-22T13:11:52.662290+00:00",
+    "0db00f4e9eafec06": "2026-09-22T13:11:52.662290+00:00",
+    "bf45b53251e9d0e7": "2026-09-22T13:11:52.662290+00:00",
+    "544323341fb741f7": "2026-09-22T13:11:52.662290+00:00",
+    "6b4d568a08f78b32": "2026-09-22T13:11:52.662290+00:00",
+    "a417820ed890a73f": "2026-09-22T13:11:52.662290+00:00",
+    "01ba3b8d8b5deffd": "2026-09-22T13:11:52.662290+00:00",
+    "455c6b0771c7a3fc": "2026-09-22T13:11:52.662290+00:00",
+    "613859c15e0c3ac3": "2026-09-22T13:11:52.662290+00:00",
+    "bcb2ffc804e40e16": "2026-09-22T13:11:52.662290+00:00",
+    "17f4b2a3aa852949": "2026-09-22T13:11:52.662290+00:00",
+    "638f995f4882e091": "2026-09-22T13:11:52.662290+00:00",
+    "dad79a521761e044": "2026-09-22T13:11:52.662290+00:00",
+    "9baa2102196f3d5a": "2026-09-22T13:11:52.662290+00:00",
+    "65ad38c3009b2923": "2026-09-22T13:11:52.662290+00:00",
+    "7d2a5e9dbc2eaafb": "2026-09-22T13:11:52.662290+00:00",
+    "4c97f8194a0d2940": "2026-09-22T13:11:52.662290+00:00",
+    "c404c4424b68cf65": "2026-09-22T13:11:52.662290+00:00",
+    "edf950a26495a860": "2026-09-22T13:11:52.662290+00:00",
+    "6ebef170ae86ca89": "2026-09-22T13:11:52.662290+00:00",
+    "880fd2b39ce2933a": "2026-09-22T13:11:52.662290+00:00",
+    "cf9799ee1a9ebf45": "2026-09-22T13:11:52.662290+00:00",
+    "2873250af1fcb992": "2026-09-22T13:11:52.662290+00:00",
+    "baed5d2648eb6386": "2026-09-22T13:11:52.662290+00:00",
+    "7dbab6486f34cc59": "2026-09-22T13:11:52.662290+00:00"
   },
-  "yesterday_items": []
+  "yesterday_items": [
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "OPPO Find X10 Pro Max: Native Blackmagic Support, DeepPix Technology, 8K Log video recording and 4K 120fps Dolby Vision support across all focal lengths",
+      "link": "https://www.reddit.com/r/Oppo/comments/1wn7olp/oppo_find_x10_pro_max_native_blackmagic_support/",
+      "pub": "2026-09-22T12:07:49+00:00",
+      "id": "abd9290e76b8a0b8"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Moterm A6 Plus and Midori Hibino",
+      "link": "https://www.reddit.com/r/midori/comments/1wmxoex/moterm_a6_plus_and_midori_hibino/",
+      "pub": "2026-09-22T02:57:14+00:00",
+      "id": "741fda687dc1d2e9"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Help/",
+      "link": "https://www.reddit.com/r/NinjaLuxeCafe/comments/1wmnnvb/help/",
+      "pub": "2026-09-21T20:00:50+00:00",
+      "id": "0db00f4e9eafec06"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Farzana Sultana on Bangladesh’s garment industry - Meer | English edition",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBZcDlFS3V0YzFFaVVMWUpfeXA0NkEtYUJyTDJfbXBzQVJxMFJPcHVZNXE4dHF4TEY4YVd1SWlMeTUyZ3FFeG9XbzFMM1lLV3NkWjhRWWlXc21KZmoxMkVMV1pmY0Yxc1NHanplXzN4Q0ltNEVnc0Z0VjF5VE5VZnl3NE0?oc=5",
+      "pub": "2026-09-22T09:00:42+00:00",
+      "id": "bf45b53251e9d0e7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "| Heat is erasing 4.1% of Bangladesh garment factory revenue - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWxJVE5McTNIdU9yUXg3Q0M2QXhJNTVaaV8xR2tBNkxhZVlpR3pzVkhldENMeEdMRjktVGFzYlYyaXB6c0QzTmxsZ2kwUFVlZFhSR3lScFZHdElTaHcxdFhqdkNweGhWLTRNbU5BN0I3Mlp2LXB2dGlvQkt4MzlsNGhEQnlZNU1BY2dBZDNzMjd3S3A0MzFpSzZvdVhqbXZLcFNRYmV4akJ3dDl3bFUwOWYwWXNhS0JEVDk0WGpGbzRJUFViejZjRnVsdUw2bEotNFROeEZGc1hpT2dnRVNhblpjaG5tTk1kbWhac0ZB?oc=5",
+      "pub": "2026-09-22T11:25:08+00:00",
+      "id": "544323341fb741f7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "55pc factories see buyers cancel or cut orders due to gas and power shortages - Prothom Alo English",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ja0UzMHNKT3JHcWpodks5TzZuVkRQejg2MHZEOXNSTk80Y21td2pjZHVEV3NUb01SYVcwWHJBS1REWTdVdDVMSXVpcm1SNy1lWS1DdkhQZHZRN0nSAWhBVV95cUxNcVVoNUtXN2JWNHRsaHNsajI2RkNVVFh6bUFaRzRqUkV0SXY0dlMzdEhlWTh1cWl0RWozV1drNTVmUXpWLVBkbVpJa0xuVjEwQ2NYUkd3R01CeWRHcTNFVVlabVlQMGZGUA?oc=5",
+      "pub": "2026-09-22T07:17:35+00:00",
+      "id": "6b4d568a08f78b32"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG workers mark International Equal Pay Day with street drama in Gazipur - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlN1NEpPMk0xZ0tGalhubFpaa0pDbHlhb2Fzd2xfYU80clFDRS02dS1ZaWJmTVVqdVlNYWY4R1AzVHZnZUk3aGlvVG9sTTNaYzl2T2lpSW02LXZkNExvZ2JWTmZoclJ6SnpxVGhjSG1hTmxVWUxaQmNCcEZTUzVyVmJEYjJkeW5Ld3dLOGZMQWlNalgxZ2I2SUdPM3hDUlNycTlnRENSdnlyY1RqVzNMZUM0WWxMOWs?oc=5",
+      "pub": "2026-09-21T16:54:25+00:00",
+      "id": "a417820ed890a73f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh garment makers face rising energy costs as 4A sustains output - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDc0XzdPbkRFZVBrMDlLay1pMjFPSnFHQmRMX0ZmX3piTXdjTTd3T2pkVUJYMkNFSXdYQ3FESG5BUWdfWHViUjRiNWQtVUpkdEU2d3VoR2hzQ2lTV3FLaURucWt3SEtYOWF5eEF5RjlKRmtIWXlOQWp1bFFrN1Y5TFVLdzViVzZWbTh1SERBYTdpdng1?oc=5",
+      "pub": "2026-09-22T02:25:24+00:00",
+      "id": "01ba3b8d8b5deffd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "| Bangladesh's $38.7 bn apparel engine has an 88% gas risk - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnBtYklEYWpCMF9LbDh2LVZyUS15bVoxaWlrSjlyQ1FKdzExU2tKX3dLdGhXbHFQM1R5M0hYWDRpaXh3VUNxOHVjMU9wcDBjall6QmN6MU1qdnhSRHFULXk3ckI3ZnNfMG9YYXdmZk9rU0VmTmppeGNkaXhIMlNHUjQ3c0ZHYjhzRWFxa293Wm5BclVoUWxfUHNqRUdHYVN0VEVFdFFlajNoYVhYdDB5bU90dXFyUVpZU3AwdDVrTV90NlBrbV9LNXBsYw?oc=5",
+      "pub": "2026-09-21T14:16:56+00:00",
+      "id": "455c6b0771c7a3fc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "EU launches customs overhaul to simplify trade procedures - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0VyQlMzU2ZERmNEdEdRR05mNnpmLS1jYVpPaFRZZWJKWUp1ZGdlbmpObW1pY2wyNHBvUkNacDZRTElicVhsc2ZkNzlUbGxpY3JaYmM1WV9UZUx5blFwaEZ6MFkwdWhNNUFVaXUxMmExZm1UZXE0dWNVc2RMTWNNRFBCQm5XRGJENXd1YzFvc2x1VVVvdGxmazBESHIyY2NDZm1nRzhRN1ZpOW9RV05qN0RPM1RpTGs1Y0xneURadzVEcDVLR1d6a1Z5Z0I5OXlSYkp3WG5QeUI?oc=5",
+      "pub": "2026-09-22T03:34:22+00:00",
+      "id": "613859c15e0c3ac3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh lags global trends in value-added apparel exports: Report - United News of Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUpMbE5DemRBTDh2ZGlVbVJRMGIxNFF2aUlZbVBva2IxRkhhZWJmWG51T2EyM0U0X2lxYXVXQmc0dDBGeUlJWmowS195dFBVN0NZSXBMbzhZdk43ZXJDbG5aZ20yVV81ZzBpZktEaVlPb0ZUS1R3NjNfTWpQQVBTWmItVHJwN3JPc2RyMmZlVk5EWjNvcVNKVzZULVlhdElXLWFiSV91dkljZ2J5UWlIcmhIZw?oc=5",
+      "pub": "2026-09-22T08:36:19+00:00",
+      "id": "bcb2ffc804e40e16"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের সঙ্গে বাংলাদেশের সম্পর্কে এয়ারবাস কেনা গুরুত্বপূর্ণ: ফরাসি রাষ্ট্রদূত - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigwdBVV95cUxPWDRMYU9zQzF5dHVPWEw5MXRRUVRMbUtEcGdibDQ3R1lGZFBvdW5sczh3TXhhNjlXbkp5RnRKQ0FDSTlPOW5ZeVRXazFBMVY0ZG9qakN6MmR0c0pud1Z1c2d2czh6blJXTFRhQWpHMFphNGd3cXNNeWhaR2ZWam4zbUt4YTJ4WjZ3b2daTFVUV19PM1ZPYTVuYzdpcXo5SXJSdDQxVnlkbDlQLUUySnB5ak52aGhxZHFhOUhBS0xFWE9sblFKQjZIUTdoMHJVZEh5MnV3SGtPSGhqajJBYnptemJNVEJhbVYzTUdQYlNBRThkX1JVUlNSV0FKUTdUempKTlRQMGRTUlk1OWFpdGIwZk1xa2cyNFYySV8xYUNDQ0Y5MTRCems3YzBxc2t0LWk2MXVlZEZJRkRabTFObnFTQmd0ZVE1d1o1RFJJbmJmN3hqdjh0SnVIeXBPeG1JSUhvMjFacmJjbGkzSjlVT3JQYjdrVUFNZkN3NzlZUHdaUVRmd1FEWjRqVVZuUEFGa1dLVEJkMDcxelhyT0E0aTlZNWx5ZGtjRURVbTVKMGVsYzFLcTB3bkljX0tHc3N3UE5QZVJvdGMzMWJOT3NCNXFnMi13dGNqSm9wUjRneUk2YzVLa3FBS1NNb3IzeXhLa0VPdHhQdGxJb0NVTkdGbFUwaGtfa1pxSE94bW9hZHRBOFhxY2p0cExFQU0wYUZ5QnZMeF9CTmRPTzF2ZWJfNkxReVFyUEdJZkFlSjVxeWV1SV9IUzc4TFJBODRCQXZNTVplSVpDMWJPdTgyLU51QUxzY1p1LXpESzRzUVNId2JPdEp3ZGZEQXgtN0ZzbmpRVkd6V2lxdmhVaXFubVlKY09IYVlpelZZUFFLdGNkM0FyMlVPb2JIM2tmOHVBbVVYNDBhMzROcFhyQktiUjItZlNqWGpzUzh2UWN6N0pnX2Q5U2hSWk54N0NwUW9NSTM3WVl5dy1WTHJGaWN5LWhXdUJaRWpENGgtTmdxalI3MWd0MlowUS00REZZQldrZTFDUktQcktKakpFYW4tWjBQZDNhc2o0MDh1NjhIYlE2Sm9TOVduWnJ1MXplQ0puZXRCcVBETXpPdnVqVnlwc2Fid19pQjdRS05aRm80cUxBSmtGNGNyYWVlTkRnWFZMak5tSlRYUmpWczcwbzlnWldiMDZUTEhhUdIBgwdBVV95cUxPWDRMYU9zQzF5dHVPWEw5MXRRUVRMbUtEcGdibDQ3R1lGZFBvdW5sczh3TXhhNjlXbkp5RnRKQ0FDSTlPOW5ZeVRXazFBMVY0ZG9qakN6MmR0c0pud1Z1c2d2czh6blJXTFRhQWpHMFphNGd3cXNNeWhaR2ZWam4zbUt4YTJ4WjZ3b2daTFVUV19PM1ZPYTVuYzdpcXo5SXJSdDQxVnlkbDlQLUUySnB5ak52aGhxZHFhOUhBS0xFWE9sblFKQjZIUTdoMHJVZEh5MnV3SGtPSGhqajJBYnptemJNVEJhbVYzTUdQYlNBRThkX1JVUlNSV0FKUTdUempKTlRQMGRTUlk1OWFpdGIwZk1xa2cyNFYySV8xYUNDQ0Y5MTRCems3YzBxc2t0LWk2MXVlZEZJRkRabTFObnFTQmd0ZVE1d1o1RFJJbmJmN3hqdjh0SnVIeXBPeG1JSUhvMjFacmJjbGkzSjlVT3JQYjdrVUFNZkN3NzlZUHdaUVRmd1FEWjRqVVZuUEFGa1dLVEJkMDcxelhyT0E0aTlZNWx5ZGtjRURVbTVKMGVsYzFLcTB3bkljX0tHc3N3UE5QZVJvdGMzMWJOT3NCNXFnMi13dGNqSm9wUjRneUk2YzVLa3FBS1NNb3IzeXhLa0VPdHhQdGxJb0NVTkdGbFUwaGtfa1pxSE94bW9hZHRBOFhxY2p0cExFQU0wYUZ5QnZMeF9CTmRPTzF2ZWJfNkxReVFyUEdJZkFlSjVxeWV1SV9IUzc4TFJBODRCQXZNTVplSVpDMWJPdTgyLU51QUxzY1p1LXpESzRzUVNId2JPdEp3ZGZEQXgtN0ZzbmpRVkd6V2lxdmhVaXFubVlKY09IYVlpelZZUFFLdGNkM0FyMlVPb2JIM2tmOHVBbVVYNDBhMzROcFhyQktiUjItZlNqWGpzUzh2UWN6N0pnX2Q5U2hSWk54N0NwUW9NSTM3WVl5dy1WTHJGaWN5LWhXdUJaRWpENGgtTmdxalI3MWd0MlowUS00REZZQldrZTFDUktQcktKakpFYW4tWjBQZDNhc2o0MDh1NjhIYlE2Sm9TOVduWnJ1MXplQ0puZXRCcVBETXpPdnVqVnlwc2Fid19pQjdRS05aRm80cUxBSmtGNGNyYWVlTkRnWFZMak5tSlRYUmpWczcwbzlnWldiMDZUTEhhUQ?oc=5",
+      "pub": "2026-09-22T12:08:01+00:00",
+      "id": "17f4b2a3aa852949"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের সঙ্গে বাংলাদেশের সম্পর্ক এগিয়ে নেওয়ার ক্ষেত্রে এয়ারবাস কেনা গুরুত্বপূর্ণ: ফরাসি রাষ্ট্রদূত - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GbG9rbnRmd0EyN1A5RExnSzNVZjliRXJCYjg5QktOanROMGRYcnZYWXRFTlhJRFNtX0lwUGxQSjM4Z1YzeXMza09nT1h2eXZCU0Jfb25VTngwWnEt0gFqQVVfeXFMTm5BWURZWkRkNWdkOVRiak1pQVllV0VzN1VCWnNHZXJ0ZERmOWt0WXNXZEtiRjI0MjFCdWtwNWQ0elU2Sng2TkQ3N19qSjRoaFI3dVpHLVJvc05oRUpyZVpnNFBaSGNWNUZrUQ?oc=5",
+      "pub": "2026-09-22T09:49:52+00:00",
+      "id": "638f995f4882e091"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ফ্রান্সের রাষ্ট্রদূত • ইউরোপের সঙ্গে সম্পর্ক এগিয়ে নিতে সরকারের জন্য এয়ারবাস ‘বড় পরীক্ষা’ - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UMEFkdTYzTkI0d2ZHYjBKZGtDQUNpRVR1OF9CVXhuWUdYZHNLRkk3VkFxZFRVUTBuOTZ1ZVNoSDNJOHczVVNrbWViQWFQdkNUTkl1M0FsT1hQcURm?oc=5",
+      "pub": "2026-09-22T11:34:09+00:00",
+      "id": "dad79a521761e044"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপে সম্পর্ক টিকিয়ে রাখতে এয়ারবাস কেনা সরকারের বড় পরীক্ষা - sangbad.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JQ0NIdGJqRlNxNXJXWWZGSml5cEhGYlBqa0ZPNzdvdEJ5cHhzekttWlloQUVINFB6SUJ6WEVWWnZCVDVUVFE?oc=5",
+      "pub": "2026-09-22T11:56:00+00:00",
+      "id": "9baa2102196f3d5a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এয়ারবাসের সিদ্ধান্তে ইউরোপের সঙ্গে দীর্ঘমেয়াদি সম্পর্কের বার্তা - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMijgZBVV95cUxPcEtGMDZPbVctR25BaVhSdzlmUmRvT2s2VHVtNTBYRHFoa2lHa2lOaFoySmNXczVwQWJoLWRQVTlzb0VTdHdHWUNqb0NCWk50Ym01XzhRTDRKTEhOMExRUElKSFdxOVdtSnJfWDluMmZTbkxzdGdxUHRFS2xZXzM4U01OZ0JYcU9vSWlDWUNnNjMxckJxRGVBai02akU1RGdxY1lNd1pYMTVsalRiRjVwbTNLSWFCQmpqWUdWRUw4aEUtQVlzaW9YeW9YZkRPOUtHQW04SFM3aXNEdHRoeGthb01ad00xOUFJUC1GVTB6bWVwNHNRYlhnMVFaaHROTE1mS2ZqRWQ1Tk1CQ3VmN1pxZGVpcUszcldDenljc0RzWXZ3WnBTX3VvbzJQTHlvTUNFM1dxUW51dGtXbFNHcXlpS0Q0ZHJ2eFZ1M1B1UndBeTFHYmljS2ZWNFVaMUxzTjdqOWJjc2ZLMmI3QnRLM0Q4WE82UlMweXk0c29mbmFrZjhCVHRCZGVoZ2FpTW5Za0hIS0RNdmR5eGpQcTdRT1ZMUEtRYjZ4d3lMOXVCZlJONUV2X0dKTXJZRkl4VlMxemZnQVVRWGd1YUJCVzR5ZVJuV1FEdGx5cHVtTjZEQUp5UmpNZkNxSTVhdVdQaGVVSWNoSlNKQjdyQjhKV0NHLWs3enpEbzg1aFRZTzNTdFpkSEpSMjkxRC1XZU9UREFuX1R0a3VEcGQ1cEFrV3p5bTNHbjBkbmozcnduUU9kSFQtQ0V2SHBDMEc2YnBBSV8wOF9kLVMxUE9PUTcyRGNoUDZvbWhGV2x2VHIzVFlxRjlJY21qWTlTdlozejAyYWZfWUtzcmptSE9WcnNFWEhEMlU3ZDRSV1pEYnZwaU8zeUx5bEVRU2pmQkNyLUhweEk1WERCU016RnQ4NV9ZSWoxSzFQVEo5Zkp1dVhfQ1djdFpKOE1zUWNkYU5CRjZGa3JVUGhTejMtY2hCS0JTOFZEQ3lWY0RIclNwOHdTcWxuVXhoUnlTNFctR1hDNVA1VjJoUQ?oc=5",
+      "pub": "2026-09-22T11:16:32+00:00",
+      "id": "65ad38c3009b2923"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এয়ারবাস ইস্যু ইউরোপের সঙ্গে বাংলাদেশের সম্পর্কের ‘বড় পরীক্ষা’ - Janobani",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RU1A0U0taQXo2d045b1M4em1tQ3RVNUFLZDRzTXYwYkljaHU5aDFyc1BIU3J5WldEc1NDZUxTVHhhU2JYREROUnJKUQ?oc=5",
+      "pub": "2026-09-22T12:17:00+00:00",
+      "id": "7d2a5e9dbc2eaafb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাংলাদেশের উন্নয়নে ইউরোপ সত্যিকারের অংশীদার হতে চায়: ফ্রান্সের রাষ্ট্রদূত - Ekushey TV",
+      "link": "https://news.google.com/rss/articles/CBMi5gZBVV95cUxOcGVoeWppSHpjVUlrY09JTFRvTnpfY0NUTWwwV0c5MHFMbXdDNmVJZzIwTDRZLXRHb1lWUkRFZXZ2eENpS21IUEhic29wUnh6YlpfeXRCSzNfSmd3Z2RQS0lDcWJSeFJBTm4tanBXUDJPZk1mUFFUQ1ZtaVJub3dJdVhoMXBiaWtrb3Y4VzlDZFZJNS02TzdEaFJXLTNYY29MQTcwT25xcGxnSEJzN0ZJZU1KSVFPajR4b3AxRHI4a21jd0Y3TW9vSGR1OXNBalk4VGJuTkt4aVNuaThudHFvTEJSMkZZQzlnQ3BGV0VxTWlOZC1YeG1EclhsX2lld3FrUW5FRTQ4TFYtNHBlNElyOXFHWWxwdVZaTER0dy12OHJ2UmRTUXVMWDRSQjdzWGl2Q2RJRm5haFNid2FleUEyUmxnRzZicHZ4UW5YSTdQMXJpOTgtTFlzbXFYNjhRdTFFZlAxVjl4T2Y4M2lTTzBoNmtReHRBb0ZCTzI5YVRBc2ZYV21mbEhtb1dWd3hUXzdiYkw4dnhHWHdUeldUb2VHSkNvUG1JVVVOOGpUQ1JpRG9YeFMxaDhxaHktSlVWY1pwYXVvRTZoejgyQnRJWElMdFpkWTgxZ05xd2tnYWFWbVdZaU5YNmUyWmI2T2pNN014Vnp1Uk1FQ0pndHI5bVMzY0Vud3J1WVR4TnRJM3ZKVk9oVjU1NjBkMnhmTkhQcjE5eklpWXlDaU1pUFljZVRwNzZJZzUxcFRGdk5hb2FtSm9EVFJ2MERmNVRaZlhPNXBtLTlnc003cTR5WjhQWDh0SVRoZFdQNDVyclRFNnZtcHZzcVRjOHJiZG92SUJzN3VKdGd1VGkyNzRsaTBMcktwSE1zNlhZQkFBdmNPUkRCdUUxdk8tSkgzRGZROUhENDlpMlJLSEJ1d1E4dHo2UjYweWZEcWRMNkJzaUd2ZUdFbFR3dEM2VUFhM0FaSU1QTGpvTVdvbEVJYTFHX1psOTZYczF1elZCblZ3bE9uVUt0YmRIR29hRnMwS3hBZUl2N3czQ3c1ZWwwVG9XWG1OUENEeTdCdE41MTRob2JYS092UFdYaHRKY0hvRGpqaGNHblJEc3BWRHdhYVZHNDg2Nkczb1dranduX0E3RHhDYno1UFFDNm1HcUE?oc=5",
+      "pub": "2026-09-22T12:51:00+00:00",
+      "id": "4c97f8194a0d2940"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের সঙ্গে বাংলাদেশের সম্পর্ক জোরদারে এয়ারবাস কেনা গুরুত্বপূর্ণ - 24 Live Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NVGdZN2hGOTVVLWdXWGpmMV9iN2hLMUxvZTA3NnN3SzlnaDBULWVJY0psUmU5aWRFZ0dXbDl1SnZldlZHTVFMMTVYd2FmQVBqclphbHN6RTk2d3h0SXBJ?oc=5",
+      "pub": "2026-09-22T10:36:51+00:00",
+      "id": "c404c4424b68cf65"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এয়ারবাস কেনায় রাজনৈতিক কারণ নেই, বললেন ফ্রান্সের রাষ্ট্রদূত - nagorik tv",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9qa21SSTFMNVVVcmZxNFlKVm9BY0NOd2VINEcwUnZGazUySlgyRkVacmFjejZQQkctajNHQTdHMG8?oc=5",
+      "pub": "2026-09-22T09:40:00+00:00",
+      "id": "edf950a26495a860"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় বিস্ফোরণের ঘটনায় বিজিএমইএর নিজস্ব তদন্ত কমিটি - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQRTBQSnhqYjI0NU5fSk5pZy1xWmktS0tqeURCbTNydnViaUdIdmhfMGstbmlpb25nY3RZdlNDWnR1aGE2bFFvLUpnMUdTb2gzYnV5OXdsVS03ckRQV2gxRGE3MThzdk5FSDkyMURMT3lGblBxbVYtWXZVZkp3bVU5czdJbFVLYklsT3kyR0xCSzd0VWx4RlA4X0NQVkRBRzZYR2xPRTVlVHY5YTRSRzcyb2RqeUdwTnJvLUFXaThjUjJBWTNKR3dVcV85eWJVZHhUZUczck1QRzVpOXBzaV9XaTloY2QwdFRyY3JybzJoMXNLTllIX2F4SHdkSERSLUx5cUZVNVdKNXdOb0dodjI4Ui10SVVjRVRnSUh5MUFEMENpMVkzQlB5SGs0VkRTWEdoQXpFMi1aYTFWUnk1STRmNGVWQ3NORGc1SzZ0ZVlGWXpuMmwtY3ljQnlVMFFSZTFIbTN1M0s2ak9QcWJZd3pYY0RKSDI4ZW50bmlhdXA5XzV4eHprWXJjendkR1RVN1lTNVZHeHBVcmloMHRhbGlEdlpPdHhBSkE5WUVlX2pSTGg5U0QzLUlzaFR2RHdfaVA4YzBScDlwUDlmMDQ4ZHVBa3pKWW83czVORG9NZmdYTkc3cVREeDhvTHZTZlRnMVA1LWk0c0dsMjY4SjIwRjdvQ1g2QU5PWm0za3h1bElGcVJ4Rm5JWjdrT3M1Z294clZuaTh4Q1RNa29pMG9mX2VDQ085M1hxbHROQ3pDbkdHcE5SZjh5TVVpZ1J1ekJhend4TDRtRExqbVRFMkttaDVhZkhRN1lzQmVTbzM4QXR3bzFicDk3Qnh0WXZxeF92VmttV3VCcXlNRmpCaTBmQzhPQlR3dzFWOXdBZ2FBRVNaVEZLeE8tZUVR?oc=5",
+      "pub": "2026-09-21T13:57:35+00:00",
+      "id": "6ebef170ae86ca89"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় পোশাক কারখানায় অগ্নিকাণ্ডে ক্ষতিগ্রস্তদের পাশে থাকবে বিজিএমইএ - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmc5am9mdF9maEVENi15MHV0dUQxY1MyTW5oRXhOM0V4ZHZXNEZMM2JFVHlmNUFmRUYtUENZWGRBb3RmYTB5MG5RakNzeHI2OUZXYXRWdWQteHJ0TllmN2xkRTBsVTllcnRYblBoeklQT0ZFdm1ockFsOC0wQ1hxVjdRbFhsOWc?oc=5",
+      "pub": "2026-09-21T13:59:33+00:00",
+      "id": "880fd2b39ce2933a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিইউএফটিতে আন্তর্জাতিক সাংস্কৃতিক ও শিল্প সপ্তাহের উদ্বোধন - bangladesherkhabor.net",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5NzNtMGQ0amV6VWVTVGk4TmNMTExKaU1nOFp3b2w2MmxHUThOakdPOFQtNUxWRGQ1YV9PZlROSnFyRWlTaW9yTHpldEo3NnNFM1VxN0ZiUDloWFdEYmY0?oc=5",
+      "pub": "2026-09-22T11:25:00+00:00",
+      "id": "cf9799ee1a9ebf45"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোর্ট ইউজার্স ফোরামের চেয়ারম্যান হলেন আমীর হুমায়ুন মাহমুদ চৌধুরী - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNdjBnWFNsRkNoMDZZQ2F0YVJEalBVUXU4Q1VwbkgtNmdaRDFsX1FCQjBOWERqaDZXSTFmX3o3dnJ2MWVsX1hHclV4WEpDUXZud0g4d3dfTUZMRV9CLXgzSUZ6N1l5enlzUEEtYk5ZYkZoRFFHbW5QNDJNZmFaZjBPVXdYMTAzMkg1dmx6cGNEejkyRmdMalVWNlExbnF4SndNS012bjZtLTJ6MTM0UkhxT1lHOERxeWNXeTZoV1Y3bUlmVkx5QTZpejROTUU1SHhkeG1ad05UaHJIRnB4TmpOeUZHWlNXcDA4TnZUZVhvWFluZkRkOFFJVDJ3dlRQNnF1NlhVTWZNUEZDa2s5MmNHZGpndkItZEJPMUp6a0h0eEdZZWNHUVJEV3phRG14VnBPWC1NN1JzeXRBX2dIb1k3VDNJZmNiRTBlN1E1XzlCTk5Ia1JPZ2sxS3B2Y3dlTVBTVHZveGdTXzRtTGxWS0hUX2k4SDE2bDJTNWdXdldZTkk4OThXQzk5c1pranMwOFdTNGpNOGZrUlBHejhzWVBFVVczUnN2UmtlUm1oc2c5a1V2NW1GU0MySmNWOXE5czV4bThzcEZUY24xSVlHd3NlcXUzTjBQN1VFMU1lWXViVUJqN0dzTnVwa3A1c0xhYWJKQ0hnYUF4MXhEMHB5OG92d2ZhSm9UUUxCX1M0aFhnN2xSU2VLMFB5T1BfUl9mN1V4LWpQMWwwVEplcDV5WDRmbllBcVB6N0FGZzJHVEk4SXBCc0pjNHZabWcwNkJjY1YtV1NReVhMaklHWUpCejVKekhfZHd6aXNZX1HSAeoEQVVfeXFMTXYwZ1hTbEZDaDA2WUNhdGFSRGpQVVF1OENVcG5ILTZnWkQxbF9RQkIwTlhEamg2V0kxZl96N3ZydjFlbF9YR3JVeFhKQ1F2bndIOHd3X01GTEVfQi14M0lGejdZeXp5c1BBLWJOWWJGaERRR21uUDQyTWZhWmYwT1V3WDEwMzJINXZsenBjRHo5MkZnTGpVVjZRMW5xeEp3TUtNdm42bS0yejEzNFJIcU9ZRzhEcXljV3k2aFdWN21JZlZMeUE2aXo0Tk1FNUh4ZHhtWndOVGhySEZweE5qTnlGR1pTV3AwOE52VGVYb1hZbmZEZDhRSVQyd3ZUUDZxdTZYVU1mTVBGQ2trOTJjR2RqZ3ZCLWRCTzFKemtIdHhHWWVjR1FSRFd6YURteFZwT1gtTTdSc3l0QV9nSG9ZN1QzSWZjYkUwZTdRNV85Qk5OSGtST2drMUtwdmN3ZU1QU1R2b3hnU180bUxsVktIVF9pOEgxNmwyUzVnV3ZXWU5JODk4V0M5OXNaa2pzMDhXUzRqTThma1JQR3o4c1lQRVVXM1JzdlJrZVJtaHNnOWtVdjVtRlNDMkpjVjlxOXM1eG04c3BGVGNuMUlZR3dzZXF1M04wUDdVRTFNZVl1YlVCajdHc051cGtwNXNMYWFiSkNIZ2FBeDF4RDBweThvdndmYUpvVFFMQl9TNGhYZzdsUlNlSzBQeU9QX1JfZjdVeC1qUDFsMFRKZXA1eVg0Zm5ZQXFQejdBRmcyR1RJOElwQnNKYzR2Wm1nMDZCY2NWLVdTUXlYTGpJR1lKQno1SnpIX2R3emlzWV9R?oc=5",
+      "pub": "2026-09-21T16:07:44+00:00",
+      "id": "2873250af1fcb992"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোর্ট ইউজার্স ফোরামের চেয়ারম্যান হলেন আমীর হুমায়ুন - Newszonebd",
+      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNNm1xMHo4N0ZxRmQzRC1ib1V3bW5Sak1aMkdjRVN3NWxuMTNnd2E0d1ptR0p6a3VISU9ZTVVobzItTXZrbTRDVlI4NWJuUjZjVUFSS1R5RzVmZS0zbjgyTzg5bVFOMXhsdUVwNEFSbG5QOHI3RXlkNWJaWEhzVzJNbC03YWIxUHdKS3pVWXk3emRxMkhvU1lRNWF6bFBZalRvOHpJcVRBdWtwSWZkNC1zM25XWFZMTUNrWXhScEpYVWdPNzZHTDBjYnBxTnEtRXFMbnY5TktnejUxNDhrYTZzSmxUZDl0cmxHX1hFQXpta2xLWXkyU2lhZEpCTWI4ZHhxSC1QQzJ4TVpZX3RkR292RGFwODJ3ZzA0b1N5cFczb0NNbWdnVU1NeGtHTVhqRk00OFptMmV3ZkM4dVJNdU5tNTQ4Rjg2cXVfRHBPLXdES0JURTFsT0NldmtIdlVtQTVFMTNQNGpaMXViQTZneW1ja01ad0JWMzVMdG9rdERIek91ZWdONFJRRmtEM1ViWHh2QlcxeDktd0NydDlJM2dVNFk5S3RSakUtM2NaUFlTTExITjdzYjljMkxHQmgxUVpBeXFWYzhqM3pKTXhJNFNUTlloWjg4Zi1HWi0xQUkwb1JiRHIyaUNveEhmOGYybm9ZazNTVGFXVHc1c0NUa0VPZ3ZtcWpxUlJRN09qUDlVZmJsbk1RdE5JQ0h2QjZBWGFyeUNtaFp4R3I1blBKRG1iNXpoVDZzRUlia0tfYVhTc0FBcTN5QWpuR21ialgzUG1MWkEwRFZkVmk5aHRSRE9yc2VNYlJzLVHSAecEQVVfeXFMTTZtcTB6ODdGcUZkM0QtYm9Vd21uUmpNWjJHY0VTdzVsbjEzZ3dhNHdabUdKemt1SElPWU1VaG8yLU12a200Q1ZSODViblI2Y1VBUktUeUc1ZmUtM244Mk84OW1RTjF4bHVFcDRBUmxuUDhyN0V5ZDViWlhIc1cyTWwtN2FiMVB3Skt6VVl5N3pkcTJIb1NZUTVhemxQWWpUbzh6SXFUQXVrcElmZDQtczNuV1hWTE1Da1l4UnBKWFVnTzc2R0wwY2JwcU5xLUVxTG52OU5LZ3o1MTQ4a2E2c0psVGQ5dHJsR19YRUF6bWtsS1l5MlNpYWRKQk1iOGR4cUgtUEMyeE1aWV90ZEdvdkRhcDgyd2cwNG9TeXBXM29DTW1nZ1VNTXhrR01YakZNNDhabTJld2ZDOHVSTXVObTU0OEY4NnF1X0RwTy13REtCVEUxbE9DZXZrSHZVbUE1RTEzUDRqWjF1YkE2Z3ltY2tNWndCVjM1THRva3RESHpPdWVnTjRSUUZrRDNVYlh4dkJXMXg5LXdDcnQ5STNnVTRZOUt0UmpFLTNjWlBZU0xMSE43c2I5YzJMR0JoMVFaQXlxVmM4ajN6Sk14STRTVE5ZaFo4OGYtR1otMUFJMG9SYkRyMmlDb3hIZjhmMm5vWWszU1RhV1R3NXNDVGtFT2d2bXFqcVJSUTdPalA5VWZibG5NUXROSUNIdkI2QVhhcnlDbWhaeEdyNW5QSkRtYjV6aFQ2c0VJYmtLX2FYU3NBQXEzeUFqbkdtYmpYM1BtTFpBMERWZFZpOWh0UkRPcnNlTWJScy1R?oc=5",
+      "pub": "2026-09-22T05:48:27+00:00",
+      "id": "baed5d2648eb6386"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোর্ট ইউজার্স ফোরামের চেয়ারম্যান হলেন আমীর হুমায়ুন - Rupali Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4bE50Z29QTzVNZU55eVo2WmlXZk83VldvV0dBVlgwR3NSN0MwVWFTdE1TSlAzZ19fVEV2enFSeTNGdnM3dHlWZUhFMFI1ZWpHRWk5YzdPc0pTSkdhZmhsWktGcTNGdkNyX2szSFpiMTEzU0pw?oc=5",
+      "pub": "2026-09-21T14:59:00+00:00",
+      "id": "7dbab6486f34cc59"
+    }
+  ]
 }
