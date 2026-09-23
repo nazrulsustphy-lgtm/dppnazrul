@@ -1,44 +1,5 @@
 {
   "seen": {
-    "66ba333e5f82f399": "2026-08-24T14:44:18.089759+00:00",
-    "6bd0e3962926c8ba": "2026-08-24T14:44:18.089759+00:00",
-    "07820fee5be1d126": "2026-08-24T14:44:18.089759+00:00",
-    "37d41eefc5deee3a": "2026-08-24T14:44:18.089759+00:00",
-    "3fda6014aed46a30": "2026-08-24T14:44:18.089759+00:00",
-    "1c9baad28e7c2db4": "2026-08-24T14:44:18.089759+00:00",
-    "0212656a9fe446bc": "2026-08-24T14:44:18.089759+00:00",
-    "ea7b9d75d117035d": "2026-08-24T14:44:18.089759+00:00",
-    "293d6cda3cc3d04e": "2026-08-24T14:44:18.089759+00:00",
-    "cd73d6ab5569f7a8": "2026-08-24T14:44:18.089759+00:00",
-    "5f99c3f599e2d4db": "2026-08-24T14:44:18.089759+00:00",
-    "aedf9434c9c6c4ed": "2026-08-24T14:44:18.089759+00:00",
-    "8e21a364d0d86ff2": "2026-08-24T14:44:18.089759+00:00",
-    "dbf5399cb0a2c264": "2026-08-24T14:44:18.089759+00:00",
-    "1971d562b9c2efd1": "2026-08-24T14:44:18.089759+00:00",
-    "e57b7353988af6c0": "2026-08-24T14:44:18.089759+00:00",
-    "2cfd6f8389ee2b05": "2026-08-24T14:44:18.089759+00:00",
-    "9eb94a746d263848": "2026-08-24T14:44:18.089759+00:00",
-    "a4ad521f26da9a8f": "2026-08-24T14:44:18.089759+00:00",
-    "41a5781f93d2e935": "2026-08-24T14:44:18.089759+00:00",
-    "92eec697bab42b08": "2026-08-24T14:44:18.089759+00:00",
-    "d6f0a0697c302c4c": "2026-08-24T14:44:18.089759+00:00",
-    "b638b50ce2bd8bb6": "2026-08-24T14:44:18.089759+00:00",
-    "f73786b30441acfa": "2026-08-24T14:44:18.089759+00:00",
-    "22937862978f8fdd": "2026-08-24T14:44:18.089759+00:00",
-    "31b3eec3fd60105e": "2026-08-24T14:44:18.089759+00:00",
-    "e85568c9f7b28dae": "2026-08-24T14:44:18.089759+00:00",
-    "3c808997d354bfaf": "2026-08-24T14:44:18.089759+00:00",
-    "7036731b0aed1081": "2026-08-24T14:44:18.089759+00:00",
-    "36c24e899e64718f": "2026-08-24T14:44:18.089759+00:00",
-    "a03371dadb9877c5": "2026-08-24T14:44:18.089759+00:00",
-    "e0d25e16695d7e19": "2026-08-24T14:44:18.089759+00:00",
-    "a9149d1c4de5807c": "2026-08-24T14:44:18.089759+00:00",
-    "82606d6b25e9c891": "2026-08-24T14:44:18.089759+00:00",
-    "5b5f188482dee7ea": "2026-08-24T14:44:18.089759+00:00",
-    "dec7cf5307cbb58f": "2026-08-24T14:44:18.089759+00:00",
-    "d582b2da00afa89e": "2026-08-24T14:44:18.089759+00:00",
-    "22bc3bb05932f4ae": "2026-08-24T14:44:18.089759+00:00",
-    "9be7aa8ac102f7e2": "2026-08-24T14:44:18.089759+00:00",
     "4ad128310c733fef": "2026-08-25T03:00:17.041633+00:00",
     "7699a2830e61e0da": "2026-08-25T03:00:17.041633+00:00",
     "01ef81445bbfa92e": "2026-08-25T03:00:17.041633+00:00",
@@ -2403,7 +2364,51 @@
     "a3d4a5a8fcaae7f4": "2026-09-23T13:26:25.392020+00:00",
     "b5f2b125f9fd310c": "2026-09-23T13:26:25.392020+00:00",
     "36a66da9bfb91b17": "2026-09-23T13:26:25.392020+00:00",
-    "d3b9b25553836e22": "2026-09-23T13:26:25.392020+00:00"
+    "d3b9b25553836e22": "2026-09-23T13:26:25.392020+00:00",
+    "9c8f9cecccbedeea": "2026-09-23T18:17:51.647939+00:00",
+    "ade33a5e1e35f40f": "2026-09-23T18:17:51.647939+00:00",
+    "98168e80613699c1": "2026-09-23T18:17:51.647939+00:00",
+    "bd7c98ebd4d8afc0": "2026-09-23T18:17:51.647939+00:00",
+    "bd1a7c95be51d7be": "2026-09-23T18:17:51.647939+00:00",
+    "a192827602425463": "2026-09-23T18:17:51.647939+00:00",
+    "048d8993dae8a184": "2026-09-23T18:17:51.647939+00:00",
+    "f3e7704d2cb1a6f6": "2026-09-23T18:17:51.647939+00:00",
+    "0f94d7b77d070d36": "2026-09-23T18:17:51.647939+00:00",
+    "840863f4a39884fc": "2026-09-23T18:17:51.647939+00:00",
+    "f7d12bc9e9e3443f": "2026-09-23T18:17:51.647939+00:00",
+    "32e0f9db66251016": "2026-09-23T18:17:51.647939+00:00",
+    "6116158b964140ae": "2026-09-23T18:17:51.647939+00:00",
+    "0b45a59dc3580863": "2026-09-23T18:17:51.647939+00:00",
+    "9348e4495dc29e22": "2026-09-23T18:17:51.647939+00:00",
+    "6ec6020e5f486b91": "2026-09-23T18:17:51.647939+00:00",
+    "2396b0cec22a0fde": "2026-09-23T18:17:51.647939+00:00",
+    "87066aa8a323ba7d": "2026-09-23T18:17:51.647939+00:00",
+    "087af53f8bf61c2e": "2026-09-23T18:17:51.647939+00:00",
+    "212776f97f4e30a6": "2026-09-23T18:17:51.647939+00:00",
+    "5a065e37ecb7d0cf": "2026-09-23T18:17:51.647939+00:00",
+    "12720cf742a95e8b": "2026-09-23T18:17:51.647939+00:00",
+    "0b6a730b5a11dfd3": "2026-09-23T18:17:51.647939+00:00",
+    "8b24da549bdb964a": "2026-09-23T18:17:51.647939+00:00",
+    "cfa3b66a5edcf08d": "2026-09-23T18:17:51.647939+00:00",
+    "e5ec51ade787bdb8": "2026-09-23T18:17:51.647939+00:00",
+    "91b4da449dfada62": "2026-09-23T18:17:51.647939+00:00",
+    "1a96e92179886822": "2026-09-23T18:17:51.647939+00:00",
+    "c0f11444dbc550cd": "2026-09-23T18:17:51.647939+00:00",
+    "db4e32d8ed59d6ee": "2026-09-23T18:17:51.647939+00:00",
+    "676ed4fc7e0508e8": "2026-09-23T18:17:51.647939+00:00",
+    "0629a25f4d223e65": "2026-09-23T18:17:51.647939+00:00",
+    "e8dc7541b6f8a135": "2026-09-23T18:17:51.647939+00:00",
+    "62ca25a4db829737": "2026-09-23T18:17:51.647939+00:00",
+    "12b046428b8ec576": "2026-09-23T18:17:51.647939+00:00",
+    "1d5bf81f14e84f0d": "2026-09-23T18:17:51.647939+00:00",
+    "ab848219d9b821bd": "2026-09-23T18:17:51.647939+00:00",
+    "3469d89532561d47": "2026-09-23T18:17:51.647939+00:00",
+    "9fd89adcd20e7fd1": "2026-09-23T18:17:51.647939+00:00",
+    "d875d0f429feba08": "2026-09-23T18:17:51.647939+00:00",
+    "f7ea9644b44fbdc6": "2026-09-23T18:17:51.647939+00:00",
+    "c67161086e044718": "2026-09-23T18:17:51.647939+00:00",
+    "b7a34a5c4c63fab9": "2026-09-23T18:17:51.647939+00:00",
+    "de7513750ef2ac05": "2026-09-23T18:17:51.647939+00:00"
   },
   "yesterday_items": [
     {
@@ -2621,6 +2626,206 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlVNLXhHS2lya2V2d01OcXRpMDN2am13eENQTEh2NTJqNTNwU1I4RjlFSnJtX0JkZm93RGUtRWZ0VG1vdHlEQ18tR21Hc1NaYlRnQUNyU0trY2xDNXdxcFNxVWgyenNYeHpoUklOOVU2dmpQdzdOYXlXLThzWUQ1Z0xlWUw5aE8tRHVHZg?oc=5",
       "pub": "2026-09-22T21:29:00+00:00",
       "id": "d3b9b25553836e22"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Recyclers and major retailers announce circular textiles collaboration - Materials Recycling World",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjAydHMzRjRFZDBFRWUxWFJUTDBFNzhtNnRmaXV0Q0lOaFVycmpLVEZCd2lxYkNMQ2JkUWhZcGI5XzdNYVRLejlHVURPQm9Jdk9rNGZHdlg0SDdEVGRCY2JoYk1CYzNPR250ckc4QXhWbGtUZlFzYmZfaVdyZVFjUFFaWjBlc3Z1TmNzVnJqc1ZOT21vc25oN3R5RHM4RFVHUnBfNGZvUmNEV0sxYUE?oc=5",
+      "pub": "2026-09-23T17:41:30+00:00",
+      "id": "5a065e37ecb7d0cf"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Here are the 30+ projects presenting at the Cardano booth at TOKEN2049",
+      "link": "https://www.reddit.com/r/cardano/comments/1wo9lsq/here_are_the_30_projects_presenting_at_the/",
+      "pub": "2026-09-23T15:45:21+00:00",
+      "id": "12720cf742a95e8b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "President for collective steps to resolve RMG sector problems - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSE9pS0x3UWFyZDI3ZDdoVjZDODBwSUZMVmlJclh3Sk9zVTA5ZFVkeE9PZHdwZGtYNzgwNW5UZHJzX3JxMnNuRUktN2tERkQ3cEpSN2U2UkV0ZUZWYmw0azdsT2lzc2FCSnE3UjBleV9KWmJhckUxZ2ZIdzZ5VXBwdzZMbmJWRUtmWGtaQjQ0TlJjQ3FIaWRaQjdUSUptMVpITE1vSG5QUTF0dw?oc=5",
+      "pub": "2026-09-23T17:39:37+00:00",
+      "id": "0b6a730b5a11dfd3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh targets bigger share of Japan's apparel market with new export push - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGUwM2h6cWN1QXNrbXJMel9GWDFOZlR2X2xaejZDbENiZEQyUE5lYnloVFR0Y0xRajhfZ0lubkJpZjhXVkhBQ1hhdWQ3b3gtUFJzVFBfQXlCRVBJUkhVSzAtejRqaXJobWZDLU5KNWJnd1lpVmtaNUtSTXB2VzVPMGpocjU2M2xuN19FUF9YSnJpZVd5ZU4xN2RPcWJ0V2c4MC1SU0F2bFR6WS1zM0ZXcjZ2TkhtdXIyMnc?oc=5",
+      "pub": "2026-09-23T06:09:45+00:00",
+      "id": "8b24da549bdb964a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "BGMEA launches Japan Desk to boost apparel exports - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3IwcUNIa2FkemtRanZsR3Bmc0ZRbkJSc1lTbWpJSjBsUW5vVUdJcW1zOE5EZXJrQ0FyLVFIRDcwSHFFV0xsbkFLNmZXTnVuNkFtVnMzOWlQNW5ndE1kcFVEaTJfemZwWm82QmpUNF83bTlGb2FUbXFWb21tbzJzYmNxSnpFeldHTFpWOUFvVWdMMHdib19kcFc5dw?oc=5",
+      "pub": "2026-09-23T17:23:41+00:00",
+      "id": "cfa3b66a5edcf08d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh targets bigger share of Japan's apparel market with new export push - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGUwM2h6cWN1QXNrbXJMel9GWDFOZlR2X2xaejZDbENiZEQyUE5lYnloVFR0Y0xRajhfZ0lubkJpZjhXVkhBQ1hhdWQ3b3gtUFJzVFBfQXlCRVBJUkhVSzAtejRqaXJobWZDLU5KNWJnd1lpVmtaNUtSTXB2VzVPMGpocjU2M2xuN19FUF9YSnJpZVd5ZU4xN2RPcWJ0V2c4MC1SU0F2bFR6WS1zM0ZXcjZ2TkhtdXIyMnc?oc=5",
+      "pub": "2026-09-23T06:09:45+00:00",
+      "id": "8b24da549bdb964a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বোয়িংয়ের ১১ উড়োজাহাজ কেনার চুক্তির মাঝেই এয়ারবাস নিয়ে ফ্রান্সের তাগিদ - দ্য ডেইলি স্টার বাংলা",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83RkZicjJoT0NSV0g3NVFUSUx3Tmg1WUg1cDVENEpJSnZFVGpIOTNubWQzX1pIMFhtLVUzTnZGazI0Z1RPT21YV29qZy1YRGVHOWEtaFNqeUZ4ZnZ6U3FOcXdFNEhVYW1fRlVLbQ?oc=5",
+      "pub": "2026-09-23T10:26:07+00:00",
+      "id": "e5ec51ade787bdb8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বিমানের বহরে নতুন উড়োজাহাজ, বোয়িংয়ের পর এয়ারবাস নিয়েও এগোচ্ছে বাংলাদেশ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XUndad2lrWEFROXNoSkpRc21CQU5sOWozdjRFaXBZRHBHSWFYa0c0LVhBbGFmQjJRREZyM3BDOV9pekZGdWtSZ1dETXcwNjJ2dlhSTWpIMA?oc=5",
+      "pub": "2026-09-23T13:45:46+00:00",
+      "id": "91b4da449dfada62"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানি ক্রেতা–বিনিয়োগকারীদের জন্য বিজিএমইএর ‘জাপান ডেস্ক’ চালু - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rZGYxMGhyTnpKbE0yMnZhYWltUlRBRktIWVJvbjRySUVCUEZPQWFXWVB4bEo2cTNGM1N0aDNCTlZRa3MzclVZV1Zoc2JydGZZVmI4QzJIZV9NZERPd1E0T01ITWk2Z9IBc0FVX3lxTE45dS1faGV4Mm14TGhOTzRMS2xuTGJTd21NcDlKRGdENllwNFI1aGFzNDVpVy1VLXo1dW9lVHl1bDZ1NDdCSTJkenU3Y01FSlNuVENkaVN2LUwyT3pkRno1Z1lhNEdNSWJJc1NQTjFmeFdTUlk?oc=5",
+      "pub": "2026-09-23T16:04:31+00:00",
+      "id": "1a96e92179886822"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় কারখানায় নিহত ৪ জনের পরিবারকে আর্থিক সহায়তা দিল বিজিএমইএ | খবর | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaVllMS0xYTFNbjFKbTFSZVRmd1BLbjRra0tkWFRxcjhweXJFUkZzMi1mNDRrNjJQdTBJaGJBalc5MkZqWG44OFJQeUVpUm5CbFdVSg?oc=5",
+      "pub": "2026-09-23T15:26:00+00:00",
+      "id": "c0f11444dbc550cd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় কারখানা দুর্ঘটনায় নিহত ৪ পরিবারের পাশে বিজিএমইএ - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPVzd3eUNGYV9tMHZfSjlOdU5VOXByeVFCOUE0OHktTWZaV2kxdmRFeDN2MWtTTTIzZElqMk5aV3Z0VTZEYVkydHEyU1hZdnlWNy1xbFlBNHN6ZnBwTU94ejBuYUc0M21LNGxwRmRHZEZSMG5ZdWV6cTR2R19GNVdpcTBEUGZxVHg1Nkg3RjFuaWpKVzNnVnB3NlhyRmI4di1Fc0xTN2RRQVg2YnJTLTY1QWVhXzBGTHdqQjFJWGs1Z3Q3Q2JKeDdZYUNoSEppcTBQYWdyVVJzTjRNaTh1SjdNNWQxaE02WURacmpJM0RJOU1ueVFyZ2k0SUphWVhiOGlIQ2lfUE5vRlo1OXZ0ZXNwRVhQSVg4dUkwUzRvWGdNbEhnQmMyMlVjN0Z2Z203NVFjd0lhVzk0cHZJdlVHX21MazlTRnk3NXg3WDFkaUc3OG9WODVYRTlrSXVUbG1ySzIxV0lFdTZYSEMyNnM4TEFPdjlJZFdHLXlEemFXdnNhbTd5WHVCZXA2SnBtNHZVZ1RKMi16dlJTdU41QnVEbURXT3ByOWJIdkdfUW1zZTlaSkRlYU9hdVpGVFlnbEdQc2ZwV25UYjd1NDdmYXc1VmtlRTJBbkJuc1BHQUxZMk81VlpSTS1KSzNERjFZRGtEUklkSjlleTJrSlFVSnp1SmMtdkh4X0RMWFp2VmFiVEZsZ09UWHdneHpOQzExeXdYdHBCanZkMWNFR1JoSnNFS3g0RFppdmRZbndmdFQ1emlRWThwQUxHb0HSAcYEQVVfeXFMT1c3d3lDRmFfbTB2X0o5TnVOVTlwcnlRQjlBNDh5LU1mWldpMXZkRXgzdjFrU00yM2RJajJOWld2dFU2RGFZMnRxMlNYWXZ5VjctcWxZQTRzemZwcE1PeHowbmFHNDNtSzRscEZkR2RGUjBuWXVlenE0dkdfRjVXaXEwRFBmcVR4NTZIN0YxbmlqSlczZ1ZwdzZYckZiOHYtRXNMUzdkUUFYNmJyUy02NUFlYV8wRkx3akIxSVhrNWd0N0NiSng3WWFDaEhKaXEwUGFnclVSc040TWk4dUo3TTVkMWhNNllEWnJqSTNESTlNbnlRcmdpNElKYVlYYjhpSENpX1BOb0ZaNTl2dGVzcEVYUElYOHVJMFM0b1hnTWxIZ0JjMjJVYzdGdmdtNzVRY3dJYVc5NHB2SXZVR19tTGs5U0Z5NzV4N1gxZGlHNzhvVjg1WEU5a0l1VGxtcksyMVdJRXU2WEhDMjZzOExBT3Y5SWRXRy15RHphV3ZzYW03eVh1QmVwNkpwbTR2VWdUSjItenZSU3VONUJ1RG1EV09wcjliSHZHX1Ftc2U5WkpEZWFPYXVaRlRZZ2xHUHNmcFduVGI3dTQ3ZmF3NVZrZUUyQW5CbnNQR0FMWTJPNVZaUk0tSkszREYxWURrRFJJZEo5ZXkya0pRVUp6dUpjLXZIeF9ETFhadlZhYlRGbGdPVFh3Z3h6TkMxMXl3WHRwQmp2ZDFjRUdSaEpzRUt4NERaaXZkWW53ZnRUNXppUVk4cEFMR29B?oc=5",
+      "pub": "2026-09-23T15:39:55+00:00",
+      "id": "db4e32d8ed59d6ee"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ জাপান ডেস্কের উদ্বোধন - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CNHUyWU96OHBDZzZ3cGV1LXNMNE1OVXdqbU9neFlxVzNoLWE0Q1R3RmRnQXpmLXFkeURUdUJ0Zi1RSFlOM3BVQmNna1htVXhCcDFaWWlmYnlNQQ?oc=5",
+      "pub": "2026-09-23T15:15:00+00:00",
+      "id": "676ed4fc7e0508e8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় কারখানায় বিস্ফোরণে নিহত ৪ পরিবারের পাশে বিজিএমইএ - dhakamail.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9md3c2bU9OZEdCTDFsSHI0aVZaZzE2UDRXRDJ3OWNkUF9IR216MlRqNXZrSGx0azBuWEJMR1NhUWdmRnh6Z0tyTDFLNS1DSXRzSVHSAVJBVV95cUxPZnd3Nm1PTmRHQkwxbEhyNGlWWmcxNlA0V0QydzljZFBfSEdtejJUajV2a0hsdGswblhCTEdTYVFnZkZ4emdLckwxSzUtQ0l0c0lR?oc=5",
+      "pub": "2026-09-23T17:46:40+00:00",
+      "id": "0629a25f4d223e65"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানি ক্রেতা-বিনিয়োগকারীদের জন্য বিজিএমইএর জাপান ডেস্ক চালু - দ্যা নিউজ",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56OHdDbEVWSnRUN3Z4VkI3S2I5UklWYlhqSEg3d3VmbU9xZXA4enlMS1A3ZUc4WnBZOExzSkp3NldGWVJ3TDhyYnpBaERCbjhqRWhzbU1zYnR0VkRncWdncHBLMkQtWjhEeHBFY19ic2xYNVM5TE5Z?oc=5",
+      "pub": "2026-09-23T13:29:20+00:00",
+      "id": "e8dc7541b6f8a135"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাণিজ্য ও বিনিয়োগ জোরদারে ঢাকায় উদ্বোধন হলো ‘জাপান ডেস্ক’ - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZ1hyU25kcHhpRUdrMjRJcUxvNGFZQnBuVzFfYktTamV6Z0YzUGVuN3hGTC1SRTBmLUFhdWJHYkxUVEk4M0l0TldSOVBjYXY3TGJIaUEwWk1Ec0E?oc=5",
+      "pub": "2026-09-23T12:50:15+00:00",
+      "id": "62ca25a4db829737"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক রপ্তানি বাড়াতে চালু হলো বিজিএমইএর ‘জাপান ডেস্ক’ | বাণিজ্য | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvRmk3UHIyZm5HbFJWT0dFSmphTHBpV1ViaWh4ZExsLUNtOVpIeXUwNzNiYVdEeHJ6d0pseFdMbUJlZTU0RTNsa20zZkQ4OG1sclhLeEdR?oc=5",
+      "pub": "2026-09-23T14:22:00+00:00",
+      "id": "12b046428b8ec576"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানে রপ্তানি বাড়াতে আগ্রহী তৈরি পোশাক রপ্তানিকারকরা - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6UDZnZ2JrLUIyd0NXalVRZHpWMDNVVHRJcHZCSjdUaS1LNTZZU1J3bVptVXFzdXU2a3dIQUJhSXhDV0dyanJycldudXY?oc=5",
+      "pub": "2026-09-23T14:05:16+00:00",
+      "id": "1d5bf81f14e84f0d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ-জাপান ব্যবসায়িক সম্পর্কে নতুন দ্বার উন্মোচন - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nRzdiWmN0UGs2X0t6Z0VzZXYzZF9vTGdrVzRQNEVsMElreVh4ZWRONnM0b01xaEJVZzYtUnlfcXduUUR0ZGZ6eHVyaURmdGRlUmNwVUhEeFNvaFRiLUwwV1J3?oc=5",
+      "pub": "2026-09-23T14:18:28+00:00",
+      "id": "ab848219d9b821bd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাণিজ্য ও বিনিয়োগ জোরদারে ঢাকায় চালু হলো জাপান ডেস্ক - Janobani",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LZU1MZFN0ZHhMZVhCc2ZiZnh2c3Y3N2toaXJsSHppcjdMTXZ1a3dBa1EyekxiSU5KdGl5Mmh1ZmpoblVTT3puMjRtb1Q?oc=5",
+      "pub": "2026-09-23T13:15:00+00:00",
+      "id": "3469d89532561d47"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানে রপ্তানি বাড়াতে আগ্রহী তৈরি পোশাক রপ্তানিকারকরা - itvbd",
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNVFRBM0NXaTVtYWVXdG9XaEJlUzViaDBvOE05N0tkX3NPZ3VuWG5XaU5KcWFpLUZNM1Y4Y2R6YmdzRjBveEc4NU14bjJXYnZuRy0weTZiSUhSYzgzWk81UUQxTmUtbzZqSWxQZnBxc3NKazR1SThpQmJ0UTJUem02NWhBWUJhMXRKRnk4Q2NzUEN0WTU2aTZxZEgyejBrOWllY3I3bzc4eHNOTFNLbWpfdjBSdEdOYmdHMHliOGxfN1Bnc3FlTjJ1Tmk0Nkd0a2ZWMXRRZnhsTnlSamJ1STlScDNpbUZudXRrdkRhMEJtRXNNWVlEYkZkdExtU00wUEtzY3lQaHNNTDVtT0ZFSUhPT3JxX25mSlljUjFDMDZadnJCVzBQLVROSHVRQmx0aXd6SEdkNjJ6cVJNaGVaQ0tPUU5UeEFyTUR3Q3ZwWVdoTXZXRGFHWWd0UnFfaVdVR3NISjh2dkdCWU5OU2N6dThaanVBcmhoWENROU9sUjBJZ1drRUJyZm9yOGtpdjJHT1RMNGlqVzAwMmFIYm5ranhMYjhuWUE1VzE0bHhIMFU1dG5lVWZZdEl5bG5XbmFlYXY4dUhuR09PVWFIZ1p5Mzd3OVc2UkJsSWQ3RjNxejBlZWxnRmU0T185dVNsN1IxRjNVWFHSAfIDQVVfeXFMTVRUQTNDV2k1bWFlV3RvV2hCZVM1YmgwbzhNOTdLZF9zT2d1blhuV2lOSnFhaS1GTTNWOGNkemJnc0Ywb3hHODVNeG4yV2J2bkctMHk2YklIUmM4M1pPNVFEMU5lLW82aklsUGZwcXNzSms0dUk4aUJidFEyVHptNjVoQVlCYTF0SkZ5OENjc1BDdFk1Nmk2cWRIMnowazlpZWNyN283OHhzTkxTS21qX3YwUnRHTmJnRzB5YjhsXzdQZ3NxZU4ydU5pNDZHdGtmVjF0UWZ4bE55UmpidUk5UnAzaW1GbnV0a3ZEYTBCbUVzTVlZRGJGZHRMbVNNMFBLc2N5UGhzTUw1bU9GRUlIT09ycV9uZkpZY1IxQzA2WnZyQlcwUC1UTkh1UUJsdGl3ekhHZDYyenFSTWhlWkNLT1FOVHhBck1Ed0N2cFlXaE12V0RhR1lndFJxX2lXVUdzSEo4dnZHQllOTlNjenU4Wmp1QXJoaFhDUTlPbFIwSWdXa0VCcmZvcjhraXYyR09UTDRpalcwMDJhSGJua2p4TGI4bllBNVcxNGx4SDBVNXRuZVVmWXRJeWxuV25hZWF2OHVIbkdPT1VhSGdaeTM3dzlXNlJCbElkN0YzcXowZWVsZ0ZlNE9fOXVTbDdSMUYzVVhR?oc=5",
+      "pub": "2026-09-23T12:50:14+00:00",
+      "id": "9fd89adcd20e7fd1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় অগ্নিকাণ্ডে নিহত চার শ্রমিকের পরিবারকে আর্থিক সহায়তা প্রদান - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWVmajYwLVRCQk8wNmVZMzRUdGgza3VocU5VcENKOF9kd1VFaEh3VjJ4TkdLMFN3WEV5ZDdocURXaFZXTjZuSUdOSmZDeUdvdnFnMGJFZFdhSXZDWUd6WU9pY0RyZjFXZWpfaGhITDdNaHVpcWJ0NW5zOURvaDg5ZmNGZHFoRVBDNC05Mg?oc=5",
+      "pub": "2026-09-23T09:33:00+00:00",
+      "id": "d875d0f429feba08"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এক্সচেঞ্জ হাউসের রেমিট্যান্স বৈদেশিকমুদ্রা হিসেবে জমা রাখার সুযোগ - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONV9kTnN5UHhFQzJlR2xjUjlULTl3Q3VleUZ6QUh4T3JxUmN2QVhKeHRGeEs1d3dMWjl6eDJYMzBUYUxXY1dsNlNZMDlLUDNNNmJCYlZ3bG94WHFsUmJiZjBVa0JrWFd6RkdrN3BrX1RKZzNOS1ZEZzBXYmVFazhVZGtMRDI5UGU5azk0OA?oc=5",
+      "pub": "2026-09-23T06:45:00+00:00",
+      "id": "f7ea9644b44fbdc6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "দেশের অর্থনীতিকে সচল রাখতে সমন্বিত উদ্যোগ প্রয়োজন: রাষ্ট্রপতি - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxObUNCRHNnZkszcWtjcHlBY2ZRMnlnWWZqSVRwZmJ0czlqVmlRSmNsc1pRWnhuT1l0RFpRa2lNdXlYMjQ4NWRDaFRsTjM1UTZlS2ZhdGlKSWYxWUxURTFYam1kZ2dMbmN2SGxMMU82aWhmS2E2UE5fcENaTURlbzE4c0pOQlY1bjN3SGdYXzNkNVlBQWZObGllQnVSNnpndUNlTUtHOUNaNG8yTFB3MXo3aFdTeFplRk93WGNrdUZjOHRoUGNYOW5kd3BEZ0xfajAzbTZINVdzTlJNR1BVXzFFZWttdFNycU5STGx2dXVfSVNJcW9jeUJGZXNkTlk4SV9mTTI1dndSZWhDRjloUzNKc2Z2d3lYV3paNFVLYjN4enJBU1ZfTkNzZU5iZWpEaHBYa1hwOHBtVEROMmFZZDR6QmpSeVhTd1ZSZ25MbzFEOGNwUkh4QmpfRUVUSl9IbEZJYUdYbFRoUzZ1QnAtUmZEZndNNXRUNTI5RktYM1BHb3Rka1pWcThCNkFFeVg2VnRIUUFtX2ZvWVR1ZjBKcVpXUXB2dnRFXzBKcklLUnNjcVZBOWMwdndtRTJUY3FDVEg3WklkZWw0QnpXRWQtREJMXzRxY0pueDRqZDNFUGpnSkJLNmY5VVFTekFSSmdMWHRpbEw5RHNFVmVHeURwSkQxa1dRLS1fSVpMbkxramx3MEFnUXpKc0xRZlFtcU0wU29NbUdqU0Y3a2tPTUhnZm5tRFZRU2IzOG91YVotQ3hMODFYNVZaWncyajJ1emFSOVNRMVVySkRvR3Q2SWlURjdlN29UckVfd9IB6wRBVV95cUxQMHhGQjkwejVYczZlSk80Sk9xZWc0eDN1cHdveUM5bFkzZEpLdkZVQzM5US1lblhDNDFtQktNM3JvXzZYOW9NWlFnNnhkblFMSGlsTGdnYXFRUFdsM0xzdW40YXFGX3NpMjl5MFU1SUNSMUVqX2phY1dNTk96a19KSVprWGRad0ZnajVMVDdFVFBLbFRnLUhNckJqcHJQMmk3VVZVNkF1eG1STVpyYVpoZU9FblFjZFowVXVpSURhQkk3UjkyWmhGcmxMWFpRVzlvRFlCaGhSaHh4bFp2bnZRazNmUVpDaHF3akwxRjNDV1pIUHdqWTN5TUdqdWlpMUpXZnNiMlJZRW5HY3BtNHA1akdUZE1TeTFiWjdmTGxVTVgtN1hCUUZWdnR4Q1UtLTI0MG1aU3NpdVB4NFY0VFZkRGV2V2YtN0pnRUNrQXZSM2RzbFEzb1JYMlV3ZHJ2YmhsdjVwTDBralh0SnRpaU9ELUlhUzVySWpHTXhjeG05eTUyakZoMEJvTEoyNk1sWHIwZ2RFdU1aT0FBOTdMM3djQXVLM2N5bUZpSzV2bTZISDc1aTVoTTdneXRZRXR1WHRfeXZjZVlMc3FUalpOTlpQbE1rNzQ3NGg0ZkRlc3QzN1FRSEZqc0VZa0dLb3AwcWhGRzItc2pheWJpM0FNekxsLUdVT1N6ZDhBVmJpbnBEMWExTm0tTGNzYkh2VElBOVZwWDBabVo3b3JJM0lyY2JjZncyX3NTMkxaQ1BrVjVCUVRIbmdNLU94X2FRZl9tNU84OHVhNkNwTlZoand4YldVX2lWRk55OHVJNzRJ?oc=5",
+      "pub": "2026-09-23T13:31:56+00:00",
+      "id": "c67161086e044718"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক খাতের সমস্যা সমাধানে সম্মিলিত উদ্যোগ গ্রহণের আহ্বান রাষ্ট্রপতির - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxPaEU3ZWs2T0JBc0RuWndzMUhfLTdqaHJPZlNCUjlIbW9tYWNVNkZzTy0yYjlRRHBXSERkekRwN3puam9fdms2dTZvQlBObC1iTlp5bkQ0NXpkSG9halVCbFFfMGZzSXY0Q3VibTJibzE4aE1aUGxPeTFTMW50bXdsRHFPWWltTHA3cTktcDM1TTlpakxfWlMzWWI1eWQwVVIyVU1HQ1oyVkctOXRYZXphVWVGQ2pkRFFGS0JVbU02MGpYWFo1V3pUNGZuV1lFZ1NlR1dLMnlHbDF3QmhrQ2lQRUI5TTNuaUpxd0ZJdG16ZDFUOE9XczVLbmRCNUFoWlNFek1pMmdSVWFHU2JZWVp1X2wzUHczY29RUHZldGtzTWpnQl8tbDhSOVppRHNRa09YVjdVR2RZNmNJeDJPOXBnMXppSXF2Q0VfRVhNaXdJV3oxcWt0OTFjRm9JelFhYWZQMzA1UE8zU3MxN3RQQ19WeUZ5bXFITnR3el9sdFJQQ2N2X1FLdFR4N3UwX0R1OE1OYm0xZ2dLM2ljMXBnUEFOSjl6Y291N3U0Q2FNUE5mVUVCVzA4b1U3NnBOSUZlRE9tY041S3dRalk2LWk1MUVEY05tT0NDS0g1YmdmWTZIQVRpZ2xHbFdoQkM1RzExUHNRX3ByUXcxYkg1cEJsLUF1NVJZUDB3dFRTSXRYRjFMa2NxRXp1ZGJCWmpoZF9fejFqZ2hyT19kUnF6QnRtZEFIT2UtY2txbUx0clRTZWZxU0U3TlpnYVNETDdIVF9NMnY2V3dDSHF0ZlZTUlFCS2djRjJma2_SAeoEQVVfeXFMUG1zTm56a3RWblRzRHMydnROc3hSbkpHbGQ0LUhsUUtVczhPNHptWEl3RDNxOXhkamoyanVIX2ZIR1hqaXBpYWJkRjBIVnRkSHdhV1pRR1VPZmRwaTdSeV93MlZUeXVqWjhSaUlMaGM1b1lGLXp4d1N1RUZ6UWE4Skp5bkFJSFhwMFFqSGxMb015aXFleE9jc0FFeVJhZ292b2REVU13U0R2MXVwRTlfakEwR2FsZjNLZEV6cmFtUDNYbUxid1ZVV3UtNkRab1NmWXF0VE5tY0FGSUc5WktKVGtxSWFvTWRQbXVuQm9FOUJMNUdsTVhDV2V1c0lBZGtOQUJLS3U4THZUMmZGZmhtUnNJVXZFZDh5M3ZKZm1zbjExQWJDamp0QXExZG0xWFpJcS1laVVJODY1aVRybUtwV05FWXd1UFVvOVpVQ3pCSTNzMGdsOVh3WXJJdmxWRjdlYUZzNDJVVEVzbE9lSFhoZnYyRXQ5dzB3QVNVb081MjM5ckNGQzNuak1ZSWk1VGpmaWdubGRaRzFYUTc3UWdMYlNuSkd0S3BZMF9nTEplOE1FQXY3YjVRQkhteHFJZ2k2ZS1TcHpVRklSSmh4SDFLS2dhOFlNVG5qcTR0YkdaaU1hVi0yQmlSRnp3QWsxQjVZM09oZUVuX2JTMTJVcENmSHhza0FWN2dBSXpzaFVGdmM1QnUwZzE3a1B3U3FnMGJXeDB4ZGszdi1MbnJfZ3A4YTZRSFQ4T0cxcUJiXy1OYU1adUF0Nm9QWVBFMDZyQzNGUG5ab3pvbjJucXFYeEo4VVBBNERJci05WTl3?oc=5",
+      "pub": "2026-09-23T12:47:00+00:00",
+      "id": "b7a34a5c4c63fab9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ইসলামি ব্যাংকগুলোর আমানত ৩ মাসে কমেছে সাড়ে ১৯ হাজার কোটি টাকা - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZV84RmlrbzU0eW9fOWIzaWQ5QXVjSU1waWRaR0tNcE5ncW9YYU80QVh6VzNvUHEzMzFMczZ5MTk2NmJMQjNxOFR4UTdIN1dROVBFMG9FTlNzR25ZVldQZlF3TktSdGFVMi1TWlNEcjZlWWU5MGJQTHR0WTZXaXhzUVFnUkJKSUtlT2IwNw?oc=5",
+      "pub": "2026-09-23T07:47:00+00:00",
+      "id": "de7513750ef2ac05"
     }
   ]
 }
