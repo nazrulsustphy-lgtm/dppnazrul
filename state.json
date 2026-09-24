@@ -1,39 +1,5 @@
 {
   "seen": {
-    "dc62a5c62a3a00d4": "2026-08-25T14:48:01.246220+00:00",
-    "d732d38fdbc9b5b9": "2026-08-25T14:48:01.246220+00:00",
-    "1cb81b0a0bd98b9f": "2026-08-25T14:48:01.246220+00:00",
-    "772c37a919e1deaf": "2026-08-25T14:48:01.246220+00:00",
-    "de83aeb98472acc8": "2026-08-25T14:48:01.246220+00:00",
-    "2c6f334581732dd2": "2026-08-25T14:48:01.246220+00:00",
-    "507ac5bd825b884e": "2026-08-25T14:48:01.246220+00:00",
-    "2df266ccd5119c52": "2026-08-25T14:48:01.246220+00:00",
-    "e18f145e115f4866": "2026-08-25T14:48:01.246220+00:00",
-    "5618b07652d8fd23": "2026-08-25T14:48:01.246220+00:00",
-    "fea5d31d6cea5e14": "2026-08-25T14:48:01.246220+00:00",
-    "b7234cd13bb26ebb": "2026-08-25T14:48:01.246220+00:00",
-    "ada9cec0c2219813": "2026-08-25T14:48:01.246220+00:00",
-    "3ba73c681a36435f": "2026-08-25T14:48:01.246220+00:00",
-    "d488d4945956d69a": "2026-08-25T14:48:01.246220+00:00",
-    "2d7a5be6561f00ab": "2026-08-25T14:48:01.246220+00:00",
-    "a3ffc0e61d321361": "2026-08-25T14:48:01.246220+00:00",
-    "32467db7e79b8c3f": "2026-08-25T14:48:01.246220+00:00",
-    "6ffe2555913fa1d2": "2026-08-25T14:48:01.246220+00:00",
-    "af0dc7ff8bf464e4": "2026-08-25T14:48:01.246220+00:00",
-    "74b46899dcc9534a": "2026-08-25T14:48:01.246220+00:00",
-    "2ee79b51342c0881": "2026-08-25T14:48:01.246220+00:00",
-    "645dec2cc41a799d": "2026-08-25T14:48:01.246220+00:00",
-    "b9645d1631517f7f": "2026-08-25T14:48:01.246220+00:00",
-    "26f13d01690d9754": "2026-08-25T14:48:01.246220+00:00",
-    "3604581b5b4cc219": "2026-08-25T14:48:01.246220+00:00",
-    "369fbc30ded4b0ab": "2026-08-25T14:48:01.246220+00:00",
-    "4cc9bc9d42e28f9f": "2026-08-25T14:48:01.246220+00:00",
-    "9e959e09d89b9fb5": "2026-08-25T14:48:01.246220+00:00",
-    "db0ff6df5a5a58a2": "2026-08-25T14:48:01.246220+00:00",
-    "b03ee26652474d75": "2026-08-25T14:48:01.246220+00:00",
-    "855d7c1a624b32d1": "2026-08-25T14:48:01.246220+00:00",
-    "07f3715f272701df": "2026-08-25T14:48:01.246220+00:00",
-    "0fb67e92b61c741f": "2026-08-25T14:48:01.246220+00:00",
     "8115228d0a240f0d": "2026-08-26T03:06:59.212481+00:00",
     "189f797ac3a54706": "2026-08-26T03:06:59.212481+00:00",
     "3fc5bab487ba07bb": "2026-08-26T03:06:59.212481+00:00",
@@ -2412,7 +2378,46 @@
     "f09a1c7391417da2": "2026-09-24T13:22:14.927243+00:00",
     "ee704f215281c7ce": "2026-09-24T13:22:14.927243+00:00",
     "e09a3ee3aaa041c2": "2026-09-24T13:22:14.927243+00:00",
-    "cfd5e006e28f04a4": "2026-09-24T13:22:14.927243+00:00"
+    "cfd5e006e28f04a4": "2026-09-24T13:22:14.927243+00:00",
+    "a23c8ebf59434839": "2026-09-24T18:18:42.569820+00:00",
+    "0906d0ca29e35e35": "2026-09-24T18:18:42.569820+00:00",
+    "e1fdf531a43d3fa0": "2026-09-24T18:18:42.569820+00:00",
+    "40efa87aa111acf7": "2026-09-24T18:18:42.569820+00:00",
+    "79e2423ef290beac": "2026-09-24T18:18:42.569820+00:00",
+    "118b96cff1d25a10": "2026-09-24T18:18:42.569820+00:00",
+    "b0c422b2299c76b3": "2026-09-24T18:18:42.569820+00:00",
+    "125b88d57c362e26": "2026-09-24T18:18:42.569820+00:00",
+    "70300e18739fb401": "2026-09-24T18:18:42.569820+00:00",
+    "a4f9332d5273d080": "2026-09-24T18:18:42.569820+00:00",
+    "638468771cd03a7b": "2026-09-24T18:18:42.569820+00:00",
+    "cfdafd50e7b89841": "2026-09-24T18:18:42.569820+00:00",
+    "94f5fd1962994065": "2026-09-24T18:18:42.569820+00:00",
+    "2f1b0a7cd4010712": "2026-09-24T18:18:42.569820+00:00",
+    "24055c42926b2037": "2026-09-24T18:18:42.569820+00:00",
+    "2cf357e7c702ca4f": "2026-09-24T18:18:42.569820+00:00",
+    "d771bf2f36b5043d": "2026-09-24T18:18:42.569820+00:00",
+    "796e208cdd0d9c44": "2026-09-24T18:18:42.569820+00:00",
+    "952b9eeba0363d22": "2026-09-24T18:18:42.569820+00:00",
+    "87928a177b34cfe5": "2026-09-24T18:18:42.569820+00:00",
+    "2f529d47ece8d662": "2026-09-24T18:18:42.569820+00:00",
+    "23c7ad6087c1dcea": "2026-09-24T18:18:42.569820+00:00",
+    "beae47b9b12f265d": "2026-09-24T18:18:42.569820+00:00",
+    "1e85044246eba88f": "2026-09-24T18:18:42.569820+00:00",
+    "a815b34b0e4d7e33": "2026-09-24T18:18:42.569820+00:00",
+    "f885b4ad6cc21a7b": "2026-09-24T18:18:42.569820+00:00",
+    "25389cd406912e49": "2026-09-24T18:18:42.569820+00:00",
+    "7f99dfd74ddd8016": "2026-09-24T18:18:42.569820+00:00",
+    "c898e2e78f9a1033": "2026-09-24T18:18:42.569820+00:00",
+    "25d8c8d1cd6e3ab0": "2026-09-24T18:18:42.569820+00:00",
+    "52d8f47beddd0c9e": "2026-09-24T18:18:42.569820+00:00",
+    "65cd41b97acb4bb9": "2026-09-24T18:18:42.569820+00:00",
+    "8da5856cf022fc89": "2026-09-24T18:18:42.569820+00:00",
+    "83ac0ff0501016a6": "2026-09-24T18:18:42.569820+00:00",
+    "192ab96fad461cb6": "2026-09-24T18:18:42.569820+00:00",
+    "e11cf88ccce95e08": "2026-09-24T18:18:42.569820+00:00",
+    "bc4c95847babe58a": "2026-09-24T18:18:42.569820+00:00",
+    "b9f5ba00a5b1ceab": "2026-09-24T18:18:42.569820+00:00",
+    "befa35701d49a204": "2026-09-24T18:18:42.569820+00:00"
   },
   "yesterday_items": [
     {
@@ -2646,6 +2651,150 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GUnJLTzhDQ2JreVZ1S2EtOVBTNTFaWEV2UW5jVzRBYlRWM0dXRVphUW9nYWRFZTVUNE9DdlJQTGt0MzRyWU9lRVVRUVpCQm5ZeFU0NA?oc=5",
       "pub": "2026-09-23T14:45:15+00:00",
       "id": "cfd5e006e28f04a4"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Panipat Workshop Builds Momentum for Sustainable Cluster Brand and EU Readiness - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTmpkVE9QTUo1V2RpYXVvcGoyaGJHak0tUTlHbVBidmc4Q0lTMl9hZEpBYTFIWHRQdzF1SlU0YXhNOVNTdUtJcWpVRS1ZOWlRdG9JSWtfR01rZngzOENIX2pTMjljVk1oUlVLaWNPbnJGOXMxaFIybk5DanJiQXRRYm9RNlFGYUdUdkZvSGZkMG5hUThqM092Z1l4RG9uZzhZd1pDMzVaUWVkLVBITUVTYWdOd2puNjljS1l3aDVKTk43OWlpdDNJbGpWZnBYd1ZIekdHS3dITTRoWl9hV2tiemt0Y2R0anNIV21Wdmp3eUJWd9IB9wFBVV95cUxPX0k4RFk5V1lkeEFyTVYtM0RBMHRHbW5YVFQ1WUt5UUlldmp4OXRBbnZOdWxTdng2MTZXeW96dVV6aFpjR0hBZ1h2UmE2Ul9jSTFwc1J1ZktGa0lVdU9UdzJ6emF5cUxjN1pnSXdPLUNyVkFLMFFlRVBFN0hZbEtGTHpVT0FJR1NBQmJEV3A4enltNWZRUEZ6WXp0blQzenRzMW1Ud3BGRF93QzFoZkZTYVZoN01EQ0s4a2xla0szS1NGYnNmTEFEMXJjd1g2WllQLUFMc3k5M2ZrbmxaQXBLTGpBOXFvRHg4a1VialFvQktSeGg5VWxV?oc=5",
+      "pub": "2026-09-23T19:25:02+00:00",
+      "id": "beae47b9b12f265d"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "Control Resonant Merchandise Collection Adds Atlantis Cafe Espresso Set, FBC Posters, Apparel, and More - Noisy Pixel",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wdDNuY2JTX1VjTzFtU25MSkFCODQwVGkxR1h4WXV1bnJza05XaVZDdVFNWVQtTk9FcS1jMzJTSmN4TDQtaG5ZUVZ3YkdoV0hvdm81ZGF0dmFFelpFSFBZQXM4Y1Nfd1d4S0IwX2NJaC1Xc05DSFY5QmVlMA?oc=5",
+      "pub": "2026-09-24T16:00:54+00:00",
+      "id": "1e85044246eba88f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: Ecodesign textiles",
+      "title": "Cotton, nylon and polyester together – Why can’t we recycle fashion ? - Lampoon Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVFxcTJWSWNhdk94Znk0WkpxYVozNDhHM1d1T1pHcEN5YXFzRTZ1M2tRTE00VDVUSWhESk5TWVdIcHZwVjBuaVlGbXlNcjFWdTVsNmoxVjRwdlZkaWE4T29XSmY4eldkbkxobDB0X3ZhWnB2S0RwU0hiRGdOQjVleXItMnpiMzZ5Y08taDgtNlhnOTEtQjkw?oc=5",
+      "pub": "2026-09-24T14:32:31+00:00",
+      "id": "a815b34b0e4d7e33"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "My stock ☕️",
+      "link": "https://www.reddit.com/r/coffeeindia/comments/1wp7emo/my_stock/",
+      "pub": "2026-09-24T17:08:43+00:00",
+      "id": "f885b4ad6cc21a7b"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Cafe Dolce coffee Review please!!!",
+      "link": "https://www.reddit.com/r/coffeeindia/comments/1wp7dvx/cafe_dolce_coffee_review_please/",
+      "pub": "2026-09-24T17:07:55+00:00",
+      "id": "25389cd406912e49"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "SaaS Platforms Available for Acquisition – GovTech, FinTech, ClimateTech, B2B SaaS",
+      "link": "https://www.reddit.com/r/saasforsale/comments/1wp4yuf/saas_platforms_available_for_acquisition_govtech/",
+      "pub": "2026-09-24T15:37:18+00:00",
+      "id": "7f99dfd74ddd8016"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Next PCoG photo walk is 10/4!",
+      "link": "https://www.reddit.com/r/GNV/comments/1wp2s75/next_pcog_photo_walk_is_104/",
+      "pub": "2026-09-24T14:13:48+00:00",
+      "id": "c898e2e78f9a1033"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "3998 miles '26 MY Premium, May Austin build. Rained past 3 days, temps dropped, morning commute, regen brake, traction, lane assist, all disabled, braking was incredibly soft (probably because it thinks there's regen braking assisting), really upset how this could happen, any help or thoughts?",
+      "link": "https://www.reddit.com/r/TeslaSupport/comments/1wp1mhy/3998_miles_26_my_premium_may_austin_build_rained/",
+      "pub": "2026-09-24T13:27:11+00:00",
+      "id": "25d8c8d1cd6e3ab0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh Bank keeps rate unchanged at 9.5% amid inflation pressure - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmhtUDh4U1VLYzlVUjRwUlgxRzdMbXNtUEtmZXNpTGJrMTRzMXYwRG5wQ0ItTVQ3cm5jTDlDZ3c3ang0Sm9xT0R0WDFvMndtV3JWUFlNWDVzLXNmTjIxQjlpR3dWZnhnUmZLd1pDUFJCWEJzNERONmxyWVBQLTlWR0xYa1BrUWFmUjFSZUcwT3JXdXY4bG9feU9HQklhRUY0RjFJc0hBNldiQlRuYmtWcVhsbjNxcno4dV9TM1FKOWZybjFMZkRPaFBzZDFCcGZ5NTZXdHFqcThCREQweXljVjdnNjExb1BVd3Rj?oc=5",
+      "pub": "2026-09-24T12:36:14+00:00",
+      "id": "52d8f47beddd0c9e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "| EU Philippines FTA opens €514 mn apparel sourcing opportunity - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbkhPMzBZbnc0TVBrWVhQN3BHaEpvWGREM3pzU19SWVh1bUpGcm1VM2ZoVXJRNTRPbGhpM1NSaTFacFZBNjhoMUhfT09nX0toZDNXNmFBa19vdjNMX2cxbmFzQmcxSjNuZmJreUlCNjFmZEV4MXRCY25VdTdVT2hkUmF0eVh2NmdqanZ6OU9jSWlac2hOSGtQQVNkU2F6QUo2V3ItZVE5dHhfLXNvcUQwS1BRVUdxeEV0eGNlTmpRTXViaFBBZk5VRzFLY1A1NG1JODJWbEdHdnhReXJjTGJ5Z0sxbXlWcFppRzdBTFpxR0xFU3dhRzZsRWZR?oc=5",
+      "pub": "2026-09-24T12:39:43+00:00",
+      "id": "65cd41b97acb4bb9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "বহুমুখী সংকটের মুখে তৈরি পোশাক শিল্প: মোহাম্মদ হাতেম - Shampratik Deshkal",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NFl6bGJkX3M0V09xQUI4Q0I3a3M3b1E3MWhBOFEyVDRWNGREaWdlcDNEV2JCdElrTU9WdmFBTW9uYm9DUGRxdUdPWXNURFFyN1E1NjF2akhtX2lqaFdn?oc=5",
+      "pub": "2026-09-24T14:32:00+00:00",
+      "id": "8da5856cf022fc89"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "জাপান-রাশিয়াসহ নতুন বাজারে বাড়ছে পোশাক রপ্তানি, আগস্টে রেকর্ড ৬৪৩ মিলিয়ন ডলার - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeVZKNEVPNU01U2dsLWRTM0tyN0Jwd2ZObFc1NF9rQzFxU2Ezc3pHZWc4MzhnbVlKODRmMkhjSHphcTNKR2lVc0tsNEJ1STNyeERWZDB3?oc=5",
+      "pub": "2026-09-24T15:15:43+00:00",
+      "id": "83ac0ff0501016a6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বহুমুখী সংকটের মুখে তৈরি পোশাক শিল্প: মোহাম্মদ হাতেম - Shampratik Deshkal",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NFl6bGJkX3M0V09xQUI4Q0I3a3M3b1E3MWhBOFEyVDRWNGREaWdlcDNEV2JCdElrTU9WdmFBTW9uYm9DUGRxdUdPWXNURFFyN1E1NjF2akhtX2lqaFdn?oc=5",
+      "pub": "2026-09-24T14:32:00+00:00",
+      "id": "8da5856cf022fc89"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানের ২,২০০ কোটি ডলারের পোশাক বাজার ধরতে ‘জাপান ডেস্ক’ চালু করল বিজিএমইএ - citizensvoicebd.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jNUtWUjE3TGZIbFJVeTNQMFptTGpxV19JY2lLOGFURi1Va0Vkc1NiN25GM3NtRnl2Tm1kbnlwSFdvRDBBTXE5ZVVwdjlydTZxbmtXUFln?oc=5",
+      "pub": "2026-09-24T13:30:45+00:00",
+      "id": "192ab96fad461cb6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় কারখানায় বিস্ফোরণে নিহত ৪ পরিবারের পাশে বিজিএমইএ - Newszonebd",
+      "link": "https://news.google.com/rss/articles/CBMirwVBVV95cUxPN21uU0NKZjZOejFfNEpHakpLNHUwX3pTTm95S1JTbG1mS2RGU0V2OTZFTU03Z1ZTUlM4RmxuNTRuaEdJQTBpT056VVZWRUs4a3NNZDJINXlCR0VWU1kyZVBXUzVIUl9VRWtqTDktdWtMX1loTV8zVEZUMERZMU1nSkNmb0oyRzE4MVREejdjV28zU2lkWFFiZVdiZEdOXy1meU8zNktJdG8yQXlIR2N5eWRLbndaYnZWTHpTZU41ZXVrUkJoNzh5S3BycHF2ZWFfYVBTMUVqQk84QkRiRTJRaFBGempVQmRzQ0RsdVFCV1NIcFdmMVdPTWF5YzVEallIVDVOZlRCT1pJMFBESmxFTmhTbjlxMXZJcUFJR0tGQllSRHNicS1RaEJ4QXh0UW5vNmdRdUhtcXYyd3A3RDlpQ0hrUHNoWDA3ZXJPZUg4elJyZUZxemtwTWU4SnVrUWNzXzJfQXp6SGZfbjFoTGwwdHRoMFp3OUowVGRUQk10a0ctYzlvS0FxVndpc09tamdaZ0E0eGV6bHlhcGZSYkFvS1RKMVRKSW9MYVI2eDE5eS1MdHpyaUtZdVc5a254cWV6ZUtJQnh0SlJuRlhHTFdhVmxlcTdJdkQwOGRVUW9xenM1U1RUeF9mUk54eDVJX2xYOHB0VGNRWkE3cGRQb1p5OEJ4M3ZYNm5ncnFNTVpwSHhNanBnVlFnTElyT3JJdUptNlpVZ2I5cEtlUGJ3UGVUTms2V0dodnR6cGptb05EUFZ1ZF9EWXlqY00ydzNfSTRpUHZEbHFCeXJCbGE3eWh1UmFVR3FpWlRKOU15TllEcVVRTnRKYkpuZFFoWFFmQ2VsTG1CNlN4TExKb3I4Y3I2N2NHS2U4NVJnXzdaaTFMVTM2NC0wc3BVclZQVk92cUnSAa8FQVVfeXFMTzdtblNDSmY2TnoxXzRKR2pKSzR1MF96U05veUtSU2xtZktkRlNFdjk2RU1NN2dWU1JTOEZsbjU0bmhHSUEwaU9OelVWVkVLOGtzTWQySDV5QkdFVlNZMmVQV1M1SFJfVUVrakw5LXVrTF9ZaE1fM1RGVDBEWTFNZ0pDZm9KMkcxODFURHo3Y1dvM1NpZFhRYmVXYmRHTl8tZnlPMzZLSXRvMkF5SEdjeXlkS253WmJ2Vkx6U2VONWV1a1JCaDc4eUtwcnBxdmVhX2FQUzFFakJPOEJEYkUyUWhQRnpqVUJkc0NEbHVRQldTSHBXZjFXT01heWM1RGpZSFQ1TmZUQk9aSTBQREpsRU5oU245cTF2SXFBSUdLRkJZUkRzYnEtUWhCeEF4dFFubzZnUXVIbXF2MndwN0Q5aUNIa1BzaFgwN2VyT2VIOHpScmVGcXprcE1lOEp1a1Fjc18yX0F6ekhmX24xaExsMHR0aDBadzlKMFRkVEJNdGtHLWM5b0tBcVZ3aXNPbWpnWmdBNHhlemx5YXBmUmJBb0tUSjFUSklvTGFSNngxOXktTHR6cmlLWXVXOWtueHFlemVLSUJ4dEpSbkZYR0xXYVZsZXE3SXZEMDhkVVFvcXpzNVNUVHhfZlJOeHg1SV9sWDhwdFRjUVpBN3BkUG9aeThCeDN2WDZuZ3JxTU1acEh4TWpwZ1ZRZ0xJck9ySXVKbTZaVWdiOXBLZVBid1BlVE5rNldHaHZ0enBqbW9ORFBWdWRfRFl5amNNMnczX0k0aVB2RGxxQnlyQmxhN3lodVJhVUdxaVpUSjlNeU5ZRHFVUU50SmJKbmRRaFhRZkNlbExtQjZTeExMSm9yOGNyNjdjR0tlODVSZ183WmkxTFUzNjQtMHNwVXJWUFZPdnFJ?oc=5",
+      "pub": "2026-09-23T19:03:23+00:00",
+      "id": "e11cf88ccce95e08"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিইউএফটিতে দ্বাদশ বেল্ট অ্যান্ড রোড আন্তর্জাতিক সাংস্কৃতিক ও শিল্প সপ্তাহের উদ্বোধন - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rdlp6X1d6THVCcExkXzV6YkVQM1J3RlB1Y3Ytc0dkQS1WR1NibGFEVGNSMmp4ZFJudzRKLVROLUFBNE4wSm40NmRZWWJfX2J5RDAtSS1WUml0TzlaeEU2eHNreWbSAXJBVV95cUxOT1c3WGU1WFFkVERrNldydTZZNmJqVTN3TjQxemtHUTBka2Fxa0J2YjZGbmFsSlZJTDEwWkJ3MXBpZVpjd0RaZzI0YVFFTWRWUjRiNXd2d0JseUlnM0VHXzI5SE42R0dCeDhTMWo1aDE3R0E?oc=5",
+      "pub": "2026-09-24T12:20:00+00:00",
+      "id": "bc4c95847babe58a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জাপানের ২৪ বিলিয়ন ডলারের পোশাকের বাজারে বড় হতে চায় বাংলাদেশ - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxPVjRJUjhWLTdpTHFUMWVib0ZwZ0lkUDQ3c09yZHU4R3Z4Vmt3TGlONXlPUFBYckREMmp2aHluek5NbmJYZlY3VHdqMEhMNnJlZ2laenc0VWFtVGJSQ1cyRkFjaFFyMHVMMmxSWWdGd1BKNG9GYXNNR1pkNU4zZFRxS0pOcVc5c2RFNDlRSmR5LUIzbGNtMnRuaUlyQ0ltR2xWMXR2aXhtOHVXdGxzOXhuenplMXFIN1o4ZTdrVmhlMXJocXJIYlBQUEV4UU1IZUQ3V2Z5d0NMdURpMXJ1OVJBTGIzVXN3czU0Nm1pNzhQN245Qy11VnhUMC1kOTM3cUdGUVhtRk1CVElBQWJMNUtCOF9MWkhPc0o3V0xIb1d3U2JOU2pUN1BhTVpVd29DdzFRd2lZTUJMc21fa1ZEN1NPOUluWjlMd1U0VmFPRGtXN2FSTUhlaE0ySFd4SnhJdmlLVmVnSDNyRnI0Nmw0TU5DNnkwYjZqSURWcUdxTTNja0Y4ZjVRM084SFBNMkhidzVielFLNHY1bWxOQjVYOVpMNzdQbWE2b2Zfb3JZRXBFR1hPalU2ZGxsdnZMZ25pWVpiMXhQdGdPbXdXSnk2RXc5WC1uem1XZmZMaHdsMlRSUkRJRkhZZExuRXFTeUN4bUlTZ3BUNVJlNURScmtMSDNmaXdEbVNLM3NPQnFvOFItdHhlOFFPMHpUcTNZRW9iYmtqWXNRUlczd2tpTnBCMDF4U0N3MzBxUzdtN2J1M1pCZmphRXM2TXB2M09oRGNoYkhidVAzN3dwUC1GODByTEVqc1lIcHRoNm9hX2dvYWtMdzFGcnpGM1dWaNIB_gRBVV95cUxQZktkcmp0MnNJRElNOXF1cmRleHp1aXQydXJjT095V0k5cUoyOW9vMVlKcnNqX2RtMmp2c3pIZUVqWFlVOVMzUmN1MHhIN012RGhaa2lKOXM4YlBpX3ZrRV9ieUM4SUFYZW1xdVhzU0RtQmstYnFpalNPckRWdGFnSGcxQk5rODRFQ0xRUERZcVdmdzUyVHFxeUh5X2tBYzEyMWJwTXBjdDRmSmxXXzJ2SjJyQmRlMTdmYVRySjBvVmZuX0JXMWJXSTFfYXZTSkxYRGJnNTZHUkRLZ1gxem96c3piaDBfN1ZmZVRQb2VuUmFyZk5FQmVnWmNUUk13aGthWDFSMkdxdkNCQzBPMkx0cHdQeW1GSGVwc2s5Q0M1b3lxaWc5NnFJbUwyNENWeHpidUVRSHE4aWpjY0dTOVRvS2hMRF8yN0hEUkJKeUNIN3E3RFpMLTRXOFZyZjZKNlJpRGJGbE13WFNHQlNrVDVxWmx4MVA4RWJkbU1ObkcwYmt3TllQUllkZnRpdl9WaUk5bXp0c0JnRWpHMUdlOTRhM2Q5LXRhbDFwTEFTcXQ4UFlXU0VmOGxIREZWaHQ1UmpyQ29tTjdCWWhmS3B0eUtqYWtBSzhSQkhyZ2dFWHdrWmR4MW8tV2o3amN6dVA1aDhSenRHU05wWnB0YzdaQ3kxYlRvNHc3T0Z4eGJFVUs0aGhpV1I4Y3gzdnNtYmZKdzR4Y0djeHcyeTYxc0tYVE1TVk0yN09UZFRTeVRLMU1oLW1ET0s3WmhZdnl5Wl9qdmt4dWc2MzhLWHdPVFZUbXlEcV9wZ21WRmxpYkRpOUVDQW1qNkE4QU5qd0JZMXpBdw?oc=5",
+      "pub": "2026-09-24T08:29:13+00:00",
+      "id": "b9f5ba00a5b1ceab"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ায় কারখানা দুর্ঘটনায় নিহতদের পরিবারকে আর্থিক সহায়তা - lakhokantho.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPeTVmcWFyVDhkZ2VyS0dRQkdVeWhVZDVzRVNrTGdUeEIzSGN1ZGFFYXYtWmlwT28tRTRhYURLZTFyWnJZeFd1QnVQQVkyclROMHk3Q09jejA5bV9xNTQ3X3gtdXIzWWZhTHZCN2F4VTJXWXJBcTQyQmlaLUdQWTFOQmFXT2dVbTdnY1NqZmc5SXplMHNEMTJxMGRMb3BlNWFVMWpLSlc1SlhZeGVhT2dvbWwwcnF5QjlONXIxa2k3ZlVTeVhVR013Rnl2VGZfWDJiZ3RuUmV5QXduMkp1NzJPUVZVTS1qaklkVlctYnZScER5QzZhVDIzZWJoYkpPSm5nQVUxMjJFb1I0aFZHLTV0ZTR4SHgzRk9GNzVqa1NBa0huaDN6MjQ2ZkUzSUJFNzdhNjgzTDdnMTNBa25zME4wOXBnTXNsOGluOEdPakxHc2gzcnhzOEE?oc=5",
+      "pub": "2026-09-23T19:33:00+00:00",
+      "id": "befa35701d49a204"
     }
   ]
 }
