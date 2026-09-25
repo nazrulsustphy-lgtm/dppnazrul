@@ -1,31 +1,5 @@
 {
   "seen": {
-    "8115228d0a240f0d": "2026-08-26T03:06:59.212481+00:00",
-    "189f797ac3a54706": "2026-08-26T03:06:59.212481+00:00",
-    "3fc5bab487ba07bb": "2026-08-26T03:06:59.212481+00:00",
-    "a0e81998bf3e5698": "2026-08-26T03:06:59.212481+00:00",
-    "d43f6374fd1d82a0": "2026-08-26T03:06:59.212481+00:00",
-    "616b0b3cf25c67a8": "2026-08-26T03:06:59.212481+00:00",
-    "14350f2aa5802598": "2026-08-26T03:06:59.212481+00:00",
-    "a442cbe5772ded75": "2026-08-26T03:06:59.212481+00:00",
-    "3ba27f4c27ee4c36": "2026-08-26T03:06:59.212481+00:00",
-    "c4cec55a8753abfd": "2026-08-26T03:06:59.212481+00:00",
-    "85f8a33c1b168ec0": "2026-08-26T03:06:59.212481+00:00",
-    "4edfd85eb939c268": "2026-08-26T03:06:59.212481+00:00",
-    "3495e3c81af6fa26": "2026-08-26T03:06:59.212481+00:00",
-    "8153f54bb88a8fa8": "2026-08-26T03:06:59.212481+00:00",
-    "5d7cf7774c807443": "2026-08-26T03:06:59.212481+00:00",
-    "09a8cb8e0c687ee3": "2026-08-26T03:06:59.212481+00:00",
-    "2ba0d564a5e0c682": "2026-08-26T03:06:59.212481+00:00",
-    "f4d558f7c6d34af3": "2026-08-26T03:06:59.212481+00:00",
-    "0e106b838db0e380": "2026-08-26T03:06:59.212481+00:00",
-    "6f01664e6a55e4c9": "2026-08-26T03:06:59.212481+00:00",
-    "90046ef599838fc7": "2026-08-26T03:06:59.212481+00:00",
-    "a836092624f68070": "2026-08-26T03:06:59.212481+00:00",
-    "6e54d5be2b7f4ee0": "2026-08-26T03:06:59.212481+00:00",
-    "bdb597b169c100e5": "2026-08-26T03:06:59.212481+00:00",
-    "169b977f9c1b2acd": "2026-08-26T03:06:59.212481+00:00",
-    "a791de2cc607c4de": "2026-08-26T03:06:59.212481+00:00",
     "b437977f8d8fe0ac": "2026-08-26T08:46:33.550262+00:00",
     "599ee57e907ecaa0": "2026-08-26T08:46:33.550262+00:00",
     "9d01c5c7b9d0ea58": "2026-08-26T08:46:33.550262+00:00",
@@ -2417,7 +2391,39 @@
     "e11cf88ccce95e08": "2026-09-24T18:18:42.569820+00:00",
     "bc4c95847babe58a": "2026-09-24T18:18:42.569820+00:00",
     "b9f5ba00a5b1ceab": "2026-09-24T18:18:42.569820+00:00",
-    "befa35701d49a204": "2026-09-24T18:18:42.569820+00:00"
+    "befa35701d49a204": "2026-09-24T18:18:42.569820+00:00",
+    "0e86f9f957b10dbd": "2026-09-25T07:18:13.210893+00:00",
+    "e7c3347834771153": "2026-09-25T07:18:13.210893+00:00",
+    "27dea436dd36fdbd": "2026-09-25T07:18:13.210893+00:00",
+    "4d3dd1e1ff79df7a": "2026-09-25T07:18:13.210893+00:00",
+    "483271572dcaeb8f": "2026-09-25T07:18:13.210893+00:00",
+    "4bb78edfe3be0a9d": "2026-09-25T07:18:13.210893+00:00",
+    "4910dc77f91dd4b2": "2026-09-25T07:18:13.210893+00:00",
+    "c80e43ad789f504d": "2026-09-25T07:18:13.210893+00:00",
+    "59d890bb1ad034dc": "2026-09-25T07:18:13.210893+00:00",
+    "8caa1abad08403d0": "2026-09-25T07:18:13.210893+00:00",
+    "be9b156f5d4a8e90": "2026-09-25T07:18:13.210893+00:00",
+    "207ef47df72c4170": "2026-09-25T07:18:13.210893+00:00",
+    "a36ab8491df1ef63": "2026-09-25T07:18:13.210893+00:00",
+    "be3e9f7be39aca9c": "2026-09-25T07:18:13.210893+00:00",
+    "f61b6b9b320c4d7e": "2026-09-25T07:18:13.210893+00:00",
+    "654eaa2e8275b1a8": "2026-09-25T07:18:13.210893+00:00",
+    "6589080af82ee295": "2026-09-25T07:18:13.210893+00:00",
+    "d2302adba47f9434": "2026-09-25T07:18:13.210893+00:00",
+    "e5b53979f324f27f": "2026-09-25T07:18:13.210893+00:00",
+    "1a4d628a2a06c886": "2026-09-25T07:18:13.210893+00:00",
+    "0359d62e6d10ad67": "2026-09-25T07:18:13.210893+00:00",
+    "c3aca442ef842a6d": "2026-09-25T07:18:13.210893+00:00",
+    "fc07b853be87498c": "2026-09-25T07:18:13.210893+00:00",
+    "6804779dfb02e8fd": "2026-09-25T07:18:13.210893+00:00",
+    "441720fdab76f849": "2026-09-25T07:18:13.210893+00:00",
+    "6f61faa76e9b9f7e": "2026-09-25T07:18:13.210893+00:00",
+    "0f1becae4a053e5f": "2026-09-25T07:18:13.210893+00:00",
+    "f3cdbcb617756e4f": "2026-09-25T07:18:13.210893+00:00",
+    "f91986b492acf2c6": "2026-09-25T07:18:13.210893+00:00",
+    "98f06d586188be44": "2026-09-25T07:18:13.210893+00:00",
+    "730e6c51d16138cc": "2026-09-25T07:18:13.210893+00:00",
+    "c5ab3b9d4345b41e": "2026-09-25T07:18:13.210893+00:00"
   },
   "yesterday_items": [
     {
@@ -2795,6 +2801,102 @@
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPeTVmcWFyVDhkZ2VyS0dRQkdVeWhVZDVzRVNrTGdUeEIzSGN1ZGFFYXYtWmlwT28tRTRhYURLZTFyWnJZeFd1QnVQQVkyclROMHk3Q09jejA5bV9xNTQ3X3gtdXIzWWZhTHZCN2F4VTJXWXJBcTQyQmlaLUdQWTFOQmFXT2dVbTdnY1NqZmc5SXplMHNEMTJxMGRMb3BlNWFVMWpLSlc1SlhZeGVhT2dvbWwwcnF5QjlONXIxa2k3ZlVTeVhVR013Rnl2VGZfWDJiZ3RuUmV5QXduMkp1NzJPUVZVTS1qaklkVlctYnZScER5QzZhVDIzZWJoYkpPSm5nQVUxMjJFb1I0aFZHLTV0ZTR4SHgzRk9GNzVqa1NBa0huaDN6MjQ2ZkUzSUJFNzdhNjgzTDdnMTNBa25zME4wOXBnTXNsOGluOEdPakxHc2gzcnhzOEE?oc=5",
       "pub": "2026-09-23T19:33:00+00:00",
       "id": "befa35701d49a204"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "EU customs reform: what it is, what it implies, and what Spain will have to do - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPckFMM0xtQkpxMkN0ZXc2dkZka25UMWtRM1dKNFRZOWtGY0EtcWdlSVhTNWQ5ZklDTENFb3N5empZcFRmREJQVm1FRi01dFlJT2dtU0F5ZmZhMTdDQms1OV9ZQnQ4YVNtMW1EcW9SWDgwU2NjOFFGeHRmVEFDSHVoVGpmdHdzLVFaajIxb0FyNkFEVnozVlhvVV93SDFZcHBkRlFFRmRrNUVmbldFSjhZd0VfR3c0Z3RFV1JnemRLbUV1YW1fVXBwcXppRXlfVmRHdjhXQ1Y5a1dYTU1rOWtjT1lrUk5zVnI2MmxQaW90aUJZeWR0Skt30gH8AUFVX3lxTE9YRWVVWWpVc01RUk05Q3hFZmt1cnFieVJmcEpqYXhGS0p4Qkl0MmJ5OTN4U0l5dTlNT3V0TUlQRGdBUU5VNHhMdk0yY2NxZVh2bm9SbnhRNEQ0NU1ocnZ4RDBuTi1Ta1QzSm1FM2stOHNlbUlraXp3cENlb0JyallSb0VGTHJxRFNmREVPY2RBb0RzRWZDd1FfWlNBX3dVNmgzNTF1WUNISUpaVzFKdzNFNExMdnpEVWtucGhwekJaTkl3QnNoSnY0YVFBS0JxTFNqODBpeVZrM2xqNm9mdTdzaDhOS3BYUTdqNkFjLVVLZXJ6WXhGVFR4R2ZYeg?oc=5",
+      "pub": "2026-09-25T03:00:00+00:00",
+      "id": "0359d62e6d10ad67"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Salon Capes & Textiles Market to Reach USD 357.2 Million by 2036 - openpr.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXVyby0tX3FSVUgza1NEajlJMlgtTTBocTV5aHU5ekhKTFZrdnA5MHFGbEVUSEdSVWVtRU5VdjZTNG1lR2dDemZRaGtYeUNka2Z0YU14SmpmQjVNT0ZTOGRlMDhrS0UzRUY1dFE1X2h5eVVGVlQ2SmNYWWNpTC1jNXhDYjAwV3ZMSGlfUEgxOTc0ZXUzc3NlMktCb0FaTjA?oc=5",
+      "pub": "2026-09-25T05:38:32+00:00",
+      "id": "c3aca442ef842a6d"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "small vibe",
+      "link": "https://www.reddit.com/r/japanphotography/comments/1wpl74x/small_vibe/",
+      "pub": "2026-09-25T02:57:19+00:00",
+      "id": "fc07b853be87498c"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "最近のやつ",
+      "link": "https://www.reddit.com/r/u_littlePosh_/comments/1wpklas/最近のやつ/",
+      "pub": "2026-09-25T02:26:09+00:00",
+      "id": "6804779dfb02e8fd"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Rhythm confusion? Can someone verify the correct counting",
+      "link": "https://www.reddit.com/r/Viola/comments/1wpdu0k/rhythm_confusion_can_someone_verify_the_correct/",
+      "pub": "2026-09-24T21:14:23+00:00",
+      "id": "441720fdab76f849"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "No storm can hold back forward march of Dhaka-Beijing relations: Ambassador Yao - thefinancetoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ET21ZZUhkX29fMHJpbkRvNjhiWUt2WkdtV0FHYk13MWdWSlU4aWE0ZEFmdW5MVVpDdW5uYzVHRHVhdlN2QkctcFVaRzBHbGdvMFVFdDhCbjE5Mm8wc285MElIYw?oc=5",
+      "pub": "2026-09-24T20:25:08+00:00",
+      "id": "6f61faa76e9b9f7e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "এয়ারবাস থেকে উড়োজাহাজ কেনার চুক্তি শুধু বাণিজ্যিক লেনদেন নয়: ফরাসি রাষ্ট্রদূত - Dainikbangla",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tNXl5NHNlUlFaaUp6ekdpWktfUFl2TUJVdU1DU3duSlE3UE8xTFhMU25zMmJGdTR0ZW5yeDE3czV5dVJKb2lwdkVSZnFxaGhNY1ZGdkdQUGczcUk?oc=5",
+      "pub": "2026-09-24T21:30:25+00:00",
+      "id": "0f1becae4a053e5f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "লোহিত সাগরে হুথি সংকট, বড় ঝুঁকির মুখে বাংলাদেশের অর্থনীতি - Gulf Bangla",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MRmMtNGFndW9iQUhlR3dGenFDRWxBeWxOcW92MXpOMWJCTW1fRHI5eG1nVXlOV0kwcldLSmdRZjdMdGxyQ3IxZXg1SUdYR2VpcHFrMw?oc=5",
+      "pub": "2026-09-24T10:47:24+00:00",
+      "id": "f3cdbcb617756e4f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "গ্যাস সংকটের ধাক্কা কাটিয়ে স্বাভাবিক হচ্ছে শিল্প উৎপাদন | বিশেষ প্রতিবেদন | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jMUtsQVl1Wjcydk9KenlfaDU1QnpxamFnbkcyVE1aVVp0d1hmZHNJTVVXbS1TRGJ6TndSQkw5UWZfaVY0ZE1wRGZ3dkhRR2kwTlhCRmlfbk9rNXdWbUJiUDhB?oc=5",
+      "pub": "2026-09-24T07:52:00+00:00",
+      "id": "f91986b492acf2c6"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এআই-চালিত সেলাই ও অটোমেশন প্রযুক্তি নিয়ে চট্টগ্রামে জ্যাক মেশিনারির আয়োজন - দৈনিক আজাদী",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRkpMMEVOc3RuVGhXeUtCRUJoRHhlTkZySnVJQUc0NjVpRGc4YklpaUNlYjlSeVUtVEFWc1ZtYXZSMHVISmhFdU9DdGFCQVBNYW8yUW51V3V0VDhvNllGekJzeUtIUkp4dGxZMHRsWl9QT3h0T0lIV0w0V0tvYnJnMDNTaElMbU9IQkE2SlkxZnZTZHJOeGNtVFFzZU1QaFVvUkFWWWJWbld6U1piQVpPa2hmWXUyX2RlZEFUVXNkYXVCQy1vdUZaTncySHR0U2J2b3hiMU9DdU1SVXlZdWNCRXEyTlpXVThRUnNQYjd5RGxsU1VpYnRuZXNPS0UwU3lBWmZma2U1R3JoLVRhQTdlbllJekN1enYwZXBwV2ptT3BHNWhHYXdMOHJXMTE1c1I0OGRoc3ZET3pDNFF4cEtzWnN3?oc=5",
+      "pub": "2026-09-25T00:25:00+00:00",
+      "id": "98f06d586188be44"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিশ্বের বৃহত্তম বাণিজ্যিক জোটে যুক্ত হওয়ার পথে বাংলাদেশ - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Z2J3OXl1STFwamxmZTBSSng2NS1Yc3dweEZwMmdyem1Hek5HV1dpeFZRa1dyZGxQSGhvNVZCeGdXVnNJNXpJV0YxM3XSAVJBVV95cUxNSTVxaTBxb2hvOXhGSVp2YWpkX0dtU0EyaGxEZXFDUWpXc2QtbnhoYVFUNXVCQktMekxvaWphVzQ0Z01TT2ItaXo5dk9DMHNKb2hR?oc=5",
+      "pub": "2026-09-24T13:13:11+00:00",
+      "id": "730e6c51d16138cc"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কাঁচাপাট রফতানিকারকদের ঋণ পুনঃতফসিলে সময় বাড়ল - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yaV9PX1R2UFZZT1NjUjBtNGx0OUJzSUdJVXVmcV94eC1LQXVrWW9ESlU5NVVjeFRGc3JWNUcxdmJUSTNaTWFXM3J6am_SAVJBVV95cUxOSC1mc05iNWRzbTc1Si1HSzhKSVE2ckRkMjgzbWZ3bnppSTBSWEdEZGxsRDk5MTRBTHpWakFwUHAtUmJranRSdGJYSnNXY0J2RmZB?oc=5",
+      "pub": "2026-09-24T09:12:41+00:00",
+      "id": "c5ab3b9d4345b41e"
     }
   ]
 }
