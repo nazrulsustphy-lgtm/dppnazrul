@@ -1,30 +1,5 @@
 {
   "seen": {
-    "b437977f8d8fe0ac": "2026-08-26T08:46:33.550262+00:00",
-    "599ee57e907ecaa0": "2026-08-26T08:46:33.550262+00:00",
-    "9d01c5c7b9d0ea58": "2026-08-26T08:46:33.550262+00:00",
-    "b8235ce0310c8c64": "2026-08-26T08:46:33.550262+00:00",
-    "3e689760dd52d23e": "2026-08-26T08:46:33.550262+00:00",
-    "e6bb4569b2e4eafa": "2026-08-26T08:46:33.550262+00:00",
-    "5b73a0fd78be3f95": "2026-08-26T08:46:33.550262+00:00",
-    "a26ba0ad60a762a8": "2026-08-26T08:46:33.550262+00:00",
-    "ca7e77a983116b04": "2026-08-26T08:46:33.550262+00:00",
-    "fbbed1253e5757ca": "2026-08-26T08:46:33.550262+00:00",
-    "f73d8248ee9f9962": "2026-08-26T08:46:33.550262+00:00",
-    "dc757873757354cc": "2026-08-26T08:46:33.550262+00:00",
-    "c0eda0339009b9cc": "2026-08-26T08:46:33.550262+00:00",
-    "3a9552aa30a9232c": "2026-08-26T08:46:33.550262+00:00",
-    "93055af5268948f8": "2026-08-26T08:46:33.550262+00:00",
-    "7122b9d6dd8ea5a8": "2026-08-26T08:46:33.550262+00:00",
-    "91dbbe6a02ff35fd": "2026-08-26T08:46:33.550262+00:00",
-    "596539453f392317": "2026-08-26T08:46:33.550262+00:00",
-    "adbceb2c7e1b7754": "2026-08-26T08:46:33.550262+00:00",
-    "600fbca4b737c995": "2026-08-26T08:46:33.550262+00:00",
-    "ebfd4ff316356f29": "2026-08-26T08:46:33.550262+00:00",
-    "21f65fc82956240a": "2026-08-26T08:46:33.550262+00:00",
-    "926778e901a28430": "2026-08-26T08:46:33.550262+00:00",
-    "3eae40ecffee66f0": "2026-08-26T08:46:33.550262+00:00",
-    "348bbc4370c47146": "2026-08-26T08:46:33.550262+00:00",
     "085d8ae44f00ecfb": "2026-08-26T14:46:16.636579+00:00",
     "ceb50c6f4f104db7": "2026-08-26T14:46:16.636579+00:00",
     "8cc3bbe55f038ff9": "2026-08-26T14:46:16.636579+00:00",
@@ -2423,7 +2398,39 @@
     "f91986b492acf2c6": "2026-09-25T07:18:13.210893+00:00",
     "98f06d586188be44": "2026-09-25T07:18:13.210893+00:00",
     "730e6c51d16138cc": "2026-09-25T07:18:13.210893+00:00",
-    "c5ab3b9d4345b41e": "2026-09-25T07:18:13.210893+00:00"
+    "c5ab3b9d4345b41e": "2026-09-25T07:18:13.210893+00:00",
+    "85ab91a6adeb501f": "2026-09-25T13:22:43.787603+00:00",
+    "65887a8adb183b46": "2026-09-25T13:22:43.787603+00:00",
+    "34ea66df948bef94": "2026-09-25T13:22:43.787603+00:00",
+    "607010b363e7ac3c": "2026-09-25T13:22:43.787603+00:00",
+    "d0437ee07b52bb41": "2026-09-25T13:22:43.787603+00:00",
+    "3840a8b949ad5213": "2026-09-25T13:22:43.787603+00:00",
+    "03f90ef44472227e": "2026-09-25T13:22:43.787603+00:00",
+    "8c743ce1536ca81e": "2026-09-25T13:22:43.787603+00:00",
+    "59a3494765795eb7": "2026-09-25T13:22:43.787603+00:00",
+    "b1b829f599348cc5": "2026-09-25T13:22:43.787603+00:00",
+    "3349704fb7e3d922": "2026-09-25T13:22:43.787603+00:00",
+    "14f2d53ebf70504b": "2026-09-25T13:22:43.787603+00:00",
+    "1b1ed2f3ad6cfdd8": "2026-09-25T13:22:43.787603+00:00",
+    "b41c1a06e23f5af1": "2026-09-25T13:22:43.787603+00:00",
+    "fb690b30125b4343": "2026-09-25T13:22:43.787603+00:00",
+    "dde16be41cea80c7": "2026-09-25T13:22:43.787603+00:00",
+    "84ac6584a6adb3db": "2026-09-25T13:22:43.787603+00:00",
+    "abc88ba57a862900": "2026-09-25T13:22:43.787603+00:00",
+    "e5d602fdead81ecf": "2026-09-25T13:22:43.787603+00:00",
+    "c96ead14c6da4b20": "2026-09-25T13:22:43.787603+00:00",
+    "3226562f50e9c5a4": "2026-09-25T13:22:43.787603+00:00",
+    "9f56d7dfab930c6c": "2026-09-25T13:22:43.787603+00:00",
+    "310f7ef480312366": "2026-09-25T13:22:43.787603+00:00",
+    "d013e24691faf155": "2026-09-25T13:22:43.787603+00:00",
+    "6abcaa43fbe4982d": "2026-09-25T13:22:43.787603+00:00",
+    "7acc0a743d3a9cfd": "2026-09-25T13:22:43.787603+00:00",
+    "949cd71034096247": "2026-09-25T13:22:43.787603+00:00",
+    "c358b060550e0f55": "2026-09-25T13:22:43.787603+00:00",
+    "38d4aa577e9e63ca": "2026-09-25T13:22:43.787603+00:00",
+    "c6eecea1c14c7311": "2026-09-25T13:22:43.787603+00:00",
+    "4710235f77a49235": "2026-09-25T13:22:43.787603+00:00",
+    "85c775864010a983": "2026-09-25T13:22:43.787603+00:00"
   },
   "yesterday_items": [
     {
@@ -2897,6 +2904,70 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yaV9PX1R2UFZZT1NjUjBtNGx0OUJzSUdJVXVmcV94eC1LQXVrWW9ESlU5NVVjeFRGc3JWNUcxdmJUSTNaTWFXM3J6am_SAVJBVV95cUxOSC1mc05iNWRzbTc1Si1HSzhKSVE2ckRkMjgzbWZ3bnppSTBSWEdEZGxsRDk5MTRBTHpWakFwUHAtUmJranRSdGJYSnNXY0J2RmZB?oc=5",
       "pub": "2026-09-24T09:12:41+00:00",
       "id": "c5ab3b9d4345b41e"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "EU customs reform: what it is, what it implies, and what Spain will have to do - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWEVlVVlqVXNNUVJNOUN4RWZrdXJxYnlSZnBKamF4RktKeEJJdDJieTkzeFNJeXU5TU91dE1JUERnQVFOVTR4THZNMmNjcWVYdm5vUm54UTRENDVNaHJ2eEQwbk4tU2tUM0ptRTNrLThzZW1Ja2l6d3BDZW9CcmpZUm9FRkxycURTZkRFT2NkQW9Ec0VmQ3dRX1pTQV93VTZoMzUxdVlDSElKWlcxSnczRTRMTHZ6RFVrbnBocHpCWk5Jd0JzaEp2NGFRQUtCcUxTajgwaXlWazNsajZvZnU3c2g4TktwWFE3ajZBYy1VS2Vyell4RlRUeEdmWHrSAfwBQVVfeXFMT1hFZVVZalVzTVFSTTlDeEVma3VycWJ5UmZwSmpheEZLSnhCSXQyYnk5M3hTSXl1OU1PdXRNSVBEZ0FRTlU0eEx2TTJjY3FlWHZub1JueFE0RDQ1TWhydnhEMG5OLVNrVDNKbUUzay04c2VtSWtpendwQ2VvQnJqWVJvRUZMcnFEU2ZERU9jZEFvRHNFZkN3UV9aU0Ffd1U2aDM1MXVZQ0hJSlpXMUp3M0U0TEx2ekRVa25waHB6QlpOSXdCc2hKdjRhUUFLQnFMU2o4MGl5VmszbGo2b2Z1N3NoOE5LcFhRN2o2QWMtVUtlcnpZeEZUVHhHZlh6?oc=5",
+      "pub": "2026-09-25T03:00:00+00:00",
+      "id": "6abcaa43fbe4982d"
+    },
+    {
+      "section": "international",
+      "source": "Just-Style",
+      "title": "Cooling Bangladesh apparel factories pays for itself in 4 years",
+      "link": "https://www.just-style.com/news/bangladesh-garment-factory-heat-cooling/",
+      "pub": "2026-09-25T09:50:59+00:00",
+      "id": "7acc0a743d3a9cfd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Lush greenery surrounds factory, workers enjoy moments of joy, amity - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oV1BUUTloWm5ESzZtbEhjS3pFOHJlRm80UUZ0NlhBdlZhR3JDdm4tZGxLNk9UcndMOXQwUm0zSXhPRVp3VHYxOGwwdEM0OHlaQWxySHJtZFZ2QQ?oc=5",
+      "pub": "2026-09-25T11:54:57+00:00",
+      "id": "949cd71034096247"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "আরসিইপিতে বাংলাদেশের অন্তর্ভুক্তির পথে নতুন অগ্রগতি - nagorik tv",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE52WUNUR2FwazZKMnJVcW44LTFUWHZMeWF6UXFjbFpfMW9BUEFpd01FNVJlbEdyRHVsT3lzUy00WEg?oc=5",
+      "pub": "2026-09-25T09:05:19+00:00",
+      "id": "c358b060550e0f55"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বাংলাদেশে ১৭২ বিলিয়ন ডলারের সবুজ বিনিয়োগের সম্ভাবনা দেখছে স্পেন - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52dGhfWXBlTnJlRE95UDVTazNVUGg2VmZiM1pSNlRNT28ycFo4NTVjRmg4NVhfdTFXLWx6djhoMWhhOFhPMGU5OXRQUGXSAVJBVV95cUxOS2loZ2thN0tkSDV6Zjk0VDFFeEFYZTdaVktqSVFqTUtqTXhVYVllX2lRcVFPWmRMMTNocXl4aUlocWJ2N3Vyb2R2VHctSG44Z2N3?oc=5",
+      "pub": "2026-09-25T10:17:00+00:00",
+      "id": "38d4aa577e9e63ca"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "এআই-চালিত সেলাই ও অটোমেশন প্রযুক্তি নিয়ে চট্টগ্রামে জ্যাক মেশিনারির আয়োজন - দৈনিক আজাদী",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNUtyMm41RDk4ZjRMU284VFg5MGIwVHY1QkdWeklKZWdQcjc3c1Z5c21hbnJ0a21BLXZUTWxYTjN0YURwS1dDRW1Zc29uT2NWMU9nYmtPd3ROWDllX3AwSjdKUmtKQkxOb250VTc3ai1wM0FXSFVOWmZXUk1NeDhFUUlVUmM4NENEdG9Ub1l4WGt6Rk5NSWtIWEdnRWlIOGRJRVZqQV80ZndJVmltTkstUm4zN2U1SHJmYkR4MlJVcXhRNmFvUm0yUmFjX0FMYzNNNU9HaGExZXZBNGlkbEx3ZDZJSkp5U09wa1N6d2VXM2pyLVNBeTNOaWpEa0NmSkdjVVg2S2ppeXhndkV2M25HY1BUYy16eGx3LU4zbUZtdjBRb1NHSE9BdVBYZVluRllQNDc0eGc1eHZkVUNJdU93?oc=5",
+      "pub": "2026-09-25T06:14:00+00:00",
+      "id": "c6eecea1c14c7311"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "প্রাথমিক অনুমোদন পেল ৫ ডিজিটাল ব্যাংক - Dhaka Mail",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54eGsyTmE3Y3g0eE5FbEVZSGN2YTJtbnBsX2hPMjEtV25sT0diWWJWZjNnT00xSWd5azR2RmpPbWdEelRNQ2ZxOW1sd2jSAVJBVV95cUxOa0IyX0daSkdFNVU5NGNTWmVhd3RmcUVoVnFiWTZ6TnBVNU1YUXBxRHFDSlNBbzN6UTc5MEVWSTZ1em1yMGx6VHg2QjBZSTQyU0xR?oc=5",
+      "pub": "2026-09-24T13:26:24+00:00",
+      "id": "4710235f77a49235"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ক্যান্টনমেন্ট থানার সাবেক ওসি রাকিবুল গ্রেপ্তার - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxNMGN6YXh4SHFxRVEwZ1VtNmNBM19aTG1JS0JFNVFjZ3JtcjVYc19wNU16U2RHaEt3WDhKU0prR0ZJcjNyeWtZbWhMalRHSEZUWmtjOGdnTGZtTVJDbGZsdjlKQ2pSelhqSmg0MDVRNmVvUjVtWVQ3NFE3SDdScWRhMVBucWEwc1JBNEo2X1JTLXBnNGRreW5zRFRYYUQ0V3lxTkhqQzZxcHUwa0stdTBpYlhBbUJCaUhfUWlJTzlSSGNEWkN2a2JHejhnVGsxbFNJTmtCRUNSU1U4RUdTRW9wN1d3X1VVSnB5OWlPNkRCZTRVNmZtd0licXNGbDRfN3phaVdSbDBwVEtTZG1EY0lBdHA2UzVLblFPQ3lNbW9iMXBzNFREMVdPTDFWYzh1V29OeEJmVUh6U0FpbVZoSnltS1Q3cThXOHlDQ2N2VHFSMUNIVUc1cXVHZHdsemRiZWwxTlJ6RDNiM3hoQWM5VDBvc0c2bnQ4UDQxUWRXY2NJT1lhc2dMOHphVzBPVVhSQk5tTXBmY1RXUVlRZ0wxc0lWTE5YWElEMjNBazc2MnU5RFlIRWdaU3hLUGV5aWliSUhBXzRGODNBLUVUQVp4UE1UNUlQSi1CYVlkeGVoMUpDR3U3dnFEb201Y3NpOXhSMFdTQ09tOHBJb2laQWZSdEdYdTY3N2Z0eU14NlE2Q2xMTGRzOFNEVGotNWhwdEVRcC1GZzctaFQwbTg2QWZJbEZoaTNlQ3FOa2UyX2ZrWTNqUnNGXy1OaTRLWUE0TDhnaWMw0gHQBEFVX3lxTE0wY3pheHhIcXFFUTBnVW02Y0EzX1pMbUlLQkU1UWNncm1yNVhzX3A1TXpTZEdoS3dYOEpTSmtHRklyM3J5a1ltaExqVEdIRlRaa2M4Z2dMZm1NUkNsZmx2OUpDalJ6WGpKaDQwNVE2ZW9SNW1ZVDc0UTdIN1JxZGExUG5xYTBzUkE0SjZfUlMtcGc0ZGt5bnNEVFhhRDRXeXFOSGpDNnFwdTBrSy11MGliWEFtQkJpSF9RaUlPOVJIY0RaQ3ZrYkd6OGdUazFsU0lOa0JFQ1JTVThFR1NFb3A3V3dfVVVKcHk5aU82REJlNFU2Zm13SWJxc0ZsNF83emFpV1JsMHBUS1NkbURjSUF0cDZTNUtuUU9DeU1tb2IxcHM0VEQxV09MMVZjOHVXb054QmZVSHpTQWltVmhKeW1LVDdxOFc4eUNDY3ZUcVIxQ0hVRzVxdUdkd2x6ZGJlbDFOUnpEM2IzeGhBYzlUMG9zRzZudDhQNDFRZFdjY0lPWWFzZ0w4emFXME9VWFJCTm1NcGZjVFdRWVFnTDFzSVZMTlhYSUQyM0FrNzYydTlEWUhFZ1pTeEtQZXlpaWJJSEFfNEY4M0EtRVRBWnhQTVQ1SVBKLUJhWWR4ZWgxSkNHdTd2cURvbTVjc2k5eFIwV1NDT204cElvaVpBZlJ0R1h1Njc3ZnR5TXg2UTZDbExMZHM4U0RUai01aHB0RVFwLUZnNy1oVDBtODZBZklsRmhpM2VDcU5rZTJfZmtZM2pSc0ZfLU5pNEtZQTRMOGdpYzA?oc=5",
+      "pub": "2026-09-24T14:17:39+00:00",
+      "id": "85c775864010a983"
     }
   ]
 }
