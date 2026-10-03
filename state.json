@@ -1,44 +1,5 @@
 {
   "seen": {
-    "dacbff63a1c580b6": "2026-09-03T06:58:37.924115+00:00",
-    "c45a2fd2d9aad37c": "2026-09-03T06:58:37.924115+00:00",
-    "16eaf7f7d21eb341": "2026-09-03T06:58:37.924115+00:00",
-    "13a13659574a8c8d": "2026-09-03T06:58:37.924115+00:00",
-    "4d72772fb3c2730e": "2026-09-03T06:58:37.924115+00:00",
-    "2780e0652d2dca7f": "2026-09-03T06:58:37.924115+00:00",
-    "bffe75954439e02e": "2026-09-03T06:58:37.924115+00:00",
-    "0e662cdef6b023d0": "2026-09-03T06:58:37.924115+00:00",
-    "0159150dd0b8342e": "2026-09-03T06:58:37.924115+00:00",
-    "658c466d88085d72": "2026-09-03T06:58:37.924115+00:00",
-    "fa1745a196a718f4": "2026-09-03T06:58:37.924115+00:00",
-    "c20373dac54ef6f3": "2026-09-03T06:58:37.924115+00:00",
-    "e5c9391a98a392c2": "2026-09-03T06:58:37.924115+00:00",
-    "684749c820b0dea7": "2026-09-03T06:58:37.924115+00:00",
-    "91f22bbf748fe13f": "2026-09-03T06:58:37.924115+00:00",
-    "8fb011066b1eb4a9": "2026-09-03T06:58:37.924115+00:00",
-    "ca5fdad4d082a5fd": "2026-09-03T06:58:37.924115+00:00",
-    "14b87a3723d92fc7": "2026-09-03T06:58:37.924115+00:00",
-    "bd44560c8b931c00": "2026-09-03T06:58:37.924115+00:00",
-    "cd3ccb7dbb02dbdc": "2026-09-03T06:58:37.924115+00:00",
-    "e6f4bc586069204f": "2026-09-03T06:58:37.924115+00:00",
-    "c12360481da09838": "2026-09-03T06:58:37.924115+00:00",
-    "7dbd6538e6b8dfde": "2026-09-03T06:58:37.924115+00:00",
-    "522c735f15d39642": "2026-09-03T06:58:37.924115+00:00",
-    "373397068621fa68": "2026-09-03T06:58:37.924115+00:00",
-    "16cc3092ae3efe7c": "2026-09-03T06:58:37.924115+00:00",
-    "e42f94182691606a": "2026-09-03T06:58:37.924115+00:00",
-    "0be1d7e814878f9b": "2026-09-03T06:58:37.924115+00:00",
-    "1873ca10b171d698": "2026-09-03T06:58:37.924115+00:00",
-    "5daf8baea01dad6b": "2026-09-03T06:58:37.924115+00:00",
-    "bb056a0cc1adfeb1": "2026-09-03T06:58:37.924115+00:00",
-    "a8ef3b6b5cf69ba4": "2026-09-03T06:58:37.924115+00:00",
-    "0b61717a18dc8768": "2026-09-03T06:58:37.924115+00:00",
-    "5e0ef4d61a77dc6e": "2026-09-03T06:58:37.924115+00:00",
-    "fe88a2ce352f5230": "2026-09-03T06:58:37.924115+00:00",
-    "4e6b580a6eaf959d": "2026-09-03T06:58:37.924115+00:00",
-    "0da8b4ac8703a21c": "2026-09-03T06:58:37.924115+00:00",
-    "9464a7e8881e1067": "2026-09-03T06:58:37.924115+00:00",
-    "92d4ed9d06aa8a43": "2026-09-03T06:58:37.924115+00:00",
     "de5ae8e7d2b42915": "2026-09-03T12:40:33.330065+00:00",
     "4ba7af1529812c0b": "2026-09-03T12:40:33.330065+00:00",
     "7007f382eb287d72": "2026-09-03T12:40:33.330065+00:00",
@@ -2625,81 +2586,35 @@
     "7a32e23c6bf0f6cf": "2026-10-02T19:02:17.593451+00:00",
     "972f427c566dfe70": "2026-10-02T19:02:17.593451+00:00",
     "c4562c5121a7fccb": "2026-10-02T19:02:17.593451+00:00",
-    "967d5e3358bddb47": "2026-10-02T19:02:17.593451+00:00"
+    "967d5e3358bddb47": "2026-10-02T19:02:17.593451+00:00",
+    "462a27678ff52f91": "2026-10-03T07:45:32.136222+00:00",
+    "a24518389666f955": "2026-10-03T07:45:32.136222+00:00",
+    "6fe0bc5b4c341aa6": "2026-10-03T07:45:32.136222+00:00",
+    "4af08f4c8e51d54f": "2026-10-03T07:45:32.136222+00:00",
+    "fd42b7f3c7842a1e": "2026-10-03T07:45:32.136222+00:00",
+    "eafe5d5584b46f94": "2026-10-03T07:45:32.136222+00:00",
+    "abaf5af9cd037ab0": "2026-10-03T07:45:32.136222+00:00",
+    "6a77c4f104b785bb": "2026-10-03T07:45:32.136222+00:00",
+    "d4b806bf363d220c": "2026-10-03T07:45:32.136222+00:00",
+    "076b466152883661": "2026-10-03T07:45:32.136222+00:00",
+    "f0a795b5aa0dddee": "2026-10-03T07:45:32.136222+00:00",
+    "8c4bf08e71946c52": "2026-10-03T07:45:32.136222+00:00",
+    "e8a2f51944361c15": "2026-10-03T07:45:32.136222+00:00",
+    "e282880d1d58084a": "2026-10-03T07:45:32.136222+00:00",
+    "deb4d74d76852591": "2026-10-03T07:45:32.136222+00:00",
+    "2aa4721c98636c35": "2026-10-03T07:45:32.136222+00:00",
+    "1fd20a9cd34ceee8": "2026-10-03T07:45:32.136222+00:00",
+    "7ca017d54878d637": "2026-10-03T07:45:32.136222+00:00",
+    "b1f6706390bf253f": "2026-10-03T07:45:32.136222+00:00",
+    "3d58e0bc94f62947": "2026-10-03T07:45:32.136222+00:00",
+    "e4aa78b1630341df": "2026-10-03T07:45:32.136222+00:00",
+    "b46c90a5b91dca43": "2026-10-03T07:45:32.136222+00:00",
+    "aa828922463ea28f": "2026-10-03T07:45:32.136222+00:00",
+    "e2bb8aa7c43315d5": "2026-10-03T07:45:32.136222+00:00",
+    "a754f4f53121db73": "2026-10-03T07:45:32.136222+00:00",
+    "400ed375725aaf77": "2026-10-03T07:45:32.136222+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "Hailey Bieber Debuts Espresso Brunette Hair And Saint Lauren - ИФЗ РАН",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGx3cWdzdDRVT0VvWThsa1l1dTBHandvOU0tYUJzXzJCYzdabHFpdU8zLWpTZ2VsbTF4QXhjMTFzcU9LX0t1S1plb3p6NGtEcmxoVGY1R3Vua0g1N3F5Q25JVXBsVFN3QVJDYlA5c3hLbWJlNVU3QW42OV83TjNYb0RjcEJ1WERiYUFBOXMyQ3Uxa3E2OGl6bQ?oc=5",
-      "pub": "2026-09-30T23:01:53+00:00",
-      "id": "7c1ba3d09878a597"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Costco Haul (National Coffee Day)",
-      "link": "https://www.reddit.com/r/nespresso/comments/1wun6dl/costco_haul_national_coffee_day/",
-      "pub": "2026-10-01T01:55:37+00:00",
-      "id": "e7d8751d36839dd4"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "MADC death: a classic one",
-      "link": "https://www.reddit.com/r/GuildWars/comments/1wukids/madc_death_a_classic_one/",
-      "pub": "2026-09-30T23:47:22+00:00",
-      "id": "8332006b0e5cd2e4"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "The EU Digital Product Passport law never mentions blockchain and leaves the passport data with the company selling the product",
-      "link": "https://www.reddit.com/r/DigitalAssets/comments/1wuhst2/the_eu_digital_product_passport_law_never/",
-      "pub": "2026-09-30T21:46:07+00:00",
-      "id": "7dd36c4d59011fe9"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "sweep 2026-09-30 20:36 part 1/3",
-      "link": "https://www.reddit.com/r/lineup_sweep/comments/1wug2vz/sweep_20260930_2036_part_13/",
-      "pub": "2026-09-30T20:36:06+00:00",
-      "id": "c9d4023b788d0a19"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "TEAM Group begins DPP journey for greater RMG traceability - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRUswSnVSTlg4WUY5bUZoR1V1M012QTRSVXhSX2VPR192eVN0VW5hZDk1dXplaTVURTRENjZhXy1LYmRjWl85M1BxZ0gxQzVsMGVicU5HaGNadzRlZVhmeTBPUFl1WWdvVnNEVGZtMkNvS2N5aUwzMXA5VWVTc2hIZUluZDF6djhUYzhvdVphdU93TG54?oc=5",
-      "pub": "2026-10-01T05:58:22+00:00",
-      "id": "09cfb60fb791df10"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "TEAM Group begins DPP journey for greater RMG traceability - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRUswSnVSTlg4WUY5bUZoR1V1M012QTRSVXhSX2VPR192eVN0VW5hZDk1dXplaTVURTRENjZhXy1LYmRjWl85M1BxZ0gxQzVsMGVicU5HaGNadzRlZVhmeTBPUFl1WWdvVnNEVGZtMkNvS2N5aUwzMXA5VWVTc2hIZUluZDF6djhUYzhvdVphdU93TG54?oc=5",
-      "pub": "2026-10-01T05:58:22+00:00",
-      "id": "09cfb60fb791df10"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "| 10 markets still take 75% of Bangladesh apparel; can 18 change that? - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWFlEWGxNWXFlYVhuSUdMejRCZHpuOHUxRTRsblBUMlY0a2Z6VW0wYl9BY1ZIZVpWYmdJQzRLUVVuT2NRWFlROENSRVFzY0wyTUJ4U2pMMko2b0txX2tmZFkxeWh0NHRsMjlBWENySHRYZ0pySFFucVlGNzB3WWp6eThzX25wQ2tOOXBJZzdqZmxJSmtGZlpGRUplSFBzdlo4TXZ3WHpkX3hSeGlXeUt5dWRmTWxXTkpRdVBEeGVaRkxyYVR3NHJJcXFCZTJLU2dNcy0zSmVVeVdVd1ZSeEZjZVQ4bkVvRHl0MzdzTkhCaEVfUQ?oc=5",
-      "pub": "2026-10-01T06:36:06+00:00",
-      "id": "fcade8535aad2b95"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "নিট কাপড় আমদানির নিষেধাজ্ঞা প্রত্যাহার, পোশাক খাতে শর্ত শিথিল - nagorik.com",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1JOGR6UnVENkU1UURYMGw5NXlFYllzMjBhLW5BODFnNnlQbklrUlZTODN4YnFGb0NneXBZSnI0ems?oc=5",
-      "pub": "2026-10-01T04:35:45+00:00",
-      "id": "260b4f98d6451070"
-    },
     {
       "section": "international",
       "source": "GoogleNews: ESPR garments",
@@ -2719,14 +2634,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Some major apparel brands shifting orders from Bangladesh - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9vWGxPNms4WHJnay0tc1U3bElETmhqNWp1M3Y3MjdVdmY5ZWlLWW8xZ0doVDloNldCdm93bFpRcHJGeGF5WkgtWFIzMTViZkhlY3A1aFFNeG1fRDFLNmRCVTdqS3pITTFkZk5DQ3Rmakt2LTktTDJFU1Z0VU45QVE2dEZfTzE4QnpJUXAxc3JLNkdGNUpJQ19YaFhpZms?oc=5",
-      "pub": "2026-10-01T02:28:24+00:00",
-      "id": "d8f95c41a611a86c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
       "title": "| China builds Egypt's textile base: Can Europe drive exports? - Fibre2Fashion",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTVVBelRVRGxOeDhrMnVMRkJZcTgwQS1MUHMtdmFwdl80RklaNG1KelJYbjRsUi1BTDQ5WWZEOHA1OWlrT1ZldHNFOTZpX1BMaHFIaU83NlpGYlhVVm9UbFg3bFVlZEVDcjNaMU1NRnlFMXlYSW01NU1ldng1cXp2U0liZ3ZYUjhhNnVaRkE2eW5TN2xhbk54eGptbUtqcDVGSEN1SW85Sm9nUEYxbTZUMmwwczgzcGVLSWd1TWRvXzIwQk9wZ1k0OWtIZW0tUlhCRXd5QjN6TGhhZ0dZVnktQ2hqRGVrVmc?oc=5",
       "pub": "2026-10-01T10:44:37+00:00",
@@ -2739,14 +2646,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzdWt3LUNic01FVE9mZWVUT0QxRGNua3FMdGRoSmlSQWVSeGR0d3NJWUNKamd4RGs0cmh6RVJERlM1a0pIa0h6Z3Z3?oc=5",
       "pub": "2026-10-01T15:50:39+00:00",
       "id": "2dd662f3fd903e93"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: BGMEA/BKMEA EU",
-      "title": "Some major apparel brands shifting orders from Bangladesh - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9vWGxPNms4WHJnay0tc1U3bElETmhqNWp1M3Y3MjdVdmY5ZWlLWW8xZ0doVDloNldCdm93bFpRcHJGeGF5WkgtWFIzMTViZkhlY3A1aFFNeG1fRDFLNmRCVTdqS3pITTFkZk5DQ3Rmakt2LTktTDJFU1Z0VU45QVE2dEZfTzE4QnpJUXAxc3JLNkdGNUpJQ19YaFhpZms?oc=5",
-      "pub": "2026-10-01T02:28:24+00:00",
-      "id": "d8f95c41a611a86c"
     },
     {
       "section": "bangladesh",
@@ -2763,22 +2662,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZC14MUtXWGZJTTN2dXN2eTJySGVCUEJfeFdnTEM0eFRYTkY3RERLQzhxMHdtam9qU2pOa2x5R2Rxb2dEMzRPdUI5WVYwSmpJOHBiTThBaGl1cmNGVl9fRUZFOXIyVTFGNER6a25WS0huSmo3YVlrZVJjbTJFRkpjRl91Mm1yNVBaLWdmVlBNTjAxcjlXZTVNS1VWbTNBalV5VFBNSEVjTXpyQ3pGOWhFcHl5Q09WNEhVRnRnY0pDdG1UQ0ZlbmdQcl95eTVhS0x5cjJBWkdsSXVYaFZhaXpoYllrc0FLMUJOZ1ZIUTFCWF9IZw?oc=5",
       "pub": "2026-10-01T10:29:09+00:00",
       "id": "d57aeef281b0df64"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "চার মাস পরেও ২০,০০০ কোটি টাকার পুনঃঅর্থায়ন স্কিমের অর্থছাড় মাত্র ১১০ কোটি টাকা - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRmFaTGNzemVUZXYzOThTbHVpVkt4OXNkVEU5VlIzRzJMczNmVFo4TmtMWEYyUERZMlBYRlZIcHdQTnNyUVMxaFktaWJyQVVkYjVBcGRTcDFXNU85cmk1X0NOSHVBajdvdkE?oc=5",
-      "pub": "2026-10-01T05:45:00+00:00",
-      "id": "e0b027178a658787"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "নতুন আমদানি নীতিতে বড় ছাড় পেল পোশাক খাত - AmaderShomoy.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NSF9qSnNsTkszOG1KeFNpdEF4UUJRMUZOXzhQVXU0WTN4MzladlE2WUlWY3kwUUx2aTFfTy1UenVjMlhHTFhSUjVsT1AxM0hqalFidzRfWm5STjFubGVKajFDbw?oc=5",
-      "pub": "2026-10-01T03:01:00+00:00",
-      "id": "14b148b03a4d13a2"
     },
     {
       "section": "bangladesh",
@@ -2931,6 +2814,54 @@
       "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxNTktFdDR3M2lZOHZTM29yUE5adU5VUWNta2dwQ1o0Y3Q0ZGJZNUpJVzBGVTMwUmhNRlVWRmlQUm1IMllJSjRCZ2pmTmYzOHRwVTcwaER5R3FwWG1QalRzcFBvRklsUmFNWWVvdHRxNW1QQ013bDE5d3A2WnhtcWdqajBJNXlXcDl4aUxGUTMtRVRacWgxWkgtblN5X0E0NWlIdUxOckRzRTh6RGU4UTVQeFkxX3hFeGJqdEhPRnJvZlpiQ2NtN0JNMnpQWEk2QW5PZ1FGdEFEX09NMVc0MTRXTHc1RnFHdk1BOUJWeEhRVXZSVmFSRTZidnBhbG1uOHhTa3JNNXNlWmppelhkQ1J4RVZZcVNjZm9RV1E0QUYtT2tiSHE4eUVWZW95RmY0TjYtTlFYTFJQSkloeFgyQjNCb1JBdkFMbF82TWRtNlZFejZDTFhOTkVLS0hEcjl4NllSUXQzdVZpZll5MDVrOVllQVhUNXZXMmxyb2xEUjdfZXVfaDVYc3RGdW4zcmhIejdUblhRWVprTkNKdlR4YWdrUlpydjJBdV9SamtGQ1MyM2lzV3pIVVhucUhoRGVmYk1BWFJycGFTUzZ5aVNOQm14LU9ndFNDV3dHUWZtMjZwZldGVFNpenBPNTFSd1JYdVpMdGxkdXp0WDRfMkY1N1hOclZRRkQ1ZmxjZ1VSZlZoVUFpY1BHVnppNFpheDQwb2kwRm9lX0FPNExiTTU40gGsBEFVX3lxTE1OS0V0NHczaVk4dlMzb3JQTlp1TlVRY21rZ3BDWjRjdDRkYlk1SklXMEZVMzBSaE1GVVZGaVBSbUgyWUlKNEJnamZOZjM4dHBVNzBoRHlHcXBYbVBqVHNwUG9GSWxSYU1ZZW90dHE1bVBDTXdsMTl3cDZaeG1xZ2pqMEk1eVdwOXhpTEZRMy1FVFpxaDFaSC1uU3lfQTQ1aUh1TE5yRHNFOHpEZThRNVB4WTFfeEV4Ymp0SE9Gcm9mWmJDY203Qk0yelBYSTZBbk9nUUZ0QURfT00xVzQxNFdMdzVGcUd2TUE5QlZ4SFFVdlJWYVJFNmJ2cGFsbW44eFNrck01c2Vaaml6WGRDUnhFVllxU2Nmb1FXUTRBRi1Pa2JIcTh5RVZlb3lGZjRONi1OUVhMUlBKSWh4WDJCM0JvUkF2QUxsXzZNZG02VkV6NkNMWE5ORUtLSERyOXg2WVJRdDN1VmlmWXkwNWs5WWVBWFQ1dlcybHJvbERSN19ldV9oNVhzdEZ1bjNyaEh6N1RuWFFZWmtOQ0p2VHhhZ2tSWnJ2MkF1X1Jqa0ZDUzIzaXNXekhVWG5xSGhEZWZiTUFYUnJwYVNTNnlpU05CbXgtT2d0U0NXd0dRZm0yNnBmV0ZUU2l6cE81MVJ3Ulh1Wkx0bGR1enRYNF8yRjU3WE5yVlFGRDVmbGNnVVJmVmhVQWljUEdWemk0WmF4NDBvaTBGb2VfQU80TGJNNTg?oc=5",
       "pub": "2026-10-02T09:02:05+00:00",
       "id": "967d5e3358bddb47"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "EIM evolves into a new Environmental Intelligence to measure the impact of textile production - Apparel Views",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1lkWWhFYU5VeWNtREgwc043cHI1bldhbXcwM09ianpBSDBPRWRIekRBXzFCdzdINTJwNlctVlFzZXYxRGdWNzI5NnRMMGVhT0FmSlc5V0tqeGxlT1p2dXdUTkgyQmR5QzNwZm1TOUFrMGNYYjhia21UQmRGWkJ5ejU3RnlWSko2WWozdEVaY0VuQ2pOS2ZpRUtZUVhoNGdrUHA2NHZ4N1Z0RlltOEZpdzdxVTA2VExHWWdmSlRQOA?oc=5",
+      "pub": "2026-10-03T06:33:59+00:00",
+      "id": "e4aa78b1630341df"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Spyhouse Coffee Prices Circa ~2010",
+      "link": "https://www.reddit.com/r/Minneapolis/comments/1wwc5kd/spyhouse_coffee_prices_circa_2010/",
+      "pub": "2026-10-03T02:41:37+00:00",
+      "id": "b46c90a5b91dca43"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইউরোপের বাজারে বাংলাদেশি পণ্য বাড়াতে প্যারিসে বৈঠক - কালের কণ্ঠ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNS0zX0lfT3c0ZlJKR2ZPYWlOTkViSDVoMzBoNWhqZHpwSW5FT0FtY0owcHVjSTdtRWdrZkVlODZtRGpTTDVTNjRoa0lldnpGNjBmMEpxUlh3OEJaTnFHQ25NXzAzRFhs?oc=5",
+      "pub": "2026-10-03T03:30:44+00:00",
+      "id": "aa828922463ea28f"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "তিন মাসে পোশাক রপ্তানি বেড়েছে ৬ দশমিক ১০ শতাংশ - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOd2llTmJGZWd6LTFucHJTdU5EWno1NkllT3JiMm9lZkVRcFdrWERTaTdMY0w1bXVVMlVuT3l4cjhPcmRwYWZLbTlUdi1HMENWb3FGUWliOGVlNllhMnRKSExNMjFGdEU4UlRFbWktNE03WU00ZF8ySEZVTTFrS0dEMy05SEhIUi00QWRQN05hLWFfdUdoeGhNNzRmT21TV0lnTHFmQXdKNHl2WUtNVmpmZVZ3RVlsYzNMQUwxdTJKWFJ6UUVHU3dmZTZkSDgtUFo2THQzY0dBTUlOeHduZkY3cHR2bzZWN3plODZzLThNcmZBb2JXUmgtZ1RucVp2TkNrLWF2ZktqTjR6QmZSaTYzR0NRQjc3TTluZjBMdlk0eF9WYWpCSmtaSDRBbDdfVWRlcXRiWmxqLVJfS1pPeS1ZNEtSQ1h6WlpXNzk2UmtPMUJrVEktSEVTallPdGRGcFpYbnVpTmRyOVJHM3ZxbUdxN2hrMXltT3lnWGFoYWVpVVNvd01wZVhYMDhfWmhuemN2NEhZVlMyeXVDdU5EUzFZYkpaTWFvNno2S2pubG1ZQUVyLVVZOUVOdUV4WF9WSTVVaE9UU3VaUGpxMmR0WXRnQnJyamdKYzh1UThST1UwbmtzakNraHFCRklnMV9vUklUSm9Lb3BScjdfWW1pam50d0JCRXpNWHhVSmdfZmQ2RWdCeDJpeWd6bUpOTHNNUFA2SUtteXplbG9LUQ?oc=5",
+      "pub": "2026-10-02T18:32:00+00:00",
+      "id": "e2bb8aa7c43315d5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইতিহাসে প্রথমবার ২ পাউন্ড পার ডিজেল! ট্রাম্পের হুমকির মুখে ইউরোপ - DesheBideshe",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81YkpySnN6WUhiaDNwN3l3cC1nemZxQXA3X0l2TXRIVWxHcmZDWjRrOGFYMEp0S3NJb2p2SVpzeWxUQnlINzlkdHpkakpsNHhQQUluN3B6R09jMHZBdFg2bXFPLTBXRERsOHBJTWln?oc=5",
+      "pub": "2026-10-02T17:39:02+00:00",
+      "id": "a754f4f53121db73"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সুতা আমদানি নিয়ে জটিলতায় পোশাক কারখানার মালিকেরা - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50X2FHWmh0aWtnbDZUSkpteEgxMmlFdUNNR3lSWHVwWWxvNjNFQTl5LVhqLTJJQ2ZPMUlrdTZuMmlPY0pwNS1MZTBpWUdDdmx5eERWY2JZLUhYWURZS29qVjRiN0FBZ9IBc0FVX3lxTE1uZFBPVmh4c043SVRXLXhabERiOVhOeVBzYzNIdTB4T2xJX3I5TUc0bFRSaTZETms5Vy1EdDBnMy1WaTdJSWtoelI4M2N1NS1QMnNTd0ZGTi13S0NCTTdQbWRNVEhuaE93WkV2WVRxZHFlYjg?oc=5",
+      "pub": "2026-10-03T03:30:00+00:00",
+      "id": "400ed375725aaf77"
     }
   ]
 }
