@@ -1,38 +1,5 @@
 {
   "seen": {
-    "dbd342f2feae0925": "2026-09-04T17:26:19.339476+00:00",
-    "1fc09ec36ec912e0": "2026-09-04T17:26:19.339476+00:00",
-    "d3c2283444ac6285": "2026-09-04T17:26:19.339476+00:00",
-    "3815f57da4131359": "2026-09-04T17:26:19.339476+00:00",
-    "ab5c7183a16e81ec": "2026-09-04T17:26:19.339476+00:00",
-    "703f8a73df8c99e0": "2026-09-04T17:26:19.339476+00:00",
-    "29e1eb4a0f83ba2d": "2026-09-04T17:26:19.339476+00:00",
-    "67aba142380a2e71": "2026-09-04T17:26:19.339476+00:00",
-    "4650dd8cf8c47f9b": "2026-09-04T17:26:19.339476+00:00",
-    "9ecf64d687079c9e": "2026-09-04T17:26:19.339476+00:00",
-    "44b0c3fbe3353b93": "2026-09-04T17:26:19.339476+00:00",
-    "5adafe3391975e58": "2026-09-04T17:26:19.339476+00:00",
-    "a2890d5cd0a131df": "2026-09-04T17:26:19.339476+00:00",
-    "a122616d175bffa8": "2026-09-04T17:26:19.339476+00:00",
-    "6e796367f8cf5bf5": "2026-09-04T17:26:19.339476+00:00",
-    "d2036ff4afd3b71a": "2026-09-04T17:26:19.339476+00:00",
-    "2cb34665764c450b": "2026-09-04T17:26:19.339476+00:00",
-    "bd52af79da9fc920": "2026-09-04T17:26:19.339476+00:00",
-    "2d1bf5c3be25a39d": "2026-09-04T17:26:19.339476+00:00",
-    "0245aa6703fb5705": "2026-09-04T17:26:19.339476+00:00",
-    "56b615149f25ef27": "2026-09-04T17:26:19.339476+00:00",
-    "9b54f83f9eabd91c": "2026-09-04T17:26:19.339476+00:00",
-    "cb6624671839b974": "2026-09-04T17:26:19.339476+00:00",
-    "d528f8f9e14152ef": "2026-09-04T17:26:19.339476+00:00",
-    "b5201efedf43760e": "2026-09-04T17:26:19.339476+00:00",
-    "488035bb0141ec4f": "2026-09-04T17:26:19.339476+00:00",
-    "db44d74553c17164": "2026-09-04T17:26:19.339476+00:00",
-    "93b948d2ca7ecb35": "2026-09-04T17:26:19.339476+00:00",
-    "5acf81668a787210": "2026-09-04T17:26:19.339476+00:00",
-    "70b4c78516e581e0": "2026-09-04T17:26:19.339476+00:00",
-    "a2ee1e7a9f6b6433": "2026-09-04T17:26:19.339476+00:00",
-    "c6e7a25136b2875b": "2026-09-04T17:26:19.339476+00:00",
-    "93e780006678360f": "2026-09-04T17:26:19.339476+00:00",
     "76fa4e284ea0731a": "2026-09-05T06:46:42.207193+00:00",
     "02397274731b2f85": "2026-09-05T06:46:42.207193+00:00",
     "9e64e9f1803cd4ee": "2026-09-05T06:46:42.207193+00:00",
@@ -2535,7 +2502,36 @@
     "b8c9c0c672a76c6a": "2026-10-04T13:48:10.315386+00:00",
     "72acd5c2d36905f7": "2026-10-04T13:48:10.315386+00:00",
     "7836bea154166c7c": "2026-10-04T13:48:10.315386+00:00",
-    "905b63fe0abd38c6": "2026-10-04T13:48:10.315386+00:00"
+    "905b63fe0abd38c6": "2026-10-04T13:48:10.315386+00:00",
+    "fa5e7a2ab87bc0d6": "2026-10-04T18:01:46.332479+00:00",
+    "cb33b991c4f9acce": "2026-10-04T18:01:46.332479+00:00",
+    "fa6140eab51c290f": "2026-10-04T18:01:46.332479+00:00",
+    "eb73571a1b7fa30c": "2026-10-04T18:01:46.332479+00:00",
+    "1d5187bbe1813caf": "2026-10-04T18:01:46.332479+00:00",
+    "7c4347f9affa26d4": "2026-10-04T18:01:46.332479+00:00",
+    "0d9407022eef146e": "2026-10-04T18:01:46.332479+00:00",
+    "f9f0beb170b52531": "2026-10-04T18:01:46.332479+00:00",
+    "ff917e2f43ca430b": "2026-10-04T18:01:46.332479+00:00",
+    "0b46921d964a481a": "2026-10-04T18:01:46.332479+00:00",
+    "08b1578951c347bc": "2026-10-04T18:01:46.332479+00:00",
+    "e8478a39ae29115d": "2026-10-04T18:01:46.332479+00:00",
+    "93336f613c15f9df": "2026-10-04T18:01:46.332479+00:00",
+    "b4d94d3b09e1f332": "2026-10-04T18:01:46.332479+00:00",
+    "1d4f0d051a92c7ad": "2026-10-04T18:01:46.332479+00:00",
+    "862d864d0f1f383e": "2026-10-04T18:01:46.332479+00:00",
+    "f27c9be2b5e4f431": "2026-10-04T18:01:46.332479+00:00",
+    "1bafbe6b61dc2992": "2026-10-04T18:01:46.332479+00:00",
+    "765ab20414959c3f": "2026-10-04T18:01:46.332479+00:00",
+    "f2ddb21ce2edc683": "2026-10-04T18:01:46.332479+00:00",
+    "ee4b473319caef4e": "2026-10-04T18:01:46.332479+00:00",
+    "dd5be42934e1fb12": "2026-10-04T18:01:46.332479+00:00",
+    "a4c69b5c8caa00d9": "2026-10-04T18:01:46.332479+00:00",
+    "2c20a08258948867": "2026-10-04T18:01:46.332479+00:00",
+    "fa8f4079cd3260d8": "2026-10-04T18:01:46.332479+00:00",
+    "52a8652b68e4b610": "2026-10-04T18:01:46.332479+00:00",
+    "93ced248491f7cb7": "2026-10-04T18:01:46.332479+00:00",
+    "cac26a8e10376f39": "2026-10-04T18:01:46.332479+00:00",
+    "ff72894927c9fd44": "2026-10-04T18:01:46.332479+00:00"
   },
   "yesterday_items": [
     {
@@ -2705,6 +2701,86 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZVkwMW83VDFSYjJPLXhISUd2ZktPcG5kMEVJODROWWNjc3M5TFpnQW1XbWplUW5adV9NTFBrTk12MVdYM0U1SzRLS0pQN0lRZGY1V2Foei1feDQ?oc=5",
       "pub": "2026-10-04T13:00:38+00:00",
       "id": "905b63fe0abd38c6"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Ħ \"What's the plan for Hedera to start generating more revenue?\" The plan is to continue focusing on enterprise, with heavy emphasis on a few primary verticals like ESG, AI, supply chain, and finance, while going to market with channel partners like PwC, IBM, and Accenture Ħ",
+      "link": "https://www.reddit.com/r/Hedera/comments/1wxkptr/ħ_whats_the_plan_for_hedera_to_start_generating/",
+      "pub": "2026-10-04T17:03:51+00:00",
+      "id": "ee4b473319caef4e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BGMEA chief urges Pakistan to boost imports from Bangladesh to bridge trade gap - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW1QdUYxaDhPMDNBTVYxbm14a0tYU1NFdEhBMXVLX3dydDBFc3EySGhsYWxEVk5kZjFKNHgyQ2VpLXFtTjB1b2NQQXZCU3NTNjY1SFFwa0ZjbFkxQ2Z5czVFek5LMWRPcngtTGxRN2pCLV9NQU9QLUFjbTFxX1RjSnZJZE5sUjRBRFd4WkRmYlhmZEtkdVVNZktXYmNCcGJ6TkxCSkZsTU14UUp5SUQ5TzJTb09DZw?oc=5",
+      "pub": "2026-10-04T15:01:21+00:00",
+      "id": "dd5be42934e1fb12"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA chief urges Pakistan to boost imports from Bangladesh to bridge trade gap - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW1QdUYxaDhPMDNBTVYxbm14a0tYU1NFdEhBMXVLX3dydDBFc3EySGhsYWxEVk5kZjFKNHgyQ2VpLXFtTjB1b2NQQXZCU3NTNjY1SFFwa0ZjbFkxQ2Z5czVFek5LMWRPcngtTGxRN2pCLV9NQU9QLUFjbTFxX1RjSnZJZE5sUjRBRFd4WkRmYlhmZEtkdVVNZktXYmNCcGJ6TkxCSkZsTU14UUp5SUQ5TzJTb09DZw?oc=5",
+      "pub": "2026-10-04T15:01:21+00:00",
+      "id": "dd5be42934e1fb12"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাকিস্তান থেকে কেমিক্যাল-ডাই আমদানি বাড়াতে চায় বিজিএমইএ - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1MHNCQS0xTHpDMWNZMzVjTEM4WTdZUllyb2NGanNSX2d6T3VkaHRQZ2xVaFBSWXZObDRrR0h5ZnFwNjA0ZElucnVDdTc5Vk9ULTRIQ2hCb1UwZkx4LWR5dmR4ODdVUQ?oc=5",
+      "pub": "2026-10-04T17:31:00+00:00",
+      "id": "a4c69b5c8caa00d9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সভাপতির সঙ্গে পাকিস্তানের হাইকমিশনারের বৈঠক - Channel 24",
+      "link": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOeVVURFprZlNjMV9La0Vkb0ZBWEVVTXFpUDRGeFJpSWYwU2VkMXJnWG00MFdCVlk4M3JMMEI5WFhLamNhWVlodnlRNG9TdW40VG80Z1VLaFFzalNYUjVJZnRKUjZ1V3A0UHoyUVhJWGQtMVlIRUtRWHo0dkhBLVhwTmowaEk4YUpMYUhmTVJxcks5RGEyMXM0YW1yUktfdHRXZkpQbHkwcjByWFNvYWtjVnJVWEVkaDdKY2FNLW5KQXo0MGotT0FMMlFpU2NnSS1BOXdoU0Jvb1J2UGUyeEVUNlZMbnJWcERLTmgyb25Uck5zMWZETGJRTzBrZzJ0X19rZWhVUnd1OUFsNFpveENKMFZFVFU0RXNvUjNvNUhNLWRwRnEtYm4tQjlQeDBfZk10cXFxR01OTWZSOVhBWlhnQVNSZzFXSE9DUXdCWlluenhvQmVpblh6d1B2aGs5T0VCdWg5M0VjUjl4ek1GZDJZMjM0d1k5QXU3NTUtSUNGaVFtaDc4b1VYQ0lrYk9UNXJaQmVQQlJtR21jLXduTlN0dHRreGVMU3gtazJQVTJUbGV3ZjFVMXlja2NxNmdVb0hIX2M5clJDdS1Lemd6OFVQTkJsWDE1TENLRUgxcjF6dUt6ci1WYzlkNXFwLTF3Q0ZmaHhZcDRLd3M4dVUySFNqQkI3dm5aMWNlT2xXWnFSQUgxaERYWVFKMHd3RVEyVnBmTF9TRmJEY094emZTXzZWSlljQk41cEFXRkdiQmRQNDJqeFVFM2dybXFsSmx0QUk0SHBCZ2JDSC1IcUFyb3RUVzJtejhITmlDaUk0OHV0c1NRRGdFTXFZdzBWTi1CRDlTNUFzOUVoM0VSczlhdTZCLUI5azNLYy00QnNJ?oc=5",
+      "pub": "2026-10-04T14:31:00+00:00",
+      "id": "2c20a08258948867"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশের ওষুধ ও সুতা কেনার আশ্বাস দিল পাকিস্তান - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zSG13a09oaXNpczhMWERxaGxCekhiZnR3Mkt4RUVjQ3ZValdyODNZRTc5S2lMellGLVFPX1lLQ3AxMU5iYW85TnV4UWdKdw?oc=5",
+      "pub": "2026-10-04T14:09:04+00:00",
+      "id": "fa8f4079cd3260d8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাকিস্তানের সঙ্গে বাণিজ্য বাড়াতে পোশাকের কাঁচামাল আমদানির প্রস্তাব - dhakamail.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjS1BCR0NLM1p6TEhTWEhvcV9xbnhuMHlSQVcwRWE1WWg2N3FtcktzaXBlR3c5Mk5MZHgyN2FRMC1OU1VadjVEbEZyeknSAVJBVV95cUxOc0RjT2Q0WGEtTTlNcUNCbTBmanlqTGNqeUFTTTUwSXBXQU9IVmJUZGlwWGRTS0dRVDI5c0VqM3VWa0VzMkFBcUtTT2t1Q0JvcHVR?oc=5",
+      "pub": "2026-10-04T12:29:08+00:00",
+      "id": "52a8652b68e4b610"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ-পাকিস্তান বাণিজ্য বাড়াতে বিশেষ মুক্ত বাণিজ্যব্যবস্থার আলোচনা - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxOSGRMNFM4WWZXMnoycUhYbHZNV0NRTWM3cXdNN19kZ01sTkE4TFJ1aUFsTGVobUgtSmdMSEk1WDRnaTJ5Qzd5bmdUMjg2RDlCRmVEbzBRV3VwVkdkVEN4SldNZlZjMVFyMXd5UmwwZHVaYkFRWWpvT1dtR1Z3SWNWLVlidHVzZ1FkMXpIcjdUQnFWa1J4c3dkZFF4VWZzS3Y4Z1pjZzdnMllzQ0YxMVBfR2xBdUlDSVpoemptbGpZUEFpTHpSejhOY1JEdmRnaFE4TE1LTlQ4cGRuZ2x3YVRNYTRFUU5FeUhPQTMzdGRsOElZVHpnUDE0a1czWnVNTi1kanp1UVl3ejVYTEZpX1RYZmdMYndWd1RtNmFfVXlFQmN1aXNKMzNJcFEwaW9YdENIXzNWSUNSaWhhRlJWVFVnMVBPUzBTUkoySVNjNUE3a2JxYWdFOU9JdXdmbUpCOVVNVDl4SkI0b0hva3dvMkt3MnMyd0pZOEUxTlNfRUxNbzNrSWc4SWZuamItc2U1ckFRdmhKUG9lWko4N2VhNnhWeURVRmhiYmhJRWp3TVZZMWktenI1UUtnSUs3elhxNjRXN1F3MXl6WUJyMzEyWUpwQWU4YUh3RktYaEFMeExieTF3Qzg5LVZuVURvY1BXbXZDUTJ3VzVWSlNhWS1FMmNGMkJYeUI3Q0drdmxBYl9qLXh5Q29MVk42LV9ZSFB6NUwtYVBBaUhSMkVnb0Y2T0hsbzF6c3h6bXZ2ZGphSm1KSUJXeVJCS0wxZm1TZnfSAcwEQVVfeXFMTkhkTDRTOFlmVzJ6MnFIWGx2TVdDUU1jN3F3TTdfZGdNbE5BOExSdWlBbExlaG1ILUpnTEhJNVg0Z2kyeUM3eW5nVDI4NkQ5QkZlRG8wUVd1cFZHZFRDeEpXTWZWYzFRcjF3eVJsMGR1WmJBUVlqb09XbUdWd0ljVi1ZYnR1c2dRZDF6SHI3VEJxVmtSeHN3ZGRReFVmc0t2OGdaY2c3ZzJZc0NGMTFQX0dsQXVJQ0laaHpqbWxqWVBBaUx6Uno4TmNSRHZkZ2hROExNS05UOHBkbmdsd2FUTWE0RVFORXlIT0EzM3RkbDhJWVR6Z1AxNGtXM1p1TU4tZGp6dVFZd3o1WExGaV9UWGZnTGJ3VndUbTZhX1V5RUJjdWlzSjMzSXBRMGlvWHRDSF8zVklDUmloYUZSVlRVZzFQT1MwU1JKMklTYzVBN2ticWFnRTlPSXV3Zm1KQjlVTVQ5eEpCNG9Ib2t3bzJLdzJzMndKWThFMU5TX0VMTW8za0lnOElmbmpiLXNlNXJBUXZoSlBvZVpKODdlYTZ4VnlEVUZoYmJoSUVqd01WWTFpLXpyNVFLZ0lLN3pYcTY0VzdRdzF5ellCcjMxMllKcEFlOGFId0ZLWGhBTHhMYnkxd0M4OS1WblVEb2NQV212Q1Eyd1c1VkpTYVktRTJjRjJCWHlCN0NHa3ZsQWJfai14eUNvTFZONi1fWUhQejVMLWFQQWlIUjJFZ29GNk9IbG8xenN4em12dmRqYUptSklCV3lSQktMMWZtU2Z3?oc=5",
+      "pub": "2026-10-04T12:30:06+00:00",
+      "id": "93ced248491f7cb7"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাকিস্তানে রপ্তানি বাড়াতে বিজিএমইএর তাগিদ, ব্যবসায়ী দল পাঠানোর আশ্বাস - Talash BD",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SkdQcHNFdkFjY21UREh1TkFlbzNHd21lRjBpWDQtMmxUcjJkR3ctRjllTjl3R0JsWjRBdEhtSlNaNERfVTE2RHF2X0M4YXZpb2VZ?oc=5",
+      "pub": "2026-10-04T13:41:39+00:00",
+      "id": "cac26a8e10376f39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশের ওষুধ ও সুতা কেনার আশ্বাস পাকিস্তানের - Dinajpur TV",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85N1FoMzVjclhCZEliZ250QXc4UDA1WkRhb1Q4N3J0X0dPQWN0THVVYmxuMGRKSWFZd1FqbUxoSDJaU3ZLUXA0X1ZCbG0wdVlNZWc?oc=5",
+      "pub": "2026-10-04T09:08:11+00:00",
+      "id": "ff72894927c9fd44"
     }
   ]
 }
