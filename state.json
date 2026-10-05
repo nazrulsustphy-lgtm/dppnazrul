@@ -1,33 +1,5 @@
 {
   "seen": {
-    "76fa4e284ea0731a": "2026-09-05T06:46:42.207193+00:00",
-    "02397274731b2f85": "2026-09-05T06:46:42.207193+00:00",
-    "9e64e9f1803cd4ee": "2026-09-05T06:46:42.207193+00:00",
-    "a744b35c14f5fce4": "2026-09-05T06:46:42.207193+00:00",
-    "c4c5922e7030dae3": "2026-09-05T06:46:42.207193+00:00",
-    "f89e0cd4e06a0712": "2026-09-05T06:46:42.207193+00:00",
-    "a40617fe9b394e33": "2026-09-05T06:46:42.207193+00:00",
-    "8d4e629e469eba55": "2026-09-05T06:46:42.207193+00:00",
-    "a8b925505e79c662": "2026-09-05T06:46:42.207193+00:00",
-    "81db0e07a61a5515": "2026-09-05T06:46:42.207193+00:00",
-    "98a5f39e0061e1bc": "2026-09-05T06:46:42.207193+00:00",
-    "a962c30f3e50199c": "2026-09-05T06:46:42.207193+00:00",
-    "9c9758ff9c7171cc": "2026-09-05T06:46:42.207193+00:00",
-    "ad1fbd82c43014c9": "2026-09-05T06:46:42.207193+00:00",
-    "5711859d21cf108b": "2026-09-05T06:46:42.207193+00:00",
-    "771e2075a4803675": "2026-09-05T06:46:42.207193+00:00",
-    "b32805bcd08249fe": "2026-09-05T06:46:42.207193+00:00",
-    "a21f180794721c2e": "2026-09-05T06:46:42.207193+00:00",
-    "e808ecaef07200a4": "2026-09-05T06:46:42.207193+00:00",
-    "50cdc50be219a608": "2026-09-05T06:46:42.207193+00:00",
-    "eca9bef2a3c9973c": "2026-09-05T06:46:42.207193+00:00",
-    "4f6b4955b5d8611a": "2026-09-05T06:46:42.207193+00:00",
-    "8135587d1ec56ac5": "2026-09-05T06:46:42.207193+00:00",
-    "7f21ba108ec68d2d": "2026-09-05T06:46:42.207193+00:00",
-    "7be08cbde7febfb5": "2026-09-05T06:46:42.207193+00:00",
-    "d2a9c60e46ce1098": "2026-09-05T06:46:42.207193+00:00",
-    "f867bc7026bfae34": "2026-09-05T06:46:42.207193+00:00",
-    "e5eb32fe23a612b3": "2026-09-05T06:46:42.207193+00:00",
     "a93eb5138fbda77d": "2026-09-05T11:42:56.902209+00:00",
     "ba3cb5255d8b8e97": "2026-09-05T11:42:56.902209+00:00",
     "88a0ef595fe744d1": "2026-09-05T11:42:56.902209+00:00",
@@ -2531,7 +2503,37 @@
     "52a8652b68e4b610": "2026-10-04T18:01:46.332479+00:00",
     "93ced248491f7cb7": "2026-10-04T18:01:46.332479+00:00",
     "cac26a8e10376f39": "2026-10-04T18:01:46.332479+00:00",
-    "ff72894927c9fd44": "2026-10-04T18:01:46.332479+00:00"
+    "ff72894927c9fd44": "2026-10-04T18:01:46.332479+00:00",
+    "355cf0a24ff714d7": "2026-10-05T08:36:10.611468+00:00",
+    "ca8118c8875e5e47": "2026-10-05T08:36:10.611468+00:00",
+    "16d53684accc9e57": "2026-10-05T08:36:10.611468+00:00",
+    "9b1d618dcdb61733": "2026-10-05T08:36:10.611468+00:00",
+    "c07940a184618913": "2026-10-05T08:36:10.611468+00:00",
+    "6de35a0feb89a3cd": "2026-10-05T08:36:10.611468+00:00",
+    "b2e7ada2c1de9d7b": "2026-10-05T08:36:10.611468+00:00",
+    "ba668e2e42c097e8": "2026-10-05T08:36:10.611468+00:00",
+    "c1a90291483ad21e": "2026-10-05T08:36:10.611468+00:00",
+    "e97924898b138750": "2026-10-05T08:36:10.611468+00:00",
+    "4b744d5f8928c150": "2026-10-05T08:36:10.611468+00:00",
+    "a80e793cb00792f7": "2026-10-05T08:36:10.611468+00:00",
+    "0500fde6f5889958": "2026-10-05T08:36:10.611468+00:00",
+    "250fdb4933980304": "2026-10-05T08:36:10.611468+00:00",
+    "9e999a14badea057": "2026-10-05T08:36:10.611468+00:00",
+    "36a57a3d8ae99860": "2026-10-05T08:36:10.611468+00:00",
+    "f0620d08f80ffa80": "2026-10-05T08:36:10.611468+00:00",
+    "2086e01e5cbe29bd": "2026-10-05T08:36:10.611468+00:00",
+    "ff33c051369f014f": "2026-10-05T08:36:10.611468+00:00",
+    "074146d0f8d19f65": "2026-10-05T08:36:10.611468+00:00",
+    "17fd572a27163420": "2026-10-05T08:36:10.611468+00:00",
+    "00f238d1dc42c976": "2026-10-05T08:36:10.611468+00:00",
+    "10a377992a8f5517": "2026-10-05T08:36:10.611468+00:00",
+    "2d4a03fe2eb713ce": "2026-10-05T08:36:10.611468+00:00",
+    "f5d56857f39899e8": "2026-10-05T08:36:10.611468+00:00",
+    "8f0d61fcea93d325": "2026-10-05T08:36:10.611468+00:00",
+    "a142e91c88a3a59b": "2026-10-05T08:36:10.611468+00:00",
+    "a89845ed556c7b77": "2026-10-05T08:36:10.611468+00:00",
+    "1c1ca1ad365415ec": "2026-10-05T08:36:10.611468+00:00",
+    "999818c30614849d": "2026-10-05T08:36:10.611468+00:00"
   },
   "yesterday_items": [
     {
@@ -2781,6 +2783,86 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85N1FoMzVjclhCZEliZ250QXc4UDA1WkRhb1Q4N3J0X0dPQWN0THVVYmxuMGRKSWFZd1FqbUxoSDJaU3ZLUXA0X1ZCbG0wdVlNZWc?oc=5",
       "pub": "2026-10-04T09:08:11+00:00",
       "id": "ff72894927c9fd44"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ফেয়ারফোর্ড ঘাঁটি থেকে সব বোমারু বিমান সরাল যুক্তরাষ্ট্র - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeWc0dUhuTFFjcXNScHRIdGhBakkzV1BsRzBmRVFhOU5nSU44elQ3blAxcDlyRFlxTVZJcWdWcGdqSDEweU94OHpsLUFnRnNUTXc?oc=5",
+      "pub": "2026-10-05T03:30:00+00:00",
+      "id": "17fd572a27163420"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ থেকে আমদানি বৃদ্ধির আহ্বান বিজিএমইএ সভাপতির - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LUVZ4TktuZkNMZE1SOTdleFkzUE53TmhRcGQtWk4tdk9XZ3R5bFVSd2MteHpIQUs1dk1ETHhiOTRvSTBfTWYzek5waFZzRzIwcjB4Ykplbk5qMHVvbUY3ckhpTmtLYjJ6TjVGREpuZllORzF1d3IwQ1AxYw?oc=5",
+      "pub": "2026-10-04T22:40:21+00:00",
+      "id": "00f238d1dc42c976"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সভাপতির সঙ্গে পাকিস্তানের হাইকমিশনারের বৈঠক - NTV BD",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qX0tWcTBJZWF4Nk5DMmh4VWNaemJ6dTY5UzE0Qkt1dlU4cWI2bGRGWmtBN1ZSU3h1UzdDems0aEtFUVh0Z08tWDhUOXhETFFfekRtQTBwYzRSUQ?oc=5",
+      "pub": "2026-10-04T16:55:00+00:00",
+      "id": "10a377992a8f5517"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বিজিএমইএ সভাপতির সঙ্গে পাকিস্তানের হাইকমিশনারের বৈঠক - Channel 24",
+      "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOeG1Iay1OV0ZjSzdkb3g0UjV1QjV3YmhiTzFVQ1RhUkpHVUxGLUpnaEZENHl2aG14clRvRDJDQldUa19NSWRjZUVLdVRzTzdYQlJOSDFVMklJTnExRnFQMTIzdWxoUlBadFhaTEhKT2ZTRlhiYmNfZjU5ZjVVbnhoQVNNRThxbmxtdVh3RlAxaFRNT2RBcEdBYWhiOFBPX2NkbGJieUsteEgyczdZS1haSWN5WnBfNUpIZ284eUxzUzZNUTZ5ZC16bnpDMzJsc3hiMC00d09iVTh1UXRGVGgzQ25OR3dKdVpCTWlNUm9Ka2pnbkVwWFhWVnpWVkNnZ0ZROVFhNXJBY2dFM2oxSWJVYWYwZHZ5YjN6OVBLVkxkR21TX3B0ZjNIX0F0Z1lJVDFXTkpNbWpyM2FmOXpiQW9tbTdWMlpkRHpfV3RiUm1sNExtdGJZNDNqUEh4UmhSbVVOS3pPT0FPZVBlSnJyY1o2TW1UelU1cV9Qdk5SNi1wb3hJZjNNZDhYV19NZDljeEhqWGFKcnBpb2dycWlyVHpNbDFwQzVramtzc1ZJMWY5cmlWMWdyd1NPSlVrUll2RFJqTjNwUm5EaEdSeWR3TXowaDVwUnB6aVQ1QmdWWXhOQmJlSUhWOUhwZm8xd0hPdFJNZVhwMTZrMW1kMENuQTdJbFl6MmZLM2piTENsaS01dHdnWXczd0hHX1BPSGFJS1VuNFNyMi1IZkZodDNORllXVmROdUdKaVgxQzhoQzJFc29sYWxoeDJaMXQzSWdsb0I2T3ZMU1hncHU3M3hjY3c5dU80U1pyQVQzNkU0clBlbkxfYzItd0JyWDU4SVl2MFcyVUVaTHBiemFxMUlUWFl3aHNSU3BsZnpaTGc?oc=5",
+      "pub": "2026-10-04T14:31:00+00:00",
+      "id": "2d4a03fe2eb713ce"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ-পাকিস্তান বাণিজ্য বাড়াতে ব্যবসায়ী প্রতিনিধিদল বিনিময়ে জোর - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZOWRaOEVScUdZbG9SajVNN000bElHeG9ZaUFlU3NDYmp3M09jcUgwRTFlX3NmWG43N29XZUxLaDBhX2NfWTNVRXpZYl8?oc=5",
+      "pub": "2026-10-05T02:16:10+00:00",
+      "id": "f5d56857f39899e8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাকিস্তান থেকে কেমিক্যাল-ডাই আমদানি বাড়াতে চায় বিজিএমইএ - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaM3VaSHlCcEhGZnFGMi1BcGd4UU1IRHF3aWpiSGVXTF9INUVIMTQ2WEg1ajRZVnh3YngzRzRUUlIzcWs0N1JUZ3lySEhiVlRYTXVDdzdkYVM?oc=5",
+      "pub": "2026-10-04T18:01:00+00:00",
+      "id": "8f0d61fcea93d325"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাণিজ্য ঘাটতি কমাতে পাকিস্তানে জুট ইয়ার্ন-ওষুধ রপ্তানি বাড়াতে চায় বিজিএমইএ - kaleralo.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9acFI2NlpTaTZuaFh2Y05GRm1jWm5FSEdkRVJxU3ZRTGozaW14VFNjUXQzVFhZNWhQYUZDTlVEUGgxNGh1V2xuRg?oc=5",
+      "pub": "2026-10-05T04:33:30+00:00",
+      "id": "a142e91c88a3a59b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পাকিস্তানের সাথে বাণিজ্য ভারসাম্য আনতে বিজিএমইএর উদ্যোগ - NewsNow24",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hWEhwOW5LSlZtV1ZHS294cVVKMVN2SFpReEJ6cUNTcFBoSXVfbzRFSEc4OUhNRkNmMEl1UE9UUktBdVFOcnVxVHE5cGt0dGdEdkdJ?oc=5",
+      "pub": "2026-10-04T13:42:00+00:00",
+      "id": "a89845ed556c7b77"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ-পাকিস্তান বাণিজ্য বাড়াতে পোশাক খাতে সহযোগিতা জোরদারের আলোচনা - parbattanews",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNOC0yN3dvOXRmVHFfN3hlTzBRTEM5NGR5VmpkRXEzSXBRU1luSEVieW5DVWZwaTM4Q25CbEo1enlDTkZ3NnpBNTJZZU15YXI5cWdsTFE2alBSamtpcGw5QjdxVzFqVXZmU1p0UXlTSEhqWDVvUjQ5TDhKTTZ5QXYxNXFmVF93dmpTVWhXTW04UjJvY0R4bzUwY1pubHR3OHg5d29kdVlxTXo5OGpmNTZ5aERnU2dLQklPeHZycy0tWEtFSnNXUjlnWm1mb1F4ek40WU1GZzRBVkFwcnhqUHNydEg4MWVyaExXY0cyT3BQWFplTEVzUkRodHZBQ1d5S1FyT0NkRjRNcDlrd1czaUZ6UV9QeEVOWUh3aFAzUjlhaW15U09nYzRzNzF6NFhyaThiakNvMG9MYlY2elQzZnpqV0F4aEhhc05yc3I00gHLAkFVX3lxTE04LTI3d285dGZUcV83eGVPMFFMQzk0ZHlWamRFcTNJcFFTWW5IRWJ5bkNVZnBpMzhDbkJsSjV6eUNORnc2ekE1MlllTXlhcjlxZ2xMUTZqUFJqa2lwbDlCN3FXMWpVdmZTWnRReVNISGpYNW9SNDlMOEpNNnlBdjE1cWZUX3d2alNVaFdNbThSMm9jRHhvNTBjWm5sdHc4eDl3b2R1WXFNejk4amY1NnloRGdTZ0tCSU94dnJzLS1YS0VKc1dSOWdabWZvUXh6TjRZTUZnNEFWQXByeGpQc3J0SDgxZXJoTFdjRzJPcFBYWmVMRXNSRGh0dkFDV3lLUXJPQ2RGNE1wOWt3VzNpRnpRX1B4RU5ZSHdoUDNSOWFpbXlTT2djNHM3MXo0WHJpOGJqQ28wb0xiVjZ6VDNmempXQXhoSGFzTnJzcjQ?oc=5",
+      "pub": "2026-10-04T16:48:12+00:00",
+      "id": "1c1ca1ad365415ec"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "বাংলাদেশ-পাকিস্তান বাণিজ্য বাড়াতে প্রতিনিধিদল বিনিময়ের উদ্যোগ - Bangla Edition",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rZWN2LU9wY0dkY3NZdGFtLUpFTmpkNzVmZ19WZlJzT1UwQ1owX1A5TTBWU0xlbHVpQzd2aWxXQjEyN1F1bnNXUDdERUtSZTZtUnlOMnZVSldIOE9hT1FHaFZ3?oc=5",
+      "pub": "2026-10-04T16:46:00+00:00",
+      "id": "999818c30614849d"
     }
   ]
 }
