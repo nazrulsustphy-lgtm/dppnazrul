@@ -1,32 +1,5 @@
 {
   "seen": {
-    "f67b30cb2d67d59e": "2026-09-22T17:59:13.924023+00:00",
-    "dd2c57bd327c53cb": "2026-09-22T17:59:13.924023+00:00",
-    "f59338e6f834c4a9": "2026-09-22T17:59:13.924023+00:00",
-    "012929615fd38e6e": "2026-09-22T17:59:13.924023+00:00",
-    "99a52ebd3d384296": "2026-09-22T17:59:13.924023+00:00",
-    "c903639ee6147c1b": "2026-09-22T17:59:13.924023+00:00",
-    "8568f929636b811c": "2026-09-22T17:59:13.924023+00:00",
-    "a7bc44003c9f5b34": "2026-09-22T17:59:13.924023+00:00",
-    "256f37f51dff4976": "2026-09-22T17:59:13.924023+00:00",
-    "5a560d856c7fffd5": "2026-09-22T17:59:13.924023+00:00",
-    "05a84ab6cb0d6391": "2026-09-22T17:59:13.924023+00:00",
-    "27fd9b8816a51adb": "2026-09-22T17:59:13.924023+00:00",
-    "12c9c09445df1d08": "2026-09-22T17:59:13.924023+00:00",
-    "6100a5180a32ded4": "2026-09-22T17:59:13.924023+00:00",
-    "00e175a58c821702": "2026-09-22T17:59:13.924023+00:00",
-    "ef9bc588e24bec59": "2026-09-22T17:59:13.924023+00:00",
-    "0e5c8d01a61eb0d4": "2026-09-22T17:59:13.924023+00:00",
-    "2d4462450dd84619": "2026-09-22T17:59:13.924023+00:00",
-    "b4b80052f11ca9ba": "2026-09-22T17:59:13.924023+00:00",
-    "5aabbf5b51a4ab71": "2026-09-22T17:59:13.924023+00:00",
-    "628872ed46d8f903": "2026-09-22T17:59:13.924023+00:00",
-    "0ea2ac25bc5fc362": "2026-09-22T17:59:13.924023+00:00",
-    "7bb7373fbb0681c9": "2026-09-22T17:59:13.924023+00:00",
-    "24e107cfe891d2b6": "2026-09-22T17:59:13.924023+00:00",
-    "044c3c9790e0fc19": "2026-09-22T17:59:13.924023+00:00",
-    "0fa8bf1288ca51a4": "2026-09-22T17:59:13.924023+00:00",
-    "913273b44f075a71": "2026-09-22T17:59:13.924023+00:00",
     "8d76ebfcfa8af327": "2026-09-23T13:26:25.392020+00:00",
     "ac9e896782563a2f": "2026-09-23T13:26:25.392020+00:00",
     "3c53434f2a14a9ee": "2026-09-23T13:26:25.392020+00:00",
@@ -2509,73 +2482,34 @@
     "df1e0fbdc4baa758": "2026-10-22T13:35:35.797688+00:00",
     "04062314fcf6d4a7": "2026-10-22T13:35:35.797688+00:00",
     "e86123e5a76ebe58": "2026-10-22T13:35:35.797688+00:00",
-    "9aa547a2a8be0060": "2026-10-22T13:35:35.797688+00:00"
+    "9aa547a2a8be0060": "2026-10-22T13:35:35.797688+00:00",
+    "b1b7a9d9c93cef47": "2026-10-22T18:23:47.681114+00:00",
+    "9e3289256b7c6165": "2026-10-22T18:23:47.681114+00:00",
+    "3586e4514e2bc10b": "2026-10-22T18:23:47.681114+00:00",
+    "d8a6faca2823c48b": "2026-10-22T18:23:47.681114+00:00",
+    "106b201144d705cd": "2026-10-22T18:23:47.681114+00:00",
+    "7991908e88fed263": "2026-10-22T18:23:47.681114+00:00",
+    "3dc7cbc5098f831f": "2026-10-22T18:23:47.681114+00:00",
+    "735956d75d4957a3": "2026-10-22T18:23:47.681114+00:00",
+    "ea28dc6985eb1ded": "2026-10-22T18:23:47.681114+00:00",
+    "17b147353002f9ce": "2026-10-22T18:23:47.681114+00:00",
+    "f1eb4742a6ec7355": "2026-10-22T18:23:47.681114+00:00",
+    "1d838aa7243ebcc2": "2026-10-22T18:23:47.681114+00:00",
+    "d7d2ad68fa7f50b2": "2026-10-22T18:23:47.681114+00:00",
+    "38dfddb67d545d78": "2026-10-22T18:23:47.681114+00:00",
+    "742b34d384209916": "2026-10-22T18:23:47.681114+00:00",
+    "e6b69b8ed1e2482f": "2026-10-22T18:23:47.681114+00:00",
+    "3ae53f9a3f829668": "2026-10-22T18:23:47.681114+00:00",
+    "26efde159c509694": "2026-10-22T18:23:47.681114+00:00",
+    "df35e2f32d3afcbd": "2026-10-22T18:23:47.681114+00:00",
+    "5197417b66dcadae": "2026-10-22T18:23:47.681114+00:00",
+    "92d061cf9d1b46cd": "2026-10-22T18:23:47.681114+00:00",
+    "063c7b2ff658c146": "2026-10-22T18:23:47.681114+00:00",
+    "76c2ae59eb1931f3": "2026-10-22T18:23:47.681114+00:00",
+    "9055de95dc6b0824": "2026-10-22T18:23:47.681114+00:00",
+    "16c75f478ed48724": "2026-10-22T18:23:47.681114+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Is Your Product Data Ready for Europe?",
-      "link": "https://www.reddit.com/r/u_MILL5_Official/comments/1xaw1i8/is_your_product_data_ready_for_europe/",
-      "pub": "2026-10-20T16:00:34+00:00",
-      "id": "40bdcdc872674767"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Premium whiskey, on TRAC(k) 🇮🇪",
-      "link": "https://www.reddit.com/r/OriginTrail/comments/1xat8qv/premium_whiskey_on_track/",
-      "pub": "2026-10-20T14:12:57+00:00",
-      "id": "9f9279ecf005a729"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "রপ্তানিতে প্রবৃদ্ধি তবু সংকট কাটেনি পোশাকশিল্পে - https://citizensvoicebd.com/",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WjBoWEZFYl9zSW44QWo4Nll1WVVoUldwdllpOHdJVmpUXy1Bd2pfWURCakVabjRtX1JYaDFINEJaSTZwTlFDLU1ibE1pb0FlZkxMLTFR?oc=5",
-      "pub": "2026-10-20T13:45:01+00:00",
-      "id": "13e1972c2db7a424"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "সব পোশাক কারখানায় ইএসজি প্রতিবেদন বাধ্যতামূলক করছে বিজিএমইএ - https://citizensvoicebd.com/",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0YlF3ZmYwTW03bGNKVEtfNnpHdVZKcVhmek5wY1dUYWNpMFhrRGlWYllSRTUySVktLTk0emdwbEV5T2hITGQ5V1dQcTFXOGlhSEJZb0xB?oc=5",
-      "pub": "2026-10-20T15:15:20+00:00",
-      "id": "32209278e636490c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "হঠাৎ চড়া মসলার বাজার, কিছুটা স্বস্তি সবজির বাজারে - itvbd",
-      "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOYlEzdm1TR3JMOTVJQXRWS0hubXJ5LTRuV1l6eG1hdndkTlpId3loMHFySTFVc3NPbUI1ZnhzQTFOcXh0a0dLd01aVjZqcUhwakVpM3FHUlEzbmtOZlBCdzJCYTJXN2VKR2NNVmpTRmY0Mi01bHZLdmpQbUFNTlRoLVVFYXQ3Z0ZFWEFDd0lnTUZOTnl3UXJEWnlDeUpQZ2lNUkFtbzRGSDNyZnMxN0dTREN6LVV5XzRmN2UyajZVTEpkeVdPaDljMThvOXBDMDZhNTA5OFB2NzV6XzVhMHNfVTEydkJlV0JER1RWRFZrVlg4N29GNTRCM0Y1Y09NSDVfT0ItYzdBTWxyTXV1UkdkMnpWLXpCQjFOWHhLUGlDSl9FUFBYOWVWeVFPOHlnQkRPa3VzczVWSDVMejJlNWg5RFpUMkJ4NDNFWTlJV2xOVFRfU1o5T0ZpZVQzcnRUanFWMjduZGJyVEJYYjEyek90Wlp6aVFfTWFRZ2RIYkZzX3lJTEFPNm5YUWJMYUM4bTlTS3pQUHBDOTBhYzV6NThlVzlKVHpyWnVlTHZsSDZaZnZKelRCZV9BRF9ta1RSeGdfQ01WNC1JaTRvWDZ4UHNfRFk2bnZQOUVkMTZRMjVEYUU3QUo4NkhFdXI4ZUhjOXY4TDMyMDNLWE4tM2lRU1Q1dzlMRHE5dmo1QzhVV05SRDBOVG9PU2haRG5ERTNrQm85N0gwcTZuN3dDckRNeE9yR1hhbWlYaXVzRGhRWDIwTWlteGZQUlB1ak9HZHJLV28w0gHQBEFVX3lxTE5iUTN2bVNHckw5NUlBdFZLSG5tcnktNG5XWXp4bWF2d2ROWkh3eWgwcXJJMVVzc09tQjVmeHNBMU5xeHRrR0t3TVpWNmpxSHBqRWkzcUdSUTNua05mUEJ3MkJhMlc3ZUpHY01WalNGZjQyLTVsdkt2alBtQU1OVGgtVUVhdDdnRkVYQUN3SWdNRk5OeXdRckRaeUN5SlBnaU1SQW1vNEZIM3JmczE3R1NEQ3otVXlfNGY3ZTJqNlVMSmR5V09oOWMxOG85cEMwNmE1MDk4UHY3NXpfNWEwc19VMTJ2QmVXQkRHVFZEVmtWWDg3b0Y1NEIzRjVjT01INV9PQi1jN0FNbHJNdXVSR2QyelYtekJCMU5YeEtQaUNKX0VQUFg5ZVZ5UU84eWdCRE9rdXNzNVZINUx6MmU1aDlEWlQyQng0M0VZOUlXbE5UVF9TWjlPRmllVDNydFRqcVYyN25kYnJUQlhiMTJ6T3RaWnppUV9NYVFnZEhiRnNfeUlMQU82blhRYkxhQzhtOVNLelBQcEM5MGFjNXo1OGVXOUpUenJadWVMdmxINlpmdkp6VEJlX0FEX21rVFJ4Z19DTVY0LUlpNG9YNnhQc19EWTZudlA5RWQxNlEyNURhRTdBSjg2SEV1cjhlSGM5djhMMzIwM0tYTi0zaVFTVDV3OUxEcTl2ajVDOFVXTlJEME5Ub09TaFpEbkRFM2tCbzk3SDBxNm43d0NyRE14T3JHWGFtaVhpdXNEaFFYMjBNaW14ZlBSUHVqT0dkcktXbzA?oc=5",
-      "pub": "2026-10-20T13:46:30+00:00",
-      "id": "9934ab850f5e45db"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সব পোশাক কারখানায় ইএসজি প্রতিবেদন বাধ্যতামূলক করছে বিজিএমইএ - https://citizensvoicebd.com/",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0YlF3ZmYwTW03bGNKVEtfNnpHdVZKcVhmek5wY1dUYWNpMFhrRGlWYllSRTUySVktLTk0emdwbEV5T2hITGQ5V1dQcTFXOGlhSEJZb0xB?oc=5",
-      "pub": "2026-10-20T15:15:20+00:00",
-      "id": "32209278e636490c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ট্রাস্ট ব্যাংকের ‘উদ্যোক্তা উৎসব সিলেট’ অনুষ্ঠিত - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxOenE0U0trTjctYXJGa1NxNXJpTE1oWkZ3dHIwbE5WNDNLTTFhbndSZUVEQzJBTlJfSkJZYmVCTVpkRjBkaGNpNldHcDd1aGtSQmFFNVJ1V0g2RThqUE1fbGRQR1Fucl90X1ZDTDFlNnlmU2kwWVpmSjRCc3N3MnFuZ01DN3N5V21XNXcyMVBZazlieXBCR05PQXo2bXNsRFdjWW03d1ZxbjNfMlZMVDhVOG15dlZNVFI3NnNQRzZWRG5FZGdtTG1uTDNpemxzU04wclhJZ2RnQXdaWHpUdl9DZHNBelA0T3NwWnY3TjVaN0ltdUdIMm1STHlVQ3dQT1BoWV8yODNicDZtWFUzVjRUZGRQVVJsZG9Bc3NjTUtMdUxsMnJ5OHBOS0NrbHVaY0h3Q0pVcGNOR3RfdGtPWGtxMGRQd0EyemdCMnh0S2FNZnVkbjVXYjF6b3dVN3U2UlhoNDlhTXptQmFfdnBCcE1QVy1zdUFpOWZ0XzJfcG84eFEzaGpFeDlyOGRQdU9pS2RPMzJlanJ4UmNpeVJRUWZtT1dvOVp1RFdWQmpST0hSTWJQOV91RUlHMDNETTdNblJ0REE1QzZwZXVkWUd2Q2pEZHFGS0ZsaGlNTnpkOWNSMzhDM0lWT1VRSUFhVVF1eWFEV3hYSTdFREZaR1Yyd1JScDRTZUtrVURZclBlaUV1MF9nLTlFWkNhYXgzZV8wNWZ3aDczMFQ0am1vb2szTGs1V0tSd2phOU00amNOd3RkZ2lHQThMc25PSjRSOW4?oc=5",
-      "pub": "2026-10-20T16:12:00+00:00",
-      "id": "2def315ce8059950"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মিডল্যান্ড ব্যাংক ও প্ল্যান মেডি ট্রিপের চুক্তি সই - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQWVMzV00tM1otaVhOZG51YjBqaTliSVVQUENFanhiaEwzTjJhY0czSjZIRV91OFZ2YWotd2VQV3ZUMEI5OVpPNEhzam0ySGRVZjJFMEFKSHZ3cFV4VUFtWGJBYkVMdWVIWEZTclRBMDJRbVFsYXBHWTlOZ1RVb200YjlUSHR3RmUxOHRHSVh0VHJXZUNlaWhHZndBMXJOVkF2cWhrUmFnNmEtYmNweG9yY1dnMlpLRTl2Z1RmcUdTbXFuX3VnZnhpS1NfR1hON0RsaVgzN1FDNUp4WHhZYldRcS1EVllPaFZuSkF0WjVLV2Z3MUx2S09URjlnMWFOQ0Z2c3AwRF96MEVFNktyUXMwSUswc0lFTTFBTmVVVHVVWkEwZGZCQWlIU0xwQ0ZiaTY0Uzcya18xV0lyZE40OVVicGJMN2VaZjJ6c0RfQUlZeTl6Y096Qk9KdmdFZUxnbGtUV3hiZjZtNlR5MjVISEZDV3FmMFdvWS1NVzBGZndUTUlSMFdZeWkySkZnTi1HLUhjekl4NzlySXh4LTVmZU9rRWhuc0JGaHdxUnNZU2pSUkJpS3ZwN2M2dGJ2M0RLZEFHR2tLVkxmMEwteE53SkJqcTdMbm5kZEhXUURyNXZuS1owRjJEN0pJYldrTk9ScnFVS1N5SWx3ZE1mZUJnaEtXejVjOFJWVlFQbG9BNGZiTW5TbWFKRUtQMnI1LVhPNlJITUpSMmF4RTNqbDQwUWVRQmppUDYzNmpZQW9ya3lTcUV5cWxuVzZaTng3M3dKaUlLbUFmUFphYXBoUDNwekMxVG5XLS1nNVk?oc=5",
-      "pub": "2026-10-20T16:10:00+00:00",
-      "id": "8f2e39105d21c6e3"
-    },
     {
       "section": "social",
       "source": "Reddit: ESPR/DPP search",
@@ -2631,14 +2565,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3dvVThlWTJybjVUMjZRV2IxMWdqcEVueGpobF8zMGl4Z2xtS080ZEtXODEweVF6U0VhTXprVFJFSGFnSmcwckNoQ3FSQlZZWjVHd2tSV001TUxqZ1dIb1V2aXFwY3I2X2N6dWJ3Zmg2Z3N5X1lfTTgtbGs3VnJ5ZmFpTGFSNWdXR1V2WmpnWi1VRS1kSF92bm56OGRDMEs4VmMxa3JYamhXTHF5dnFJbklpZDRKOHM5ZjZTZw?oc=5",
       "pub": "2026-10-21T05:51:41+00:00",
       "id": "c6904e6a4e065552"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Cash costs 28 times more than digital payments: BB - The Daily Ittefaq",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjd4RnBXMlh3MmFfamMyOWt6Q1N5bVZIZkFwdFo1VTRHWDZtZm1XN1VtRFJldUN3NjVGSjdRNEJjUVV1aFoyYlMxeDBFUEtpVFZpWGtFQ0o2bE9IWVpDTzBfUjZmZE93T1VzQmRmUllIOVU3a3R4VFZLcTVmUXJIVXBLTVk1YjdjczI1VGRB0gGOAUFVX3lxTE5uN3hGcFcyWHcyYV9qYzI5a3pDU3ltVkhmQXB0WjVVNEdYNm1mbVc3VW1EUmV1Q3c2NUZKN1E0QmNRVXVoWjJiUzF4MEVQS2lUVmlYa0VDSjZsT0hZWkNPMF9SNmZkT3dPVXNCZGZSWUg5VTdrdHhUVktxNWZRckhVcEtNWTViN2NzMjVUZEE?oc=5",
-      "pub": "2026-10-20T16:13:01+00:00",
-      "id": "d969c64f712b0880"
     },
     {
       "section": "bangladesh",
@@ -2703,22 +2629,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GS0tHemJMcm1VZU1jWFlhY05mQTJPeGdKakpZbHBFekw4Ti1sTHQ2NktQb2RWM2FrelNUMVBsSmc1aVF0Sk9WZzZEWWN4bXc3NnF5N2RaOEo1MkZ0OElTYUtkTkdRS0dVazBjVEkzaXV5Y1l4emc?oc=5",
       "pub": "2026-10-20T21:54:47+00:00",
       "id": "85f04abf7cf6794a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সম্মিলিত ইসলামী ব্যাংকের নির্বাহী কমিটির ৫ম সভা - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQYW1xYmFNTE9ZYTg2RTAtYjNvb1ZTR0VHUFJyYkoyMjZpekE3dVBxTkNTYllGbGNsY2hFWFdpT3JmZFRTNWNyOThuNlg4eC0yNVNNdERFVG5xZExiMGp2aVlIOXVZNVM3MTR1QUlNV0dXN09mYlBhdmNmOXBKUENFbm1KY094M1hLVk1rQlBCU3h4M25oam8xQ2Z3WXAwaUZfMjk1Z1hpUXR1cFNldHFSUFVibUxfck44SVBjcHh1bmZ1LU1zNUIwN2Z1akJNM1pIRmFLd2E5T3ZuVThNcEhvdVY0Ry1nenMxeTE5UEFBc001NldpNkZVZURNM3dOTXlac2hMMzhYR2syaXpPdmVvSXpNaHVxT0VwZHVCU1JnYkRTYmsyVWpFb1FRRmdnMlpzNVFYblVSRXY0VnRWVnUwWTZzaHNWVEE3NjEzX2dyc0hQcWxQdl9td0tjWTM5RlljRF9ET2pZQy1LZVduMC1Qd2hBWnZWODg0OE1oeXN0Qi1TVW5Xb1dxbGdHX0psVHl1SU8zUmYwQWx6dmZFbzIzWnl0LTdTalgtQ2ZmcUFGaWRjZ0NXazE1aFdUVmg2WnFPbHVmckhEX2hENjY4cWNoUlVqUEhjZmxUSW9NRFJ6TVI0U20welM5VkdBVllnZHFEeHpTSUpmOS12bWt4c0F6c0JWWlhmZml3THo1bjMzWGxxRGNjWjNHZmt4eWZKZmItWmJ3T1JLY1g0ZEdZN1haSWFWRndLb2tRQzlEQXlzSnhycmF0S0ZGT09WUWFlTm8?oc=5",
-      "pub": "2026-10-20T16:01:00+00:00",
-      "id": "00bd10692be44a27"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "‘রূপায়ণ প্রপার্টি ফেয়ার ২০২৬’-এর উদ্বোধন - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPRHpPU1BrVXFZX0Uybzg5RXJ4NVVoeVFrRVlSQlp2MEFaem11N1ZoVWQyYmVZV0NvU05OY243OVI5X1dMTnQ1LTIzZmx6SjRZWWFRUks5ZUh1ZkZUMXcyRkpwTnRIY2RyV2tHQkRadERhTkk0VHRMQnpiUWRLN1Z1NXl5dDNQcEVQNDU3M1JFM1BRYnh0OXNhaEpPejQxWlUwMTZQRlM1SVJEbVVCbXpLVnRXTmRrSXZRYjVsWnRJa1hlV1lVbFBTN3pnSGRVb0ljcDhGeHlpV05IWXhUZnM3QlJUVG9tTE1zUmJoRGZMV29rQzlveHpxZ0h0QlhoRzZMMEE5bkxNeVVvYVNwd3ZMQnl3cXMxTktLZ0FSZ0E0VWZtUUhqSXlfekg4RVZ0ZnFndnYzMlZpWUJzMVBma0RqZEJYZ0x3bzJmY3hvc1A1STJqMURjRHhtUDZPcnF4QjY1bDJ4a0VHOEFKQnZFSHNianNFWWhyZlFmTWozbUdITXZmX2wyUWpsUjlZd1l2VjdwU3p4WTRRT2hzQ29peENJYklSa2l6eG9wMUFFUnRRc0lNdF9RZ09EZWJheTU2OUgzUTM4WUhCdXpKZDFYeWlRdzJFakxJUWlsVnVRM1FYQjFBNmk5aXdFSXpEZGJHZw?oc=5",
-      "pub": "2026-10-20T16:18:00+00:00",
-      "id": "e608c27528ab60c1"
     },
     {
       "section": "international",
@@ -2855,14 +2765,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qQ3hHSUlxc19oWldpTGJjYUxXaTZHeHlIMlIzcURxTWdLOFI2dmdGLWxWYzZDcXNlRnhsdFVybzhJN2d6Sm8zQURLQWpKZVBHaUxza0JXcU9OS0ZzdGJyeTRCaHBGWFJMSE9vdkdn?oc=5",
       "pub": "2026-10-21T12:30:34+00:00",
       "id": "0a0fef59a72755e1"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "আইটেল নিয়ে এলো প্রথম ডুয়াল-স্ক্রিন স্মার্টফোন ‘A300+’ - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxQZlA2ak1nRGl4cTJXcktmLUMzR2dVQWRRdm9lMUwzbC1TMmQ3OWhJaFdndFdxVG5wSVBuM2R3N21CZWhqMnYwblRlTHFJY0pQYWdES0J4VV93dGMzeHRENDFOYVNSQ1pvVWRsb2VXUF82azlRTnNCSkhsV2d1bUNyOUJXSGR5NURORk5oaUE0aHRVQlVERXFJcWxkdmVzN2xNTGF1ejVmUnB3R1M3VkFLc2xvZ0VZalcyWnc5MlhHVGU5V0VOc015ZU01UDFxS2h4NmNmVjdmT29jRmJsaXdnTm5aR0pENXI3ZU02dUQyVlJNY3VrU0U1eDBKU3FBM1FMOERlUmV2ZUdQdVM4dEpxTFNIcUVvR0VSTXZLMmFobUs1anptbXo3c2hfUlBvcEdyTFVEcFF5QmI5WVd2UzNaaUdveHpuMGFrRWtiNDUxZlpsc3A0OTNSRVVYRDRDdmxwaGxhT0Y2QkpvV3hlOWVVSzNRM28wOUxpZjl4dUxobUNsZVdlaW0zNy1rZUNocWppN3BfcGVHcHd2ZkVRdUI4eVVNMTVrSlJTLWNTOXNOR2JoejFVa0d3N0thbV9VaTFFR2JBc1VabWJpS2IyN09vRzRURlBZNDF6aFBkRWl3VkhIUnpCWVA2R0ZhZmxhMHZJTVJhbUdHSlo2M0FZNDdiZVBYMnYxS2FRV29OWFZTOV9lWEhxOWt3WHhzeG1ielp4T1pEMW1yVUJCNHlCRzJRV3FYZEhWYmszZEF3TFZHYXdIVkFsNzFFZw?oc=5",
-      "pub": "2026-10-20T16:02:00+00:00",
-      "id": "04d5810ca60753a3"
     },
     {
       "section": "international",
@@ -3159,6 +3061,38 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XbTI3Rm9uSlFRUWQzaG5jenBzRXNfNzFVckZUbFpqeDVPN1J4SUV2ZjJRdHR2R1FTWjh4NF85ekw2c09KUDlqZjl3aTJtMUhYbnpVLUtKUkJyLTlzeVY5M20tbFZYdHVNRk83ZTA4S3JQZ3dWUU03YllB0gF6QVVfeXFMTVdtMjdGb25KUVFRZDNobmN6cHNFc183MVVyRlRsWmp4NU83UnhJRXZmMlF0dHZHUVNaOHg0Xzl6TDZzT0pQOWpmOXdpMm0xSFhuelUtS0pSQnItOXN5VjkzbS1sVlh0dU1GTzdlMDhLclBnd1ZRTTdiWUE?oc=5",
       "pub": "2026-10-22T09:43:00+00:00",
       "id": "9aa547a2a8be0060"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Combo for sale 1$",
+      "link": "https://www.reddit.com/r/hotwheelsmumbai/comments/1xcmttq/combo_for_sale_1/",
+      "pub": "2026-10-22T16:09:53+00:00",
+      "id": "063c7b2ff658c146"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "I built a tool for furniture and home-textile makers to collect supplier documents and prepare for customer/audit requests — looking for honest feedback",
+      "link": "https://www.reddit.com/r/SupplyChainLogistics/comments/1xcj973/i_built_a_tool_for_furniture_and_hometextile/",
+      "pub": "2026-10-22T13:55:27+00:00",
+      "id": "76c2ae59eb1931f3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইউরোপে বিক্ষোভের আঁচ বাংলাদেশের পোশাকশিল্পে, হাতছাড়া হতে পারে ক্রয়াদেশ - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugRBVV95cUxQX3dlYlZuTm1qYzRscnVvV1VkUWxpbGJUdjFKWGs4d1Nfb0NIOG1xMXhUSE9vWDFLbUQxMGpoZ3VrZzhtdnVzYjNFRFBuQW4wREVXcC1WcGFuSW1aSFA0QVcyc1hZWTNFRzhMNmlpa3RXNzhzbnlCdWc0Q0dfY19ReEktMnRpZlRqaDZjRjdjQWt4QW9WSnNGRFFsS0Q2RUw5TmlCY3k5czdZcWM4MzQ4amlNU3FNelNTRWNuaFF2SFdxam1LeDlMdHZsQ3hpejF1TkI2cGgwaUsxV1J6aDRFcXg4aWJFcGVOa19OTmthVEktM3hTbVA4VExiMnZ6amg0eExqbXAta1dmcEZpTzdtc1llbEpLUDRrVkNiM2VCcnl4N200NzZzSU90UkJuZHVPckM4Z2xFbXRZZUlua0ZGbkpJYUFWMzFJakFYNWJfT3pueU9MVGRseFRNYkNFVWVpRXFUWFQ1UkZzak16SVJ6NnQwT3NIcGZab0daNnFKVEQ0OEhoeEhkckRzSDRtX2sydzNRZUxnR3pkMFRUbk5mVmI5SHJJalF0VWZhUll0VlZKTEJDNkZ1anlLcHAxUXVzX0QzNU5PTHhWREJKWkpNMmtiZUs3RWJiLUZic2pvbzM2dWZuWV9FVVUzU2ZFWVAxOWdJVExlYmFVbVRoakhTV0k5ZHhWU1RCZmVUTUp0cWNTNGZxOV9Rc3diY3BLdFFlSE8zejQ3ZFRrX1pwYkxYSE9BTE1jZFA0dXfSAb8EQVVfeXFMT29lMXhZNms3MnZIUUNBR0JPQ3RQcHRTLTM3T0t5N0w0ajl3RmsyTmxmYVlnOV9LTHg0Tm0wR2w3LWdXZlFlckdXNEJBcFJDYm1KbXZpZUczOW5TWFM5UFlydXVfZGxUYlZ4OVY3M2ZVRERsbER6U1dCdlk2NnBGc0UxeWhPYy1FTG5zOHI5SzJmVHRwMTVUcXhUN3ROa2cwajdQejM4QVYyWnlMTTN1cUw0SFlXLUxxS0g5Q3M3bkZBamJ2VWhhY0ZmSTk4UGh1b0p6Zm5zVjVNTW0yd2tHSTdrMVBMdF9xZnRVVC1nT0Vld21EeHpBZHdzMl9ZVGg1YmFaQklyNVhJX0FaanZsM0ZqSHc1X25GYlRSQjhYVlo0eUhDRGY3WVY3dGtQS2FfeE9hMFpHWkFpN01KMktfWUZYUk1Gb2JYWEd3N1VpdTBFc19KUUNsQ1FSTnNPSHRKb1ZrbXM2Zkp0b1czM1g3Vkd1NTRVRmxCQ1RPWGdsNEFKa3oxQUhpa0trWkxoU0dMdTJLdHBQTmFXRGFFc2dHR0FDX0pHZUhnVUtwMFpQYkZ1c3Z0dWFOd0Q4ZzA2cG9HVXNSLWpCdGNRZ3RGcnF5QlpBaW1GWW9sc3kxbVowcmRJR0hpbVBlMURCNkV4RThWRUM4R280bDNkSXExT2htdVZzdVR1dElSYWZXY3lFa0ZMSjBCWGQ2OHNtbEtXZ0NZb3NxZ0hYV2R2WEYtWU9HRjJfMHZaX3B1YVBvbXF6WjQ?oc=5",
+      "pub": "2026-10-22T17:59:00+00:00",
+      "id": "9055de95dc6b0824"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "‘বার্সেলোনা টেক্সটাইল এক্সপো ২০২৬’-এ বাংলাদেশের বস্ত্র ও পোশাক পণ্যের প্রদর্শনী - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxOUFltLU15WFJfSWpnM3k5dWFCdjdLVkQ0dlRDemV6eURGSVRxREplZm9iTF9PRlo4TVc0VXhELXlXVUVKWGVuYVdJUGN2Skk3bDRhQjFjcGJrbnQ4SGpmWWV2X0hIcTRfVFQ5enBVZDFldzQwRjU1YkxLRWRaVkZhME9LajA5dVViNFZndC1QYzAzS3FYYVJhZk9McGdlZGVtNEdoZGQxREJqSEZ3OHRrSTl1TFZDWWFFRUpSRm5vWGhhWnZ3WDh6Y1RjVnZpbE5zMHg2Nk9mQkN0amNYcHhxRzNySFZhendwRUdWRjlUQzdZMFU0TUhuLW14cmJib0hSXzZ1N002OFFiSFRXV2o4ZFB6WTBoTDB2aTNkZHI1ajNIZjd0Wk5jZ3I5TkFMNmV5NlhqNmZHYTh2S1AwVGhDbU5nR3dKVlVvR0t3b2Z3WU0yT05hYkl0UGJqX3FLWGxrSEh2eW9rVmU4XzNYMWF6dkhycUtHYzU3ajJObEhDTV9veVRUWTl0VlZoN1ptTzZESlJWWV9PMEVtOFREckNhaFZ4WkJDclBGUXRCVUxXRFl5Qk51bllMSGY0dmhaelRhN3Zra1pHVElOaDY1cXV4cnNLejlnOXAzYXBzM2t2bHI1bkJsTXdOMTZaVDNtR2ZxR3IxNUcwbE9ZMzItYXJjZm1wdGxVeUw0UHdIWUs3YXJ6elowX21rdzVQUWVpb1BPcko3YzZONWwyZGNuNXFsVl85dUdzS0ZmZVhEUC1JX1loM1gzRTRKNjc3WHF4YkE5eUh3QW5kNGpIaTI1ZEhZQk5DNHROOTdKS2gxc2tYNUg1SXR6OXltdzM1RGk1TDVOc1hmcFp2dnc3REI2VHg3akVXeUpQWGdtYkJXVi1vbDU4T3JYMUxYR0kwbG5OZDFTWWs5dmIwZmFJeThZNXZwUjRJbVo5ekJMaFh4QnE3MnRremc0blhXREFvUkpaN0h6VEJOaGFoTUlmYk0yc0Q3Z3cyQlBMUnJraG1zMTR4XzFIV0lKV2wyR0YycThzOWNtV2RkRTJHaWpJWjFqb3B0UDl3NXpPLTVNWE9YWDZlNjlxZmE2b09PR1ExOTNEM1ctaDI0VmdGUXFMSndfRThEVWMtcXBqQzRiSTByb2t6OU1SNUZuQlg4N1FZeWYxSXhRcVkyOFFUbDc3aFZtd0tYeWZaN2o2LUV1?oc=5",
+      "pub": "2026-10-22T11:27:18+00:00",
+      "id": "16c75f478ed48724"
     }
   ]
 }
