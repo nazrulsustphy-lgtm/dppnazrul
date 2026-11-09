@@ -1,42 +1,5 @@
 {
   "seen": {
-    "e19443d000a55b4e": "2026-10-10T18:17:09.428110+00:00",
-    "a9b73affd52bff0c": "2026-10-10T18:17:09.428110+00:00",
-    "101162497573eb5d": "2026-10-10T18:17:09.428110+00:00",
-    "3026bec5774fd8e8": "2026-10-10T18:17:09.428110+00:00",
-    "c30ff55c5d457406": "2026-10-10T18:17:09.428110+00:00",
-    "f36c61e340f2f0b1": "2026-10-10T18:17:09.428110+00:00",
-    "8daf1a7ba4e1fce6": "2026-10-10T18:17:09.428110+00:00",
-    "d4603a5d6c709e3f": "2026-10-10T18:17:09.428110+00:00",
-    "6c01215b4a5a445c": "2026-10-10T18:17:09.428110+00:00",
-    "4e9f03b10dee8d7e": "2026-10-10T18:17:09.428110+00:00",
-    "287ff50b8a6aa98d": "2026-10-10T18:17:09.428110+00:00",
-    "fcd898ac7cd285f2": "2026-10-10T18:17:09.428110+00:00",
-    "7ac8caa26192e95b": "2026-10-10T18:17:09.428110+00:00",
-    "ec692bb62ac987dd": "2026-10-10T18:17:09.428110+00:00",
-    "30b38573628c744a": "2026-10-10T18:17:09.428110+00:00",
-    "bff682977a874990": "2026-10-10T18:17:09.428110+00:00",
-    "f513a0b92a19c48d": "2026-10-10T18:17:09.428110+00:00",
-    "8893298b6dbb26b1": "2026-10-10T18:17:09.428110+00:00",
-    "4619719465589faa": "2026-10-10T18:17:09.428110+00:00",
-    "fa4ac2459fd972be": "2026-10-10T18:17:09.428110+00:00",
-    "3232f29742722955": "2026-10-10T18:17:09.428110+00:00",
-    "5c2a6a662a25aab9": "2026-10-10T18:17:09.428110+00:00",
-    "bf9612aa8f7f9e3d": "2026-10-10T18:17:09.428110+00:00",
-    "3c3de63ebbf08d7e": "2026-10-10T18:17:09.428110+00:00",
-    "20bcfbc7f41a844b": "2026-10-10T18:17:09.428110+00:00",
-    "1a55c58d66191fc9": "2026-10-10T18:17:09.428110+00:00",
-    "ef244a75e1ceebda": "2026-10-10T18:17:09.428110+00:00",
-    "d54c2a07674e2cab": "2026-10-10T18:17:09.428110+00:00",
-    "df51d3313f95accf": "2026-10-10T18:17:09.428110+00:00",
-    "e2720aa41d843579": "2026-10-10T18:17:09.428110+00:00",
-    "a32574ac821487ba": "2026-10-10T18:17:09.428110+00:00",
-    "0d5d41e87789ad5c": "2026-10-10T18:17:09.428110+00:00",
-    "8b1dafdade7da780": "2026-10-10T18:17:09.428110+00:00",
-    "31bb536c7c39549b": "2026-10-10T18:17:09.428110+00:00",
-    "78f6645e3756a70a": "2026-10-10T18:17:09.428110+00:00",
-    "fa48a7304700fcd0": "2026-10-10T18:17:09.428110+00:00",
-    "cf4f2eccf24aeadf": "2026-10-10T18:17:09.428110+00:00",
     "3511aca070e72392": "2026-10-11T18:41:11.465281+00:00",
     "27e8fd2c14073117": "2026-10-11T18:41:11.465281+00:00",
     "65d4f888dc4c45d0": "2026-10-11T18:41:11.465281+00:00",
@@ -2907,97 +2870,62 @@
     "69bf6458428ad7b6": "2026-11-09T09:22:05.217992+00:00",
     "9dbccdb67bcbf4ea": "2026-11-09T09:22:05.217992+00:00",
     "9c3aabd4984e6674": "2026-11-09T09:22:05.217992+00:00",
-    "a9e4b099eed1bb8f": "2026-11-09T09:22:05.217992+00:00"
+    "a9e4b099eed1bb8f": "2026-11-09T09:22:05.217992+00:00",
+    "473b5d61a5245605": "2026-11-09T23:18:03.994040+00:00",
+    "0c8db33f0c0ff99d": "2026-11-09T23:18:03.994040+00:00",
+    "129f1d48787e0aae": "2026-11-09T23:18:03.994040+00:00",
+    "ffdf00e4d060e120": "2026-11-09T23:18:03.994040+00:00",
+    "b35181e4716b8201": "2026-11-09T23:18:03.994040+00:00",
+    "d3351dc4fe293a66": "2026-11-09T23:18:03.994040+00:00",
+    "561ac6af6303fc2b": "2026-11-09T23:18:03.994040+00:00",
+    "009e34372220dd5e": "2026-11-09T23:18:03.994040+00:00",
+    "2800d5c9dccbd1f8": "2026-11-09T23:18:03.994040+00:00",
+    "231a9e0a18ac9977": "2026-11-09T23:18:03.994040+00:00",
+    "9df7e2669c6c5a3c": "2026-11-09T23:18:03.994040+00:00",
+    "81ef916d4d3d356b": "2026-11-09T23:18:03.994040+00:00",
+    "ae7626bd8dfd015a": "2026-11-09T23:18:03.994040+00:00",
+    "add47c27b5356b55": "2026-11-09T23:18:03.994040+00:00",
+    "64f73c7dc2912a9a": "2026-11-09T23:18:03.994040+00:00",
+    "562dcd2ffe466e99": "2026-11-09T23:18:03.994040+00:00",
+    "6d0f9e488b3362e3": "2026-11-09T23:18:03.994040+00:00",
+    "07a078499e32ed50": "2026-11-09T23:18:03.994040+00:00",
+    "fc16ebef2db83bc9": "2026-11-09T23:18:03.994040+00:00",
+    "077fedb67fdfe4a6": "2026-11-09T23:18:03.994040+00:00",
+    "f989b1bb04f8c08e": "2026-11-09T23:18:03.994040+00:00",
+    "ca33b4a3988ccc4a": "2026-11-09T23:18:03.994040+00:00",
+    "7d688c5fd5ea3901": "2026-11-09T23:18:03.994040+00:00",
+    "0ccc28946b2729f0": "2026-11-09T23:18:03.994040+00:00",
+    "f2f0c9dd2678aefa": "2026-11-09T23:18:03.994040+00:00",
+    "341d4e30364a09f2": "2026-11-09T23:18:03.994040+00:00",
+    "f9702952eada5ef4": "2026-11-09T23:18:03.994040+00:00",
+    "d623303a76a2ab1e": "2026-11-09T23:18:03.994040+00:00",
+    "5b525cb7a7c3fa22": "2026-11-09T23:18:03.994040+00:00",
+    "3055699e2b626b29": "2026-11-09T23:18:03.994040+00:00",
+    "d72a9ec45488b28a": "2026-11-09T23:18:03.994040+00:00",
+    "f5b596dce7562b45": "2026-11-09T23:18:03.994040+00:00",
+    "050b0d6ae8d420fa": "2026-11-09T23:18:03.994040+00:00",
+    "70839a4ce7522d42": "2026-11-09T23:18:03.994040+00:00",
+    "4f5d470890e4cf91": "2026-11-09T23:18:03.994040+00:00",
+    "f6c82bf95dcc140b": "2026-11-09T23:18:03.994040+00:00",
+    "e014a8f5fd546704": "2026-11-09T23:18:03.994040+00:00",
+    "8cd32d38ad564dec": "2026-11-09T23:18:03.994040+00:00",
+    "09ff7022d51b74f2": "2026-11-09T23:18:03.994040+00:00",
+    "1b1cebc4307e700a": "2026-11-09T23:18:03.994040+00:00",
+    "eb2fc9df0541d129": "2026-11-09T23:18:03.994040+00:00",
+    "401de64cb0720df3": "2026-11-09T23:18:03.994040+00:00",
+    "d5c100bf952285bd": "2026-11-09T23:18:03.994040+00:00",
+    "2c7adef7f7534f5c": "2026-11-09T23:18:03.994040+00:00",
+    "4138f7d205ed2c39": "2026-11-09T23:18:03.994040+00:00",
+    "4d695dccf5f5cfba": "2026-11-09T23:18:03.994040+00:00",
+    "3cf1508c018c68a0": "2026-11-09T23:18:03.994040+00:00",
+    "cccf4744224ef222": "2026-11-09T23:18:03.994040+00:00",
+    "4400877570e24a4e": "2026-11-09T23:18:03.994040+00:00",
+    "52ce50c1a99b6735": "2026-11-09T23:18:03.994040+00:00",
+    "50abc7461755a7eb": "2026-11-09T23:18:03.994040+00:00",
+    "78b9bac79cacaab8": "2026-11-09T23:18:03.994040+00:00",
+    "7e29a0c343a244b1": "2026-11-09T23:18:03.994040+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Gitea plugin for Jetbrains IDEs - for Pull Requests and Workflow management",
-      "link": "https://www.reddit.com/r/Jetbrains/comments/1xq7q1f/gitea_plugin_for_jetbrains_ides_for_pull_requests/",
-      "pub": "2026-11-07T14:31:29+00:00",
-      "id": "37bd6d7282b4e468"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "AI Fashion Collection Planner: Line Plans, Costing & Calendars",
-      "link": "https://www.reddit.com/r/jenova_ai/comments/1xq4wtp/ai_fashion_collection_planner_line_plans_costing/",
-      "pub": "2026-11-07T12:10:42+00:00",
-      "id": "ddf3844fa7a76bec"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Digital Product Passports - the future of luxury resale?",
-      "link": "https://www.reddit.com/r/reselling/comments/1xq2jeq/digital_product_passports_the_future_of_luxury/",
-      "pub": "2026-11-07T09:39:25+00:00",
-      "id": "6d74972ae7d44c71"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Digital Product Passports - the future of luxury resale?",
-      "link": "https://www.reddit.com/r/luxurypurses/comments/1xq2gvn/digital_product_passports_the_future_of_luxury/",
-      "pub": "2026-11-07T09:34:40+00:00",
-      "id": "83ff3406325b7aff"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "One in three pairs, and the test that comes next - Textile Today",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbi05ZkxaRXU0akRHU25yclpMTm5oQUdWQW95Q3AxMW9jSm5YdFBHYkp3bkhSNXllQldUanRwMk56dllNYkY1X0VKdzc4RkpzRG93OEVKSUxseXQ1VnpENjdBeFc2bUJpeVVqMHNkVXJ1ZDZXMEdTMmVtVWtoS1V3UG16VFFSQQ?oc=5",
-      "pub": "2026-11-07T10:30:15+00:00",
-      "id": "5f6a07c5bd530e93"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "New garment workers’ pay scale to take effect in December - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmo3aDl6djZaQVRjTWhlaUVLZ3c2UEVPZ3VCM2ZWSWI2YmVNb1pxa1QzYXBYcUxCNjBlUDcyckdpQlYzdnRtQUcwenNhaXY2MXNRcG1fbmNiS09pbEVvMUh1aUpzV0diLUEzUXNmVzNUVWlJS0QyQnNmSlpwd0RYQ1A5SFNLaER1aVZkdlRkQUhnYlJfektIOGl4dllhb0pETE5n?oc=5",
-      "pub": "2026-11-07T15:56:46+00:00",
-      "id": "32aff8db100deefe"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "গার্মেন্ট খাতের ক্ষতি পোষাতে উৎপাদন অব্যাহত রাখতে হবে - দৈনিক ইনকিলাব",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92TUFkQ3VHc1VuN0d4Tm5VVXd1MG83OWV3cEJYcUNNZDk3RmtGMUFGOGNJcVVkbW55U1VXWjdQZ2M5ZVZteklLVFQ4RmF6c3JIdDU1cWEzek1ZV25qTnc?oc=5",
-      "pub": "2026-11-07T18:01:40+00:00",
-      "id": "93a3acff25c856f4"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "শ্রমিক অসন্তোষ: আজ বেলা ১১টা পর্যন্ত উৎপাদন বন্ধ ৩০৬ পোশাক কারখানায় - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xUTh0WnA5SG5pcVI4TnRmT19CLTlvMnF2ZTdZOWRjU1d3YmU1SFBPVjFoS0s3bWt0ZlJpd2FSZnotdzRFNWNsNGhfdkVJS3Y0NWxreFp0bXE5QlBEVUxWNjI2bnhaUFhiZm5XSktR?oc=5",
-      "pub": "2026-11-07T16:07:13+00:00",
-      "id": "35c5226f97c5b79c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "‘উদ্যোগ’ কর্মসূচিতে মানিকগঞ্জের তরুণ উদ্যোক্তা বাছাই শুরু কাল - দেশ রূপান্তর",
-      "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOX2s5bHJyaTIxaDE4TU5LaHhNYUZubDcwNDVrX3Njbnh6RW1FMmJLZG53d1p0NUVaMGt6YlBwQ2xhaTJ1VmJkMXJianB5eGhlcVpnX2VUWnpyOTJ3WXh6WVlsQVJFLXFCYktKTG0yTXQ3RFoyMDh1ZWVVNzhGckFMbDhBRUhLVXlId0JfeWRtNkhOMEZjbV9MeVhmSUdmSmpINkNyUUVtbW96ZXhNRVYwQ0FZTEhDcnBlWUxVU1g2WUZVOE1WSWxYRDhoZFVoZXhXbENuVXFjZElxbE95bXUzU0FYaVVSVmFscjlSa00tSnB1WWNFak5VUWUwYVZ3d2dab041Yk9idTNBdEpRaDZhdmhDTTFPLVhpaWhSWS10dURwR2JIVjYwMC1wTnVVdkNOR1RsTmJWWEt2YndfZ1NRaGtQbi01aW1HZ2o3NWRjRnAxeWpQdURkdzZaSHpLaXpVSDlsOVFDZVZWVFdXaWM4TDBFcHNSY1YxTnhRUVpfMWJfNlBzVkU1S3I0dEhBQll0bXhXRWhxbnNkU0E3RVc1LTU1MVhpOGVJMC0zUEVkbFI2N2ZIMDlpdlBZcXZwWHFaclg1LVRfUlV4WFNJUDhaLVBtWmRIYjNYczFEVXU3dzVOY0liZU9zak5YRDZkWTdTX0Y5MVVVM1B6VkFUS3FXZEVkVjhoMzRnZzAwbnotX3JiS255bklRQk94Z01RT2tvWV9hWEtSaWYzY2tDQmJwNUI5bTRqWVd5Y2U4S25IVVlPNVNMVXhpbU51eXlYWm_SAc8EQVVfeXFMTl9rOWxycmkyMWgxOE1OS2h4TWFGbmw3MDQ1a19zY254ekVtRTJiS2Rud3dadDVFWjBremJQcENsYWkydVZiZDFyYmpweXhoZXFaZ19lVFp6cjkyd1l4ellZbEFSRS1xQmJLSkxtMk10N0RaMjA4dWVlVTc4RnJBTGw4QUVIS1V5SHdCX3lkbTZITjBGY21fTHlYZklHZkpqSDZDclFFbW1vemV4TUVWMENBWUxIQ3JwZVlMVVNYNllGVThNVklsWEQ4aGRVaGV4V2xDblVxY2RJcWxPeW11M1NBWGlVUlZhbHI5UmtNLUpwdVljRWpOVVFlMGFWd3dnWm9ONWJPYnUzQXRKUWg2YXZoQ00xTy1YaWloUlktdHVEcEdiSFY2MDAtcE51VXZDTkdUbE5iVlhLdmJ3X2dTUWhrUG4tNWltR2dqNzVkY0ZwMXlqUHVEZHc2Wkh6S2l6VUg5bDlRQ2VWVlRXV2ljOEwwRXBzUmNWMU54UVFaXzFiXzZQc1ZFNUtyNHRIQUJZdG14V0VocW5zZFNBN0VXNS01NTFYaThlSTAtM1BFZGxSNjdmSDA5aXZQWXF2cFhxWnJYNS1UX1JVeFhTSVA4Wi1QbVpkSGIzWHMxRFV1N3c1TmNJYmVPc2pOWEQ2ZFk3U19GOTFVVTNQelZBVEtxV2RFZFY4aDM0Z2cwMG56LV9yYktueW5JUUJPeGdNUU9rb1lfYVhLUmlmM2NrQ0JicDVCOW00allXeWNlOEtuSFVZTzVTTFV4aW1OdXl5WFpv?oc=5",
-      "pub": "2026-11-07T13:01:11+00:00",
-      "id": "94f96dac0707d0b4"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মানিকগঞ্জে তরুণ উদ্যোক্তা বাছাই করবে বাংলাদেশ ব্যাংক, থাকছেন শীর্ষ ব্যবসায়ীরা - Bangla Tribune",
-      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNQ3V4d2tjWmdVbEF6WEkxLVg3SUV5VVdCSzZvR3BTV3p3SDNrWDF0MWZ6cDBNdFE2QTJ2XzZ4MjVKeXBXdEMzcUhFYjNDTUpkZTcta0dKYWg3UmkwazQ3ZFFEcW5wU25DWlBuZXlZYjh4b2RHWS1MVXc1UnhOX0ZOY0xWdHlvTmF6T3ByMkNFZmpITElrRG5NdzBDdnNsTEllaFJnVWRndEpyenVXWXNrRjYzOGRYNWhVVTB3WkFNa0k2RDFxMXRUU0NEQ2hQZWpNWERuY2x4aGxrUzVjTnhSVk1UNXRTNHE1VFc0VmFGWTB2WHc0emhWbHhvMkZEU0l4VXZka1FBRS1yWXNlWFpCNUpMY2R2Nmhyd1lZcGdNRjR6a3BudkE1LWE4UDVCOEJWRkxGNlgxN3BhX0JySmo2aFhad3RWeG5MNGF1V1hPbzNyNTFVSmVLVlg5MUNNNTBWTTlfXzN5T3dWam1tQkFiQzlDVnRuUElVQVBEMkdLOTJLZUQ4NGZBQlJxZjlpSDlqWXU0eHZkcEczdWZUSloyOEpzRmxaMmtsMGx4MjlqUlFnNGhRZzNGZkpvLUgzc01PZlFjUC1SZE9DVVBIZ2JteG5TWjEzZlZKcFJCcUtadWViMUNWTXVGSllOcW5hVVZHeVFXYnplME1MN1FTdXV1OFp5S1RhOGhjRjE4Q3RKbTlDSFVsSzNGNE9TQUNWRDc2TkQteGdEY0ZlM2F5OUNsTzgwSEtUc1NSYUJsTk1FWF9heGxOOUhXR2ZOcG_SAcwEQVVfeXFMTUN1eHdrY1pnVWxBelhJMS1YN0lFeVVXQks2b0dwU1d6d0gza1gxdDFmenAwTXRRNkEydl82eDI1SnlwV3RDM3FIRWIzQ01KZGU3LWtHSmFoN1JpMGs0N2RRRHFucFNuQ1pQbmV5WWI4eG9kR1ktTFV3NVJ4Tl9GTmNMVnR5b05hek9wcjJDRWZqSExJa0RuTXcwQ3ZzbExJZWhSZ1VkZ3RKcnp1V1lza0Y2MzhkWDVoVVUwd1pBTWtJNkQxcTF0VFNDRENoUGVqTVhEbmNseGhsa1M1Y054UlZNVDV0UzRxNVRXNFZhRlkwdlh3NHpoVmx4bzJGRFNJeFV2ZGtRQUUtcllzZVhaQjVKTGNkdjZocndZWXBnTUY0emtwbnZBNS1hOFA1QjhCVkZMRjZYMTdwYV9CckpqNmhYWnd0VnhuTDRhdVdYT28zcjUxVUplS1ZYOTFDTTUwVk05X18zeU93VmptbUJBYkM5Q1Z0blBJVUFQRDJHSzkyS2VEODRmQUJScWY5aUg5all1NHh2ZHBHM3VmVEpaMjhKc0ZsWjJrbDBseDI5alJRZzRoUWczRmZKby1IM3NNT2ZRY1AtUmRPQ1VQSGdibXhuU1oxM2ZWSnBSQnFLWnVlYjFDVk11RkpZTnFuYVVWR3lRV2J6ZTBNTDdRU3V1dThaeUtUYThoY0YxOEN0Sm05Q0hVbEszRjRPU0FDVkQ3Nk5ELXhnRGNGZTNheTlDbE84MEhLVHNTUmFCbE5NRVhfYXhsTjlIV0dmTnBv?oc=5",
-      "pub": "2026-11-07T13:47:58+00:00",
-      "id": "ef06cfc0947acd46"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "হংকংয়ে বৈশ্বিক ক্রেতাদের সামনে পোশাকশিল্পের সক্ষমতা তুলে ধরল বাংলাদেশ - Edu Daily 24",
-      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPbEUxMkNONndTS3k2cjAyWlYtblkwR3FUTEVscFJ6UlhDN2hNZUJJUzMyVU1Wb0tiRlk1YVl2MGNxSmRzNVZqakg2Sk9Ma2pzVktxbHBtR1dUQkthWVZ2UHZ4OXMxaEJHWk5ER0w0NHZSSFlZbHJfS2YwdVBSck1nY0E2Q0J1ZEZ4ZHIxQndkME9FZWd6cTZsbS1oa1NaTzE2bUwyeDN4eF9XS1ltWDczS2c3Nnk2ZnN4RjdaUGNQY0RBb2p2SFJSZ0xrcVBoRE1JS2hRa2FSckVMN2pZODN2aTJaMGRRYzdKdjVnWThUakxTNEtmQzhMRXFZOHRwbWF6ZEdLUHBZSWRYbU04R1Rfb0p1U0diWUk4N3ZCbFFOZ3F2WGpSdEw4M2k0Qy1zM1lFZ3pmdlpIYTY5eUJQYlBDNV9FRFMyeGxvLUhabV90QVhVMGU5cDhBNnBpdFRvR19NQlNzdWV4RlpmQWEzMk40M2NpOWJhdzVyeUJjZTRTQ3dEbi1GSUpQQ0JGWjVRQ3hvZW5ha0x2ZlhpajlkbnVqZE9vcW5abjRvWnBQRU00YWVvTnVlbU1SaDBwUTJSY2R6dWx0Z0JuNkNIVDdseUwtakZPOXJBbjE4cGJaTjhpXzVqaHgyRVNHbGFoazM0R0c0VF9MdWxibXB6VHc4UzQtYnFGWVZocldoaE95dFdoOTBFbkYxVzdPZURBTjJYbmF2aVBEZnNUbw?oc=5",
-      "pub": "2026-11-07T12:42:00+00:00",
-      "id": "bc091f64c02e103c"
-    },
     {
       "section": "social",
       "source": "Reddit: ESPR/DPP search",
@@ -3005,22 +2933,6 @@
       "link": "https://www.reddit.com/r/StardewValley/comments/1xqmoy8/almost_perfect_qi_cooking_quest/",
       "pub": "2026-11-08T01:41:54+00:00",
       "id": "5e4d2eb12b460c6b"
-    },
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Is anyone else disappointed by the cleanliness of Copenhagen city centre?",
-      "link": "https://www.reddit.com/r/copenhagen/comments/1xqdflr/is_anyone_else_disappointed_by_the_cleanliness_of/",
-      "pub": "2026-11-07T18:34:37+00:00",
-      "id": "025c2a3a0570cf78"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "RMG wage board to meet at 11am today amid protests - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2tIZ0wtMWs2aDhhQjRpNDUwNUVhZC04LVoyUEhRVVFudktYd01FRHl0bmQ4MURkanA5MnRwQUo1cm04NFl2VjZINTFacy1sMWRfYXZsQnNsRmo5SDF3am43eXRtVlI0ZklqaTk3RFZCQXI0a0RickFONzdDWERaRjYwUUxqYWp1Q2pxbEZ5SzJDdlZGYmpadEhkMA?oc=5",
-      "pub": "2026-11-07T11:32:30+00:00",
-      "id": "3274c118997e844f"
     },
     {
       "section": "bangladesh",
@@ -3085,30 +2997,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpY09mN3VJYkxiYm0xeEhmR1FTdEktbGdnZ04zcmZrdkFlTHROM2NaT2RacW1qNjdaSTg5cDE4NjJSZTJPaHE2enpFWllUQQ?oc=5",
       "pub": "2026-11-08T07:01:16+00:00",
       "id": "5aa0c8679de138a3"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বৃদ্ধির দাবি যৌক্তিক, প্রশ্ন পরিমাণে - Jugantor",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wdUlaZ0drZEljdElzTlY5ZkZzbXVINnBHTEJZekFuaWRneWItdnZ6TG9tcmptTU5sWTRJa2JGc0pQdWJ3RlJvaUZpTVZwTm5iX3ZpNWpwVko?oc=5",
-      "pub": "2026-11-07T18:00:00+00:00",
-      "id": "58cb417093c4378c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বাংলাদেশ ব্যাংকের ‘উদ্যোগ’ কর্মসূচির উদ্যোক্তা বাছাই শুরু কাল - Amar Desh",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QX3lyem1NUjFob3Nkel9TWk5hRUMtZ2tVdmxHcjdhSExoSE5WQUU5N0pQaXNKYkhjLU1wN0NlVEthTktuRm5mVGtOblhwdUdVZWh2aDdGWnJLdW84TE54RElB?oc=5",
-      "pub": "2026-11-07T14:03:38+00:00",
-      "id": "cc120d3f2d84a330"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাক শিল্পের সুরক্ষায় উদ্যোক্তাদের ১১ দফা দাবি - ডেইলি সান বাংলা",
-      "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNMmtDdkFtVzc5WG92VGdCNk1qRlpuYk16ZmJzbDhSTmFXaFh1Y3pWWVZ2dnd6RlRUaWU2bm1SWk91WWh0aVZVUTZGVEhjYUFXbGkwdU0wMVE4UDdTZTlzUjZWRWV6azBVNXc0MkRiWkIzREZ5dE1CYjVERC0wZm95aGc2WjhhN3VhSGxYYThXNjVSSjJEOE1LMmIxQ0Q4MmFNX1JEdEhxV2RxYjFOcnZBQURLUmFURFluTi04UTZ1N3NtQl9XS0FCMnZqSEk3cEtCZUdSdlFwTVFvWC0yT3ZTOE5GLVlYSk8xcHlwT0tmakhkb1l3U1NRRHVhVlRkdF80Z2tidkVhQ1dKaFNsQnQwOTZGV21zRExmWGZseE44cWQyQURDVE1YQzlMMlYwOFVCYjNoV1VNc285SGVnT05RMVRFQlc0UHpZU3dtLVRsdFlLa3NzWmNnOGo1U0FNTGF5V24wbzN1Y3FaQU5jSk5aZWctekFzVERBb1NvTmROQk9ELWtOYkVLbXlzemFZSmpyVVhqMzIxUGtXMWNUbnpzVE5DY1dHWjRHNWJXOVhmdkw3aEpoV01OSTc4LTExdHEzVzRoRHltRjZlNFVTaFdGb1VpeEhQRy1kLWpQdnlKMElET3dxYWlpZXVfYnVLdUxfd2JvV2k1MGlSalBkTjQ3NVY5TlRSOWZ3Z2ltVGpjVnBuYTRJWlcwTzhMdldYMkZhX2w0eFo3OVpmSmUyQlpUeVlfVFB5c1ozU21QTWRPcmhnVzh3bzFhbWh3?oc=5",
-      "pub": "2026-11-07T20:03:11+00:00",
-      "id": "9e5c92bb6da61942"
     },
     {
       "section": "bangladesh",
@@ -3541,6 +3429,230 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qekotdFgzVnpXTDQybldKSFNvUEpmdXVldzkzWEN5dlZLR09kZmYwQ3QzY1hSNG5TNVc3cnRkekEtNnhMN3dpMjJCRQ?oc=5",
       "pub": "2026-11-09T00:06:00+00:00",
       "id": "a9e4b099eed1bb8f"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: DPP textiles",
+      "title": "Why Is the Digital Product Passport Market Becoming - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmpoZkpONHVhT0VnVVg2RGM5NWRwd2lya3dHc1FsckxpcHE0dVBfM2YtVHJWdUVhUGN4SGJudjhoYUJWcy1BQUhXVWp6WXJzaDBuX01xUGQycTFkMEZSemxFa3h5Y0FIdktlM1laRzM2VklDb1ZPckFwdVJTUE9KRnBQNURhdTZYUDdXMFZwMUs?oc=5",
+      "pub": "2026-11-09T12:56:56+00:00",
+      "id": "f9702952eada5ef4"
+    },
+    {
+      "section": "international",
+      "source": "GoogleNews: ESPR garments",
+      "title": "The Nespresso Vertuo Pop is 29% off at Walmart, but not for long - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkV0Sm5oOTZUR2xPck1rdkZuenpMbUZnUWlxTFZxYzZSdjZ1cHQ3RkV1NnAzVVAyRjZ3bW05QkNadFNBQ1NhaGVhQ0cwRjRHcjdxN0swTkdiMjRydUdreW9nM1RHb2FGV2w3bnpvWmZhWXlsNWZDY0VtWTZiZXVRVnh6YWtiMkVnTUlHMGRxLWM?oc=5",
+      "pub": "2026-11-09T12:00:41+00:00",
+      "id": "d623303a76a2ab1e"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Gonna trade in for an M3 after reselling these🔥🔥🔥",
+      "link": "https://www.reddit.com/r/hotwheelscirclejerk/comments/1xs2v1s/gonna_trade_in_for_an_m3_after_reselling_these/",
+      "pub": "2026-11-09T20:31:56+00:00",
+      "id": "5b525cb7a7c3fa22"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Sunny Weekend in Prague (M10)",
+      "link": "https://www.reddit.com/r/leicaphotos/comments/1xs2ead/sunny_weekend_in_prague_m10/",
+      "pub": "2026-11-09T20:13:55+00:00",
+      "id": "3055699e2b626b29"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Anyone has this bomber ?",
+      "link": "https://www.reddit.com/r/aloyoga/comments/1xs0omv/anyone_has_this_bomber/",
+      "pub": "2026-11-09T19:11:16+00:00",
+      "id": "d72a9ec45488b28a"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "Whats your current collection?",
+      "link": "https://www.reddit.com/r/nespresso/comments/1xs0ahn/whats_your_current_collection/",
+      "pub": "2026-11-09T18:56:54+00:00",
+      "id": "f5b596dce7562b45"
+    },
+    {
+      "section": "social",
+      "source": "Reddit: ESPR/DPP search",
+      "title": "What Is the Best AI Tool for Fashion Collection Planning?",
+      "link": "https://www.reddit.com/r/jenova_ai/comments/1xrohc4/what_is_the_best_ai_tool_for_fashion_collection/",
+      "pub": "2026-11-09T10:40:45+00:00",
+      "id": "050b0d6ae8d420fa"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG worker reps propose Tk 32,000 minimum wage - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXk0aDhDWVJrOXJUaHdnOWhwMVktcFRYaEdYS2kxTnhuN25MWTQwODktNkI5azE0enRMR0JWcFZ4b3h0d1FKZXVCVGtJYzFaY3Ftdm5DeHZtWWRIT2pOOWRXWkxuNGRoSzJ1ZjBLc3pCdldWTEhsMWpLRzM0VzRKU1kwa3Bib21DV2hIdlo2Zkh1MVg5?oc=5",
+      "pub": "2026-11-09T18:53:00+00:00",
+      "id": "70839a4ce7522d42"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Labour representatives propose Tk 32,000 minimum monthly wage for garment workers - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ28wblU3Y3VIcWlfeVJtX183Y3R0V0N3OFRsdXg5bFlvcGN4VFEyVDhEVE01ZGZ0MnhLQm9lVWRrNzlkWDFqTHRmLUdaZXUzRkl6MFVqMHFRcGItX2hQY2JtLWlTS1ppVnJ2TmRaMEdPcE5KTlRydi1zaThpakNWZi1fcFJ1elNPOVotV1FZLXROcGdUc1lGY3hHQWVlNWVFOHduQVZadGxJZV9kWXlvaVEyUmh0Q09tMk9tQVZTNmNSTXNuYkE?oc=5",
+      "pub": "2026-11-09T15:23:57+00:00",
+      "id": "4f5d470890e4cf91"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "‘No passports to terrorists’: Bangladesh rejects Hasina’s request, pushes for extradition - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM2w5M3RScVV0TlFEVDRuYk1XOVNBZlBEQlVFX0pIMWVHN083cjliU2JzdWN5azFtVWdoeUVXbXF1WjB2S2tZdWZHWktSSkVFYXk1Qmp5aDk5b0NSZF9ZU3BQSVgtajk3eU1heHN4MmY2UUs3SHBXM1JYRnppa0N2N3FGUGRXLXh5TGh5WHozcmx0VXh6SlBGa2I0SlNLeEUzdUt2NERWOHZrU1lSZ185N05HRll2WW40ZUhSd2Myb3psZFhBQjdUMGdaX2Z2OUFVUlcwaXpqZ1RialZzRTFQazJIWmZTeHhuRkNXTmJR0gHuAUFVX3lxTE0zbDkzdFJxVXROUURUNG5iTVc5U0FmUERCVUVfSkgxZUc3TzdyOWJTYnN1Y3lrMW1VZ2h5RVdtcXVaMHZLa1l1ZkdaS1JKRUVheTVCanloOTlvQ1JkX1lTcFBJWC1qOTd5TWF4c3gyZjZRSzdIcFczUlhGemlrQ3Y3cUZQZFcteHlMaHlYejNybHRVeHpKUEZrYjRKU0t4RTN1S3Y0RFY4dmtTWVJnXzk3TkdGWXZZbjRlSFJ3YzJvemxkWEFCN1QwZ1pfZnY5QVVSVzBpempnVGJqVnNFMVBrMkhaZlN4eG5GQ1dOYlE?oc=5",
+      "pub": "2026-11-09T09:39:23+00:00",
+      "id": "f6c82bf95dcc140b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "BB to launch 'Inclusive Instant Payment System' in July 2027 - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDRsVWxnU0V1U05TYTd4cGN6cW5uMmFGeTNxOTNta2FDVXl6eUtRM2xjQzM5VnVNeVJpcE5URE5uNWhkTld3MnJ2d21jVUdyVENEWnJkMl9JalE0cXliMjN4OTBuZ2RGWTRxX1k0N3VsN21EN1F1SVFtNENXNDRQVFMzVFZLXzlvRUFvbtIBjAFBVV95cUxQdDRsVWxnU0V1U05TYTd4cGN6cW5uMmFGeTNxOTNta2FDVXl6eUtRM2xjQzM5VnVNeVJpcE5URE5uNWhkTld3MnJ2d21jVUdyVENEWnJkMl9JalE0cXliMjN4OTBuZ2RGWTRxX1k0N3VsN21EN1F1SVFtNENXNDRQVFMzVFZLXzlvRUFvbg?oc=5",
+      "pub": "2026-11-09T08:50:05+00:00",
+      "id": "e014a8f5fd546704"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FdFMxeTJ4V0pkYmFGLUQwenFMZnVEeF9abW9Gd0J0MzBmOE1LS3RxMW1MUVQ0aml3QkdpYVRqdnRvY1djM3E1Vzc5Wms1azFLS0hlaVQ3ajdiUDg4aThkUDRwVUJWVGs?oc=5",
+      "pub": "2026-11-09T18:00:00+00:00",
+      "id": "8cd32d38ad564dec"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "৮০ বছর বয়সী ইউন্ ইউ-জংয়ের লন্ডনগামী এয়ারপোর্ট ফ্যাশন… সাদা কোটে ফুটে উঠল শান্ত ও মার্জিত শৈলী… - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LbVBFUE1SVXlnWDBGVER0djFxcXBVYWNFSEwzQXdvdEV6djhyVV95MjVDQUpyQVdGRkY3cjlVcG9ReVROSlVzSkdFNE14YzN3dHpsQTE2S1pFTG1rcHlWZU1R?oc=5",
+      "pub": "2026-11-09T07:02:33+00:00",
+      "id": "09ff7022d51b74f2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FdFMxeTJ4V0pkYmFGLUQwenFMZnVEeF9abW9Gd0J0MzBmOE1LS3RxMW1MUVQ0aml3QkdpYVRqdnRvY1djM3E1Vzc5Wms1azFLS0hlaVQ3ajdiUDg4aThkUDRwVUJWVGs?oc=5",
+      "pub": "2026-11-09T18:00:00+00:00",
+      "id": "8cd32d38ad564dec"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চীনের সঙ্গে বাণিজ্য নিয়ে কেন অসন্তোষ বাড়ছে ইউরোপে - www.news24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Z1BCQTlaTkRmd3lxVjVvMHB3bk5yZjRjTXpfSXZwYWtITVFINWVwWkFRTWxhYTZHLWUwbmtPZEd0RkV4SU1qeHdBVVJQWXM?oc=5",
+      "pub": "2026-11-09T13:46:01+00:00",
+      "id": "1b1cebc4307e700a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "যুক্তরাষ্ট্র ও তুরস্কে পোশাক রপ্তানিতে বড় প্রবৃদ্ধি, ধীরগতি ইইউতে - Amar Desh",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5za0JuRmJFRXJ0V0MyQUdOZUtFRWg4N3I3VW1qcnBDQzFXaG4wNkhINzRJNmI2dVNGVW12S1JsNk5CaTJrU3ctX3FNRmNEaXBKS0hNaHZrNDZKQ045S1VMUUJuSTVWQnNHWEVzbmZzdUdmbC00?oc=5",
+      "pub": "2026-11-09T05:27:49+00:00",
+      "id": "eb2fc9df0541d129"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "বিএনপির দুই নেতাকে কুপিয়ে জখম - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVl9qSzluN2NrNzIzV3B1cGVWaV80enVxZ3Z0dHNQYzRYZE1TcHFoYV9GVVd6WWNQWE5TVVNjSUI2SXBIX190Q3FveVJFOTRnOUJHcGQ1TmJjRU8wUVFwQjU4Y082Z0F4?oc=5",
+      "pub": "2026-11-09T18:00:00+00:00",
+      "id": "401de64cb0720df3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ব্ল্যাকহোল নিয়ে নতুন তথ্য - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNHRJcDdZR21oY0VUUGdQeXAtSkgzNmZEU3JVNzRzMzhSRzVDdkxidVdFUkdBRzA1OThhNkFlWURSVHRwU2MxTVUwNzhKZzRvUGttNWowU2dmOG9UZlpfZkZlWnlJeVlo?oc=5",
+      "pub": "2026-11-09T18:00:00+00:00",
+      "id": "d5c100bf952285bd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ঘুষের টাকাসহ গ্রেপ্তার সার্ভেয়ার আসাদুল রিমান্ডে - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNVgtbjhzR3lRRkVUYnNPRURHR3o3S0FfUndhUlRCdnFLYnRIZ0Q3cnE2OG1PWTdsaEJIMWhtNG44dElkc0lueXNvUjZQd2JPV1MzU21jOXVNd1FyLXZyQVl4SkJIa3FV?oc=5",
+      "pub": "2026-11-09T18:00:00+00:00",
+      "id": "2c7adef7f7534f5c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের সর্বনিম্ন মজুরি ৩২ হাজার টাকা করার প্রস্তাব শ্রমিকপক্ষের - প্রথম আলো",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ydW95LUstQmJlZmZ6bVBMXzdaQm5DcTBWWEQtUlpNNVhSem1QMnNQTnA1UGtEVjJ5akFTbG5rbE4welI4N2lUaHk5ZGVBSjBQc0IyYXRYTFVGZ0RQQjBXRDRYR2thZ9IBc0FVX3lxTFB2Mk5ER3h3V2t2YTEwb2xfOUN4MFY1RTItVm55LXBaTS1FSWUxbVh6a09UWk9vYjBYTDU1MnJBb1d0SmZRSjM0dDd2YkY0ZjEyR21qNmlMTVBxRXdyZ21qVGtCQWQxY0RUQThrY3Y0MXo5cG8?oc=5",
+      "pub": "2026-11-09T10:32:00+00:00",
+      "id": "4138f7d205ed2c39"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "৩২ হাজার টাকা মজুরি প্রস্তাব নিয়ে বোর্ডে আলোচনা, সিদ্ধান্ত ১৬ নভেম্বর - Akash Jomin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UnJ5a3lUdWdUeThRcTFiY2hSOGJET0JJSGRjZU95Wlo3QzNOMEU4RFpqalNsbXBCaGtUV1U4WEtQNDRnN1FkWURQaGNmcEFyakMw?oc=5",
+      "pub": "2026-11-09T13:45:46+00:00",
+      "id": "4d695dccf5f5cfba"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের সর্বনিম্ন মজুরি ৩২ হাজার টাকা করার প্রস্তাব শ্রমিকপক্ষের - Bangla TV",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xckVNS2pFZWhTMDFhc3RQZG5mTjVrVUp6dWYzXzVBVkVGdEhqbXZ3dEx5bVBJXzhTUW9fRllSZUlFems1SzV4LXlQcVl1bEVaaGc?oc=5",
+      "pub": "2026-11-09T11:23:34+00:00",
+      "id": "3cf1508c018c68a0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব শ্রমিকপক্ষের | জাতীয় | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQ2tOcUhnaFdPOGt3RWJpRGNvb1VoX1hkTU9wQnZVNEs0ZWtGamZ2NjBNTFVkd1JJZExkaVhzWHkxbmJscmhGSW0wRm5zUHNTQklxQ1dWenk1QQ?oc=5",
+      "pub": "2026-11-09T13:32:00+00:00",
+      "id": "cccf4744224ef222"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সর্বনিম্ন বেতন ৩২ হাজার টাকা করার দাবি শ্রমিকপক্ষের - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsZUsxaVN1RnVlazlQcERNaE9WZjBkeERCZjFWbFBEZXNoQXJfWTdHSTZDT3g3NWNlcFNFNWRXNkRhTTU1bHFONmxMV1NLWDVDM2VORFc4VXA5Y0ZGUS16MmtKLUE1Z9IBZkFVX3lxTFBsZUsxaVN1RnVlazlQcERNaE9WZjBkeERCZjFWbFBEZXNoQXJfWTdHSTZDT3g3NWNlcFNFNWRXNkRhTTU1bHFONmxMV1NLWDVDM2VORFc4VXA5Y0ZGUS16MmtKLUE1Zw?oc=5",
+      "pub": "2026-11-09T13:17:51+00:00",
+      "id": "4400877570e24a4e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ন্যূনতম মজুরি ৩২ হাজার টাকা প্রস্তাব শ্রমিকপক্ষের - Cvoice24.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kMjFORVFzS2M1eHBoWko3UERtRFZDM0VEdExWVHZWcVlwVGhqajUzZ0o4MUMtS2lEalJRTzJkY2U1ekZlZHFRSHVlQmYyaTEwelZIbDE5SXo?oc=5",
+      "pub": "2026-11-09T11:18:00+00:00",
+      "id": "52ce50c1a99b6735"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিকদের ন্যূনতম মজুরি ৩২ হাজার দাবি, চার দিন সময় চায় মালিকপক্ষ - Jaijaidin",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45dFYyTEtyX3ZFQ0NuQlM2VGIxSmdXZG5oV1liUnplTXlZTGllOEkxeFNBOE9rR1lGNzVhNzJtbno5M1FDNWhfaHNtTmJYXzA?oc=5",
+      "pub": "2026-11-09T15:17:50+00:00",
+      "id": "50abc7461755a7eb"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের ন্যূনতম বেতন নির্ধারণে মজুরি বোর্ড ঘোষণা - DBC News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rWVllR0ZhZnYyaEotbC1kUkVTMUpHSFNRWTEwV05UbFYydlFpaXJmYWYtYkxXM1d4X3lheXdIWGZPenVEeHVxNENn?oc=5",
+      "pub": "2026-11-09T01:50:09+00:00",
+      "id": "78b9bac79cacaab8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের সর্বনিম্ন ৩০ হাজার টাকা মজুরির প্রস্তাব শ্রমিকপক্ষের - duaa-news.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zMlB4VmtnU1pxOUIxTEpqRmM1aHJVWU1fMm9hbnp4V0NqMnkwbDRXX0JQNXRQS09ZQ3AwR2kwcGctdmlobFJmdElVekhLZnM2?oc=5",
+      "pub": "2026-11-09T10:01:22+00:00",
+      "id": "7e29a0c343a244b1"
     }
   ]
 }
