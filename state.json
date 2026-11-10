@@ -2923,81 +2923,38 @@
     "52ce50c1a99b6735": "2026-11-09T23:18:03.994040+00:00",
     "50abc7461755a7eb": "2026-11-09T23:18:03.994040+00:00",
     "78b9bac79cacaab8": "2026-11-09T23:18:03.994040+00:00",
-    "7e29a0c343a244b1": "2026-11-09T23:18:03.994040+00:00"
+    "7e29a0c343a244b1": "2026-11-09T23:18:03.994040+00:00",
+    "6d3296b286939f15": "2026-11-10T09:26:04.179018+00:00",
+    "21c9814f153a64bf": "2026-11-10T09:26:04.179018+00:00",
+    "6e6592603717c66b": "2026-11-10T09:26:04.179018+00:00",
+    "e9e858fafce2737d": "2026-11-10T09:26:04.179018+00:00",
+    "f62ae2eb53eec2bb": "2026-11-10T09:26:04.179018+00:00",
+    "a56d2d4007351dda": "2026-11-10T09:26:04.179018+00:00",
+    "f3662d01c93a33b2": "2026-11-10T09:26:04.179018+00:00",
+    "d503f5127303844d": "2026-11-10T09:26:04.179018+00:00",
+    "1d5ed9101c6bc223": "2026-11-10T09:26:04.179018+00:00",
+    "da4126f9c6c2b071": "2026-11-10T09:26:04.179018+00:00",
+    "f9504ab202612fa0": "2026-11-10T09:26:04.179018+00:00",
+    "5273cf4cca0b588c": "2026-11-10T09:26:04.179018+00:00",
+    "ecad89c6e9200163": "2026-11-10T09:26:04.179018+00:00",
+    "df0d83e786464de8": "2026-11-10T09:26:04.179018+00:00",
+    "e8fa703273bf71ae": "2026-11-10T09:26:04.179018+00:00",
+    "de4bb2c8e4d4099c": "2026-11-10T09:26:04.179018+00:00",
+    "3aed93ac50145fdf": "2026-11-10T09:26:04.179018+00:00",
+    "f31a1d967d8c0021": "2026-11-10T09:26:04.179018+00:00",
+    "d497572fb1cd798d": "2026-11-10T09:26:04.179018+00:00",
+    "14eca908fb8843d2": "2026-11-10T09:26:04.179018+00:00",
+    "c51733cab6d6f547": "2026-11-10T09:26:04.179018+00:00",
+    "2b320705835a0245": "2026-11-10T09:26:04.179018+00:00",
+    "20cdfdffa114ad9b": "2026-11-10T09:26:04.179018+00:00",
+    "df514cde62834eb0": "2026-11-10T09:26:04.179018+00:00",
+    "ae56193bb7640956": "2026-11-10T09:26:04.179018+00:00",
+    "b74274e4567d442d": "2026-11-10T09:26:04.179018+00:00",
+    "8e5676df4ccd76f9": "2026-11-10T09:26:04.179018+00:00",
+    "3abfee6f26cfee5c": "2026-11-10T09:26:04.179018+00:00",
+    "72de4ebe62c770ef": "2026-11-10T09:26:04.179018+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "social",
-      "source": "Reddit: ESPR/DPP search",
-      "title": "Almost perfect Qi Cooking Quest.",
-      "link": "https://www.reddit.com/r/StardewValley/comments/1xqmoy8/almost_perfect_qi_cooking_quest/",
-      "pub": "2026-11-08T01:41:54+00:00",
-      "id": "5e4d2eb12b460c6b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সাভার-আশুলিয়া, গাজীপুর ও নারায়ণগঞ্জে কাজে ফিরেছেন পোশাক শ্রমিকরা | খবর | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zVGVkSmh1MnN3RW5RVHNxVzFIaVhWa2pzQTdCdTJwd0R6QWJiNm5TQ1YtYmhfNFVHdVBlTnN3UzhRUzVhWFZuZ25vdXNHNHN4SnJrRg?oc=5",
-      "pub": "2026-11-08T06:28:00+00:00",
-      "id": "bbce13953733ac67"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "শিল্পাঞ্চলের নিরাপত্তায় ৩৩ প্লাটুন বিজিবি মোতায়েন - Bangla Barta",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zOHdVTUFCQlJ5OE5RMG5GTEV5RlgyYnI0NXNiSmlQR3EzMGRhbVo3S0pvUDFQemlIVDdIUVFwZF9fZDA5bjUxZFNULXZiTTZYbFYyWGs5aGFEaUFIQ0E?oc=5",
-      "pub": "2026-11-08T08:03:00+00:00",
-      "id": "62b44d4a77eb489b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "শ্রমিক অসন্তোষের মধ্যে শিল্পাঞ্চলের নিরাপত্তায় ৩৩ প্লাটুন বিজিবি মোতায়েন - SAMAKAL",
-      "link": "https://news.google.com/rss/articles/CBMi5AZBVV95cUxOcDNqZ1hVZmFjS1diYWw2TU91N0RMYjJXX0pVbnpCTUg0RXFma3dld3FVS1pwTzJCY3FyY3hRT1drYUJiMWp2eDFVc2lOZmJQSjBuQjFOdjJkdGY4NldJT25TWE9PU0ZEYm9fYktfWjhjcEs4RjJCeFpsaWdkdUxYbWJDcVVRSEJQZjlwSzh6NUlyU3BuZlZpUDFkNmprWkxQU213YW1yWWlBaEd3WVI0ZWtFdnBoekZXTF8yaS1WNWpMc0o2NWFTRlRBRTRnaWhvc2x6bDk5U2ZDcXBpLWYzaEFCZ0IzSDB4elZwamlJZzBKdWpVaGhGLVhQQjA4dGtyeDdOcGgtVlh5bUpSN05OelM5WmswcnF3Rzh6a3BFalZlUDdrTjlKQWpBUWxncmdhenV6OVdBbC1RMGpiOGtBMTN0QXNVSU0wLTV6a1dVRW1hTkFsQ2M3WGVveEJ0YTlvZ3ozNFUyaFVkNWd1dUpVYXJXd3BUZjl3aUtaSzJVQ1pQcXNZWUxGczBwVV9TZmV1dHFGNE9iN2ZEU215SnQzWDR4dGpqT1JyMDhNQ1ZYSUlQVU0ydG9Nd3JrR2FIS05Nd1hTejBfS2FRcnhwbHJxWWlRQ1BLQ0xfVUpZNEIxamhuZGNXR1VoS20wWE1lNXA4RnZBeFJSTXItaURkcVJKTmJmdVFoTUxrdDM5dHpWeWJtOG55dGhIUjBaRE42Nm1zT1RrR0dnVzdvenJIeG9DUUN4LXMzM2xCY2VkeTFIWWd5YTVlazhrYkJycGxQbzFSVWpVS1I1bGRTMzVFN1B1TTFYVUJjUEhjMWRvWEVTVmwtZzZ3andGNEJmXzY0R1JNRHdjZW9hbTk3WEI0VDFkOGdhOXU0TjREamhreVF4TFkxMVJXRXFhenFwcm1PeVJVXzFHd1hiQkdqOFdIOHF0M1ZZNW5MM294TDN1b1V1Rm5oU0FDWDREaThZTG1RaHZzTlBfOVk2dHlBLTdsLUM5RUgyLWdvM0dGdmNwcFljbEF2OEVuNG42R2tJM0pYM3M3Umw5UmtKZTh3NXlzMFM2R3R3VmJxbzhxQ1pSb2ZGbmZrR1g1djVMQnExZXIzckx1bzNVTFltYmRGY0lFWGltQUhNY0VhcGVwZW1lVWpyc0pLYkNi?oc=5",
-      "pub": "2026-11-08T04:48:00+00:00",
-      "id": "d3de00bc07b1a693"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সৌদিতে সড়ক দুর্ঘটনায় ৭ বাংলাদেশির মৃত্যুতে প্রধানমন্ত্রীর শোক - কালের কণ্ঠ",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RaUdQN21LT1h1dmtKdTdLWlY5ZlBJV1V1endyUldQUE1XTkdFbGx4ZzUydUluNzdRVjNXWE85NUkxdUFYbzBaMnBZeTR4OVlZOUpDd0UwMS1mMDhvc0RNazNGNHNaZzd2VEVNYUtxbw?oc=5",
-      "pub": "2026-11-08T06:54:16+00:00",
-      "id": "b4ba656131fb11b2"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মানিকগঞ্জে তরুণ উদ্যোক্তা বাছাই শুরু, মিলবে ২০ লাখ টাকা - Amar Sangbad",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZnlMUEhHQ3pJQVhwbEZWZHhmUzFKWEdLUXdjZzdkZ3l6SDFpcFVURWl4R3JnWWdkcHlSbWUzbHFJOGg1VzUxZV8yLWtOZThYTGZ0OGhSczcteUpBaUZJRNIBYEFVX3lxTFBPZnlMUEhHQ3pJQVhwbEZWZHhmUzFKWEdLUXdjZzdkZ3l6SDFpcFVURWl4R3JnWWdkcHlSbWUzbHFJOGg1VzUxZV8yLWtOZThYTGZ0OGhSczcteUpBaUZJRA?oc=5",
-      "pub": "2026-11-08T04:57:00+00:00",
-      "id": "8f68619e9dbc35eb"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "কর্পোরেট ফুটসাল টুর্নামেন্টে এশিয়ান গ্রুপ চ্যাম্পিয়ন - দৈনিক আজাদী",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZzRmM2I5elFjNFBNZGctYzMxaEpBcTdSMmNCWUdoUlRkYUcwV0s0ekJjYVJGZkp4c2tIRzE1cEFmV0VjeWVtXzduZDlTQWJHTjItTnRlTkZ3TDRFUzVSUElmaXZldkdjQ0pvNmtYR0VvTFNseFFvTzRlS2RyOUF1bG5qUVJsRnhpcGtlVVJRTXRhTWlfYXdJUXZjbXNTYVp2S0UxVERQX2lDZFdrV2FpWDJKU3djeHRwN1BDWGpnV2lwbXJ1SF9ST3BWLTJhUEM1LWJJeWJMNkw2MWZkTlhsV0hDTzhGY0ZXalhTTXQ3ekp2SFI2aGRXOC1oNzc2XzZNTm1uYmFUNHVwTjdER3NaODJPWHAySFlpR1piaERMMk9heWxZUkJuNEEyVjI1ajNIZlpmZjRhNUs1Z25HcldXZEEzNE56RFh0?oc=5",
-      "pub": "2026-11-08T03:01:00+00:00",
-      "id": "867607147ac7fe6a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "তরুণ উদ্যোক্তা খুঁজতে বাংলাদেশ ব্যাংকের ‘উদ্যোগ’ কর্মসূচি - ডেইলি সান বাংলা",
-      "link": "https://news.google.com/rss/articles/CBMirgVBVV95cUxPSXNpZWRYM3ZmQVZ3WVFGVHc4cXhPeFVucVl2TzBwcUUxcVZKZWptTUx4MU11SzRCRGRvY3BvU1prck00SEFpUzZzbGlrV3FjM205RUNDR21YRkNmaTlkcXlFcDBwd0kyZVI2VjFGa1FkNmd6ZnRPeGNzYTQxWHBhT2FtY2RsQ3pOTjRXVnpsaXVBeDB1TnMteXJxWTV0Y0h3VlpkZWJqdlBrSkRJWDdkZ2RIZ1Q4Zl8zUWpjZjZuWkdENUltUHNrOXFRQ1JSN1JvcVB5UnlrdEU5NXp0TXlUU1JBVmo0cThnenQybDNWNkNUQTViVXJ1ejVEM3R1U3FQRU5YdGRzSHVPdE9wdTFkZlNMRTk3VWlDZ1BfNDJqRHotSlplekdNWE00RGJMUnR5djV6LUp6U1JoeERraHl2VVlLTjkyQXpzYnBjYnN5VHdrMjJQb0ZGRHYwMkJFZk9IOG1RZnBwRGRub2JGcG14YnAzdEtnc2FmSWo2VkRSV3VkWDJYTE1XdUYwa1daOHJFQmVDNjRNMTdTV0x4SFdDOEM4RDk1TkdsclI2R1RnZmg3elhnZGJ6SEJjZWJzOUVORG14Z3RlQlpFSllhSkhxLVpKamptYjRaYi1Gc1BxYU1MZERFMFZpeXVLenN5c2tmRzdrTl9MWTBzdDJVb3pIZ0FhSU95MndtdVM0VzhGbzFmZ3hQb2lYWUR3d2ZBQ2VWZkFhLXVSeW1rdXpUYTdzTVN5NEtuZGJKQkhBT2E5akJGc0pKOXhDT3hvZDNLMkdiS1BnZFBldjE3Zi1XUEF4cHFOdTVfeWFUTTdlMmhpS3o3Uk9tblZ4eGNTMEhiOVRKdjlEMUQ3UGl2WkxlNTFXblZyR0czYUM3NmZ6akRNWTRnUFFrbmRVWU4zWmZRdw?oc=5",
-      "pub": "2026-11-08T04:23:25+00:00",
-      "id": "364b357c6e625b1e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সাভার-আশুলিয়া, গাজীপুর ও নারায়ণগঞ্জে কাজে ফিরেছেন পোশাক শ্রমিকরা - RTV News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpY09mN3VJYkxiYm0xeEhmR1FTdEktbGdnZ04zcmZrdkFlTHROM2NaT2RacW1qNjdaSTg5cDE4NjJSZTJPaHE2enpFWllUQQ?oc=5",
-      "pub": "2026-11-08T07:01:16+00:00",
-      "id": "5aa0c8679de138a3"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
@@ -3185,26 +3142,10 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "কাজে ফিরেছেন পোশাক শ্রমিকরা, শিল্পাঞ্চলে স্বাভাবিক পরিবেশ - ডেইলি সান বাংলা",
-      "link": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNblBReHVKWl9jQmNwZk94LTRmWTFKLVZUY2J3MFNoQkJkbTVzejVVaXhUR1BIYlVkc0tMQm41MWpRbUlvX2FIbFdtaXhmeDdtQ0lJb3lVbjh6Nm03OEZoQVVBWFhwMDRDMllOZkVJbHdCbXR5NHlPVlI3eFhtSTVDNWM3aXVvRjN0QjBlYjhNZm1peG5jRFpsemlEYmVfMExGWDNKRWs4RWVyWU9qTlFQZ29FdmxRUWZSQmJJLS1qTTFHNHVuUUVTaGFILTQxclpMZ0h1ZFRrRlhrYTc4RE9BZVUwU3hqZk1DWnJSR0pmTUF5eDJycEVSemFfdGJ3eUZOd2VZXzE3cEt4ZTBOMHZ4eHVYVkxBREphUWg4U1JYY3Z4Tk1zWW13UW5DN0ljMC14TUt4WDlyM1dCSVZOT3ZWTXdDYU5IMXNTT3hXaWVjQ1M1OFZXSm80ZjBtX1BEb2o3TGJqNUR6UHphM2lDYldhY0VmYklnQ2hrQVlWcVo2TUtRZTZfc0NHeldTXzRFYkRJMzgyNkNvNnRnUmh3UTE4dFRTNnZPSU1wVkdiSUthVFl0T3JISVFFQXpnLWxXZ1g3Z29Jb3otM1hmelpLTUVoeDVuWmdOOGhKLUtqMG11dmxBVGFFZWlfN2hkRGpqTjJDcVF0UlpVTnJvRW5vZVpJRVc2bm1GNExxekMxbFhOdjJ1ODZzVi1ZUmlYbE9XSmowM2RsYnlvSnJGNFV1ekJVVGpLX3VOUVprQzdfXzU3WGJsMlNscnhUMHNQak5jSnlUX01uS2o2T3ZWUWJWaURMV1U5Qm1qUnJieHN2Qkk0TkpwYURBU3pTYm5MU3V5NlFjUmlHZzgyanYxMGExY2JjTUgzU1RENUZTWlZaLXdTTG5qbV9nalBZdHhROWlTelZWNzBmU2JmN1RDUQ?oc=5",
-      "pub": "2026-11-08T07:36:44+00:00",
-      "id": "2a3352f8656aaa6e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "নতুন বছরে বই-ড্রেস-জুতা-ব্যাগ পাবে প্রাথমিকের শিক্ষার্থীরা - Jugantor",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBadlFQLUxOaE9pNlhza0E4U3VGeGQtRFRNd3ZUZVNvbmtwRjVmT09EdGpCcUpraHJpUzI2UnVUSnV6a01QSy0ydGdSWVREc19keEhz?oc=5",
       "pub": "2026-11-08T13:46:16+00:00",
       "id": "1b5e9940475c2f8f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সাভার-আশুলিয়া, গাজীপুর ও নারায়ণগঞ্জে কাজে ফিরেছেন পোশাক শ্রমিকরা | জাতীয় | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wOFlzSUlxcV9nUVc2Wmh2MngtMDlNZmxkVTgza3g3NGVEbmxkWHVJT3N0U0dRWEZHUDYyRkJsenNZVkxvam1MaTdsWjQ3eG9RZ2Zxdk9rWjZ0QQ?oc=5",
-      "pub": "2026-11-08T08:48:31+00:00",
-      "id": "45d3320640e8b697"
     },
     {
       "section": "international",
@@ -3653,6 +3594,94 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zMlB4VmtnU1pxOUIxTEpqRmM1aHJVWU1fMm9hbnp4V0NqMnkwbDRXX0JQNXRQS09ZQ3AwR2kwcGctdmlobFJmdElVekhLZnM2?oc=5",
       "pub": "2026-11-09T10:01:22+00:00",
       "id": "7e29a0c343a244b1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Yarn policy: How can Bangladesh balance competing interests? - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPanh0ODlzZjg0clJjVXo5Yko5R1dlN0NzWk11Q3FXaHZfdDRzdUpPcjFzREFsa2JObkxUeFVXVUF5XzMyaTlqUjJWWTBxTDJuUk9PRW82cWlBTnJIMXpzMllCTEgwVWNGanpONVRZLXVZcnkxRW9PeGVOdTRoOVIyVnYxc3RVM1FPSHpnSXlzbU85VWpLLVBGLVpiOUcyUmY3S2IxclNzZ1FXTXNqeFBwQTE2WGxndEZLcnJPZDZ6blNvRGVGMkxlanlLek1VOVRDWktjYnJJM295ekV2UThLRzdXVVcyeHVWQXc?oc=5",
+      "pub": "2026-11-10T03:37:19+00:00",
+      "id": "14eca908fb8843d2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh garment factories restart production as wage negotiations continue - Maritime Gateway",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnBBSDZheEVqaVAtaXplZi1oSENCeWRBalFSYnJ4d0FlTVQyMTNiN3JKTHNEMGZLX3R1LWR4WHFyU1dmX2YyLXgyQ2dHaGRHMkZsN2Vwd19tcTRsUXAwYU1Kc2JDREtEbWV5UVAzZXpZZXFfbWhxTENObVFFcUtEVEstVWxiNV9wbXdlNVpzRC12OTMxSjZ0c0FrVzdLX3hiS0dSQUVYd29TeC1tQlZv?oc=5",
+      "pub": "2026-11-10T00:33:00+00:00",
+      "id": "c51733cab6d6f547"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG workers pitch Tk 32,000 wage floor - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEdMN0RUNlBnV1UwMnBDUmdvM3A4VGNaamdvamZ2ZWFxTEZYM0QyNDZXM3N6a21hU1FTR2ZYdWFGSF9wVXBud1RZd0Nqb1hJdjJYUlhxcUpFVXloLVJtV2hTWDZCVU9TRXpMUHg0RmhQTjNtZWFLTFFQMXprVFAxZ2RkOGVVLVN4enJPbW9DWEtYVTZTWHFKRmtBaw?oc=5",
+      "pub": "2026-11-09T19:53:56+00:00",
+      "id": "2b320705835a0245"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "১০ মাসেই চীনের বাণিজ্য উদ্বৃত্ত রেকর্ড ১ ট্রিলিয়ন ডলার ছাড়াল, উদ্বেগে ইইউ - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcEJQN0hKUXJJTkJFQ0JheU9wTTB2Vk84WHJSSFcxWUVWckJ4STJSa1JibF9NOF93VVVSWWVSVnI1UWVwbGMtaGhJTHFFRUhfcnl4VDFBMnNBSjhVY1RWQmw4eVdCUGdsRzlIbHdBdWFlZHVvY3fSAXZBVV95cUxPRHBCUDdISlFySU5CRUNCYXlPcE0wdlZPOFhyUkhXMVlFVnJCeEkyUmtSYmxfTThfd1VVUlllUlZyNVFlcGxjLWhoSUxxRUVIX3J5eFQxQTJzQUo4VWNUVkJsOHlXQlBnbEc5SGx3QXVhZWR1b2N3?oc=5",
+      "pub": "2026-11-10T05:35:22+00:00",
+      "id": "20cdfdffa114ad9b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "নতুন বাজারে পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ - Bangla Barta",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5palpXclJqbW4xM2NrWUd1a01SRFJEeXpoWmZtM092NGJ0b3JwRWZKQkI0RzBBekwyWDZUR3h2RVRYWFJxMVlZSDhmRW91NjZTMHBpQVlSYjNCRVoy?oc=5",
+      "pub": "2026-11-10T06:59:00+00:00",
+      "id": "df514cde62834eb0"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "নতুন বাজারে পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ - www.news24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KdXRPcWdBbUJnTXhHU1dLLXN0T21PSC04X3JOUlhET0g5aW15WlhsRVlFbEFOMkNDbV9aM3lsX1JETXViem15RUtvOGIxZWs?oc=5",
+      "pub": "2026-11-10T06:31:41+00:00",
+      "id": "ae56193bb7640956"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "১০ মাসেই চীনের বাণিজ্য উদ্বৃত্ত রেকর্ড ১ ট্রিলিয়ন ডলার ছাড়াল, উদ্বেগে ইইউ - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcEJQN0hKUXJJTkJFQ0JheU9wTTB2Vk84WHJSSFcxWUVWckJ4STJSa1JibF9NOF93VVVSWWVSVnI1UWVwbGMtaGhJTHFFRUhfcnl4VDFBMnNBSjhVY1RWQmw4eVdCUGdsRzlIbHdBdWFlZHVvY3fSAXZBVV95cUxPRHBCUDdISlFySU5CRUNCYXlPcE0wdlZPOFhyUkhXMVlFVnJCeEkyUmtSYmxfTThfd1VVUlllUlZyNVFlcGxjLWhoSUxxRUVIX3J5eFQxQTJzQUo4VWNUVkJsOHlXQlBnbEc5SGx3QXVhZWR1b2N3?oc=5",
+      "pub": "2026-11-10T05:35:22+00:00",
+      "id": "20cdfdffa114ad9b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "চার জেলায় বজ্রপাতে স্কুলছাত্রীসহ ৮ জনের মৃত্যু - Amader Shomoy",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zTHhVZnZidWxDeVRYTDUzazlNc09BT3pVUmcxYUZDUU5YZDNSWVNITXZxVGVtaW8xWnlCNV9relJOT3FkZVRvMG1PTlRRQllTNHVVR09hZ0ZJUUZBTVdRVlVoNWlSZw?oc=5",
+      "pub": "2026-11-09T11:47:29+00:00",
+      "id": "b74274e4567d442d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সুতার বন্ড ব্যবস্থা আধুনিকায়নে প্রতিবেদনের নির্দেশ - Jugantor",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Q1ZHNHdGVXlzZUZUMVY3WklWSW95dE4wbEFDZWJYbDRERlViRjBwYW5SaDBUVW1Ja2QwYndKNHBaSjdEa29jSnlEZ0ZTRnFwcXZobEFNUS0?oc=5",
+      "pub": "2026-11-09T21:59:00+00:00",
+      "id": "8e5676df4ccd76f9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "ন্যূনতম মজুরি ৩২ হাজার টাকা প্রস্তাব শ্রমিকপক্ষের, সময় চেয়েছে মালিকপক্ষ - Cvoice24.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPQW5jU0UwNzhEb0pMWTFVVnBkajRJUlNXUFpjUDBkU1ZIYXB2eWlqRm5xbW5yQ0xaS0JFZTV6Q0tyQ3l5Z3NrcXR6TDd3VWRrRV9LOE01MlhuT1V3bERuQTBZZno0eXo3STVSX1VLeE16WFRiM09UeFhyYXh5bjNzbC16VkstckVDR3dDYU5Pb19zRExMbVJySUJfXzM0VzAwQUZheTJNR3JpTEZaMWJwdnMzaGxKbGJrVXB1TkJIZlJwa3dSUGFBbzg3OFRldWdJWVQ3U3RtRTBoR1ZYUk54c0h5VUFSZk9pNzAxckNPN1JIWHlqQjQ1R2pPSVlWeFByVUhvb01fMkhvR1cwU0Rma3BCT3Y3SGJPaE9BR1NOOHNBTHBhVDgtZkxvSkMxZE5nVHQ5QjMzZ1V5c0FLRHpCVVhnVFlwZTZhSzZhSUh1Wm1uMHM0OVBYVlRQeG5kV0l5clJ5YkZVT0J1UGY3aEstZmdoN0ZYVDN2a0RVcmswZW56Y2lCcVQ5bnVLZVV2U2lvMmRheEl4S214TUZveDFuRFJPWW1CbG15Q3pBemQzTUVRVnlsMjlybW5WaUdWN0VIUjkyWWlCd3lXQjNVMm15cnMtSDRCcVBaTTVicUZUUk0tNGJIRW5TN05MN2tFUDRSZXJDNVNFTEhSUmk0S3hWal83MC1vSFE4N0NNZGpLZDhQb0tOaU4yVUxKd0t1NFJ2WHExNlJyTW5ORkhlMG1qak0wcUtFOWNWWUw5RTVZV1U3WDZoYk9pdGdxS0paemtUSUE?oc=5",
+      "pub": "2026-11-09T11:18:00+00:00",
+      "id": "3abfee6f26cfee5c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের নতুন মজুরি প্রস্তাব দিতে চারদিন সময় পেলো মালিকপক্ষ - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NbkNGSGVWMEtDTzltTl9yWDJSOW5fTExPWlEtRDVJMEs3LXU0QkxuSkdGUGVDSDdYMFJ3MDFtUWN6dkhqTldyNzhqcHEwcW1nenM3Yk5MQldCX1lZ?oc=5",
+      "pub": "2026-11-09T13:29:06+00:00",
+      "id": "72de4ebe62c770ef"
     }
   ]
 }
