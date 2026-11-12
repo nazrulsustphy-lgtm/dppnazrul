@@ -1,60 +1,5 @@
 {
   "seen": {
-    "552bbb25514af920": "2026-10-12T21:59:55.910669+00:00",
-    "f8330dc3b12f3ba7": "2026-10-12T21:59:55.910669+00:00",
-    "6a7a54af8695ffbb": "2026-10-12T21:59:55.910669+00:00",
-    "3328fab05d938ef2": "2026-10-12T21:59:55.910669+00:00",
-    "5dfc4a334db904cf": "2026-10-12T21:59:55.910669+00:00",
-    "1ef5a156151e4b85": "2026-10-12T21:59:55.910669+00:00",
-    "5ab23b40a5db226e": "2026-10-12T21:59:55.910669+00:00",
-    "0cf1067d0fe53800": "2026-10-12T21:59:55.910669+00:00",
-    "f2c9bf340170ae25": "2026-10-12T21:59:55.910669+00:00",
-    "685c37491a8e8601": "2026-10-12T21:59:55.910669+00:00",
-    "5d549dd5a9fca16a": "2026-10-12T21:59:55.910669+00:00",
-    "16db56fec59bc667": "2026-10-12T21:59:55.910669+00:00",
-    "68e2626daa7f3124": "2026-10-12T21:59:55.910669+00:00",
-    "695fa447a0c5cc7f": "2026-10-12T21:59:55.910669+00:00",
-    "2ce5f4447e994d51": "2026-10-12T21:59:55.910669+00:00",
-    "fa7cc690d07749ae": "2026-10-12T21:59:55.910669+00:00",
-    "356ded83b33915a4": "2026-10-12T21:59:55.910669+00:00",
-    "f22b821342c48021": "2026-10-12T21:59:55.910669+00:00",
-    "796998e6bc5ad4a7": "2026-10-12T21:59:55.910669+00:00",
-    "4d48d9de488b59f3": "2026-10-12T21:59:55.910669+00:00",
-    "65984f75a3247ebb": "2026-10-12T21:59:55.910669+00:00",
-    "532f7f21d2a33896": "2026-10-12T21:59:55.910669+00:00",
-    "5c37c0d334db004f": "2026-10-12T21:59:55.910669+00:00",
-    "d0cb716f208bd249": "2026-10-12T21:59:55.910669+00:00",
-    "8407fbe0e9c98d49": "2026-10-12T21:59:55.910669+00:00",
-    "3b7d64d6309d684d": "2026-10-12T21:59:55.910669+00:00",
-    "31bcb17761d1fbc6": "2026-10-12T21:59:55.910669+00:00",
-    "89dc112915e0d062": "2026-10-12T21:59:55.910669+00:00",
-    "89c55a3ff248ec22": "2026-10-12T21:59:55.910669+00:00",
-    "38207437c69fdd97": "2026-10-12T21:59:55.910669+00:00",
-    "40579d29aa2e666b": "2026-10-12T21:59:55.910669+00:00",
-    "e23fefd243a89901": "2026-10-12T21:59:55.910669+00:00",
-    "be829fa0f13352a4": "2026-10-12T21:59:55.910669+00:00",
-    "20d0a27345b7f9d8": "2026-10-12T21:59:55.910669+00:00",
-    "efa43165c8148197": "2026-10-12T21:59:55.910669+00:00",
-    "f4b0e5cbbdd0bce7": "2026-10-12T21:59:55.910669+00:00",
-    "2c514545d8c398ce": "2026-10-12T21:59:55.910669+00:00",
-    "04927c2c8efe6dc6": "2026-10-12T21:59:55.910669+00:00",
-    "e11e3c47ba3aa807": "2026-10-12T21:59:55.910669+00:00",
-    "58ab3aac330d701b": "2026-10-12T21:59:55.910669+00:00",
-    "1d7be323a583cfe2": "2026-10-12T21:59:55.910669+00:00",
-    "c40ae40bc544ef6e": "2026-10-12T21:59:55.910669+00:00",
-    "1ac25b07646d8695": "2026-10-12T21:59:55.910669+00:00",
-    "13482c6df946558d": "2026-10-12T21:59:55.910669+00:00",
-    "38e2503a35fdbd94": "2026-10-12T21:59:55.910669+00:00",
-    "3cf2e083c245c35d": "2026-10-12T21:59:55.910669+00:00",
-    "c77325ee4ad324e3": "2026-10-12T21:59:55.910669+00:00",
-    "16255455e5f947f9": "2026-10-12T21:59:55.910669+00:00",
-    "5ae1a827ae81d8c1": "2026-10-12T21:59:55.910669+00:00",
-    "9173a631b2e5298b": "2026-10-12T21:59:55.910669+00:00",
-    "8ba42d4693cc2e37": "2026-10-12T21:59:55.910669+00:00",
-    "a19462ba0d8dd26a": "2026-10-12T21:59:55.910669+00:00",
-    "d293f9307484c71a": "2026-10-12T21:59:55.910669+00:00",
-    "65c04bbceb773020": "2026-10-12T21:59:55.910669+00:00",
-    "50e0a40e2bc21f12": "2026-10-12T21:59:55.910669+00:00",
     "6aa128c14fd3b799": "2026-10-13T20:07:07.815880+00:00",
     "0d56114d45dc19ac": "2026-10-13T20:07:07.815880+00:00",
     "f90cdeb92d78644f": "2026-10-13T20:07:07.815880+00:00",
@@ -3043,65 +2988,54 @@
     "7f727ebe3af09b3c": "2026-11-11T21:06:11.591806+00:00",
     "64ea2679f3546b4e": "2026-11-11T21:06:11.591806+00:00",
     "9e2b31df060e9545": "2026-11-11T21:06:11.591806+00:00",
-    "d9bc96f4f69e129e": "2026-11-11T21:06:11.591806+00:00"
+    "d9bc96f4f69e129e": "2026-11-11T21:06:11.591806+00:00",
+    "9f613dc150bff20d": "2026-11-12T09:27:25.373617+00:00",
+    "37fc38bbfb01e43b": "2026-11-12T09:27:25.373617+00:00",
+    "c69a1cd0e358690d": "2026-11-12T09:27:25.373617+00:00",
+    "6e5fc6ccd1bfecec": "2026-11-12T09:27:25.373617+00:00",
+    "f9c2f7d1915b63ce": "2026-11-12T09:27:25.373617+00:00",
+    "80e85f461801fe16": "2026-11-12T09:27:25.373617+00:00",
+    "1383e5d8620309af": "2026-11-12T09:27:25.373617+00:00",
+    "8ed962a6800d621c": "2026-11-12T09:27:25.373617+00:00",
+    "ff3328f21580ed9d": "2026-11-12T09:27:25.373617+00:00",
+    "39e7044274fc5918": "2026-11-12T09:27:25.373617+00:00",
+    "4ce6a85b57c9c58d": "2026-11-12T09:27:25.373617+00:00",
+    "d71dabdfc3c5f4d5": "2026-11-12T09:27:25.373617+00:00",
+    "4feda8fc67e6b4a4": "2026-11-12T09:27:25.373617+00:00",
+    "61e4a39e69a81fac": "2026-11-12T09:27:25.373617+00:00",
+    "866514aa58e5e35b": "2026-11-12T09:27:25.373617+00:00",
+    "6d20dbf7c241d51d": "2026-11-12T09:27:25.373617+00:00",
+    "13c71b3cb25ce6fc": "2026-11-12T09:27:25.373617+00:00",
+    "275dd1a8e816afe7": "2026-11-12T09:27:25.373617+00:00",
+    "03fa06d83a25cb44": "2026-11-12T09:27:25.373617+00:00",
+    "450bf91cd0e37493": "2026-11-12T09:27:25.373617+00:00",
+    "95af1c011b99b9b4": "2026-11-12T09:27:25.373617+00:00",
+    "511113c7e7b773b9": "2026-11-12T09:27:25.373617+00:00",
+    "ba568f6f5e3e8bb8": "2026-11-12T09:27:25.373617+00:00",
+    "16a47c943b7a9ec4": "2026-11-12T09:27:25.373617+00:00",
+    "1218f125946261ea": "2026-11-12T09:27:25.373617+00:00",
+    "a4e1430b214f11f2": "2026-11-12T09:27:25.373617+00:00",
+    "28c5ca5347f16263": "2026-11-12T09:27:25.373617+00:00",
+    "0cf16aaed148752e": "2026-11-12T09:27:25.373617+00:00",
+    "63451712968da9f3": "2026-11-12T09:27:25.373617+00:00",
+    "7c11e85df25df3ba": "2026-11-12T09:27:25.373617+00:00",
+    "db2c74cb526bfad8": "2026-11-12T09:27:25.373617+00:00",
+    "f55bfb404cd44b16": "2026-11-12T09:27:25.373617+00:00",
+    "331f312167185346": "2026-11-12T09:27:25.373617+00:00",
+    "1a67a76ef9f74832": "2026-11-12T09:27:25.373617+00:00",
+    "543a52683ca2316a": "2026-11-12T09:27:25.373617+00:00",
+    "3320be08320d0710": "2026-11-12T09:27:25.373617+00:00",
+    "f3ae4b0b2573a268": "2026-11-12T09:27:25.373617+00:00",
+    "ff232cd00c8f8b8a": "2026-11-12T09:27:25.373617+00:00",
+    "972cb8c156535519": "2026-11-12T09:27:25.373617+00:00",
+    "c0361ee7654eb58d": "2026-11-12T09:27:25.373617+00:00",
+    "50191e9a8a94fff3": "2026-11-12T09:27:25.373617+00:00",
+    "7343f8005387a50a": "2026-11-12T09:27:25.373617+00:00",
+    "53ef8a738b515fc4": "2026-11-12T09:27:25.373617+00:00",
+    "af42535d51a07b0b": "2026-11-12T09:27:25.373617+00:00",
+    "b1d5592bc0806dbe": "2026-11-12T09:27:25.373617+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Yarn policy: How can Bangladesh balance competing interests? - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPanh0ODlzZjg0clJjVXo5Yko5R1dlN0NzWk11Q3FXaHZfdDRzdUpPcjFzREFsa2JObkxUeFVXVUF5XzMyaTlqUjJWWTBxTDJuUk9PRW82cWlBTnJIMXpzMllCTEgwVWNGanpONVRZLXVZcnkxRW9PeGVOdTRoOVIyVnYxc3RVM1FPSHpnSXlzbU85VWpLLVBGLVpiOUcyUmY3S2IxclNzZ1FXTXNqeFBwQTE2WGxndEZLcnJPZDZ6blNvRGVGMkxlanlLek1VOVRDWktjYnJJM295ekV2UThLRzdXVVcyeHVWQXc?oc=5",
-      "pub": "2026-11-10T03:37:19+00:00",
-      "id": "14eca908fb8843d2"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment factories restart production as wage negotiations continue - Maritime Gateway",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnBBSDZheEVqaVAtaXplZi1oSENCeWRBalFSYnJ4d0FlTVQyMTNiN3JKTHNEMGZLX3R1LWR4WHFyU1dmX2YyLXgyQ2dHaGRHMkZsN2Vwd19tcTRsUXAwYU1Kc2JDREtEbWV5UVAzZXpZZXFfbWhxTENObVFFcUtEVEstVWxiNV9wbXdlNVpzRC12OTMxSjZ0c0FrVzdLX3hiS0dSQUVYd29TeC1tQlZv?oc=5",
-      "pub": "2026-11-10T00:33:00+00:00",
-      "id": "c51733cab6d6f547"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "১০ মাসেই চীনের বাণিজ্য উদ্বৃত্ত রেকর্ড ১ ট্রিলিয়ন ডলার ছাড়াল, উদ্বেগে ইইউ - Ajker Patrika",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcEJQN0hKUXJJTkJFQ0JheU9wTTB2Vk84WHJSSFcxWUVWckJ4STJSa1JibF9NOF93VVVSWWVSVnI1UWVwbGMtaGhJTHFFRUhfcnl4VDFBMnNBSjhVY1RWQmw4eVdCUGdsRzlIbHdBdWFlZHVvY3fSAXZBVV95cUxPRHBCUDdISlFySU5CRUNCYXlPcE0wdlZPOFhyUkhXMVlFVnJCeEkyUmtSYmxfTThfd1VVUlllUlZyNVFlcGxjLWhoSUxxRUVIX3J5eFQxQTJzQUo4VWNUVkJsOHlXQlBnbEc5SGx3QXVhZWR1b2N3?oc=5",
-      "pub": "2026-11-10T05:35:22+00:00",
-      "id": "20cdfdffa114ad9b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "নতুন বাজারে পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ - Bangla Barta",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5palpXclJqbW4xM2NrWUd1a01SRFJEeXpoWmZtM092NGJ0b3JwRWZKQkI0RzBBekwyWDZUR3h2RVRYWFJxMVlZSDhmRW91NjZTMHBpQVlSYjNCRVoy?oc=5",
-      "pub": "2026-11-10T06:59:00+00:00",
-      "id": "df514cde62834eb0"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "নতুন বাজারে পোশাক রপ্তানি বেড়েছে সাড়ে ৯ শতাংশ - www.news24bd.tv",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KdXRPcWdBbUJnTXhHU1dLLXN0T21PSC04X3JOUlhET0g5aW15WlhsRVlFbEFOMkNDbV9aM3lsX1JETXViem15RUtvOGIxZWs?oc=5",
-      "pub": "2026-11-10T06:31:41+00:00",
-      "id": "ae56193bb7640956"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "১০ মাসেই চীনের বাণিজ্য উদ্বৃত্ত রেকর্ড ১ ট্রিলিয়ন ডলার ছাড়াল, উদ্বেগে ইইউ - Ajker Patrika",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcEJQN0hKUXJJTkJFQ0JheU9wTTB2Vk84WHJSSFcxWUVWckJ4STJSa1JibF9NOF93VVVSWWVSVnI1UWVwbGMtaGhJTHFFRUhfcnl4VDFBMnNBSjhVY1RWQmw4eVdCUGdsRzlIbHdBdWFlZHVvY3fSAXZBVV95cUxPRHBCUDdISlFySU5CRUNCYXlPcE0wdlZPOFhyUkhXMVlFVnJCeEkyUmtSYmxfTThfd1VVUlllUlZyNVFlcGxjLWhoSUxxRUVIX3J5eFQxQTJzQUo4VWNUVkJsOHlXQlBnbEc5SGx3QXVhZWR1b2N3?oc=5",
-      "pub": "2026-11-10T05:35:22+00:00",
-      "id": "20cdfdffa114ad9b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "সুতার বন্ড ব্যবস্থা আধুনিকায়নে প্রতিবেদনের নির্দেশ - Jugantor",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Q1ZHNHdGVXlzZUZUMVY3WklWSW95dE4wbEFDZWJYbDRERlViRjBwYW5SaDBUVW1Ja2QwYndKNHBaSjdEa29jSnlEZ0ZTRnFwcXZobEFNUS0?oc=5",
-      "pub": "2026-11-09T21:59:00+00:00",
-      "id": "8e5676df4ccd76f9"
-    },
     {
       "section": "international",
       "source": "GoogleNews: ESPR garments",
@@ -3173,14 +3107,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RkxRTnlXSWpFUHBaVzFHNXB0Rlo3LU1fZV9VckFsSHJYVGlVT0E2QWc0U2tmODVxdGxKYXFrTkVMSkJqS01OSVBDb2NZOUZxVlZxbg?oc=5",
       "pub": "2026-11-10T13:12:00+00:00",
       "id": "14188aab53f1f1e4"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "চবির হীরকজয়ন্তী উদযাপনে প্রাক্তনীদের সঙ্গে মতবিনিময় - দৈনিক আজাদী",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNejYzNC1HY2lGZmlDdW1GRjBMSlVIOUtRZF9lbWlLWjVxRFU1eTNvbHBNMzY0ODdTMUV3VWdEUGRPVUFWNWdMaGJhN2k0MWt5WTk0bWdVQ3lUZ3dlUjJxZUltX29KUEt6N2RKSkRZaVVfTG5IekpBdkI4U3NPVXNaUVoyWGFSeGNhdzZKYUdEeXc1Rnk2NWhvOGRGZ21wTENTWksyaWhjbE1TbW5HMnZTbW9Jem5GV0U2N0xSUGRUcF9jVDh0LVZtVWVwLU9RbzBaRE5kbEprV1VSYXltb01peFZqSFN1UnNHaTROajI2VS1nbEJBTWlPWFVSUVFyeUktWXRueU5iRTRLV19qOFVDdzN1TWhHSlY4eTVBbFJxdm81Rml2bER6VDgtQjVIRDV4RlQxX294WC0wQjY4?oc=5",
-      "pub": "2026-11-10T03:37:00+00:00",
-      "id": "7a20e42cc7faf2ca"
     },
     {
       "section": "bangladesh",
@@ -3709,6 +3635,214 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2OGpPMExlOVVRbVJzdlowRFpuWFlldUZsUV9WeDFlYmRBaVRvM3gyMGZOV2Jyc1V4VlJUN3dsWlIybmMwUkc4N0czRULSAVJBVV95cUxNUlVsR0xxZWdsR2NIZzZKOEd2ZlV6X2ZzeU1iUHg4c0hsUWhQRkd3UXpaSlVxLVROMjNLaWhHSXFhVkhuTnZNY0RBN013ZTFxbFdn?oc=5",
       "pub": "2026-11-11T14:46:08+00:00",
       "id": "d9bc96f4f69e129e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "RMG exports to EU up by nearly 3% in Jul-Oct - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTdhb2d4SE10TERkcmVqbDNudEppRjNQc1hSSDMtZDdvX1Mxd2Joa2sxeFVBa19kS1ZaUmxlZ0RuVVNxSzRwUE01TVh0cm9xWm9CeGx5N2hjaXZnWWEyaEtKNi02VEFJTy1HSlpvVlVCcE9TNWhvUVZzWmcxaE53eUZzTG4wOXpneGRJN3ZaTlZMMlBH?oc=5",
+      "pub": "2026-11-11T20:38:26+00:00",
+      "id": "16a47c943b7a9ec4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh's RMG exports to EU grow 2.79% in July-Oct - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3IwM19mOHRXYzN2OTA0TUFaZms4TEVmek9uZi1FbzdJM2wyZjBNYXJfOGhFZTNjRnFxcms5LVVZYWVYVnFNYnVZM2VsSVA2RXJ2WVl1MEE3cXktUUk1V0VlY2FmN0tLLVptSGhXNWZ0UV9vOGowNWhrVTllSHotcHRqUU1nSHlhYnfSAYoBQVVfeXFMTnNyMDNfZjh0V2MzdjkwNE1BWmZrOExFZnpPbmYtRW83STNsMmYwTWFyXzhoRWUzY0ZxcXJrOS1VWWFlWFZxTWJ1WTNlbElQNkVydllZdTBBN3F5LVFJNVdFZWNhZjdLSy1abUhoVzVmdFFfbzhqMDVoa1U5ZUh6LXB0alFNZ0h5YWJ3?oc=5",
+      "pub": "2026-11-12T03:42:09+00:00",
+      "id": "1218f125946261ea"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Seven garment factories in Savar, Ashulia closed indefinitely over labour unrest - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVhhcnRiV0NUQTNSUUprM1o2WWFpeVByTC01VGhPbFJZZ2JCeFZQb0xjZmkwelQ5eDk1VDVISElyZkpGMnJKWGFZTC1GZXFjZ0RKbnpMOVBvWUhFMVI4NENPc3JiQnlBcWF6eVFpY0R1Tl9OU0tfdTA3aEZGRkNvNlg3V0pQY1ZNRVNpNUtCUTNkbV9MM0gtYno1V1BKYng0NlBFWDQ1VUFubXdnc0p1VEVvNWhoeEFXQjZYNg?oc=5",
+      "pub": "2026-11-12T08:52:43+00:00",
+      "id": "a4e1430b214f11f2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "145 RMG units suspend production amid protests - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3ZYa3QtODYtdkp5bG04eWg0OGdfOWo5ZVVROThMelRtQWlnVm5tdU5BMjFTYWFfS2R1TUl2NWlUby1QUDJvLW1TenBWU3FJOHJQZXlSQTFGWEhueDJiX3ZnbHQ1QlluR1NlUDJLN1d5Uk83eHNzWU5WZkRVcHMtMTJCaFZSSGdhUFYyUkNrRloyQm5sM2c?oc=5",
+      "pub": "2026-11-11T18:40:00+00:00",
+      "id": "28c5ca5347f16263"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Spain overtakes Germany as top EU market for Bangladeshi apparel - en.bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zUngxT2Fwb0VfUmJOTlA1LUNJWmtVX3FtLTBVYVc0S0lYSGFlZlI1cEh4bnJRb0RFbzFWS2NrLTFCN2NHbDlOZEo2QTJ4cXNkaGtuRThfVVllSU1xTDUySg?oc=5",
+      "pub": "2026-11-12T08:22:04+00:00",
+      "id": "0cf16aaed148752e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "132 arrested in 24 cases over RMG workers' protests in Savar, Ashulia - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzZSSXpPZkhUS3oybFEwc3U5RGY3ZUVDaTB5OGJ1QXEwb3F0cGpCRy1rQ1JGT2JsWVNycGxnbmVKSThkTXd3djdacE1Qd0ZUcGI3eExxSG1MUEhsV3FreVJuZ0Y3bWJ2bjBaV05LRlQwX2p5clN0WUdyQTl6S0ZES3B6VWhQN0YxR0RPb3FkZjZHRVp1dU9LNTAtQnNFcVFyZ1p4ZlZMWFdmaGk5TGl3MFF4RUdadw?oc=5",
+      "pub": "2026-11-12T08:02:00+00:00",
+      "id": "63451712968da9f3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Behind Bangladesh’s garment boom, workers cut food, healthcare as wages fall short - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFdnMmpEMkdkZWpOWmhXbVo1a0NJMnZSd2xEcGFEdWJJSnFGdU5iM0FQdkxDR2xFUm8taVd3RG1GcGo3MW1RdzhKVUtLaEdfbHNUeFRONElvWVg5TjY0bHdIc1J1SDlDekpTRnl1RXJ6U3RyN1kzYXY3emtkSVRhZDhIU2NONnl3QXRsSWtMaWhjNllQZGg0TnlrWE4yUV9QS0tQT2NwZHNxWGUtVW5iMU50cGRUaFdvd3NYbTNrb2h5RTdaanYzREs4bEpkNm5K?oc=5",
+      "pub": "2026-11-11T20:38:26+00:00",
+      "id": "7c11e85df25df3ba"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Citizens Bank holds student banking seminar at Armanitola - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkhQY2dGT3U1NHdTaXR2OE9SOFBvUl8xc2U4SDV5MnQ3c0s3LW9rdnE0OExTSXlWVjRzRjQ1OFpOOGdZQUZtQzBvcTBfbFBEX05pYXVvaExIVFdPV0lTMDJld0haaGJsMmR0WGlxWTJ4S3FJU2wwcEVUcVVrZ2NicExZVmJyVm5Lb1R4UThMUEZqOXA0RTJxODRqdzBqU2hDb2VaSmk4UTdPWjdrSldNblc4dE5lVDE5bm9aXzk2MUk?oc=5",
+      "pub": "2026-11-12T05:14:13+00:00",
+      "id": "db2c74cb526bfad8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "44 Bangladeshis deported from Greece, Cyprus - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnpPYk9XRDlscXpnUUNpLVREZ3Y2TUNBRXBiSnNUV2pBNXJTZlRkcVZGbi1aQVVhUzYyMUZqY3NUbGJUdFRENHhJZE9Eb0huOFo4M2tZRGM3dnNQVVpXTGpiVndsbWh0Z3JhXzl0Q3NGdFBuRXJSM3lGYnVFVjZRQU8yRWhqXzJxTGt3MVNwaXpuQ05hbko1eDNVTzZ2VHRYajEzS3ZJQQ?oc=5",
+      "pub": "2026-11-11T14:09:20+00:00",
+      "id": "f55bfb404cd44b16"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Spain overtakes Germany as top EU market for Bangladeshi apparel - en.bd-pratidin.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zUngxT2Fwb0VfUmJOTlA1LUNJWmtVX3FtLTBVYVc0S0lYSGFlZlI1cEh4bnJRb0RFbzFWS2NrLTFCN2NHbDlOZEo2QTJ4cXNkaGtuRThfVVllSU1xTDUySg?oc=5",
+      "pub": "2026-11-12T08:22:04+00:00",
+      "id": "0cf16aaed148752e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh's RMG exports to EU grow 2.79% in July-Oct - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3IwM19mOHRXYzN2OTA0TUFaZms4TEVmek9uZi1FbzdJM2wyZjBNYXJfOGhFZTNjRnFxcms5LVVZYWVYVnFNYnVZM2VsSVA2RXJ2WVl1MEE3cXktUUk1V0VlY2FmN0tLLVptSGhXNWZ0UV9vOGowNWhrVTllSHotcHRqUU1nSHlhYnfSAYoBQVVfeXFMTnNyMDNfZjh0V2MzdjkwNE1BWmZrOExFZnpPbmYtRW83STNsMmYwTWFyXzhoRWUzY0ZxcXJrOS1VWWFlWFZxTWJ1WTNlbElQNkVydllZdTBBN3F5LVFJNVdFZWNhZjdLSy1abUhoVzVmdFFfbzhqMDVoa1U5ZUh6LXB0alFNZ0h5YWJ3?oc=5",
+      "pub": "2026-11-12T03:42:09+00:00",
+      "id": "1218f125946261ea"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "World leaders view PM as 'transformative leader': Humaiun - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDhIQmVwYl9yUVdpbU5jZ3oyMzRHNUZIMkFYeHVrREphOWlHeWsyTjYxNlZIVFZZVnR3M0ZJYmNPS1NKZy1pZ1FyRTI2ZTA4SmhMaE9CSWpoY3lodXZjczRzVVF5amQ0cnJ1VlE3ekhxZWdxdk0tWmFaaXNhSG1KWDJTV2t5QkNsZDdCN2lvYzJIZTVleFNMSTdR?oc=5",
+      "pub": "2026-11-12T05:23:03+00:00",
+      "id": "331f312167185346"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Seven garment factories in Savar, Ashulia closed indefinitely over labour unrest - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVhhcnRiV0NUQTNSUUprM1o2WWFpeVByTC01VGhPbFJZZ2JCeFZQb0xjZmkwelQ5eDk1VDVISElyZkpGMnJKWGFZTC1GZXFjZ0RKbnpMOVBvWUhFMVI4NENPc3JiQnlBcWF6eVFpY0R1Tl9OU0tfdTA3aEZGRkNvNlg3V0pQY1ZNRVNpNUtCUTNkbV9MM0gtYno1V1BKYng0NlBFWDQ1VUFubXdnc0p1VEVvNWhoeEFXQjZYNg?oc=5",
+      "pub": "2026-11-12T08:52:43+00:00",
+      "id": "a4e1430b214f11f2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "ইইউতে বাংলাদেশের পোশাক রপ্তানি, প্রবৃদ্ধির ৯৮% স্পেনের - Zoom Bangla News",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV2piSHVxLUVXVnd5SE9RX3JKV1ExbTFEeHVRMTRoZzZCTzUzb1REaXZLWHFLNFNPRTBaMmJ6ZkhaMHFPWEpJOHcxeDRBTkVqSF9Ya2NyMkZhMkpTSHF2YkNIU1d2VlRYVk1HU3Bfelk4ZXhTY1RsTXlxejlfcWJ5MlhKR0NIMHBVc29XU09tVXBaclJ1c1VyMjZRS3NORTRYa0lfbjNxRzFHWG42b3lmdGtySFhOd3FwNlNfNUtOQW03aFV1bW90RThnOEl2TmF2ZDF4UDdLZERuaXZQVkZUbGhub3ZKMk5UZVlidEdreDhHTzd1b0VkcEZPekprekppZDBONS1QVW1vLXFRZGdpOFViaGp5alBzSDNkVllJSHZNYmVDbkxMVEJlbzY5ekVpZjZEZkdKMnlaT282?oc=5",
+      "pub": "2026-11-12T07:14:48+00:00",
+      "id": "1a67a76ef9f74832"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "আন্তালিয়ায় তুরস্ক ও মালদ্বীপের ফার্স্ট লেডির বৈঠক - দৈনিক এদিন",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rdzk3SWdjWG1NelNZbjd6ckFUN1BSeVlRUVJMU1p3VVg0RTZpZTB2cWxFaERfUFc1TWNsalNYc3VHdlM3QThEdHNuSUU5a3EwcmFn?oc=5",
+      "pub": "2026-11-11T18:35:00+00:00",
+      "id": "543a52683ca2316a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ব্যাংকিং অ্যাপের নিরাপত্তায় ঘাটতি, পরিকল্পনা আছে মাত্র ৩১% ব্যাংকের - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5NExZNzZpbndITHFpUWJSalY5LXBjallsdVlkcGZOeldPUFhYN1JGVGl1YTQ5bmR2VEt3Szc2dng0Yk0wcHRsVGpzNXJ1Mjk1TVNvYndiWUhZbzFyY3ZLN0hrdF9QZw?oc=5",
+      "pub": "2026-11-11T14:55:15+00:00",
+      "id": "3320be08320d0710"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে বাংলাদেশের পোশাক রপ্তানি, প্রবৃদ্ধির ৯৮% স্পেনের - Zoom Bangla News",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV2piSHVxLUVXVnd5SE9RX3JKV1ExbTFEeHVRMTRoZzZCTzUzb1REaXZLWHFLNFNPRTBaMmJ6ZkhaMHFPWEpJOHcxeDRBTkVqSF9Ya2NyMkZhMkpTSHF2YkNIU1d2VlRYVk1HU3Bfelk4ZXhTY1RsTXlxejlfcWJ5MlhKR0NIMHBVc29XU09tVXBaclJ1c1VyMjZRS3NORTRYa0lfbjNxRzFHWG42b3lmdGtySFhOd3FwNlNfNUtOQW03aFV1bW90RThnOEl2TmF2ZDF4UDdLZERuaXZQVkZUbGhub3ZKMk5UZVlidEdreDhHTzd1b0VkcEZPekprekppZDBONS1QVW1vLXFRZGdpOFViaGp5alBzSDNkVllJSHZNYmVDbkxMVEJlbzY5ekVpZjZEZkdKMnlaT282?oc=5",
+      "pub": "2026-11-12T07:14:48+00:00",
+      "id": "1a67a76ef9f74832"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিক অসন্তোষ না কমলে অনির্দিষ্টকালের জন্য কারখানা বন্ধে বিজিএমইএর হুঁশিয়ারি - Channel i Online",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT2VfZEFJY3NjbExhY1NoRVlZMW5VNjRkSFlySEk0azYxTEl0aS16clVJTzgyRDI4V2VPV1dSMTVzTVptWjFQcnRqa0JpbzBLQTdIT1hQRWs1VGJic1FkUlFETFlVMVc3V0dwR2tXWXlkMTRvWW12TktsWjRxWWFRQWlYbEVJcGk0M1ZPYnc3RnI2eVBhUUxfSURTcjczcXgtcDY2dTAwa1lhZHJRSTRCcGFmdWpCekZaY2hDb19ncWVnWXpVMy1UV200enpSLTg?oc=5",
+      "pub": "2026-11-12T05:02:08+00:00",
+      "id": "f3ae4b0b2573a268"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিক অসন্তোষ না কমলে বন্ধ হতে পারে ২১০ পোশাক কারখানা - Daily Observer",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmdzBuTDhUMmhpQmtHQUw1c0gtZVltalJNbDZQQmZVbTUzaGFZUEZPYXpUMTZtbWpYeTVjZWRtUHlrMjlwcEN5WUE3XzNiUQ?oc=5",
+      "pub": "2026-11-12T06:42:00+00:00",
+      "id": "ff232cd00c8f8b8a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিকরা কাজে যোগ না দিলে কারখানা বন্ধের সিদ্ধান্ত নিতে পারেন মালিকরা - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMXRVaG5BUTNaQ2xpNUlYU3BjcjRGaWdvYm5LTHVjYmxMakgtdzUyNEVVX1V1bjF4eHM0bk5zOGNxS3d1UXRBemdHdHBQY28zRkZ1V1VDaW5hMUE?oc=5",
+      "pub": "2026-11-11T14:17:00+00:00",
+      "id": "972cb8c156535519"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "জরুরি সভা ডেকেছে বিজিএমইএ, মজুরি বোর্ডের বৈঠক বর্জনের হুমকি - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQcmtMUmxhSnhlSk5kcHJfNHFoNVpFNERxTWhXNEpHN3NXMlJ6VFFfaEhvaUJWRnUzMjI1TzJVbDNYWG13aEdGOXRpOVZBVjZHc3N6TEVXdzJwYWpJX1VvRlFUam1BMGZVSDgwZ2syTzRCOVBIYlRQY3B4OEhEN3BtQWk4T2JtSjRfd2Zyd3BRSFdUMjZBUjRKQzhjQjZnODFnZndZR1hUWHRoeHB3NXZrZmtIeDBWS0ttWm5FQUU3QnNxX0RfcGY2dmVuYVNyN0dTTWd3bXpEX25LQ2FOT1FwSnpyS1pISzFHQkxTZGNadWpyLWFaODFhT2ZxN2l4dG5wRzFqWWdTNjVCYVJaZ3c0MkU4WjhCblFmNHdRU0FwWlRQUGlranl6Mll5d0Y2MzRvMGd1dHlBbGhrMjdlZjZpeGhQUTVXaEVNc3dYbFg5WnJpTG5wTzNRLTlnY1RwNDN3V0dhQVA4b3dORHQyNnhiS2JEazZHWTE3b1ExNlQ3Z0RaNXJnQS1fUDY1emg2VlVwMVRxem8wUDI4UFRzNEZrRTJUNlluWHFzbkRxU29fTWhWRDFTYnVtVWg5ckxXRFdQYjQyak1WV3piOGhsbTJWZ0Z1MGRYbXcxRlJYLWpMSFBIMFFET0xfaHFQSWJZY1ZXczBYQzlVM0gzNmJxQUxydUFkX0x0Nm81cFRKLUxvR0JkT2JqYzZjdG9vTkhPVE5jeUpSQdIBnwRBVV95cUxNYVVQRm5pSVhSUW03WDRmYTJKTXBZNGNNaUU0VUR4VElJRzZaUHdSR1VEaUU4OUNybnZqTWhiVGp3M2k1UjRIWklPUWtyV2poWDNZSHZxTHFGWV9OcWM0b01LY0trSFlIX1UtZ01pMW4wY3dwWlBBTHVCYzU4cmtHYllkZ2s2c1djdjFqQ2FiYVAzSVpBRGNxOElNVEdWekYwTldxaHNkR2Z5ME5pUTVWOXp0eEJQRkw4cDVFaGhxaVVQajkwSmY1b3ZBbURJM0hBaFo4VDRQeEJQOGVRX2oxMVJUanE2Wk9Xc0h2VkdHZFVfRkFobmhPQjJmeFBueVJ5Yk9UaVI0SWpvZ1drdEdXb2h0M1dfVk4ya3E2Vk5nSmlORk5lMmY5amd5a1dHLVRQQVdQQ2R2WFFjU2pfT1lESzZiU2g3amVmREVQM0R0a0s3Wl9YVnNTYTBEcE5VTVMyR0F4VkV4RG9fRnptOXpiUEd3X3pYeUdja1NIeVNrTXV5cUVtek9JMlkzZWlLV0p2SWZNTm1OYTRYWnZpVEF6ZktjNG93SnFCVGpDd2R0MGJXYUJlY2dyZjh3VVAxb3ZxNXJxbERXN2xia1JHa3ZNY3BYSWE1SjgyWThfXzY1VXQ2NFIxZEp2Mi01OFZfZkZNZDZFREdjd2xXMUNOU1BCbGxTNUk4RTB1YlU1VGJaZG4ycVF1ZTR4NTB4bjh6LWs?oc=5",
+      "pub": "2026-11-11T19:13:23+00:00",
+      "id": "c0361ee7654eb58d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "‘কাজ নেই তো বেতন নেই’ নীতিতে কারখানা বন্ধের পথে পোশাক মালিকরা - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxPNVVtTHRDMkpFUUIxSWwyYzFXSktSOVh4RERPZXhmNzNwYlJqeHFPdENrcVpDSUlHQ0tzclRncHhPc1pOT1F4SzhaLUpKRk1mZkllOFpHTGNnTDBGTWNZTUhEWTZqQ2xVMnVqQmpuUDhBT2lobXJVcGtra2JjU2tZeDdHSWlKakVDOXM4dTJZRjI2WFJnZTNwQmRWQXZYd1pOOXE3aGNKaVVOTDVOaldpZ28yb0trQ21Lc0IydGVsc2Jna2ItdUJBNmI3RUNZUHVMSjFEU2VEWmhQajdsN0U3XzVqSmVHLTRtWktTVEw5RkxMZkVvczU0QUJjam9FYlVadkd3SW9xS0tlcGVzSDctLWxYMEZENmtWSk1fN0FEMHhjLTEwN0VyLWRSY1FhSUxrbS1uNFpWQmh4TjVqVDlDMVpmLXVxZ2RPMTQzUzBfclhvY3RuWnNFcDFZSTZqQ19fRldIdWxkVkUzdjktZGlEb1lpOV9URndXa2R5OW9nUldOREszLXRCRU9STU9lN0RsSXAzb1prNEtyYmVyVnd3SnVNRzJidVJweW9LQkFSb29raXVaYVRnU1l1N2RfdlAyUFdwcm5nbmd4TEI0ZHZLMm5tc2hsb19YeHlubGFLekszcUJZaU1LUDI0VjNidjU1dnhBY0NWLW1kVEpibXo0ZjROTHU4azRnZEFjTEJxSTNveEhPajFBTjdBd1poZ1Jfdl84MTZuZWhqdDVyUE92ekNSWVNtdTlacFRoVnBJZGlXYVFw0gHEBEFVX3lxTE81VW1MdEMySkVRQjFJbDJjMVdKS1I5WHhERE9leGY3M3BiUmp4cU90Q2txWkNJSUdDS3NyVGdweE9zWk5PUXhLOFotSkpGTWZmSWU4WkdMY2dMMEZNY1lNSERZNmpDbFUydWpCam5QOEFPaWhtclVwa2trYmNTa1l4N0dJaUpqRUM5czh1MllGMjZYUmdlM3BCZFZBdlh3Wk45cTdoY0ppVU5MNU5qV2lnbzJvS2tDbUtzQjJ0ZWxzYmdrYi11QkE2YjdFQ1lQdUxKMURTZURaaFBqN2w3RTdfNWpKZUctNG1aS1NUTDlGTExmRW9zNTRBQmNqb0ViVVp2R3dJb3FLS2VwZXNINy0tbFgwRkQ2a1ZKTV83QUQweGMtMTA3RXItZFJjUWFJTGttLW40WlZCaHhONWpUOUMxWmYtdXFnZE8xNDNTMF9yWG9jdG5ac0VwMVlJNmpDX19GV0h1bGRWRTN2OS1kaURvWWk5X1RGd1drZHk5b2dSV05ESzMtdEJFT1JNT2U3RGxJcDNvWms0S3JiZXJWd3dKdU1HMmJ1UnB5b0tCQVJvb2tpdVphVGdTWXU3ZF92UDJQV3BybmduZ3hMQjRkdksybm1zaGxvX1h4eW5sYUt6SzNxQllpTUtQMjRWM2J2NTV2eEFjQ1YtbWRUSmJtejRmNE5MdThrNGdkQWNMQnFJM294SE9qMUFON0F3WmhnUl92XzgxNm5laGp0NXJQT3Z6Q1JZU211OVpwVGhWcElkaVdhUXA?oc=5",
+      "pub": "2026-11-11T16:22:22+00:00",
+      "id": "50191e9a8a94fff3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কারখানা বন্ধের হুঁশিয়ারি মালিকদের, সাভার-গাজীপুরে শ্রমিকদের বিক্ষোভ-অবরোধ - Bangladesh Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4wZBVV95cUxOS2NaZzdWbWkxdzV6akU1QmhyZDVESXVXRTlELW9vMnZzMEs2dWVLRUhWX3pXQ3FoNWxQREFDT3RlbVBwSEpJaG4zQ0c0MmFCU2pYczlEVGtkYlpnN3Y3ZEh0R1QzckYwTDV2b0FuZnR0S3k3RHNZYjVfNGZONHBxaU04Wlppb3dUSUpGZ0JfWGV3RlIwOFJCeG02Tm40eTV5ZE5lM3JCV3Zpd2xUcHk3WWlCNlZ5M1pRcHhHS0RTZ0Zya3ZHSF9tVGsxOVVwMk9WTEg1ZDJwNnRZRkFjSFViY2xDWDljNkltQVNyNmZHNFRjQ1ZFRmp6V3VFYUVtRGZIc1Fpb0lNUFc1dnRiRGlpNS1KRXBYRnZlcWNzbHZ3cTB1cE1jQ253V3VkSVU2RDZfY1NQWGQ4SGdYaXFyZ3RiSE5uQnAxeWZiX0gwM2IyblZibXU3Zmcxb2RVLUs2VnpZdU5SdXFRWXBLem9obm8zcF9Ud2RQd3dIRXFPREJhZ0pWSC1KSi1DeDFRUXVVcjhfZkU1RVQ4cUlESjdYa2pxZEZXUzJqWjhJUHpWclJwWDNXV2FPZnl5eUVSeldBQ0JtRkI3QldjWVJqQTUyS19YcVIxQndIMmNJSG9xeEFTMEZIVjJsMVF6TlFPZUZyanlUSzQ1aE5SQ2lTUEx3MlRrY201MTZIMm9iU3pyS2t4NGlueEFkZXVLSXJDbEJxdm5qd3U3azdGQkc1bEVyellFSFdTQXEyZWw5Uld1cjNaaDNmNTVJVnRWS0pvUjgwU3ExTkJlSk1mdkFCeW1ZaHBMM2NnX29xajJ0YnpGRDBlT1NWa1NXSkFleFdIdFlVNndNVUlRNnc4ZlhvRERDSVgwT2J3WkVRZXFJZ094MVgyckJjSktrb1djZmVOeG4zcWxTMEFLZHZTLTBWZlFMeS1vbDgtZnBydUROeFJZVUxXdEpzZkNjUDlrd3llaERGdXVTcEVUTVNiZGZnT2lOczdrZTB6V2VLR2xaU0hnYV9vbUhNWjZFS29SM2U2U2RFTm1qa0YwWkpieGZWai1lcXhGSExmVzFKeEUzUmo5ZW5uYmlEbUlsV2tpcHljQzZCV3pBb0g2WmFNSTVqVEYybTRPM3RiSzRoblhpVkxDbGQyUE5TS3M?oc=5",
+      "pub": "2026-11-12T06:50:03+00:00",
+      "id": "7343f8005387a50a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "তৈরি পোশাক খাত: বেতন কম বাড়িয়ে বিকল্প সুবিধার চিন্তা মালিকপক্ষের - Ajker Patrika",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sZFF5WHBZTl82bkcySkpVd240TEFBWG1ZMzJOdGFCSkRYYW14R0dyRFhfUkk1S200NHNRcG5LMkdTMTBmanl0M3AwRTA4NzV2eENlV1Y1QzREdGVIRlZSVlBsdW0zRjdvdUxrbWxwd1HSAXBBVV95cUxObGRReVhwWU5fNm5HMkpKVXduNExBQVhtWTMyTnRhQkpEWGFteEdHckRYX1JJNUttNDRzUXBuSzJHUzEwZmp5dDNwMEUwODc1dnhDZVdWNUM0RHRlSEZWUlZQbHVtM0Y3b3VMa21scHdR?oc=5",
+      "pub": "2026-11-11T20:35:00+00:00",
+      "id": "53ef8a738b515fc4"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিক অসন্তোষ না কমলে কারখানা বন্ধের সিদ্ধান্ত নিতে পারেন মালিকরা - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAweGJ2N3ExTnZvVElIZEhGc0VWTDJPTTFZOVdwdFBXMW03T0hzMVNHdmp3cS1CLTdxYWxtWGRaR2lUMktDTGdUZUNVUTFuUFVZLUE?oc=5",
+      "pub": "2026-11-12T06:30:01+00:00",
+      "id": "af42535d51a07b0b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "আশুলিয়ার অনির্দিষ্টকালের জন্য বন্ধ হতে পারে ২১০ পোশাক কারখানা - 24 Live Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LVFVUN2xlbkVFa1NXTXV3b296R1NJcTZkeExhZWVtdUdUb0twcGxSZl9SZ3YwRndjYnpUaGZKQkM4NzI0Skl3ek52OTktQ1gtclpNMmNHS0V1bHYtRkFn?oc=5",
+      "pub": "2026-11-12T03:38:54+00:00",
+      "id": "b1d5592bc0806dbe"
     }
   ]
 }
