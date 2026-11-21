@@ -1,42 +1,5 @@
 {
   "seen": {
-    "9e6e1d0a6a952944": "2026-10-22T07:16:35.298684+00:00",
-    "09d44e3676c581c2": "2026-10-22T07:16:35.298684+00:00",
-    "0c932a55d37ba35c": "2026-10-22T07:16:35.298684+00:00",
-    "7ae7f519da2bfcda": "2026-10-22T07:16:35.298684+00:00",
-    "a3199d0e61c9b6e7": "2026-10-22T07:16:35.298684+00:00",
-    "0fcbb11ee82df917": "2026-10-22T07:16:35.298684+00:00",
-    "58caf38f23bb826d": "2026-10-22T07:16:35.298684+00:00",
-    "889d4a74dc88b1da": "2026-10-22T07:16:35.298684+00:00",
-    "ea2979c9c3bc217c": "2026-10-22T07:16:35.298684+00:00",
-    "0b9a70b5fc9f40e5": "2026-10-22T07:16:35.298684+00:00",
-    "3424a4dc1fcb60f1": "2026-10-22T07:16:35.298684+00:00",
-    "cffc4f5a935b0b14": "2026-10-22T07:16:35.298684+00:00",
-    "3e6b2d9cc234b84f": "2026-10-22T07:16:35.298684+00:00",
-    "ed1cc627e3b97087": "2026-10-22T07:16:35.298684+00:00",
-    "f54839b433ee6652": "2026-10-22T07:16:35.298684+00:00",
-    "068f16685462c388": "2026-10-22T07:16:35.298684+00:00",
-    "07ec1db03fa74578": "2026-10-22T07:16:35.298684+00:00",
-    "b1d56a616f35bc2a": "2026-10-22T07:16:35.298684+00:00",
-    "dd2a85f011ce9cb0": "2026-10-22T07:16:35.298684+00:00",
-    "aa1dc0f153310e9c": "2026-10-22T07:16:35.298684+00:00",
-    "576589517478f3b3": "2026-10-22T07:16:35.298684+00:00",
-    "10e655b9b7694c87": "2026-10-22T07:16:35.298684+00:00",
-    "ded40ff46ddffaf2": "2026-10-22T07:16:35.298684+00:00",
-    "d4389daf7b17ad8d": "2026-10-22T07:16:35.298684+00:00",
-    "9e102193a5dc11b4": "2026-10-22T07:16:35.298684+00:00",
-    "0b962f30c27aafc7": "2026-10-22T07:16:35.298684+00:00",
-    "6b7e39153b383b35": "2026-10-22T07:16:35.298684+00:00",
-    "6390f289a00535ff": "2026-10-22T07:16:35.298684+00:00",
-    "1c61b3eb93c329e9": "2026-10-22T07:16:35.298684+00:00",
-    "464d81a2a017bfd5": "2026-10-22T07:16:35.298684+00:00",
-    "284d3edb39ff144f": "2026-10-22T07:16:35.298684+00:00",
-    "f515e86bd08d317b": "2026-10-22T07:16:35.298684+00:00",
-    "6859d7ee28bac31d": "2026-10-22T07:16:35.298684+00:00",
-    "f37904f7f9cc96b7": "2026-10-22T07:16:35.298684+00:00",
-    "3734f36d5bc5f703": "2026-10-22T07:16:35.298684+00:00",
-    "a605b77f46ac812a": "2026-10-22T07:16:35.298684+00:00",
-    "2ef8964e9c261e6f": "2026-10-22T07:16:35.298684+00:00",
     "64d8e464d02b480f": "2026-10-22T13:35:35.797688+00:00",
     "2af954bff05c7c7d": "2026-10-22T13:35:35.797688+00:00",
     "68b3fec312234326": "2026-10-22T13:35:35.797688+00:00",
@@ -3101,57 +3064,46 @@
     "8a8a044648af8cd9": "2026-11-20T21:42:18.435701+00:00",
     "3df44602c0b98dac": "2026-11-20T21:42:18.435701+00:00",
     "81051d10bb523c36": "2026-11-20T21:42:18.435701+00:00",
-    "ad6862fcbfc14d8a": "2026-11-20T21:42:18.435701+00:00"
+    "ad6862fcbfc14d8a": "2026-11-20T21:42:18.435701+00:00",
+    "8ace69e5adeea78d": "2026-11-21T09:21:31.638945+00:00",
+    "9fae9343c4097f41": "2026-11-21T09:21:31.638945+00:00",
+    "833b336ad9bdbe8c": "2026-11-21T09:21:31.638945+00:00",
+    "a1cbcc9122bc84f7": "2026-11-21T09:21:31.638945+00:00",
+    "3ea5ba64c48de510": "2026-11-21T09:21:31.638945+00:00",
+    "3831d46bae8c7cb4": "2026-11-21T09:21:31.638945+00:00",
+    "689c29f2b5105f8b": "2026-11-21T09:21:31.638945+00:00",
+    "ce56aa51a92a7ba5": "2026-11-21T09:21:31.638945+00:00",
+    "9dc28d9694f6c1bd": "2026-11-21T09:21:31.638945+00:00",
+    "8b2dedc40a53ffd9": "2026-11-21T09:21:31.638945+00:00",
+    "b1d93c6a42d43780": "2026-11-21T09:21:31.638945+00:00",
+    "b28e427cf8b82955": "2026-11-21T09:21:31.638945+00:00",
+    "8d55b1636ba3fa29": "2026-11-21T09:21:31.638945+00:00",
+    "a687e260aee07f73": "2026-11-21T09:21:31.638945+00:00",
+    "4409a06d943497a6": "2026-11-21T09:21:31.638945+00:00",
+    "b4d50070022f2713": "2026-11-21T09:21:31.638945+00:00",
+    "28ed68435f315321": "2026-11-21T09:21:31.638945+00:00",
+    "d6344bee451a461d": "2026-11-21T09:21:31.638945+00:00",
+    "f4cc4d32f8ac913a": "2026-11-21T09:21:31.638945+00:00",
+    "639466ba7342fa1e": "2026-11-21T09:21:31.638945+00:00",
+    "4cc3ecb331539963": "2026-11-21T09:21:31.638945+00:00",
+    "915eb74afa37d2b1": "2026-11-21T09:21:31.638945+00:00",
+    "e1d04a2b9c2adc9a": "2026-11-21T09:21:31.638945+00:00",
+    "c6d7648a440b6df5": "2026-11-21T09:21:31.638945+00:00",
+    "c13b76d4fa45bd4e": "2026-11-21T09:21:31.638945+00:00",
+    "cb9619aa54a8360d": "2026-11-21T09:21:31.638945+00:00",
+    "f90c69359bfc595b": "2026-11-21T09:21:31.638945+00:00",
+    "c374d1a502ce8d75": "2026-11-21T09:21:31.638945+00:00",
+    "2c059b1529acd887": "2026-11-21T09:21:31.638945+00:00",
+    "4572b6fa26e016e2": "2026-11-21T09:21:31.638945+00:00",
+    "94ede296677bcfea": "2026-11-21T09:21:31.638945+00:00",
+    "47276b3b173e7545": "2026-11-21T09:21:31.638945+00:00",
+    "65e807e35166300a": "2026-11-21T09:21:31.638945+00:00",
+    "20d1a5c71b531270": "2026-11-21T09:21:31.638945+00:00",
+    "a64c9e7efbff0db5": "2026-11-21T09:21:31.638945+00:00",
+    "14fe09b2ca1a3b17": "2026-11-21T09:21:31.638945+00:00",
+    "b898e445f1345b3d": "2026-11-21T09:21:31.638945+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "EU economy set to grow 1.4% in both 2026 and 2027 - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU29IQUdBT2k3SUZsU2lUZTlSX0lCMkVMUzJJcDdabE5uSFJWT2JQQkVuQzVIaXpCU0RBejJwT2h6QXVSZndGR1pXUUpPRjlUbVNPOW1BWlR6d19DUVJyclpCVHdoRlh6N0xXQVp0UlRhWjVSSTlmNnFXTlJIc3J6b2VETENwYkIwOU1wQnhhNkMwbHg1ZUVmVlpHcVBCQlhjS2FRYUJVQ3N6cHV2M2NjdkdtWTBRc0VpVjRRdHdNWnhKdTZPN1B2c2pxUFRjbGM?oc=5",
-      "pub": "2026-11-19T02:56:02+00:00",
-      "id": "0c38164434e25c0a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Lack of trust, wage uncertainty keep RMG workers protesting - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1VNUXZ0VnhZTk9kRWVyZVQwSTV6UUhVLWVZckVqdzNLLVJibmpleEFQTWpjVGp1bUtCNWhUOVdFYnVpaW9iOFJvejRMM3hOQ1pOSjZsVmFIeTlkOG5rcUF1TWxUZ1NYN1E1U2I3aTFvX3hCb2VIV0FvQWdiN1ZQZnlHMFYxZWR6WFNRdk15cF9DSHZyaVVJZXFUVU9YaFhBNFRfX3l3?oc=5",
-      "pub": "2026-11-18T22:11:00+00:00",
-      "id": "efc10dd62af46205"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh basics account for 97% of apparel export growth in July-Oct - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdGUwQTF6ZVdTREh4bDFRSHZOYTJhdm1hV2xaQmhjRy1BR191UkZRSllrMWVtRm1MSjlZWGgxMy1ra3pZQ0Q0VlpDeWFYelg2dmQ2U1lhRlRNZ2YzMTFJb21aZ0pyZUxzS2VnMWdJMnNDbzJPMUpTS2NzZktneVB6V3VHaUhQXzhWUGFsMk5oX20zc0JQZ19xaWYzN2Fadmp6VVBrYlN4VGhqQjFLbmJCVUpQN2pnREhwRjVRemdMbWdzQ2QtSUs0MFVJRWFhR2FZak4taXVBSUZHNGVKSnAzVVZHWQ?oc=5",
-      "pub": "2026-11-19T04:34:47+00:00",
-      "id": "c91cc87c09550035"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "61 factories affected by fresh RMG workers' unrest in Ashulia - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWYwNHE1UVpsUXdCVjdwbjVfR0NkNUw3LWhEUXNpcEVnbWhsNWs1bHZ1akNzMHNWaDZzSnJEQmlYdEZwMDhWdk40dDJJVWhyZGdkU2dOb1dWcWNRQmd1YVQzRUllN09xRy1Lb2FKOTd2N29QNFhBMTNqdUdURmwzTFJHSTl2cTBrTGZZRXVIOGdOb0lObmRJWFhtNnczZ1lTWGhXSFdobVc?oc=5",
-      "pub": "2026-11-19T09:17:00+00:00",
-      "id": "ad2e6e1ff96eb4ca"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Bangladesh basics account for 97% of apparel export growth in July-Oct - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdGUwQTF6ZVdTREh4bDFRSHZOYTJhdm1hV2xaQmhjRy1BR191UkZRSllrMWVtRm1MSjlZWGgxMy1ra3pZQ0Q0VlpDeWFYelg2dmQ2U1lhRlRNZ2YzMTFJb21aZ0pyZUxzS2VnMWdJMnNDbzJPMUpTS2NzZktneVB6V3VHaUhQXzhWUGFsMk5oX20zc0JQZ19xaWYzN2Fadmp6VVBrYlN4VGhqQjFLbmJCVUpQN2pnREhwRjVRemdMbWdzQ2QtSUs0MFVJRWFhR2FZak4taXVBSUZHNGVKSnAzVVZHWQ?oc=5",
-      "pub": "2026-11-19T04:34:47+00:00",
-      "id": "c91cc87c09550035"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Spy scandal and midterm defeat heat up Trump's Asia visit - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFNFcm45VkdHMWl2b2JzNTY0dk9Sb3V6TEZndGI0a0RrUEYwQmp4TW5JWThHMHZxZklZSUpPMTUzaUJBWTc3T1FGQ1JVOXRrR2FOdGtwR3VPRGJNMUxBaHdvQkJWbFJhYVljaF9kUXJ0RGljTnhnbFdlRmYtR0tFVVhxQnpXeVc0YTBxZjZvXzVaTENXQnRvbWd3ckdsNnhFY0NRbVhHak1IZw?oc=5",
-      "pub": "2026-11-19T00:21:37+00:00",
-      "id": "39b1e6bfa7c25ad0"
-    },
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
@@ -3159,78 +3111,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqMmNDSHE4bnBpQndYTmxfQ0ZJZWlkSVdZRnJJNkNDUmdueHZ2LVJrNTVGcnk1TkV0WU1oNHlneHp0em5Za2NwR3l1RW1HTlRYTkhnVUFLaW1jR1o4a19XSlVuSlBGbnJBaFM5NUkxdw?oc=5",
       "pub": "2026-11-19T09:37:53+00:00",
       "id": "ea93a8d5fe563f12"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "কসোভোর সঙ্গে বাণিজ্য ও বিনিয়োগ বাড়াতে পদক্ষেপ নেবে বাংলাদেশ | জাতীয় | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVmF2U0FFZ3N2OGZxakkwbnAzYjg2bkVrZUV3NWZoc3Z2TUdvYVp3ck44bzY4LWRxRHNHd2pwa0ZNTUszZVIzcHZmWEdvaU90SC0zTmc3Q0F6UQ?oc=5",
-      "pub": "2026-11-19T09:03:00+00:00",
-      "id": "4d54762cadfdbf21"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "কসোভোর মাধ্যমে ইউরোপের বাজার ধরতে চায় বাংলাদেশ - কালের কণ্ঠ",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96ZHBHNVpCMm5JMzJ5b2t3U1RtR2JwVC1DdzlXVExmNXQxSGxtY1BjM1NYTk5mVGtmX2JBd2hmMTZkajlnSHFfaE9kRlhXZC1oWHpROFZVTnFGWVU1aTVkZ3hOWTd2aGROOXJZY0RuOA?oc=5",
-      "pub": "2026-11-19T08:47:55+00:00",
-      "id": "80222a35e01c21f5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "কসোভোর সঙ্গে বাণিজ্য ও বিনিয়োগ বাড়াতে পদক্ষেপ নেবে বাংলাদেশ | জাতীয় | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVmF2U0FFZ3N2OGZxakkwbnAzYjg2bkVrZUV3NWZoc3Z2TUdvYVp3ck44bzY4LWRxRHNHd2pwa0ZNTUszZVIzcHZmWEdvaU90SC0zTmc3Q0F6UQ?oc=5",
-      "pub": "2026-11-19T09:03:00+00:00",
-      "id": "4d54762cadfdbf21"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "কসোভোর সঙ্গে বাণিজ্য ও বিনিয়োগ বাড়াতে পদক্ষেপ নেবে বাংলাদেশ - Jagonews24",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54M1k4SXBudE1DOTkwNWN1TlN2cGlEdUJlSWJTaGtqbE9DOFJYRWxKTTI3eEJhZ0NTZVV5YkJvXzNMOGFwakRTakVmVHh4Nkw2U0s1b2dKdWdYOTg?oc=5",
-      "pub": "2026-11-19T08:45:45+00:00",
-      "id": "a52f9b75d671d15b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "শ্রমিকরা কর্মস্থলে এলেও বাইরের লোকের বাধায় কাজে যোগ দিতে পারছেন না: বিজিএমইএ - Somoy News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zMGZTRjN5UFZrVUFQNmNfN3NsZzFPSVd1WW1jNUxPQ0E2dll3WmhjcG1LalY4M3RaM0E2UHhUcDAwb29lOUlQSVh5NFM3MXFZbmJyZ0U2YkJMQ1RqcmJWTWxPQVpjU3p0cVZEeg?oc=5",
-      "pub": "2026-11-19T06:58:00+00:00",
-      "id": "1719708032db1d69"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মজুরি বোর্ডের সভা স্থগিত: মালিক-শ্রমিক পক্ষের ক্ষোভ - Samakal",
-      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxPYmU3RWFIZENmZnVQbWF5NnQyRW15Tnd1UTc3VmdqdGdhQ3k1OUxoaTNRZ21VT1NONmx1T0lRUlZuWksxWldWNldDLVp3b3ZwV3RmX2hXVF84ZXpGTFdGYTFmWThzc3NpSXI5MkZUeWpZeEJYZzRTRm14SF9ZemMyVHd6eUNVYXRnc2JpVE53eEN4b1ZOdTJiQUJfUDEwS1BwVXNEOXJZdXBMUjhmcVRoZklzYjZzUy1xeE41MFdMNElETGRuRjVSQVVIelVKWFFRZWNzLXJYLUNfYUFldXFTM2NfTWFMRWlkcUVJcnRzT1MzR1RYSVR1bEFVUnVLY1YtQnFGZlE5THB0ekVnQ3RyT3pvOFg5cng5U01fNlF2MUY0S0Vob0xJX0N0WkRaZ0RuVmJ1N2ZpT2d5SHRJWTFnTVVKdmFlUHZoSlJORE5ibVNJMjFNMWlHVEU3Um9kcjJnYk8wN2pESXpzUlF5N0pRT1JXQ3doR1JKaENyeHdGVEhySWR2SmxpbHRRaUNLc1g5dWpsSDVFVlBDdkhxNXYwVmlSTFpUMWFVSTU1dGY0dnJvMmpIT3UtNTZBWmxWM0xMODZkSVpiSkF1SHBRT0ZMNi1JdHNIbnQ3dGxmVFhKZ0JRRFFDQVRGNDR4b3pNQ3ViV0M0Tk1KWndBQzRRZ3ozdFgtbURmYkRvRGVBc3JLcjVaNXZUMm9fWllSa2hrSjdmYUtNbGhzd0pPMGdlMl9MY0xQMllhRkxjaW9QU1ctdTF5OVJ3My1HbldUSEMwN0hQRzRweWNpdHZoTm9HVzg3RUthblF6cEk?oc=5",
-      "pub": "2026-11-19T07:25:46+00:00",
-      "id": "28af6557b39fefb5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "রংপুর জেলা পরিষদের সাবেক চেয়ারম্যান মোসাদ্দেক হোসেন বাবলু গ্রেফতার - Talash BD",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSkZBWlFETlZiYVNJNUVZM0hoX0swYm4zUWRCZlNTNHJJZ1FJR3FJVFNxUVlncVNzVFhVbGFZSkp4UWJOMWRrcG9YMzdyMC1ObDM0?oc=5",
-      "pub": "2026-11-19T07:45:25+00:00",
-      "id": "efe3ac6bed7a4735"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মজুরি বোর্ডের বৈঠক পেছানোয় পোশাকশিল্পে অস্থিরতা, বন্ধ ৬৪০ কারখানা - Sorejomin Barta",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xZmk3RkIwbDk1TTZiTVdyZlFrZzRMaERkTnM5WktndkV3LWR3eVlZWXdoLVNrTXlienhZTHFacFFsTmItUWFjQTFIWU05VVhHRmU1TXJoNllBVmtaUnc?oc=5",
-      "pub": "2026-11-19T05:45:29+00:00",
-      "id": "9d3a60375cba89f3"
-    },
-    {
-      "section": "international",
-      "source": "GoogleNews: ESPR garments",
-      "title": "Black Friday coffee maker deals - FOX40",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbENBN1pFMjlDb182SHhOWFhpQzBDWTlfZnlKVE1ocWMtNm8xOWJ0ZEFKVFdLZXV5Um5RZHJlOHRtZlNlT2RzcklpbGFuUHhvaW9adTJGR09nRlMxUTlkN25zYmtNVXljM0pmSXotcXd2cHNERWdOQktaSmxVdkk1Y2dVTmZuRWJCN3ZsSElzdnXSAZABQVVfeXFMUGxDQTdaRTI5Q29fNkh4TlhYaUMwQ1k5X2Z5SlRNaHFjLTZvMTlidGRBSlRXS2V1eVJuUWRyZTh0bWZTZU9kc3JJaWxhblB4b2lvWnUyRkdPZ0ZTMVE5ZDduc2JrTVV5YzNKZkl6LXF3dnBzREVnTkJLWkpsVXZJNWNnVU5mbkViQjd2bEhJc3Z1?oc=5",
-      "pub": "2026-11-19T08:48:28+00:00",
-      "id": "7c5ba2304416c797"
     },
     {
       "section": "bangladesh",
@@ -3303,14 +3183,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjJheERIWHhSaXZFODZxM2thWFBXLUVQY1E2UkFJN1lOSjBfQ0Z5MEZTNFRnRERXb3RCU3ZBYWVYQ19taGl1RFltYWNTZXJPYm9xZlhFb3BGR2EyZXE0bFNTcW5abjctYU9GMENjNTRGcE5pSTZ2WDhYdnNKa2Z1OGc5enpKSTRIMVpaRHlTTDNOQnA4NUpfZDRlWGJmbjE0?oc=5",
       "pub": "2026-11-19T18:00:00+00:00",
       "id": "da07598544605c99"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| Suez traffic jumps 32%: Will Europe's apparel sourcing map change? - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVkkyRS1zQXZDUG1HaUxLaVVJSy1VT1JLWGdfWmJwVk5OZ2pORFMxaDJmeXdETktkYWlUekpKcnphT1EyNnpzZ0JUMHl3TGZseGpZVkNCU0RIMURVMmhKMUVHZVIxaUI1eUlta1VjcXVfV1pCYjhfY2xzSG95X2RDWkM0bnNXdmRyMGRuQjBmXzNtbzMwUHZqZmxoZjJqX2Zvd0JUSXJzVVpzbFp6VWdJeFc3Q1BFaXRpOVFoeHNoUVBrQkZTWG9pYmdHMGFBdzVEdWJlLURQUGMyUUljazNPYWV5aw?oc=5",
-      "pub": "2026-11-19T07:21:14+00:00",
-      "id": "520875504d4f50c0"
     },
     {
       "section": "bangladesh",
@@ -3395,14 +3267,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "কসোভোর মাধ্যমে ইউরোপের বাজারে পণ্য রপ্তানি বাড়াতে চায় বাংলাদেশ - Bangla Press",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVdSV21QWGc5eVlUS0Q0Z2ZJdnhqRjFTcXlIUlhyYnJ3RWtZNnFOaGM4S3dBNWlqQ2RWSTR0akJ3M2lVdW1xbVVQakNaYVRGV2JSNDhKTmYtZmNtTUwyd2ViemNiN1JXZkJSVmZRc3pWOHREaDJzZmZINzNyNzdLVjVaVlhhZUJBUk5COTNnLVo1dUFLWWkxa2JqSQ?oc=5",
-      "pub": "2026-11-19T01:09:00+00:00",
-      "id": "d353b72443ad5d43"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
       "title": "ইউরোপীয় ইউনিয়নের ডেনিম বাজারে শীর্ষস্থান ধরে রেখেছে বাংলাদেশ | বাণিজ্য | বাংলাদেশ সংবাদ সংস্থা (বাসস) - Bangladesh Sangbad Sangstha (BSS)",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZGdUOXY5ZGVIYnRTZENkNGhIRGdsQmVkQVpENkcya0dUR1dnZmFIcGJJZlBPNHpFMXpfRGp0eTY3aTlNb1ZkbE45WjgtQWR5VHVaV2h3?oc=5",
       "pub": "2026-11-19T12:38:00+00:00",
@@ -3459,50 +3323,10 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বিজিএমইএ: শ্রমিকরা কর্মস্থলে এলেও বাইরের বাধায় কাজে যোগ দিতে পারছেন না - Talash BD",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoTENNa0s1ekt2Nmt1SS1pUVJSMVZsX3l6d3J6bXQ5X2NOd1NiamZkeEZTNnItXzdWa1hRQkFDLXZNRlJxNDhqS2dVbHJlcWJpTDdF?oc=5",
-      "pub": "2026-11-19T07:44:45+00:00",
-      "id": "5c8393611182ae71"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "পোশাকশিল্পে অস্থিরতার নেপথ্যে রাজনৈতিক ইন্ধন - Ajkalerkhobor",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVWUJuS0tPUzdqUFlMOHg0R0phZHdHTllRTUZXUTB6bC1fSDRZcGU4SUxQN1FidWZyaFk4UHFHWUxkWjQ0RXVmMGcwM3RwaTRGQm9n?oc=5",
       "pub": "2026-11-19T10:22:00+00:00",
       "id": "685ee325e932d9e0"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "ফের উত্তপ্ত আশুলিয়া সাভার গাজীপুর - Jugantor",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcXJJc0d6ZHZWWGN6aHl5Qk9LVXZBcG9BbC13ZHpLeFdpcGhJQ2VuUjFfdWUxdkp0VnU1X2c2TThTZlJZejlLQ2tDZEF1SjE0OEVXeFp4QXI?oc=5",
-      "pub": "2026-11-19T07:32:00+00:00",
-      "id": "e8887bc657400dd5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মজুরি আন্দোলনে ফের উত্তাল গাজীপুর-সাভার - Swadesh Pratidin",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81Nk05UGpFTTliYk96dU8zTTlNZkc2M3VLejA4bFNOZWxMYndRWl9kcE96TUZfUXZhMHdGOWR3ejF3R0RMVDVYZ1hSS1NXLWJrc0UxUEhn?oc=5",
-      "pub": "2026-11-19T04:19:00+00:00",
-      "id": "1b7bc6a1f30034a5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাকশ্রমিকদের মজুরি পর্যালোচনায় প্রধানমন্ত্রীকে মার্কিন ব্যবসায়ীদের চিঠি - https://citizensvoicebd.com/",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BY2c2T1RiaHZfUzVVOFdncjZRZGFwMEtoajdpMWZtMHg5Wkhsd2cwX21aOGswaV9QX2VlclJmMm50SnpQem5FRHZ6SkFPV2MtVzhKSjV3RQ?oc=5",
-      "pub": "2026-11-19T05:15:56+00:00",
-      "id": "f6053d4b385dfa6c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "চলমান অস্থিরতায় বিদেশি ক্রেতাদের আস্থা হারানোর ঝুঁকিতে পোশাক খাত: বিজিবিএ - Somoy News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BWUhOVGdtTWw0ZS0xekdpemZ6azk2LXdtTkZIM0h1b1RrTE9rNFB0WHA2YWpzNm5jX3FDb3VRdXZUSkN6ZDNubU8xanVNVHlHckVER1Q1QTNjVGNSQmVxYU1jSk5wV2VZd1NFcA?oc=5",
-      "pub": "2026-11-19T06:35:00+00:00",
-      "id": "20212dd35e279497"
     },
     {
       "section": "bangladesh",
@@ -4103,6 +3927,166 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnTlNYNWlaLVhqaUFCSE95WVpPa09pRkliQlJkZXlqbG5Tb1Rqd2hzdGI3YUp5SHRZbDJnRzIzOWs0LS13VXA2ZDhpYm1qU2lMajRZTDFER2JzY09Na0dWSEtUdHZqQQ?oc=5",
       "pub": "2026-11-20T15:16:26+00:00",
       "id": "ad6862fcbfc14d8a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh's RMG unrest causes daily losses of up to $176 mn: BGBA - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1NrenVtTld4Vk5HZEM1TTlPMExTbVBVUlAwSUdKZVJ0cDV1UU9McENBX3BIbzl4bnBGOE45Ymd4TGhMNlNueFJsczZMSUVSVHVYc2pwNEduWDk1RDlhaHE4RUk4UGhqYVR1YlRuRlJLcTdJNUNSX3FIYVZYeTk4MXFXZGlKQnpWcWhfLW1FSEtkYi1VQWNZZGRYTUxLSjJueU5vdzYxNVdRb2RRTmlIenlZRWlNV3JRTXhBOG1IVl8zbGpXaGFnZE9aaUVfb0VV?oc=5",
+      "pub": "2026-11-21T04:05:12+00:00",
+      "id": "4cc3ecb331539963"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Spain accounts for 98% of Bangladesh's EU garment export growth - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTExWklRZ0FRMDdBZG5hdTcyc0tBYlZTTUpSODNNREE3cjZ4SjJ3QmQtUHB6M29JTmlIMmw1Vi1jNHBzOHZtREVOemlQM21SSlF4a2ZsR004cWI5VWJoczgtQ0hqTVZ0OUhSek01TzNWb1hXQnVyMnhRUFVFOVV4T2E2NFBDMnMzdGp6OUItVUJaYnVYMlZXWmFILVNDSVk?oc=5",
+      "pub": "2026-11-21T07:09:16+00:00",
+      "id": "915eb74afa37d2b1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh: Garment workers clash with police in Ashulia over minimum wage, dozens of factories declare holidays - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUU1hYkNrQmlxd1ZCZ2p6MkJwTzcxS1ZweGhXSkhCMVRiSGxxazFPRktGZy1OOTNzQ2lXUDVrRzNPZlNjTnQzdHE5UmFTcGtaOHdfSFRzZDJyaTlIRkxvLVREVmR0UXpiVk1INmJETHRQbEJKaUh0Z2JFZ3RPMW9fRzFjZ2t0UG1lUWJEY3RsY1dhTjhnTE9EWkI2MFh2eU9zRVhzM0ppRzN0clM5NXNuVGRIYURtcmxZbXBwX3VoRWRkLWUzWTd6SGN2MjhacVhqbGMxcjdrdjJTcGRXX1RZeTE3V2pSbG5IVVVPeDNsWGRkbFB3cXc?oc=5",
+      "pub": "2026-11-21T09:00:00+00:00",
+      "id": "e1d04a2b9c2adc9a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh’s EU denim dominance faces growing competition from Egypt and China - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0c2dFhOQnpnck40SkJNMExTOU9ad0daZFFHSGt3Wm5TWlk5YVlpQzBIOTR6eXdnTHllZUUxT0hPWngyTkJITnNSMnhpVlBCc3BQS1NvTDFFX1Y4c0lyckZSclR6a2c3VWFPOTRjbHZmeU1DV01rMFRuSVpjSnVoUlRyY2RRcXAxaWxwUjNkQlZQWWZDUDc3VjVlQlpLNGZCM3VzU01NTEhwNHEyNXc?oc=5",
+      "pub": "2026-11-21T05:15:18+00:00",
+      "id": "c6d7648a440b6df5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh's CPD proposes new pay benchmarks for RMG workers - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDJvZFFWTy0xS1gzbFdiTVFnUGh2ZEEyV0VlZlowemJoRkF4TTROVTdBOU4xdEpWT09yQlZQNFJsWUZ6RTItdHBzcTR5aUcxLVVuS0FNQ3lhNHV5SjkyM3hxTk1HOC1ERWhmWm5YNnJJUThPQzFOdnlVR1RnWVBuZkpLaWZwWFBBT2lSbTNZUm9KR2pRMEZOd1d0TS15T01Hd1dVcTRlbEFEaklfWndIdldpQWFtTFUwMTRaaDlZQkw5RnhoTy1WZEJZbHJiVjhaNjdJ?oc=5",
+      "pub": "2026-11-20T11:53:02+00:00",
+      "id": "c13b76d4fa45bd4e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: BGMEA/BKMEA EU",
+      "title": "BGMEA disputes CPD’s RMG wage estimation - Daily Observer",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VYkROM3lTZFJEWmgxT3BDRzVyUUZYMnA4SDNKLW9rVjVBT3RKM0g5WmtROW54ZG9qMVFfNjItWmJ1Tmp2c2NBV2F3?oc=5",
+      "pub": "2026-11-20T18:00:00+00:00",
+      "id": "cb9619aa54a8360d"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Spain accounts for 98% of Bangladesh's EU garment export growth - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTExWklRZ0FRMDdBZG5hdTcyc0tBYlZTTUpSODNNREE3cjZ4SjJ3QmQtUHB6M29JTmlIMmw1Vi1jNHBzOHZtREVOemlQM21SSlF4a2ZsR004cWI5VWJoczgtQ0hqTVZ0OUhSek01TzNWb1hXQnVyMnhRUFVFOVV4T2E2NFBDMnMzdGp6OUItVUJaYnVYMlZXWmFILVNDSVk?oc=5",
+      "pub": "2026-11-21T07:09:16+00:00",
+      "id": "915eb74afa37d2b1"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh’s EU denim dominance faces growing competition from Egypt and China - Textile Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0c2dFhOQnpnck40SkJNMExTOU9ad0daZFFHSGt3Wm5TWlk5YVlpQzBIOTR6eXdnTHllZUUxT0hPWngyTkJITnNSMnhpVlBCc3BQS1NvTDFFX1Y4c0lyckZSclR6a2c3VWFPOTRjbHZmeU1DV01rMFRuSVpjSnVoUlRyY2RRcXAxaWxwUjNkQlZQWWZDUDc3VjVlQlpLNGZCM3VzU01NTEhwNHEyNXc?oc=5",
+      "pub": "2026-11-21T05:15:18+00:00",
+      "id": "c6d7648a440b6df5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh apparel EU export",
+      "title": "Bangladesh's CPD proposes new pay benchmarks for RMG workers - Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDJvZFFWTy0xS1gzbFdiTVFnUGh2ZEEyV0VlZlowemJoRkF4TTROVTdBOU4xdEpWT09yQlZQNFJsWUZ6RTItdHBzcTR5aUcxLVVuS0FNQ3lhNHV5SjkyM3hxTk1HOC1ERWhmWm5YNnJJUThPQzFOdnlVR1RnWVBuZkpLaWZwWFBBT2lSbTNZUm9KR2pRMEZOd1d0TS15T01Hd1dVcTRlbEFEaklfWndIdldpQWFtTFUwMTRaaDlZQkw5RnhoTy1WZEJZbHJiVjhaNjdJ?oc=5",
+      "pub": "2026-11-20T11:53:02+00:00",
+      "id": "c13b76d4fa45bd4e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "অংশীজনকে নিয়ে জাতীয় পরামর্শ সভা অনুষ্ঠিত - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNX3pRai1yWkRCNjEzaVUwOUc3TGV2NUZJa0RZeDh5THNzTFlqa0dYbjlDMVhKa0dwQmF3RHhGOUJrMV92cnAzd2NLbGJaaXlORzlPcHlHZ3hQM2ZBaDNrSFhuaTRQVDB2LUJTa2xnVG1ERjJBZTF5SXJLOFRVQ0NEX0I5RWp3T2FnLW5hT1JRMlJNbmtFOVB0Z0pnQW5pQnJWWkh1dDUxcU9SSVkxS0k5MWRjcnRvQjBSNURnakh3T2VxR1RTY2VsWFN1Sko5VHF5M0RhV3RsVDMzSlZTY0VoOUptdkM1Tnp5elk2cXBJTE9Kelp5Ri1mbHo2eEpNNm5PSTdFMzdINm9oeHNkcmZGcjBCZnd1UUZCWUVPeC1ZN0EwNVphSGdMLTZFcFkwcHJrNEJjTExacjREb0VqVmtfczFJa1g2Nzc2eW9YSEpRdnFxWVBuUnA2NjBSWWhvS0dva2FpOUdMMDJUTG9Uak0xLVM2RER1MmxYcEdqbW04SjZ5ZWQ0NHhCU3FiNF9UcVY1aEUwbE83TVZoZlMwbkl0TFBDQjhjQTIwbG5naWQ4Qi1Ma3p2bUdrelVXRVNjMEZjYW5nLTJEYlhZUmlyc3pDQ1Bsdm5Pb1ZuUkM5NFFtVXMzZ0IxbUUydmI0bzRYclgwMmljRXBNUTFsV2F30gH8A0FVX3lxTE1felFqLXJaREI2MTNpVTA5RzdMZXY1RklrRFl4OHlMc3NMWWprR1huOUMxWEprR3BCYXdEeEY5QmsxX3ZycDN3Y0tsYlppeU5HOU9weUdneFAzZkFoM2tIWG5pNFBUMHYtQlNrbGdUbURGMkFlMXlJcks4VFVDQ0RfQjlFandPYWctbmFPUlEyUk1ua0U5UHRnSmdBbmlCclZaSHV0NTFxT1JJWTFLSTkxZGNydG9CMFI1RGdqSHdPZXFHVFNjZWxYU3VKSjlUcXkzRGFXdGxUMzNKVlNjRWg5Sm12QzVOenl6WTZxcElMT0p6WnlGLWZsejZ4Sk02bk9JN0UzN0g2b2h4c2RyZkZyMEJmd3VRRkJZRU94LVk3QTA1WmFIZ0wtNkVwWTBwcms0QmNMTFpyNERvRWpWa19zMUlrWDY3NzZ5b1hISlF2cXFZUG5ScDY2MFJZaG9LR29rYWk5R0wwMlRMb1RqTTEtUzZERHUybFhwR2ptbThKNnllZDQ0eEJTcWI0X1RxVjVoRTBsTzdNVmhmUzBuSXRMUENCOGNBMjBsbmdpZDhCLUxrenZtR2t6VVdFU2MwRmNhbmctMkRiWFlSaXJzekNDUGx2bk9vVm5SQzk0UW1VczNnQjFtRTJ2YjRvNFhyWDAyaWNFcE1RMWxXYXc?oc=5",
+      "pub": "2026-11-21T01:15:28+00:00",
+      "id": "f90c69359bfc595b"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
+      "title": "চূড়ান্ত পর্যায়ে ন্যাশনাল সার্কুলার টেক্সটাইল স্ট্র্যাটেজি - The Daily Ittefaq",
+      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPUHN1bW1VRG96WjZmcjJMZTFDTU9fV0VfZ2JTMGg2MktDNE1GdHI5dy1LRExBZEtIc3N0VHBtRUExczU0UXMtaXdsNFY4YkpaS2cwbTYtSWhUMktnT05YY2JXSHJUbkpOV09GZW11UVJCdjRjclhWWTNENEsyS0Q2WEJ1LV80Q0RUQ3htMm0zeDExeHlhejkyaWdLLXJZUW8xN3otVTNnZ2t0MEJuX243U2wxWUVLd01JWW5ibVhzaUV5WGFKMFI5bUNQVmZXYk5GeXFVNWdNMnVocWdjbHdHX0xrdll3TnNxSk1xOHVZS0JjNFQ2WExVV1RFOWdKQXJHb2h3Vmp6WERYWDRaYnNtRDY0cFh4VmN1MGdVV1NiR0xESUJTUWFWbXA0Tl9nbWhScWV5Vkh2enQwSVFQZ2hQSkhRX3FOSTEyaS1wVTU2U3BxQ0p5TEhJN0F3eWVDcUpBM0dkaFlmVGxNRWQ5Y0I4LVEzdXRTWDNEX0o4SjRSY0gzcHJKcU9Oa2FZbUlYdzdmSk9YdjhOQ0M0NTVaX1RRdEhQU2RublVBcmNPcDlfaTlUSzNBc2s3SVZYSVh3Q1RRWTZQU01hNFFpTk9JZjVTRXV1cjQ0aXlURWJTa2s5dTV2YkZXVU5lTVh2amoteHRLRXVkNG9mU0hDTUI0bW5lUzhHTkRzbUZHdHFiQkpjSWd0ci1OTVh6bDlXVmxMSDJxLTBWdE9OdXYtWjdDSmpn0gG0BEFVX3lxTE9jbTVxbnZWX1pMRTZ3YVRJUVJzMi1vN0s2YklXYlNxeGlRdXNyRU9EaDQtUGpCZWxEVDFpanBFRFRQTm95UGd6eE9Ya0ltRnl1Vll4S05oYmhxb2RnN2tKU2xjVEM3aF83XzBTYlA1UnlMT243VXdDWVlsc2RNOTN4ajdtTzJKa0ptMlZBMzVmVDVVNUZyYUdyYlU5YXFJLUpZM2dJdTBkR2hSSzdRY25vUUxEYjRvSkRXRVpSWnNoNnl2aXZ4QUtuOV9hM2Y4NFRHaUFXTmJtZ3FRNUVwbUVCdDV2LXA4TmdVenJ6QVBiWkpYQjFNMkN5d2dySFJ6bWF5UE90NmlLczJ2ZnAxUDdYTk5JOEpLakd2U1lrZDU5dmU3VmxVSDMxNW5kejFKRU9TVzdJSm5McjNHQ2RZZEI3eFVSRFlBcUdBd2d5S25JcXVkalFIcW1WWV93T1N0NExkLW9VSy1FSWhBazhEb1Q2VFEtMWxGUXJZdVhpNTh4OTk0b3B5VmJGYjZMbW1HRkdoakdfSWhJU01UTGdEOUEtRGttWGY3c3YyZ2xVN1hNNW1TcGhoR2cycVNBeHZuRzhLMktpRDR0SThOanhtS0Fvc1NWX19LWGxNMHVlZXRZUUVrTzNoMDVqV2lhWGRTd29ZWEctNUsxbXZIRm5HaXdWZEVHY3V0Z3lLczVEZXRBeWRVSTd0UHRkbzZxQjhldDhid0c1QUJoTTdFcjlGb2lVVWk0OA?oc=5",
+      "pub": "2026-11-20T14:04:42+00:00",
+      "id": "c374d1a502ce8d75"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "ইইউতে ডেনিমের বাজারের হিস্যা হারাচ্ছে বাংলাদেশ (ভিডিও) - জাতীয় অর্থনীতি",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTlJaEtMVURaWWdfNlJrSE5zRF90SEI2a0hZZjVVVVJIUGhEbW85UHROQ082Ym1Td3J1cWRkYkRoWXJpdDFfYmFZdU5iMGVXdUJ5bzVpSzdiUU01RU1aanFTUVY4NHh1SDIyZjFtREFFQjlBUWFQRDdVMEVKaUhTY0dTclkyTnJDU3hqVTBtaXFKcnVraFRWQm41aEk2XzBJ?oc=5",
+      "pub": "2026-11-20T19:22:00+00:00",
+      "id": "2c059b1529acd887"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সিপিডির প্রস্তাবে আপত্তি, আরও সুনির্দিষ্ট পরামর্শ চায় বিজিএমইএ - Samakal",
+      "link": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxPLTVqRENrRzRIRHpzTHZiOXRXZGoxa29XaVpWY1dKX1BuMlVqdjlTR1BVTVNXWTVsQ3laT2JZemhOS3F1RHZxRlZzWXJIUW5hbGwwd1E4TC15V1Z2ZUx0WmQ2bGJPNk1fN1hjNThWOTZISi00UzJkYTNXRDIyNGNrSFZKWmczaG9nQkFTVnNleXJUUEZBUkNzZGtoYlp0MnJtM08zbnZtd0ljNXFwZkcxdHRsN2l3cTQ0NDRYMUtkc2R5Y0RBSGJfaFd3VnhibUwtMWpCS2QwY1lDSmV3RTBzay1ubjcwNThzN0ZtQ1RqV2VtT0JHXzZYQnA2YXMteFpMYjVUdFltclhLcnF1bkRCV2h6YThkb09PcGNlOWdqZ25sMlp5SG1tS3FSQjBBc0QwMm1vTWJsTUhIbnRMSFFFaGkxNm5yM2I3aElST1hlaG1fNWZ6akx6Sml1U2JLTndid0VuSjQxUTg0WWNPc2JKVm5rSjNLS1RkMG9TQWp6dUhmMmI3YjZGemxBNmRCWDdDSHRpdHU0WFZQQUp5bzhPb1N6RERrRVVsZnp5WG5rQzlZY0ZkTk1NZjJISTFGY1FQWFAyZFk2dU10Nk1Nck1PcFFqQjBHelM5T2hkbW9SR0N3MGNtbnhrR080M1ZHY2JIYmxGb2dMbXM0NVpPYzBVOWxVYXd1QzlUNjJ6UE9YQ2JKWTNmZGpaUUh5RkdnVEJaVzB3blpzN0xSV0JEei1KMGJ4eGM2TjdhZEEwbTlTazZqY2ZGN1FjQWd3ck9QREVDN0Z2WHFDN3hVYnpkZXQ1OHZVd0pxdC1JeEs4Qkx5MEpqM0k1RnludU4tYUlHbXZteXo1MnhJSmFubTZsLTFJRW5qRU1vWUlkZlhfLUN6NHNxanl1RER1b19pOTl2Q1RZYzRub3pzMXVhWGdzTnp3bWVibEwyNzNLREVxOFJQTnZENmlPYmtUdHEtTVY1ak40bDdYVldieW80UQ?oc=5",
+      "pub": "2026-11-21T04:05:10+00:00",
+      "id": "4572b6fa26e016e2"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "মজুরি প্রস্তাবের পদ্ধতি নিয়ে সিপিডির কাছে ব্যাখ্যা চাইল বিজিএমইএ - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxOLXRjd0tSTERPMXVjMjljLWFUVnVNS1pQd19ZR3ZZVWNuN1ptb1lYaV9ITjFVTmh2Qy10cnQ5QzE0SzZXR292a1FCOW44QjA4YVROS1lDODR6WDh5dmw4UFh4NFNRc0VGTG4zN3JtS2RwWVFmeEJXUzNlaWVFa2pnTGt1YUNpNjB4SGxxY3RDZ3EtaGowZ3hnZ2xZQlNjN1ItQkp6Rm1WYU02T3BtZjZ6ZlJJcXBfVUxCcXZkTHRkVzdvOUc2cmF6Qll6VGFsS1RKZTBpR2RVN1dvX2dWak1Zd3FrZHU4WkxEZi1JclY1Z1N4aF9xZzdMbldha3Rpc1cxMmpkbVRjTGNYSEpPVG1pY18tY3dXX0hSVnNiTEQ1WVFScVBLOGJVZVN6RzBCWTNaeTRTNlE3b3k4RzdxYkF0YVVIZlI0WG85UVl1c3pmeGFUYmZ5eTRzdkd2cHNVaVg2OFlDXzRfdDBKelU4ZFo0anNPSExhbkdVYmVndEl6YVFHX2dwWDFnOEJ6bDJRUVdlTVZ4NUFXY3VjRjIwdVZ3MG1YQ05HN2haRFh3YnVyVk1PcVVkNnFycXhCZGJyanBkN21mYk53QkJtb1pmWjNtZUFfUXl0ZW4zVFRzS20zY25sU3k5RUt3c3JLUWo4WXhMLVZLSE1KeUFYYTNydWx4WHRGaEl3N2xPd3FBbnE2THhkWDdSdVVPMUY5NFhmajRGcUdLU0V3Y2lhWE1vSUYwZ25WVTFMeWtiOFRodWZaRTh3Q0o1NnpNb0s5MF9YVkRxMDY0VVNiTXFfRjRDX3FyMUpxX1BtOS1OZVHSAeoEQVVfeXFMTi10Y3dLUkxETzF1YzI5Yy1hVFZ1TUtaUHdfWUd2WVVjbjdabW9ZWGlfSE4xVU5odkMtdHJ0OUMxNEs2V0dvdmtRQjluOEIwOGFUTktZQzg0elg4eXZsOFBYeDRTUXNFRkxuMzdybUtkcFlRZnhCV1MzZWllRWtqZ0xrdWFDaTYweEhscWN0Q2dxLWhqMGd4Z2dsWUJTYzdSLUJKekZtVmFNNk9wbWY2emZSSXFwX1VMQnF2ZEx0ZFc3bzlHNnJhekJZelRhbEtUSmUwaUdkVTdXb19nVmpNWXdxa2R1OFpMRGYtSXJWNWdTeGhfcWc3TG5XYWt0aXNXMTJqZG1UY0xjWEhKT1RtaWNfLWN3V19IUlZzYkxENVlRUnFQSzhiVWVTekcwQlkzWnk0UzZRN295OEc3cWJBdGFVSGZSNFhvOVFZdXN6ZnhhVGJmeXk0c3ZHdnBzVWlYNjhZQ180X3QwSnpVOGRaNGpzT0hMYW5HVWJlZ3RJemFRR19ncFgxZzhCemwyUVFXZU1WeDVBV2N1Y0YyMHVWdzBtWENORzdoWkRYd2J1clZNT3FVZDZxcnF4QmRicmpwZDdtZmJOd0JCbW9aZlozbWVBX1F5dGVuM1RUc0ttM2NubFN5OUVLd3NyS1FqOFl4TC1WS0hNSnlBWGEzcnVseFh0RmhJdzdsT3dxQW5xNkx4ZFg3UnVVTzFGOTRYZmo0RnFHS1NFd2NpYVhNb0lGMGduVlUxTHlrYjhUaHVmWkU4d0NKNTZ6TW9LOTBfWFZEcTA2NFVTYk1xX0Y0Q19xcjFKcV9QbTktTmVR?oc=5",
+      "pub": "2026-11-21T01:01:41+00:00",
+      "id": "94ede296677bcfea"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সিপিডির মজুরি প্রস্তাবে তথ্যগত অসংগতি দেখছে বিজিএমইএ - খোলা কাগজ অনলাইন",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13a1ZZeFV5Y3lpdENSU19JZHZ1djJvWnZnSmg4eVFiNjJXMVotMVU5M0p2b1dpeEprcGltcG9GRVdBcUFxalhsV2JQYw?oc=5",
+      "pub": "2026-11-21T04:14:00+00:00",
+      "id": "47276b3b173e7545"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সিপিডির মজুরি প্রস্তাবে স্বচ্ছ পরামর্শ চায় বিজিএমইএ - দৈনিক ইনকিলাব",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12UlUyODNJN2pwY1JIdjJWbkY5ZF9VRUZCY016Q2RtVVhYcUlUYVNPa0dKdTF3Mm4yTmJueFB2NjcxNlJ5OE4tYjg3d2lITjdQRUh2TW9JRXZwQk5z?oc=5",
+      "pub": "2026-11-20T18:00:52+00:00",
+      "id": "65e807e35166300a"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "কোথায় গিয়ে দাঁড়াবে দেশের পোশাক খাত - Bangla Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNNDVIYXNHdXNENGRnYUhmMWxpMElxUm5xMmVJcElpVWgtR2ZOZU5BTkVnaEZUUXFRM0c2ZkdNclRyVUFQeXJ6WTJSOWJxWHMyNFA4NzdUbHFhWDhFcHBSLVhDT2xmSUtVYlNmZFgwQlVzRl9MdGtMUFlYVjRkZzJnMXZ2cmlyU2ZKTk9Xa1E1eHA1bWZXRWdBZFJVZjAwdzNBZVVmZ2lqeTU4bGRxejM0ZlVteVQ4LWxjeEJxTGNSRnBsdGtTa0QyVkFZM1dFYk9veS1JMk15NjBZQjVURGZUeUkwaXZ3V0t2dkY2YnpwLTZYQzN1OGNWV3FzU2JFOTJTRWZ2OEZncHhQY1RUUmdNNjBrUmktal9BR2pJVVM3a2ZCOFc5MmZVMnUyR084TVNQQmlqRExqazNfQ3lSa1g4bW9yMjREVDZfejhRQmpjQnZ4TUthMG5xT1pVVUtYTXVGcjA2V2VndThiSjlrUjU2b3JZQ2Q1aVFzNHBwZmkxQ0Y3czdXNVdud203SWpmS3dfeDRBdnFhVjNla045SG9saXBKWHdiRlRqSm1iU3RjRm1RanlLQWRwVlI5cElpa2Jrbndidm5SVGpyRVR6MGU3RTREZDZpRFY2YVRpUEE1M0VvSDd6Q1NSYlhFZWpxSWdGZnY0RElzYWJEZktxd1hV0gH_A0FVX3lxTE00NUhhc0d1c0Q0ZGdhSGYxbGkwSXFSbnEyZUlwSWlVaC1HZk5lTkFORWdoRlRRcVEzRzZmR01yVHJVQVB5cnpZMlI5YnFYczI0UDg3N1RscWFYOEVwcFItWENPbGZJS1ViU2ZkWDBCVXNGX0x0a0xQWVhWNGRnMmcxdnZyaXJTZkpOT1drUTV4cDVtZldFZ0FkUlVmMDB3M0FlVWZnaWp5NThsZHF6MzRmVW15VDgtbGN4QnFMY1JGcGx0a1NrRDJWQVkzV0ViT295LUkyTXk2MFlCNVREZlR5STBpdndXS3Z2RjZienAtNlhDM3U4Y1ZXcXNTYkU5MlNFZnY4RmdweFBjVFRSZ002MGtSaS1qX0FHaklVUzdrZkI4VzkyZlUydTJHTzhNU1BCaWpETGprM19DeVJrWDhtb3IyNERUNl96OFFCamNCdnhNS2EwbnFPWlVVS1hNdUZyMDZXZWd1OGJKOWtSNTZvcllDZDVpUXM0cHBmaTFDRjdzN1c1V253bTdJamZLd194NEF2cWFWM2VrTjlIb2xpcEpYd2JGVGpKbWJTdGNGbVFqeUtBZHBWUjlwSWlrYmtud2J2blJUanJFVHowZTdFNERkNmlEVjZhVGlQQTUzRW9IN3pDU1JiWEVlanFJZ0ZmdjRESXNhYkRmS3F3WFU?oc=5",
+      "pub": "2026-11-21T00:25:25+00:00",
+      "id": "20d1a5c71b531270"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সিপিডির ন্যূনতম মজুরি প্রস্তাবে বিজিএমইএর আপত্তি, দ্বৈত গণনার অভিযোগ - Banglanews24",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XNXpkSGt4M1J5ZC1CdDdTYlNxQ3F5WC1zbEdhQ1h0cUJXUUtaQlEtYW9Rc2RGWkJycEFXczJ2YzRIVU1uSjB1UWtIMDBFYUM2blpHMTgxa1RMVnpLbEZaUlBzM1BjZWUzajl0ZGJ1ZzM2aUtCWXhxVHBNVQ?oc=5",
+      "pub": "2026-11-20T09:26:52+00:00",
+      "id": "a64c9e7efbff0db5"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকশ্রমিকদের ন্যূনতম মজুরি সিপিডির প্রস্তাবে আপত্তি - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNU2NXX3lZVGEwajJrbWZKN1hGeVdvNG1paVBQMktBNmJCWkFJUk8xc29hZk5iQTRqbG14UFdGeTZFc29NNGxPa0ZRbERUUm5fU0JELXR1UmNybUpaUjk4NkplM0w4Tm9TY296VFNSbUkwYktoYXVqZDVQdzk0dFJ1VUVENzRkQ0psVmgyV0RqMDd1d1FLcVdRaDZ5c1BTVDlyc05INHlpNl9PM3UySTlTelB3clJzZXZwN3FuZW93TFJpX3BJZG8tVHR2eDhPeDFPS0V5VXJ5bHVBUjdtU1VHVkU1SlhiTmpWeHhUZ3lFeWktSk5aVHJDRnVkTDZkS2N5aVB0dnZCOUhVMmdIMmRSeU5zTTZQQzZOSUlhTC0zZWJqd1pVekl6NmxhbnRORndLRFh3SXd6d2JRZzVBRDh6RWpMYU9hVlFtbC05clFobHdTUVo0TVRrN1ItcUtGY2VDWHFZRjhkajMzNDB1YU1NZFFsbFJ6b0xTaFMxY2Nza1Q2YTUwNUlaNS1NMEw5eThTckkwRjJ3ZEdNcXllRUg2YWRMMllGdnp1WGFENUxBQXY1QUx3bldpLTd2dUJ5WFVfbXVCZDFfSC1nNEtVU21JZXNQUzlPSWNjSnBIZFpGYXhrN3ZIeFRmU0Y3bEtJdDdrbmJLM21mem5Pc2ZhY1BKQ0dWdnRSelpVVU5WNVhZa2RuT1VPc2pLMUlOWE9pcUNVVFJnaURQcm94ejZHLW1VQjlKc012dnRFejVObVdYbkxMSUJYWVZMaWNFNFJKZmRXQk91Q1930gHWBEFVX3lxTE1TY1dfeVlUYTBqMmttZko3WEZ5V280bWlpUFAyS0E2YkJaQUlSTzFzb2FmTmJBNGpsbXhQV0Z5NkVzb000bE9rRlFsRFRSbl9TQkQtdHVSY3JtSlpSOTg2SmUzTDhOb1Njb3pUU1JtSTBiS2hhdWpkNVB3OTR0UnVVRUQ3NGRDSmxWaDJXRGowN3V3UUtxV1FoNnlzUFNUOXJzTkg0eWk2X08zdTJJOVN6UHdyUnNldnA3cW5lb3dMUmlfcElkby1UdHZ4OE94MU9LRXlVcnlsdUFSN21TVUdWRTVKWGJOalZ4eFRneUV5aS1KTlpUckNGdWRMNmRLY3lpUHR2dkI5SFUyZ0gyZFJ5TnNNNlBDNk5JSWFMLTNlYmp3WlV6SXo2bGFudE5Gd0tEWHdJd3p3YlFnNUFEOHpFakxhT2FWUW1sLTlyUWhsd1NRWjRNVGs3Ui1xS0ZjZUNYcVlGOGRqMzM0MHVhTU1kUWxsUnpvTFNoUzFjY3NrVDZhNTA1SVo1LU0wTDl5OFNySTBGMndkR01xeWVFSDZhZEwyWUZ2enVYYUQ1TEFBdjVBTHduV2ktN3Z1QnlYVV9tdUJkMV9ILWc0S1VTbUllc1BTOU9JY2NKcEhkWkZheGs3dkh4VGZTRjdsS0l0N2tuYkszbWZ6bk9zZmFjUEpDR1Z2dFJ6WlVVTlY1WFlrZG5PVU9zaksxSU5YT2lxQ1VUUmdpRFByb3h6NkctbVVCOUpzTXZ2dEV6NU5tV1huTExJQlhZVkxpY0U0UkpmZFdCT3VDX3c?oc=5",
+      "pub": "2026-11-21T01:06:25+00:00",
+      "id": "14fe09b2ca1a3b17"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "সিপিডির মজুরি প্রস্তাবের কয়েকটি বিষয়ে ব্যাখ্যা চায় বিজিএমইএ - dhakapost.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTFFkdnl0clljc3o5cEpJOGVVZHdoN1RkdW8tX3RXOUFYM3BQZG9SalJBcEloZDhUdndaYWxlRkJ0NktOb1FMMHNIQnpwOTVqV1E?oc=5",
+      "pub": "2026-11-21T02:56:42+00:00",
+      "id": "b898e445f1345b3d"
     }
   ]
 }
