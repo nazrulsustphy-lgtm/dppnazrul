@@ -1,42 +1,5 @@
 {
   "seen": {
-    "9136b0bbe26d2961": "2026-10-28T08:01:22.422657+00:00",
-    "efe8087413b47433": "2026-10-28T08:01:22.422657+00:00",
-    "3f07b03d188bf321": "2026-10-28T08:01:22.422657+00:00",
-    "1d5d630f1a871c6b": "2026-10-28T08:01:22.422657+00:00",
-    "bec6e1710f4f5fa4": "2026-10-28T08:01:22.422657+00:00",
-    "569b8fb3b293b248": "2026-10-28T08:01:22.422657+00:00",
-    "8ad9a5b08a66deb0": "2026-10-28T08:01:22.422657+00:00",
-    "3b24440252bc600e": "2026-10-28T08:01:22.422657+00:00",
-    "cd38c92c3ddc5cab": "2026-10-28T08:01:22.422657+00:00",
-    "01f4e43003678af0": "2026-10-28T08:01:22.422657+00:00",
-    "73f45e542b102f79": "2026-10-28T08:01:22.422657+00:00",
-    "172a738ee5a40594": "2026-10-28T08:01:22.422657+00:00",
-    "85b6abbb1eef207e": "2026-10-28T08:01:22.422657+00:00",
-    "2d316f1a89c68fcc": "2026-10-28T08:01:22.422657+00:00",
-    "7bf0f27a088bea20": "2026-10-28T08:01:22.422657+00:00",
-    "2fe286cd03ebb690": "2026-10-28T08:01:22.422657+00:00",
-    "0a2ade06b28f1f16": "2026-10-28T08:01:22.422657+00:00",
-    "166096b5eb5a0c5c": "2026-10-28T08:01:22.422657+00:00",
-    "8f614efaebd24e78": "2026-10-28T08:01:22.422657+00:00",
-    "7babf3c014e8473e": "2026-10-28T08:01:22.422657+00:00",
-    "c1728a56c1e14d4a": "2026-10-28T08:01:22.422657+00:00",
-    "ed2dc0ca5f1df12f": "2026-10-28T08:01:22.422657+00:00",
-    "8bd15d74dad6048c": "2026-10-28T08:01:22.422657+00:00",
-    "5c42abc0795602dd": "2026-10-28T08:01:22.422657+00:00",
-    "f12c3536ba8cc9d9": "2026-10-28T08:01:22.422657+00:00",
-    "ba7edff14fd1334a": "2026-10-28T08:01:22.422657+00:00",
-    "28165c05f1ce81d7": "2026-10-28T08:01:22.422657+00:00",
-    "a3672a7e361feef0": "2026-10-28T08:01:22.422657+00:00",
-    "a99f88f12f99cd76": "2026-10-28T08:01:22.422657+00:00",
-    "a51cbe4907241ab2": "2026-10-28T08:01:22.422657+00:00",
-    "591240559cd93a8a": "2026-10-28T08:01:22.422657+00:00",
-    "85061f4b314333da": "2026-10-28T08:01:22.422657+00:00",
-    "5609175fb63e5329": "2026-10-28T08:01:22.422657+00:00",
-    "d316f5d7c1d1f387": "2026-10-28T08:01:22.422657+00:00",
-    "e7579c4993fede9d": "2026-10-28T08:01:22.422657+00:00",
-    "16bfcab827d55ea4": "2026-10-28T08:01:22.422657+00:00",
-    "1ec41934a1787d34": "2026-10-28T08:01:22.422657+00:00",
     "84f81cbf0732a9fc": "2026-10-28T19:22:29.635967+00:00",
     "c478a262a872e647": "2026-10-28T19:22:29.635967+00:00",
     "9ec53fa63f4ecb88": "2026-10-28T19:22:29.635967+00:00",
@@ -3236,233 +3199,46 @@
     "932c8b08212abb53": "2026-11-26T22:52:09.711484+00:00",
     "8dd21207bd2035b1": "2026-11-26T22:52:09.711484+00:00",
     "18277841de39e8d2": "2026-11-26T22:52:09.711484+00:00",
-    "72f281bbc02c34e9": "2026-11-26T22:52:09.711484+00:00"
+    "72f281bbc02c34e9": "2026-11-26T22:52:09.711484+00:00",
+    "df3c7b72dc5c6f84": "2026-11-27T10:38:05.294912+00:00",
+    "596927cfaf0371d7": "2026-11-27T10:38:05.294912+00:00",
+    "21e0b2cf5e8bc8b0": "2026-11-27T10:38:05.294912+00:00",
+    "6afa7b0de0fe5130": "2026-11-27T10:38:05.294912+00:00",
+    "391fd4b0a7b9c433": "2026-11-27T10:38:05.294912+00:00",
+    "9b5c29badc0f0b63": "2026-11-27T10:38:05.294912+00:00",
+    "93a228a7b17247b6": "2026-11-27T10:38:05.294912+00:00",
+    "4ac40afcca391e9a": "2026-11-27T10:38:05.294912+00:00",
+    "4a5f69c74f821472": "2026-11-27T10:38:05.294912+00:00",
+    "15a207955be08f60": "2026-11-27T10:38:05.294912+00:00",
+    "e494d0ca56ccb7a1": "2026-11-27T10:38:05.294912+00:00",
+    "5f531d72bedbdf82": "2026-11-27T10:38:05.294912+00:00",
+    "e19cf40f5c16172b": "2026-11-27T10:38:05.294912+00:00",
+    "7180c3bcc2ff174d": "2026-11-27T10:38:05.294912+00:00",
+    "d0d1764d52e28bc1": "2026-11-27T10:38:05.294912+00:00",
+    "dc8efda28d166da2": "2026-11-27T10:38:05.294912+00:00",
+    "d1b02537b450b653": "2026-11-27T10:38:05.294912+00:00",
+    "4da6150fd55f9ea3": "2026-11-27T10:38:05.294912+00:00",
+    "b3d5e45706976cbc": "2026-11-27T10:38:05.294912+00:00",
+    "784b4c5c349eee75": "2026-11-27T10:38:05.294912+00:00",
+    "2300f1b017977525": "2026-11-27T10:38:05.294912+00:00",
+    "eda6852a7853c41d": "2026-11-27T10:38:05.294912+00:00",
+    "a79c595641c95035": "2026-11-27T10:38:05.294912+00:00",
+    "c7c448105ffed5b1": "2026-11-27T10:38:05.294912+00:00",
+    "96e91f70b30c4363": "2026-11-27T10:38:05.294912+00:00",
+    "f591b8e8942d03a3": "2026-11-27T10:38:05.294912+00:00",
+    "41c3b3e212bc08d3": "2026-11-27T10:38:05.294912+00:00",
+    "76e33c42a1a1b030": "2026-11-27T10:38:05.294912+00:00",
+    "c6ad81e0a4a9eadd": "2026-11-27T10:38:05.294912+00:00",
+    "4fb782965a4902ba": "2026-11-27T10:38:05.294912+00:00",
+    "6e65a842a9fb6c2c": "2026-11-27T10:38:05.294912+00:00",
+    "fcbf1591af1c2d82": "2026-11-27T10:38:05.294912+00:00",
+    "d3619c377f0e66d8": "2026-11-27T10:38:05.294912+00:00",
+    "3aa762273810cd63": "2026-11-27T10:38:05.294912+00:00",
+    "21ff3c5edacc3e2e": "2026-11-27T10:38:05.294912+00:00",
+    "f5d7205b2a03d36c": "2026-11-27T10:38:05.294912+00:00",
+    "4820f38777f4e508": "2026-11-27T10:38:05.294912+00:00"
   },
   "yesterday_items": [
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers win 36% pay rise after weeks of protest - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2N1VVFPTTh1X3Jwc1d4NEhYdS0xcUpCZV9pd0F4cEZ5MGMyU2pNb2hVS0R3aEF6NDVXbENHWTdyVzR4OHd4cUdfQmNvQlB6UmFLcG5SOXdfZm1jTVFpSlBNcUhsU0psOWdsU1VDOEtMWXMxTGtDbURSRjNoVVFySm4xRWxHdVV3Zk5JaG9NdlVkN1BTcmFfaDBNWWpVTkItbTVINHc0a2NXZ2_SAbABQVVfeXFMTlRueFB0TkZLU2NyQlN3bmV1NF9kOEYxNmx0eEdLMTVNLWIyX2h3dC0wVkxyLVllc2h1UDlzSzJNUGpmOUVpYVRGcjVYU05nRFNfWXNWSzI5cnV0SmJDU2RmdC0wdnNwRFdidnVIamRNOWZmYnVkNEFmS05IcmNNZUFoVmVyVXpJM0FDNTdPbDU5TFo0N3psV1ZmajJfeGJFb0FPWGdBQWpNcFZNeG1vVlU?oc=5",
-      "pub": "2026-11-25T07:07:30+00:00",
-      "id": "977ad237bdb96766"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh Garment Wages - WV News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU1lTm1HVmg4eTZRUldxcXFlVGRDMHIwOUo4R1VxNTM3TnVtMXN4SHN1d2tUeVlhS3REcDNFQnZ0N3lsSXlVNnJZYXRZT2dsLVRHTFdmUHhYNmNKc2JyWUk4NzJQWnZnOE1XaGFnTzJLTXZDeDh6Ri1RRDFtSjJtd1VPZG02amg0bFJRMHNMNDRkdWU5Wl9vTnloNXJYd2NtQWRqMjQ5Nk50Qk9yZnkw?oc=5",
-      "pub": "2026-11-25T06:33:21+00:00",
-      "id": "d23cba30b8aacbd5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "EU invites Bangladesh to first in-person talks on possible FTA - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVU4MkVac0JUcW5Va1lyVEtnUnVHdEZIS2Jkc2xGT2otOENadzRtOVpiejhnR04tcl9jR2pfNkRzWjNXTkRXcV9tUHEtY1NVZDVNVzZ0U0p6Mm9vOV9iZ0tqUnd5c0VMbUpmTmN2QWRvYlJMQmFqSkcyMnptRTNRd0lWNUs4dkh3emExVGJUQjVicnVsVVJPaFNSMkU0RUI5Q25raFRXRzBhNHdmSlN3c2l0UDJINC1FcFRWMFdCM2luNEREak1vWmRFdnJoQQ?oc=5",
-      "pub": "2026-11-25T03:22:44+00:00",
-      "id": "116a2567ed362178"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers protest smallest pay rise in 40 years - Cyprus Mail",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFpTTVZbm5NWDF4YnY0ak40d25QVHhRRnlJZzUzTU9mRkhxdVVzSzBGTGFtS01HUnItM1Q2eDY0VFNxcVJoTlpqamY0M1Y4QU1DRzJPZ3NnaXNUTS1VOXJYc3NGVzZvUTNjV0Z3VGc1cDVxc0JhTUNyTEpvN21LSjBUQlhxekpMNXdockhhNG1ldHlLMXpYSkdRYUJ0NTFF?oc=5",
-      "pub": "2026-11-25T06:41:15+00:00",
-      "id": "f5b99f3b0629bb1f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment sector sets Tk17,000 minimum wage as factory disruptions persist - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzVqSHVyOE51ZDE5NVA5U2Zoc3pFa0J2d25KQjRPcnJEZng2OVlBU0FDVGh2TjFLcl9zSmpaS0NObnM4SUZwVkdDak9odHpjaTBaMGxRMG1jUDNISU90M0hNWHJzd29SMWxNUjdwVmdfMVQ0anNXNmxuclh5Z3dLSUozdVEtSlZNLV9lSGpKUFhLcmlrMXBCVl82VlBWQQ?oc=5",
-      "pub": "2026-11-25T01:54:30+00:00",
-      "id": "9737533ffe780482"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "RMG workers clash with police, continue wage protests in Gazipur - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjJUUTNXTktudUdyMWxkS0t3YTFYR2N0WW9WVUZmUTBXM29iYkFLb1ZuQURSbjlJX3g5OEtqanh1VkplSzN1Z0l3VU0wRVI5SGxKcXRpQ0NCLWZ1aGdKUF85Um5TRG9seUFCbl92SkVDckRzZXNzeHh6RWExOWdKV2pOUTMtU0VndWs1N1V2U3EtaDFhbXBJOFhVMVlaMUJRaFh5VlhEeDRWc2NZ?oc=5",
-      "pub": "2026-11-25T08:31:00+00:00",
-      "id": "e208d4ebbed6577a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| Circular fashion gains ground as EU pushes fewer collections - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRWl3eEhJNkdvYTBZNXhMSHJ0T1V2NUlFZ0RxQ2tBZWJPMGVTclVNSzYxTDV3RlgxZXh5N1JYcDdqUEtIVG9ULXdqNmxGYXR3VEhVenE5clZMRlpZZmJ1QnF6elRjWm1FdXQtOFNZd2JOTEhnejVrRE1hRi13MkowNVhvOUVGN083RWdNZ1dSSWRtYm1COUFENVZSZzlOS1dYZHUxR1B1UmRZUkZNR1plNjJONFBjaENKcDNHdUxUeWVMaVJyTDZtQXVhYmpaaDZLNTZqZEhFQmVIcG9JRVlLVUFGZlpqcHc5c2ZMTVZRaHRWbDg?oc=5",
-      "pub": "2026-11-25T09:07:26+00:00",
-      "id": "7f40dd9abd0dc7d5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh Bank to Issue Tk 32,000 Crore Sukuk in FY27 - Daily Voice Of Asia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1ZQN2pocDVtLVhrOGE4a2xyUDJYRURVRUxEMlYzR3pGOUZ0WjkxaVJVX0p3MkJZcFlPelhnWHNVTnFOYnljdTgzRGMxVjBEcHN6bjc0VGhId1dpY196TkdxSEl3elVkb08xQWlEbWxlZ1NNbjFJVDV2cnlpRXRNSDN1U25BemYyTDE4?oc=5",
-      "pub": "2026-11-25T08:01:06+00:00",
-      "id": "1dee5a3fd8445b6c"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "| 9% US freight drop, 6% Genoa rise: Is container shipping splitting? - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbXJuQkRRZGtuWGpTQXRJcUprc1dJNjE4NTlOTEZpUzlkT0RUOW1ZTkQ4MHlHSkRaQjcybXBMdl95Sm1idklOanBtX0pzQWFtTjBmSG1NdFVRdHBxdGtJZE1CYlpYemdTZVZNSXlyQmJxZHJ0SWE0SkVMRnBnM1gxVkFrS0YyUnYzUWNieTBRWjZKRG83QnFwRm1odHluR0JoakRMb3NoZmlQZUxmVmxOMU5TWkJ2cnZoSFY2WWtidE9pY0JPLVBYSGxDd002T1k?oc=5",
-      "pub": "2026-11-25T05:23:29+00:00",
-      "id": "e33fbad85f878cc0"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh's wage board proposes 36% hike to $136 for garment workers - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDJQTmkwSC1EQmdGMUp1bUhaRVNyU25xUXlGNFpNLXlseG43NV9ZTXYxLUU0QW43RXEwNzZINllXaE1VYW9mMzVrNkJvVkVRX0drS3UtaUVhdEl1Y1BmOFI1cnVub0RPMnVvQzNnZ21lNzJQVzA2dXlPVjVNQU5ZeFUtNXZQVTZoejdjZGZLakhLcjc2aTJORk5zcWtyWi1ObGJtUGNNWVBPNks2aVpkNWNxbEJGSWF6c3RreGI4UXBjVWE0MVNuUHZQSUlMalNQUTNreQ?oc=5",
-      "pub": "2026-11-25T07:41:15+00:00",
-      "id": "fed791fd9c3a827b"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers reject 17,000 taka minimum wage, continue protests - WION",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFo2TFRkN1V1cnVXdzZNUmlZZG5Ed2JDM01oMmJYRTJ2ZWQ4WUl0eU1lMlFZcWR6VjZSZm1xVUg0SWxzVm00NExqSU9BbG00d2RGUExOUXRkVlk2Q2V1YnFPQkpqZDA2RU02em92RnBiWktKSkNpUktvbTI4NkttVkp0S2w0am1rcFY2VDRNbUNBQnR4SGk1SFYtSUNUZ9IBowFBVV95cUxQQmRCOU5pc1dGb3lQNGN3QzJGMG5KMG5tX1gyR2xrNEw3ZlFiVHMtOUxXUnBvaWJMOUZ1WjlsMGlLSUtJbDk4N1FuT1FCVXQ5c0Y3cGJncG1OTmQ3bzZMY256R0ZrM01JNG45TzBJMC16WEdVX2tWc1YzQUswRndhVDdnR3ppUVFCVWVuNGYzYzN6X0R2NlRHcHBCYzRiRnBKUDNN?oc=5",
-      "pub": "2026-11-25T06:49:00+00:00",
-      "id": "d0d2233ecbb2664e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers win 36 percent wage rise - 24 News HD",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1AzV2JiUnExMUFMVGxpV0xxU21qMDZVOEplWmpESnZQSS10WkhSQVRWX0NkWG5CMGUwT2s3Q3l1VzNZR18tNFBaMUk0Q1JGUm9ZRnhFb3l1T25JalliWV9qMzRPZXhVUktMenNZZXNvQThLa2ItXzNVekhRVnMzUzlDRzhCSnBWNXFWUzBsUnI?oc=5",
-      "pub": "2026-11-25T04:14:46+00:00",
-      "id": "7fb2de23c50ffd84"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "RMG workers’ minimum wage raised by 36pc to Tk 17,000 - United News of Bangladesh",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUtUT3NmYTQ4OHJnQTR4RllWd1JuZXNyMk02a3hLZlFUT25hQkh4SS1yUnJ3YzV4NVlubS1lTFUtS19kRmRoV2xRMDBScUpKTnl3dDFJU1FrQy1oVTZJU1R0RHVqUm9CcTBsWC1DRUZGMUtZeVdQUlZxMW85bWdYNTdPWGtTRXlXeFdFRFJDZ0prWmloTHdXTHVhVjRidw?oc=5",
-      "pub": "2026-11-25T03:16:20+00:00",
-      "id": "422cdb455f93778a"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Export Earnings From Germany and France Fall Nearly $678 Million - Daily Voice Of Asia",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHFaX3AxdkxLOUROU2VGbmlTQ1Z1clF3WkQ2dXluU0NHN21YVEdvNUd1d0JJa2xacV9qTm9UY1BTRHY5NmE4eXprQjBZaUpXWXJNT2ZOQm5ETUdLakk1UnctbHFMeDloT1VTTWp6ek9YbHo5RzFLX3lScHFXUnpubE96ZWpIbWswQ2hxbG9JQno2TFUyNDA0bA?oc=5",
-      "pub": "2026-11-25T08:00:34+00:00",
-      "id": "f908b1bc05d10c6e"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Bangladesh Bank to Issue Tk 32,000 Crore Sukuk in FY27 - Daily Voice Of Asia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON21fQ1lfdDdyM2ZfOWVpM3NyU3p3MVk3bnYyc0lKSTRtR3dJNVk2d2tMVkcySlBIUDE4eE1RX3hsekNLTDZudGtfREFEUGZoT19Rc3VoZExGcWowSF9VNVl5LXNtQ1R4Y2dwNllqOXk2bjRDcVpBbllCam1UWWJyZE1HVzJ1VlF6cTdqRzNYbXA?oc=5",
-      "pub": "2026-11-25T08:01:06+00:00",
-      "id": "cd9232aa80396d24"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh apparel EU export",
-      "title": "Bangladesh raises garment workers’ minimum wage by 36% to ₹12,865 after weeks of protests: What we know - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRGtJSGNjVHZrWnRMMFY0QUY3b0kxdk95OFZfa3BXRWhBSmNYbkk5SlRaWWlSZzlnY1Q2Rjg4a25UREstX0Z6aXc3enhlMlZOMHlicG5UZmx5UXVBTzYxOGgxZjJYMXR6V1NUOENvNFZqbHpZMVI2R3RydGpsX1YtZ1gyRU1OcmNIRWlkMUdxM3VuUmI1MC15elZxdUpncG1EXy1sX09GZkFsak9vbVpGV0tWb2tJNGNwc2ZuWldDWmc2LWs2X2VGVTFaNE9nNy1qSVdGNkQ0cHNZZFhBMEJxd1N2ZHFTbGV0cWfSAe8BQVVfeXFMTW9NWk92SmYwQ3QxUHdvRHRwTkZRUTFkVDAwd3pmZjJIaDFpUkczUkpaNkxJODRnV3VWOW9QbXQ3M0VXRFprWFFiWjAxYXRaQVdfSk9GTWhlMUxMNTFWQWVCWjRCeDBpWDVnMFRHT3QyR25hdVdRMTJrWm8zaHlxbDJ3SVVSdFRrWEYyNXlhaUkwSE9Td3hMNGFKNXJQMzR4bHYyLWs2eXN0cUs3TVJORDlaUlZlZERVVnlJUjdrNDMyalRmZ0tUN2VHb3JQakJFSGNZUUFfWjhrS2tkOUN6emlUcUdxUmRpcEwycFRPaU0?oc=5",
-      "pub": "2026-11-25T04:36:49+00:00",
-      "id": "53d56e98df25f90f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "জার্মানি-ফ্রান্স থেকে রপ্তানি আয় কমেছে ৬৭৮ মিলিয়ন ডলার - Dainikbangla",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yMVdHeHZKd2N6X01RaXVRMG93ZFhIMUlwUWtBc3hCeUEyZEZuR011VVRiZll0a1NYUXBKUlk1TnFfQ01TMl9LSVZuVEVnanNZVE5JR3hJdnJtdw?oc=5",
-      "pub": "2026-11-25T08:46:00+00:00",
-      "id": "5c137e5a40a524ad"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: তৈরি পোশাক ইইউ",
-      "title": "সিলেটে মধ্যরাতে হোটেলে অভিযান, সাবেক এমপি বদির ছেলে ও দুই ভাই আটক - AmaderShomoy.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IalNWeUg5VnczQlBtbGhFWWpQNGEzWEZvRVZ2N05uQktGeVM4UTYtcDBZRUZ3U2wyRlRfNmhjdHVQYlM2Z1RoVXRRNDVKTEYtbUVRanFDOXh6cTRGa2phQg?oc=5",
-      "pub": "2026-11-25T06:45:00+00:00",
-      "id": "64534f1604ffe2f3"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "জার্মানি-ফ্রান্স থেকে রপ্তানি আয় কমেছে ৬৭৮ মিলিয়ন ডলার - Dainikbangla",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yMVdHeHZKd2N6X01RaXVRMG93ZFhIMUlwUWtBc3hCeUEyZEZuR011VVRiZll0a1NYUXBKUlk1TnFfQ01TMl9LSVZuVEVnanNZVE5JR3hJdnJtdw?oc=5",
-      "pub": "2026-11-25T08:46:00+00:00",
-      "id": "5c137e5a40a524ad"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "বাংলাদেশ-দ. আফ্রিকার মধ্যে বিমান যোগাযোগ সম্প্রসারণের ওপর গুরুত্বারোপ - The Bangladesh Monitor",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX180N3BSS00xYXp4U1NuNkg0ZnhfTTFFc1JZb2d0dzAxaUVHTUVnc19FZVdnMTBuaVQ1eFNpSGVZcUxvUGZ3Y3BVTXk4Q2ZlZTFQZXhVSFY2YnAzUTJBbnBDVVUxTXloRG01bXF0ei1ELTR1ZE9RZW9wM2tVWS0tNjhzWEFaXzJoSy1RSjhoYl8yRXZ3Q2NoZWZGNG4?oc=5",
-      "pub": "2026-11-25T06:19:00+00:00",
-      "id": "f2997e1b5fd212d5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "কারখানায় নিয়োগ কমছে, শিল্প কার্যক্রমে স্থবিরতা অব্যাহত: জরিপ - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SUEt2ejE2eVA5d1JGWVAyWjZUQl9vb3c1VktVV0FyLTJSNnJZNnRET0FZMDlRVFN1ekgyS015eVRIUm1LbGo0MUhWTFExcl9zdTkyOW1QeTlLVklYeVlpbWQxdmdiU2ZGd3c?oc=5",
-      "pub": "2026-11-25T05:10:00+00:00",
-      "id": "d6365bc2b7ea10fc"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "এলসি পেমেন্টের দিনে ডলারের দর বাড়ায় অ্যাগ্রিগেটররা, পেমেন্ট শিডিউল আগাম সংগ্রহ করবে বাংলাদেশ ব্যাংক - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wY05TbTdLMHJhQXZhdFhGRFhPUHdQdHpZZ3pkWnc5WnEyelROQld1cWxVVk15RkFVUktvbjhIZldadFZTZ2NxU3B6dkt5Y0NaQUYxanZBZ2xKT3ZzRElhbWROZ1psUDRqUnc?oc=5",
-      "pub": "2026-11-25T09:00:00+00:00",
-      "id": "bbc1150116c13cad"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মালিকদের জিম্মি করে শ্রমিকদের বেতন নির্ধারণ করা হয়েছে: রুবানা হক - এখন টিভি",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CMkNoS2dsOGticDlCWlJjZ21TX2RmWmJZeDhkajdIaGlhb1ROQnNBWUhtSFRtb0NSYnpra3VTQkd4SHA3ME5idWNfVllIemg3eWlOR0VFSm92LTlUTXd3SFhrd0RxZw?oc=5",
-      "pub": "2026-11-25T08:36:19+00:00",
-      "id": "9f1a9760d650d259"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "‘আগ্নেয়গিরির মুখে বসে আছি’, তিন মাসে বড় বিপর্যয়ের শঙ্কা - Shampratik Deshkal",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zZ0dZeDFJYl9GeGhreWV1YjdVenI3dXpNWGFOcy1XdUNWLXdWZzNoZXhqTnBSdF9YNGlPTW5zeXFLMTUxVVI4ZTJlX0U4Uzd3bk5YVUZDbzhOMTA?oc=5",
-      "pub": "2026-11-25T07:33:00+00:00",
-      "id": "dc96e0afbf571972"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাকশ্রমিকদের মজুরি কোন গ্রেডে কত বাড়ল - দেশ রূপান্তর",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPcHJoNzJxLTUzVy1TRHZ1ZExQbnVMMV80bDYxSUFvNHFacG1DWUVSa3JjVXFhUFA4WW9yTVc0dXU5Vk9IQUd3STJUdUMzb1NyWldKV1VTeTFzVEc3VFZHU3JGQUNHWDljaUppUmNiSmlyN3VDT1lDLTNaaGxtSGNJVEFfTDV2S0NhMy13UXBnQndfUzNFYmJsNERvYm9HX3h3TFRldkZpS2NtNnBYeDdjY01sVElWdmZuanBFalRvdE9fYURQVG9qVW1icXJkRDJCRHJpSGtSVjVmZFBXemtZWDhlYmtSdTRaQmNJbnhMNmNOOFFmUFA0SDMxWEZaQUF6MmNNQkllNkdaUXVRVm5FTFRvTDNoeUw2OWhzQld5Z2l0c09BTFh4Nml3NUZHQmZMeXh5a2NNYllwdTlUdTA0cFR2WnJCOWFCNHdyMmVXSGcyRC1yTDgzYkN6c3p1WVBPVG00NDI5V1RNSTA4YzM2bW1USGZnUjBDTnhvSVJLcDcxZWlaRDM0ODlyaW5mQkYwYnB5am5vV21LX050UXVsQVhveGhhbFFDUVo3bUJlbXM2VHR5Ny1JSmdJa0RWYUx3RUF1VFFHN2szdDVoVlBLWlRfX0dWM3pwMXFwODhGaEl6V1JQdFU2R3hOaXFsNzhX0gHwA0FVX3lxTE9wcmg3MnEtNTNXLVNEdnVkTFBudUwxXzRsNjFJQW80cVpwbUNZRVJrcmNVcWFQUDhZb3JNVzR1dTlWT0hBR3dJMlR1QzNvU3JaV0pXVVN5MXNURzdUVkdTckZBQ0dYOWNpSmlSY2JKaXI3dUNPWUMtM1pobG1IY0lUQV9MNXZLQ2EzLXdRcGdCd19TM0ViYmw0RG9ib0dfeHdMVGV2RmlLY202cFh4N2NjTWxUSVZ2Zm5qcEVqVG90T19hRFBUb2pVbWJxcmREMkJEcmlIa1JWNWZkUFd6a1lYOGVia1J1NFpCY0lueEw2Y044UWZQUDRIMzFYRlpBQXoyY01CSWU2R1pRdVFWbkVMVG9MM2h5TDY5aHNCV3lnaXRzT0FMWHg2aXc1RkdCZkx5eHlrY01iWXB1OVR1MDRwVHZackI5YUI0d3IyZVdIZzJELXJMODNiQ3pzenVZUE9UbTQ0MjlXVE1JMDhjMzZtbVRIZmdSMENOeG9JUktwNzFlaVpEMzQ4OXJpbmZCRjBicHlqbm9XbUtfTnRRdWxBWG94aGFsUUNRWjdtQmVtczZUdHk3LUlKZ0lrRFZhTHdFQXVUUUc3azN0NWhWUEtaVF9fR1YzenAxcXA4OEZoSXpXUlB0VTZHeE5pcWw3OFc?oc=5",
-      "pub": "2026-11-25T08:35:59+00:00",
-      "id": "4c90bc008671a25f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "বাংলাদেশে পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩৬% বাড়ল - Aaro Ananda",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXRjSHlBTmlXLVdJSkxWQzBIU0g5NkU1OHJYUkxfaTQ0LTAzMmh1UDVkSjl1elRHM3FpUzJLdEVYaHMwN2lQTDgyUjkzN1BYU1laZUFVeUJyUXoxM2Rjbmoxb255UGM3Y2prMmRTSURuR1NiOWF3ektqdFZVNzQxR0hzTmlpWjBTZUxZd3JRQzBlZFMzWW4tSTVhN2NGMW9FaWZUelpyQ1FrSHRsV2VJ?oc=5",
-      "pub": "2026-11-25T10:33:00+00:00",
-      "id": "55d870d50d1e9784"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "প্রস্তাবিত বেতন নিয়ে যা বলছেন পোশাকশ্রমিকরা - Bangla Tribune",
-      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxPaTVtMXFzVENMUThRc3R3em8yRFV3Mk12bmF0VGtWeVJqSWowX1lFN0FEZFZObktBcFJVVEZKNG5udW5seHdOWmoxRzAtc29yRk5WM01HSHVWckI3NGdPZ1UzcEotazNWTFlOVFlEamhMVGM5SFNNYzcyWUVOWTh6TW5DekVLcjF0U2hRaHVjVEJ6OWwyZ2lrVmlEMU5qNS1HYlpPZ09jRXRwcU5tbkxkOTZaRFhwckdWSVctVW9wY0F4OFcyNjRsRnQ2dW0zLTlMZjVwWklTNUJYTGtfVnNUMmw4ZnR3ZmtoVFUwWm9QeXY3OURmMVYzb3lobF8yMGs4TWptQ0ZVeDFqYWszNUw5dEwxazlsZHJMYXR2MlpGanJ4ZGt1amJ5Vy1Bb1BvMWF0WEZ1emlYaGV4VEhGc09hT3F5aDNPRUxfTXl0QUN2c3R2TUkxM1Fya2t4THRZa1o0MmpnT1pJR2J4NjZac2ZoY2pfSC1yM2t6SDRnZ1JQUmNxUTNwcXVLMjVGVmF3ZmNLTXBNTFVuZmZOTVRSWWdQVW5sVmxBaWsxc0FVam1fYlppWEpRTkswU1ZHYUUxZUtQdWprdjdBRnBFSEFrREpaYllBVTd3WVgxRllSX3AwM2F2cFhRMGlEUHExOTJfVTJJbDlMTnVRUnFyYjVuYnFXLVhSZzFheGtvTmpMa19zQ2hqX1ZnR0xQV3pXU3pLUWgyWURSb0F1Q01pTmlMOURCTjQ5TFLSAbQEQVVfeXFMT2k1bTFxc1RDTFE4UXN0d3pvMkRVdzJNdm5hdFRrVnlSaklqMF9ZRTdBRGRWTm5LQXBSVVRGSjRubnVubHh3TlpqMUcwLXNvckZOVjNNR0h1VnJCNzRnT2dVM3BKLWszVkxZTlRZRGpoTFRjOUhTTWM3MllFTlk4ek1uQ3pFS3IxdFNoUWh1Y1RCejlsMmdpa1ZpRDFOajUtR2JaT2dPY0V0cHFObW5MZDk2WkRYcHJHVklXLVVvcGNBeDhXMjY0bEZ0NnVtMy05TGY1cFpJUzVCWExrX1ZzVDJsOGZ0d2ZraFRVMFpvUHl2NzlEZjFWM295aGxfMjBrOE1qbUNGVXgxamFrMzVMOXRMMWs5bGRyTGF0djJaRmpyeGRrdWpieVctQW9QbzFhdFhGdXppWGhleFRIRnNPYU9xeWgzT0VMX015dEFDdnN0dk1JMTNRcmtreEx0WWtaNDJqZ09aSUdieDY2WnNmaGNqX0gtcjNrekg0Z2dSUFJjcVEzcHF1SzI1RlZhd2ZjS01wTUxVbmZmTk1UUllnUFVubFZsQWlrMXNBVWptX2JaaVhKUU5LMFNWR2FFMWVLUHVqa3Y3QUZwRUhBa0RKWmJZQVU3d1lYMUZZUl9wMDNhdnBYUTBpRFBxMTkyX1UySWw5TE51UVJxcmI1bmJxVy1YUmcxYXhrb05qTGtfc0Noal9WZ0dMUFd6V1N6S1FoMllEUm9BdUNNaU5pTDlEQk40OUxS?oc=5",
-      "pub": "2026-11-25T00:55:31+00:00",
-      "id": "848614d97b76ad39"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাকশ্রমিকদের নতুন মজুরি চূড়ান্ত, কে কত পাবেন? - duaa-news.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzS3VWOWhLekxJRk1GN3NKYkdHNU5SLUsyOHVVNV9tLWVYLXI2N3FSQmh4VVJvM2dESDZtcVJISWhjeFUzRnRNZGFZS1FTWFIx?oc=5",
-      "pub": "2026-11-25T02:35:49+00:00",
-      "id": "1a0b2355c944d85d"
-    },
     {
       "section": "international",
       "source": "GoogleNews: DPP textiles",
@@ -3490,42 +3266,10 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers win 36% pay rise after weeks of protest - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG54UHRORktTY3JCU3duZXU0X2Q4RjE2bHR4R0sxNU0tYjJfaHd0LTBWTHItWWVzaHVQOXNLMk1QamY5RWlhVEZyNVhTTmdEU19Zc1ZLMjlydXRKYkNTZGZ0LTB2c3BEV2J2dUhqZE05ZmZidWQ0QWZLTkhyY01lQWhWZXJVekkzQUM1N09sNTlMWjQ3emxXVmZqMl94YkVvQU9YZ0FBak1wVk14bW9WVdIBsAFBVV95cUxOVG54UHRORktTY3JCU3duZXU0X2Q4RjE2bHR4R0sxNU0tYjJfaHd0LTBWTHItWWVzaHVQOXNLMk1QamY5RWlhVEZyNVhTTmdEU19Zc1ZLMjlydXRKYkNTZGZ0LTB2c3BEV2J2dUhqZE05ZmZidWQ0QWZLTkhyY01lQWhWZXJVekkzQUM1N09sNTlMWjQ3emxXVmZqMl94YkVvQU9YZ0FBak1wVk14bW9WVQ?oc=5",
-      "pub": "2026-11-25T06:59:41+00:00",
-      "id": "aac99406fdd6a420"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh raises minimum wage for garment workers after weeks of protests - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVdxa1FaVDhCZXZkbzhoaWJib1FtMDkxNWNlT0tBLTJ5ZGxMeFEtRUhWSmxZSTZYZVpWTnhUd0VqNnVWcTFRNzhfckQwVHlZUUI3b09hUzdvZl9pREw5djZ5cTNuWm1WSHNCZXhkMUNPMGpFR19PdTcwSXRuaWd4amJYeXBSNldFZ1N3aTROa3V0ekJTQzliUjZ4WVFxNUtOdGdWdWZCemRydTQ?oc=5",
-      "pub": "2026-11-25T07:20:00+00:00",
-      "id": "313755e313bd2184"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh Garment Wages - WV News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkFRWENaRFNzdXpEY0g4b05xNFFYa3NKWk5EZkVfWTNnRzhXYVc4bFF1MVdicGNLZHRIUVhISU80U2pfTEZlUDd6WFdQY0tIRWhXREZPSWNNbEhZVlhHU2RMYmtnbnZuQ1ZPVVYxVTk3WnVFSEdRcXczeHVrVml2X2JXNEpNVzQxWUhxWE0wMzZsNzVqdmJxQjJPRWg4S3ljT2VtWFdvN2dTWmVObldZ?oc=5",
-      "pub": "2026-11-25T06:28:22+00:00",
-      "id": "e8e7beec487e715f"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
       "title": "Bangladesh garment workers win wage rise after weeks of protests - Kuwait Times",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG02Y2YzSkVYaXJKemNQbmRFaEhKMldZVFlDT3k5cFh1UmlTTnV3WWpCSS01N0lzU0d0SG9hNHJONUU0SzdxXzJPaUNPS1JjeXFIU1VLa0tSX0JSbzdtd3lTaTdFMDZubGNmdXh2U21uWmxkSWpLSkd0T3B2Z0lMQVNGZ1BEcWlGOTdsenZEbDZ4YXB6dzlmMGtkU2NzM19FaDZ3dUxZWW05eEUzbWMwYWdZTFpBZ9IBtgFBVV95cUxNOG02Y2YzSkVYaXJKemNQbmRFaEhKMldZVFlDT3k5cFh1UmlTTnV3WWpCSS01N0lzU0d0SG9hNHJONUU0SzdxXzJPaUNPS1JjeXFIU1VLa0tSX0JSbzdtd3lTaTdFMDZubGNmdXh2U21uWmxkSWpLSkd0T3B2Z0lMQVNGZ1BEcWlGOTdsenZEbDZ4YXB6dzlmMGtkU2NzM19FaDZ3dUxZWW05eEUzbWMwYWdZTFpBZw?oc=5",
       "pub": "2026-11-25T16:57:00+00:00",
       "id": "6bb332b6f686dfa7"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "EU invites Bangladesh to first in-person talks on possible FTA - Fibre2Fashion",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbG56U0dRcmJrR0xaVmlueVFCTEJ3UXRtQW9PX2NhSjJTQ3ZmUGJ6YWt0RnlfSjN1SENjaXV4NkxJMzNCR1FuQzFGMVV0TGY5UWVfZXp2Sjg3QTRmTUlxaXExRmgxcE1ESDlHem1lUy05anZhSFN1SEVubVFFX2thLTRLd1FoR29lZnQyRW8yY0hta3RpdE9QMkw4MVpuajFJTmJLTTVfd1E0R1dRd3ZSMWdUUmgzczZxYkFYTFphZXdSRGVGQlJBelhRSWJ1bU5ZaXNwLTF6aDVhWEU?oc=5",
-      "pub": "2026-11-25T04:45:18+00:00",
-      "id": "7563456321f5339f"
     },
     {
       "section": "bangladesh",
@@ -3561,22 +3305,6 @@
     },
     {
       "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers clash with police in minimum wage row - Malaysia Sun",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzVuWjRKNVhlc2g3Y1YtNG50cmN6dDNBZjdtbUtfTEl4OFBERUFqNWdmZVQ0VXUxTlFOTTU5ZnM4bTZsSk5md2lySVFqbmxJWkRKd3B6bWtVZzZHYmh0NGNIajYxY0ROeG9HTVVzYkdRdEl6aHpsMUhpdGp0aFVNcVZDbDJVaktrRG1ucl9zTkhyc0JUZkxCM0hLeE9wV3ZJbnpfYWVHZjZLZw?oc=5",
-      "pub": "2026-11-25T08:20:00+00:00",
-      "id": "bf6186516ce22fb1"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
-      "title": "Bangladesh garment workers reject 17,000 taka minimum wage, continue protests - WION",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmRCOU5pc1dGb3lQNGN3QzJGMG5KMG5tX1gyR2xrNEw3ZlFiVHMtOUxXUnBvaWJMOUZ1WjlsMGlLSUtJbDk4N1FuT1FCVXQ5c0Y3cGJncG1OTmQ3bzZMY256R0ZrM01JNG45TzBJMC16WEdVX2tWc1YzQUswRndhVDdnR3ppUVFCVWVuNGYzYzN6X0R2NlRHcHBCYzRiRnBKUDNN0gGjAUFVX3lxTFBCZEI5TmlzV0ZveVA0Y3dDMkYwbkowbm1fWDJHbGs0TDdmUWJUcy05TFdScG9pYkw5RnVaOWwwaUtJS0lsOTg3UW5PUUJVdDlzRjdwYmdwbU5OZDdvNkxjbnpHRmszTUk0bjlPMEkwLXpYR1Vfa1ZzVjNBSzBGd2FUN2dHemlRUUJVZW40ZjNjM3pfRHY2VEdwcEJjNGJGcEpQM00?oc=5",
-      "pub": "2026-11-25T06:49:00+00:00",
-      "id": "d2bd83937cfd407f"
-    },
-    {
-      "section": "bangladesh",
       "source": "GoogleNews: BGMEA/BKMEA EU",
       "title": "Decisions were made hastily under pressure: BGMEA vice-president - Daily Times Of Bangladesh",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0dzQ242Y2ZpenB1YmFRSlhIT1ZjRVlZUmU3TjF6cUtYUzY0d0FXa1lwR24xVktrQXNnLW9KS0tKaUdpN2t2V1ZPQm1wSVZESWxua3o1NFlhQlNpTllyeGFzVnBhZkRWLTJmczIyVUNjY1pteU5rSmN2LWZfQ01BVUxUMV9YbnVJ?oc=5",
@@ -3606,14 +3334,6 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52QTUwYlJrYXgwVGhaUnpNSTREcmc2U2Zta3dRWTdVY2gxOEhPNDJUZ1RxUnA0dXB6Q3BFSUpyRE0tU2otYlBUM1NNMDJPT3hPM05OeTBaUQ?oc=5",
       "pub": "2026-11-25T17:15:37+00:00",
       "id": "0f4e0bce5545af4d"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
-      "title": "পোশাক খাতের পতনে জার্মানি ও ফ্রান্সে রপ্তানি আয় কমল - News Bangla 24",
-      "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNNUljQkdVOFIwb1lJZjhxeExZRFYwS3h4SGxTX0tzSDRLQWVtWWtOeGg1VDI1dTFsSEFLQmNlMlJ6Z012S09lSFFCVkJNMXlFVTM4bEF3Ym8wUzBIczJ2ekFLZnFwcUNRODRBWWxtZ1hRaVNXMU81WmdyQWJKTEk0eWNTRUtFWWNyZmVmRVQzVHpyWWhVeTVjSFpHY09ueWVzR3BBdWJSMFpvOVVTLVhzSGxpT3R3SUxSSE9Gb1BSdEd4bUduRWNMcUJNaWUtV1k3XzV2OWpVQmdrSEVMUTNVX1JuMV8yVlVoX29zZVVkZmdZVWJrYldZZjFPNG5XNGd6Zk9qemI5ZXZvZ29UNzhYdUFaRmloRDZjLUlGM3JKdE9Pek9iUk85Z21Hby1oM2liYUlZSmhtV3hJMHAySmxfcVBjODFRU2VndHU5QnVQaHZXNWRoOTF5LW4yalVhY0FzQktINUlPc0pnOUVkT052c1FnSTNhWHhySENVS3VKRGVYb05ZMlAwdEN0eGwxUUtCWUg5LUdUbU9nN2FpQmliQllBWVlrQ0wxVzk3cW8xV21TUV82QmtxT1FvcHdVSU5jeGU0Uk9aeksxelRsX1VWalFhOHk1UkxRb2htUXcxU3hiTXcyXzN0dXRVTVgxY1Jnb09SRHg2U2l4RWpxdzZ1cmxOUDU0bEhsdFNhNnl5LXFNZUcxMWZ1b1NwWjhyTXM1QUdDU0dKYXVCNUtlQkRyOU8xNTgyMkQyTTgxSG9hc1R6Ymo1TVdwVEdLaHVyUTNtaUUxTWtMWUlQZHc5T2x1cGZEVVBnZw?oc=5",
-      "pub": "2026-11-25T08:46:00+00:00",
-      "id": "dc6f0963126f8724"
     },
     {
       "section": "bangladesh",
@@ -3658,14 +3378,6 @@
     {
       "section": "bangladesh",
       "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "মালিকদের জিম্মি করে ১৭ হাজার টাকা বেতন নির্ধারণ: রুবানা হক - NewsNow24",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwc21JaVp6alFxa3Q5M1JCenprZHRsU0dQa2xJWVJuaGFCNU1jUVZEWmRpNjdnRVpnbG5iVEFUNGRNQm1sOHhqLXFjcGRHX09HczJOcDlhSmN4X2RfeVE?oc=5",
-      "pub": "2026-11-25T09:30:00+00:00",
-      "id": "5cdd33fcc13af3af"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
       "title": "‘চাপ দিয়ে দ্রুততার সঙ্গে মজুরির সিদ্ধান্ত নেওয়া হয়েছে’ - Daily Times Of Bangladesh",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQLUhsOHI1dlMwM1FBRkF3cTc0UjBhY3VmUFlTTmxmejQxUzI3UnEwZ3hCSGRsVnpXZ0ppOHBFOG1feHJSYzNjeHBuRkhMVm41U1lLejRyVlZ6NzJyd3FIUzIxODFrN0M2WGRfYTlMWWJhZmpoYllQT2lCSjRZVnBNRWZ3NGxfZ19ZSkV3Z1hmT3pCTEZEM0ZsRGhPM2E2YWxlYzBEa3AtbkVKcko3bk1EeFUyMHBUZ1Y5YUFxRkNuVTBRTmxCb0FOWTdKSF9xM0RSekQwNW5hMmNiaW81T0ZuaTlFcUVGYnQweU5nLVF0OFZuYWNHN05qQWx2cWQ1Y2NPdzJuWF90STNkanhNQlZaRE5kS3JZemhQdFJKNFZUbVZEQzJ0OHZqSzBUaXU5LTBRVXc?oc=5",
       "pub": "2026-11-25T11:07:39+00:00",
@@ -3694,22 +3406,6 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PVUs1OE5uNjNrMjM3UTRqV0xVREZXTU9OTjVmalRGTW93ajN0X1RvT3VyV0VJcmQtVjZxRDFfMkdaZ1VZcE1pVmVKUQ?oc=5",
       "pub": "2026-11-25T19:16:00+00:00",
       "id": "b7776f0fea06ddc5"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "নতুন কাঠামো অনুযায়ী ৪র্থ, তৃতীয়, দ্বিতীয় ও প্রথম গ্রেডের পোশাকশ্রমিকরা যত বেতন পাবেন - MTnews24",
-      "link": "https://news.google.com/rss/articles/CBMipgdBVV95cUxQcTl3MzVQc1dVZnRDWjRXcXA1cGo2anZXTlVGbjZyTmtESlpwZmQ2V1V5TFVHSW5zTUs2Ql96VDhPeXRwWFdhQmFfdmF4TG5oc0ljY2wxMktERXo5Y1pBX2JxTElUMGZZTzd4NDlOREpkRjBUYV9LSFFOYzNvVm9nbVZPVmVsU1BDUFhxd3hhLXktazRwQW84QnF6QWZvTjJEV1FtV2Jod0xUZ3NUNTlCMHlZUGVwbmtFR2tvcEJNanlTelNOVnQ1M3o5WkNVVVR5cTBWSzZqZFlRM1FVQWgxczcyUVVEd2ZVbHlobjU0Ri1EYnotVFpaNFc3LVByZUZlcGFiZTN0Z1FFbkUzcnpHakd1UFdzMHJrNXp0d3VXaGlrdTdKZGRScE12Y25PR2txbVg0THk2bVNReUtyM2VrQW9sTWNXb3FxU3lOR19ad2pFWDUwNUFjNTJ5dTBIWDJBY1pYV1c4ZWpKR3hJQ1Y4TTdGUm11bHJsTmFGM0Z5eUlWc2hpazVMVUotY21QZUI5UnJZZWtvZFBYcmRZb1N5RS04VE56S0ZISzl5MHBOaVJFLTYzOGtsSVAxU3RHZnNlcDlQQjRLajhlT29pOEs4WVlIREllUG9Xdm5URkVNbkMyY01Vc2c1T21NaVhrRFI0YVJ4VVJxbTlGU2tCT2M3cHY0RExiODE5cHlfT21MaE96Wmd0V2xNODlyVng3UHRPdDRuRnl1LS1sVmZYNmtjeElGdkhWM1UweE1FNkZoRmxoTEFTcjRfZWxROEhCUDJfdHF1M2oySGIxbXVOaUJNcE1fVUtWSkJ5SjJqVzVUWUluSVdmWEdLektYQTducjJXUldjdmM3MENuY1hzUmszcUg3akpiSVVoVGpoQ0NHUzUxT0g5Tm43X0twZk9fQlBKVHFnZERpVGs5UTF2Q3hRcTZ1UnFVYWhYNXNpSWRTY0pzWDlFT0M3UnZBOU5ROFhMNmt0WEtMQkpETlBWbVVSYzZwWnRkUm5xaG1YeW85X0dSOUY1YjlLV28xQlNSalRlenJGd0FVWFRoSng4NzZCNHVvUkx4SlE3OGxTLWo4dGVEc05SUGpLbGdRVVJUTjV3Vk5OY2xDRzB2RXMybDBLdlg2YlNSci1VYWdYeGFKU2pCaDRjX3NFYTQwRmpuaVM1U0FLTW9PNU5CaWdOeFhCb0lSN00wMmc1NEp1YkFSeXVDTzNleEF4S2dTVHpEX0xXMV9JMF93?oc=5",
-      "pub": "2026-11-25T06:11:29+00:00",
-      "id": "075179ecd84a8493"
-    },
-    {
-      "section": "bangladesh",
-      "source": "GoogleNews BN: বিজিএমইএ",
-      "title": "পোশাকশ্রমিকদের নতুন মজুরি কাঠামো: ন্যূনতম ১৭ হাজার টাকা - Ourislam24.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4TV9EczdwRHZSYlpYcVdiazNZTXN4MUZyR2VCQWZLbk84WDJpVGdjQUVLNGNyaW9RWEVUZ1VhNnJyMzVlcVVnRnRQZWpoZl9YVVR1VlVJUU9hYjRnNEE?oc=5",
-      "pub": "2026-11-25T01:37:22+00:00",
-      "id": "092ed56389914851"
     },
     {
       "section": "international",
@@ -4230,6 +3926,118 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNWXhJbTJmWjVwb29Dci1GbURPOG5rSmRfeGwzbVN6cFB3eEFKVzRpTE11bUIwaC0yV3VqNFl5U2l1OUU5ZVlsQVVvT3NfN1JUNkHSAVJBVV95cUxQTVl4SW0yZlo1cG9vQ3ItRm1ETzhua0pkX3hsM21TenBQd3hBSlc0aUxNdW1CMGgtMld1ajRZeVNpdTlFOWVZbEFVb09zXzdSVDZB?oc=5",
       "pub": "2026-11-26T11:25:00+00:00",
       "id": "72f281bbc02c34e9"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Police use tear gas to disperse fresh Bangladesh garment worker protests - Sight Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFlUSEpiWW1GM3hDN2N1a1QxWkxPQV8tVVF3a3ZKZ0VnQjEwUGNUZXkzREJnZWdGaDNRcTZDLXVtRk5rYW5Jako2RkhNa0ZpcDhLbWp2ZVhKTFZRS2lMUFNlT0hpNVl3VWNKb3dpNUVFVlMyR3Q0T25KdF9XcEVlY3VZT2M4MHFpbDBmRXpPQkw2RTBxRksybmVBNVcwSDRTSEVUUkU1cjl1MDg?oc=5",
+      "pub": "2026-11-27T02:34:18+00:00",
+      "id": "96e91f70b30c4363"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh garment unrest keeps 360 factories idle after minimum wage rises 36% - Maritime Gateway",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZE9UeVpSMGdrSWF2QUd6dWJWQkowNUpzbWxMU1BMb1lta3doSzdoWmlEaE1HVW9JSUY4UXRmSGdVYWlfTmc4VC1HUjFGemtBLWh3OTl1cEkwWTR1cWhKY2ctMG1tTDZpdXRUSW81enE5NTBheHUyakwwdDBEeHVtQmZkQnBxM3hpZHhybHltb3lYTkVxbVJEc2hkd0VsOS1mLXZGSjJNQmtTQkx3SEp3bA?oc=5",
+      "pub": "2026-11-27T00:49:00+00:00",
+      "id": "f591b8e8942d03a3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh garment unrest shifts apparel orders to India and other Asian hubs - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjN5TlZCR0xacS1JSTZnaDJfU210VmJsYWRnTEtBci1ldHVWZDVCV1BGMmpxYmxjWXJ0bHJYRGVwYnl5ZnNxNm9fMXJJMnlHZmtheTRXNDh2NDhOSDRlZ3R6aUNfSE83ZG9fTlhtU1AzSmMyX1dWVkJoOWlLV0liaGJRWTN4UGJ5dUxld3hTb0pISF94?oc=5",
+      "pub": "2026-11-27T09:10:34+00:00",
+      "id": "41c3b3e212bc08d3"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews: Bangladesh RMG EU/ESPR",
+      "title": "Bangladesh Garment Orders Shift to India: Zara, H&M, M&S Move - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcEFwRHkzQ3ZSUDFlVERKOVpuY0RoMjYzQndRVElhaVkzTnZWSlloc0lpSTNMaXlybTVOcUdvUVF2QkJYTDl6YW00blFGYkJ5cWN5ZS1HQjhLNHlyajBiZHZJM0loVEE4YVJELUVnek1LQlJUczI5NDA1S0JTOXV4MlZNb1BWdy1CbHExYmd1aHZXZWctMzdxSU9NbVlKLTRyVlV5RlZqVGFqTEpPNlpLN0lKRERSbEdDemQ2cGRrcl96c0pITUl1QjVfUVU3cWZRbjlLZjM3dGZVbUVUbFdabl8zNXFuWU9ZTW41SzZua3o0UWc?oc=5",
+      "pub": "2026-11-27T08:36:24+00:00",
+      "id": "76e33c42a1a1b030"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "পত্রিকা: 'বোয়িং ক্রয়, তুলা আমদানি বৃদ্ধি- কোনো কিছুই যুক্তরাষ্ট্রের শুল্কারোপ থামাতে পারেনি' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lZlFnLXI3blRCQXlBbHFDaWRYMFVCN2RiZEdEcWlFNHpvUXVPN1BqdTJqZ0xWSTBjX1Z4LVI1bFBaT2JtQjNKdWtibDFaMWpMWmtwY0dmM1NBUDI4V0Rr0gFkQVVfeXFMTnVQc3BzcVRKWFdCcVB1eWtrQWtnM0FUVjkwNXE3LUh0U3huX2lCaFcyQVFHR0dmQlhQNVlaamp5MGQzUzI4dmR4dER2N3FtSnBTTUFnU2JTRC01cWpMWmJWZkxmRQ?oc=5",
+      "pub": "2026-11-27T02:57:30+00:00",
+      "id": "c6ad81e0a4a9eadd"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মজুরি বৃদ্ধি ও মার্কিন শুল্কঝুঁকিতে চাপে দেশের পোশাকশিল্প - https://citizensvoicebd.com/",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PekN6THV3eW93LUJSdEc1dFYwbW4zWExqZGppaWpYVHJQWjFiVlhybXlhUGk1MWg1cXJyQnlnVUVLZ2FxZDRUVDE4OUN5VHcxX2Mwc1h3?oc=5",
+      "pub": "2026-11-27T02:00:02+00:00",
+      "id": "4fb782965a4902ba"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "শুল্কঝুঁকি ও শ্রমিক অসন্তোষে চাপে পোশাক খাত, আলোচনার প্রস্তুতি নিচ্ছে সরকার - www.news24bd.tv",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwYkRNMzBPcnNLZjBDbTZwdjdTS1NDVFo1LWd0TGdvdnRSajBfd3dmb1dlZVRGSnlBMVQ5U2YzZms4a1VNMGJrTUhVUlFjZk0?oc=5",
+      "pub": "2026-11-27T03:04:29+00:00",
+      "id": "6e65a842a9fb6c2c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "শুধু যুক্তরাষ্ট্রে নয়, রপ্তানি কমতে পারে ইউরোপেও - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxPelhnQnF6NWRvTmdaSXdZdTBlQTBLME5ySUJlX1N4cmw1elJtU1ZfcWhFRFQzN2NqRm12ZTV6YTk0Y0VzWXlpd3B3RzU5ZXdyaGc3aGFRdlhPeVItcjRjWnZDeWRGaWN1Q0JNbU4zWTd2bUhzNVRtSmhGSHFKSHFpTmJ5aUFLWThWcEhFUjZPdGZGX0ptMXM1RnYxbWpOc01GZElad0dqRVFHSHkzT2RjX1hWdU9ZcUlLWjdhcHYxXzhrTjVYT011WjB0MWxHWHc5U0hKMlVKMUFvZDJtcHRUclNSbDNSQVFWRjVIVk5ZT0RmRVR1UF84MTVzTE1WcHFFMGZUdE9MMGNWR2JOeThnNC1Yck83VVNGUzYyU3BzRjhyb2dpallQaHlVMnVpTjl6MWFkTzBkRUcwamk4dUV2V3VYaFliMFBzbW9vSFpkaDdUeTl2b3ZNU0NfenZjX1RfRVFIVXdQWTBjVDFlZ0ZnMGV3b054bEFHOUduVDBkRHdyQVo1RHBwUUpibmNDQUdZRjRBNEVqczQ2TkVNM0dWUk44TGVHZEdqM1pTczB6bU1nWDAzMFhYcjJ2djR5eE1QS3FLVDBYdU9VVlQtNVNVX3hsa3A4OXdGaEQwdmxQdk56OW1EWnI5cUxTV0hxNmtHM2hIVTlsRVpaMlRWeFJJMUdUTDF3b2JYTXR6dWxZRTVVTnZaU0RBTUR1WU9va3c1bk1wRWJxZ0lMS01MT2ZxT2RaWW9TQVFUM1NaU1JqeVRXcHBNbFpoWWR6aUs?oc=5",
+      "pub": "2026-11-27T03:07:13+00:00",
+      "id": "fcbf1591af1c2d82"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "অনলাইন ব্যবসাকে আনুষ্ঠানিক করকাঠামোতে আনতে এনবিআরের উদ্যোগ - News Bangla 24",
+      "link": "https://news.google.com/rss/articles/CBMizwVBVV95cUxPMXEwRVVpZVhWSC1QYXRRTVpFdDNodS0weVlkZl82QUE4MDhhY3hNN3Z0elJvNkJBVTM4TTB4RXpiLVpjZUJkRWVzRXcwTGxQZXJ1ejRlYWxod0FYLU1meDR3YmNaY0VNd2tEUkhFMWdYa2U2ZDJJLVo1YWZsWk4yNXhKSkRrUVMxY2xhVHEtUG1TTS1kazVFZm1HeEVOaGo3TENjMngtWXZCaGxQb01KX3dQZUhWU2tMNkZBYVhfb1J5Sms4X1h3a1M1Y3BjUFlOZFhDazRFVEhadUk5bnAtYWRUYkg0R3NzbkNUYVFoX290ZzhFTEdDejg5S3h5c3JBMG5RNGN6NWRydktLRFFKRGhCcktXMVRNVEpJd01kZDByTUd3LUNJRXlsNnhKNVRVeENQWlNHYjNrWnlOd08xdEJKMXBkWDlHZUV6UEdUMklJb2ZaYlpXcmtZc1Z0NFA0ak9HUFlURC05YXJHQ01EWFEtNTE2T3RmQ00yUmxYcm5oVjM5a25oWkxKUFBWV2ZFV0RqZUdZUU55NlZKQmIyUEZRcGdQaXRRVUpJMzRkYXEyTkVVd1pSTHpadmNkSjktMXlGRzNLSEVaWmV1NFFCVVRldFUxZEdlcXRBbThRdTRRV3AtV0p6d3dCS2RvMVd0VU83TmxaeG5zbThfbXlZYmNLSDA2T3h0M19kc1hHQXlIVzZMdlBWMkhiaU9YUWlUSnJXRGlDcnZnb3BVdzQwSVZmWl9raFRaQTRQRTliRGdzX2g4aWhzcXFrdjdCc0tCRGxGb0FqZnhZWExKaURQR3JWSnFUNjhUMlFmMzdsQXNQYm5uaXYzVW1STFdNWnY3Zm1QVTNqRkhYQm5wTFpWV2MxUlZqRFY2eFVINlRGdHQyZlMwUDNNUUFoNmE5RmpjcmQ3dVA4ZGtlTVlMT1hwTGY3cGswT0gtMmFRcHd4VQ?oc=5",
+      "pub": "2026-11-27T05:35:00+00:00",
+      "id": "d3619c377f0e66d8"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "মালদ্বীপে চালু স্বয়ংক্রিয় ই-ভিসা - The Bangladesh Monitor",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREpzYWlBNVNsSktBenA1c0lMc0FPOUMtenpaWUUtUUZRb3MzRWlJUk1LNWdSWG04eDhJYVo5OEdIQTIwM19ZU1NySU5GVEZHTVRnR2FmdUNFODJxYy16ZFE5Q1ExUTdkMDNnX3hjajlKY20yRTRKRTlQYjZ0TFctUER0Y1RWZw?oc=5",
+      "pub": "2026-11-26T13:56:38+00:00",
+      "id": "3aa762273810cd63"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: পোশাক রপ্তানি ইউরোপ",
+      "title": "শ্রমিক অসন্তোষ আর ট্রাম্পের শুল্কে অস্বস্তিতে বাংলাদেশের পোশাক খাত - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82WDJkQ2ZOMjZtQmJwUjRVeS16Mkd4eWtIcnkycW1YQy01S0o3eW9fdC1HZXRXb1ltLXZydFNrdVRWZEM4SVJHQ01LQVIwMXRYSXg2a0FKdlo0QUlxWGpkUURXTXLSAWRBVV95cUxPNlgyZENmTjI2bUJicFI0VXktejJHeHlrSHJ5MnFtWEMtNUtKN3lvX3QtR2V0V29ZbS12cnRTa3VUVmRDOElSR0NNS0FSMDF0WEl4NmtBSnZaNEFJcVhqZFFEV01y?oc=5",
+      "pub": "2026-11-26T12:09:09+00:00",
+      "id": "21ff3c5edacc3e2e"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শুধু যুক্তরাষ্ট্রে নয়, রপ্তানি কমতে পারে ইউরোপেও - SAMAKAL",
+      "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxPelhnQnF6NWRvTmdaSXdZdTBlQTBLME5ySUJlX1N4cmw1elJtU1ZfcWhFRFQzN2NqRm12ZTV6YTk0Y0VzWXlpd3B3RzU5ZXdyaGc3aGFRdlhPeVItcjRjWnZDeWRGaWN1Q0JNbU4zWTd2bUhzNVRtSmhGSHFKSHFpTmJ5aUFLWThWcEhFUjZPdGZGX0ptMXM1RnYxbWpOc01GZElad0dqRVFHSHkzT2RjX1hWdU9ZcUlLWjdhcHYxXzhrTjVYT011WjB0MWxHWHc5U0hKMlVKMUFvZDJtcHRUclNSbDNSQVFWRjVIVk5ZT0RmRVR1UF84MTVzTE1WcHFFMGZUdE9MMGNWR2JOeThnNC1Yck83VVNGUzYyU3BzRjhyb2dpallQaHlVMnVpTjl6MWFkTzBkRUcwamk4dUV2V3VYaFliMFBzbW9vSFpkaDdUeTl2b3ZNU0NfenZjX1RfRVFIVXdQWTBjVDFlZ0ZnMGV3b054bEFHOUduVDBkRHdyQVo1RHBwUUpibmNDQUdZRjRBNEVqczQ2TkVNM0dWUk44TGVHZEdqM1pTczB6bU1nWDAzMFhYcjJ2djR5eE1QS3FLVDBYdU9VVlQtNVNVX3hsa3A4OXdGaEQwdmxQdk56OW1EWnI5cUxTV0hxNmtHM2hIVTlsRVpaMlRWeFJJMUdUTDF3b2JYTXR6dWxZRTVVTnZaU0RBTUR1WU9va3c1bk1wRWJxZ0lMS01MT2ZxT2RaWW9TQVFUM1NaU1JqeVRXcHBNbFpoWWR6aUs?oc=5",
+      "pub": "2026-11-27T03:07:13+00:00",
+      "id": "fcbf1591af1c2d82"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "পোশাকের বৈশ্বিক বাজারে বাংলাদেশের বিকল্প হয়ে উঠছে ভারত - দেশ রূপান্তর",
+      "link": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxQT3I0TWU2dFowWjRXU1JxRUNONEJCS05RNHk5VVNKTG9LcVQ2SjR3M29fQlVETkRqV3hVUlU4VS1QeUVvUTlPSE5XV2NkVVRTQ0ZWdnExMFY2MDl1U2JQZ0RzaWZQMHFrVE1kanNxZlFiYWNKNWU4cldmWjFSX1BubEdIcVVnLUtrenZPVm0wVXo3NmVNc2N4UHhUTUg4c09kelc1VllvTE5KaDdlWHJkbkZRZV9KVTRIN2Z3YnhhNXJsWURpSC1XejRuMlg3YWxSV0J2dG5pYlFsVkRjelQ5MmVQU0hISnZoNVNuMFJmOE84bU0xWXQtM3ZxV05naXVJeXZJSE5pMHQ4Q3gyaHZzYmU4WXBYdThqSFdCZXRuX0JCWE9OcFBXT3kxUUk3bDFlOXd4WlVZci1jYjU5aUZxdndSNFZid3BweHN6QnU5bm9YaUF5bHNFODN2VEhMLWExNHlkcEpSM011MEdCRndLQWR4OGk0b2pSU2ZCUkxZOWJaSUgtMFUyZG9DLUFXOUdTV1NXTVJ2YXVaZHVGWkVtVlZkOHVoamp0MGphY1o4RmxITnYyR1p4NDVhMWlNZ2VoTDdxcTlwNWtHOGVOSU04Q3NZazVhcDdzbnFBWGt6T1VmZEE0Ykd6SXotQ3g0SFBZZlB0eVdjTldHRXdSV19xei02LUlsTllENzM0YzhJUHlxa25RN2hrd2JiYXR5dXpuNkdSWDNmQ2F4Z2sxNmtXN2MxdzgxaHlqSHg4aGhSNXVuMWJ6VzFHemhWNUotMWphVlF0WGVzd3F5ckgzTmfSAd4EQVVfeXFMUE9yNE1lNnRaMFo0V1NScUVDTjRCQktOUTR5OVVTSkxvS3FUNko0dzNvX0JVRE5Eald4VVJVOFUtUHlFb1E5T0hOV1djZFVUU0NGVnZxMTBWNjA5dVNiUGdEc2lmUDBxa1RNZGpzcWZRYmFjSjVlOHJXZloxUl9QbmxHSHFVZy1La3p2T1ZtMFV6NzZlTXNjeFB4VE1IOHNPZHpXNVZZb0xOSmg3ZVhyZG5GUWVfSlU0SDdmd2J4YTVybFlEaUgtV3o0bjJYN2FsUldCdnRuaWJRbFZEY3pUOTJlUFNISEp2aDVTbjBSZjhPOG1NMVl0LTN2cVdOZ2l1SXl2SUhOaTB0OEN4Mmh2c2JlOFlwWHU4akhXQmV0bl9CQlhPTnBQV095MVFJN2wxZTl3eFpVWXItY2I1OWlGcXZ3UjRWYndwcHhzekJ1OW5vWGlBeWxzRTgzdlRITC1hMTR5ZHBKUjNNdTBHQkZ3S0FkeDhpNG9qUlNmQlJMWTliWklILTBVMmRvQy1BVzlHU1dTV01SdmF1WmR1RlpFbVZWZDh1aGpqdDBqYWNaOEZsSE52MkdaeDQ1YTFpTWdlaEw3cXE5cDVrRzhlTklNOENzWWs1YXA3c25xQVhrek9VZmRBNGJHekl6LUN4NEhQWWZQdHlXY05XR0V3UldfcXotNi1JbE5ZRDczNGM4SVB5cWtuUTdoa3diYmF0eXV6bjZHUlgzZkNheGdrMTZrVzdjMXc4MWh5akh4OGhoUjV1bjFielcxR3poVjVKLTFqYVZRdFhlc3dxeXJIM05n?oc=5",
+      "pub": "2026-11-27T09:26:26+00:00",
+      "id": "f5d7205b2a03d36c"
+    },
+    {
+      "section": "bangladesh",
+      "source": "GoogleNews BN: বিজিএমইএ",
+      "title": "শ্রমিক অসন্তোষের মধ্যেই ট্রাম্পের নতুন শুল্ক প্রস্তাব, নজিরবিহীন চাপে পোশাক খাত - RTV News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15UFllMm1TSmN3VDB4b3VyRDhGWWVwMDRrSGpockxRdUp6aE9IMlBSMGt1ZEFleXJWanRpT0lCaEFuVW5hc3lYQ1RPenI?oc=5",
+      "pub": "2026-11-27T03:12:30+00:00",
+      "id": "4820f38777f4e508"
     }
   ]
 }
